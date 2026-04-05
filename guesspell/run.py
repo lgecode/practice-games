@@ -150,6 +150,16 @@ class Player:
     def is_alive(self):
         return self.lives > 0
 
+    def lose_life(self, amount):
+        self.lives -= amount
+        print(f"{self.name} loses {amount} life!")
+
+    def gain_life(self, amount):
+        self.lives += amount
+        if self.lives > 6:
+            self.lives = 6
+        print(f"{self.name} gains {amount} life!")
+
     def cast_spell(self, spell):
         # if spell in self.spellstones:
 
@@ -159,59 +169,32 @@ class Player:
         # target.check_health()
         return damage
 
-    def check_status(self):
-        """Check and update player's alive status."""
-        if self.health <= 0:
-            self.health = 0
-            self.is_alive = False
-            print(f"{self.name} has been defeated!")
 
+class Round:
 
-class Game:
+    def __init__(self, game):
+        self.game = game
+        self.players = game.players
 
-    def __init__(self, player_names):
-
-        number_of_players = len(player_names)
-        if number_of_players < 2 or number_of_players > 5:
-            raise ValueError("Game requires 2-5 players")
-
+        # initialize spellstones
         self.spellstones = [str(i) for i in range(1, 9) for _ in range(i)]
         random.shuffle(self.spellstones)
+        number_of_players = len(self.players)
         if number_of_players == 3:
             self.spellstones = self.spellstones[:-6]
         elif number_of_players == 2:
             self.spellstones = self.spellstones[:-12]
 
+        # 4 secret stones
         self.secret_stones = draw(self.spellstones, 4)
 
-        self.players = [Player(self, name) for name in player_names]
+        # 5 spellstones per player
         for p in self.players:
             draw(self.spellstones, 5, p.spellstones)
 
         self.current_player_index = 0
 
     def play(self):
-        """Main game loop."""
-        print("🎮 Guess Spell Game Started! 🎮")
-
-        while True:
-            self.display_point_status()
-
-            self.play_round()
-
-            if self.check_game_over():
-                break
-
-            self.next_round()
-
-    def display_point_status(self):
-        """Show current point status of all players."""
-        print("\n--- Current Game Status ---")
-        for player in self.players:
-            print(f"{player.name}: {player.points}")
-        print("-------------------------\n")
-
-    def play_round(self):
         """A round loop."""
         print("🎮 New Round Started! 🎮")
 
@@ -234,15 +217,6 @@ class Game:
             )
         print("-------------------------\n")
 
-    def next_turn(self):
-        """Move to the next living player's turn."""
-        while True:
-            self.current_player_index = (self.current_player_index + 1) % len(
-                self.players
-            )
-            if self.players[self.current_player_index].is_alive:
-                break
-
     def player_turn(self):
         """Manage a single player's turn."""
         current_player = self.players[self.current_player_index]
@@ -253,12 +227,72 @@ class Game:
         # Get valid action
         while True:
             try:
-                action = int(input("Enter 1 or 2: "))
-                if action not in [1, 2]:
+                first_spell = int(input("Enter 1 ~ 8: "))
+                if first_spell not in [1, 2, 3, 4, 5, 6, 7, 8]:
                     raise ValueError
                 break
             except ValueError:
-                print("Invalid input. Please enter 1 or 2.")
+                print("Invalid input. Please enter 1 ~ 8.")
+
+        if first_spell != 1 and first_spell not in current_player.spellstones:
+            print(f"{current_player.name} does not have the spellstone {first_spell}!")
+            current_player.lose_life(1)
+            return
+
+        if first_spell == 1:
+            print("Rolling the die...")
+            die_result = random.randint(1, 6)
+            print(f"The die result is {die_result}.")
+            if first_spell in current_player.spellstones:
+                current_player.spellstones.remove(first_spell)
+                print(f"{current_player.name} casts spell {first_spell}!")
+                for player in self.players:
+                    if player != current_player:
+                        player.lose_life(die_result)
+            else:
+                print(
+                    f"{current_player.name} does not have the spellstone {first_spell}!"
+                )
+                current_player.lose_life(die_result)
+
+        elif first_spell == 2:
+            current_player.spellstones.remove(first_spell)
+            print(f"{current_player.name} casts spell {first_spell}!")
+            for player in self.players:
+                if player != current_player:
+                    player.lose_life(1)
+            current_player.gain_life(1)
+
+        elif first_spell == 3:
+            print(f"{current_player.name} casts spell {first_spell}!")
+            print("Rolling the die...")
+            die_result = random.randint(1, 6)
+            print(f"The die result is {die_result}.")
+            current_player.gain_life(die_result)
+
+        elif first_spell == 4:
+            print(f"{current_player.name} casts spell {first_spell}!")
+            print("Looking at the secret stone...")
+            secret_stone = self.secret_stones.pop(0)
+            print(f"The secret stone is {secret_stone}.")
+            current_player.secret_stones.append(secret_stone)
+
+        if action != 1 and action not in current_player.spellstones:
+            current_player.lose_life(1)
+            print(
+                f"{current_player.name} does not have the spellstone {action} and loses 1 life!"
+            )
+            return
+
+        if action == 1:
+            current_player.attack()
+
+        else:
+            current_player.spellstones.remove(action)
+            print(f"{current_player.name} casts spell {action}!")
+
+        if action == 1:
+            current_player.attack()
 
         # Get target for attack
         if action == 1:
@@ -285,6 +319,16 @@ class Game:
         else:
             current_player.heal()
 
+    def check_round_over(self):
+        """Check if the round has ended."""
+        alive_players = [p for p in self.players if p.is_alive]
+
+        if len(alive_players) == 1:
+            print(f"\n🏆 {alive_players[0].name} WINS THE ROUND! 🏆")
+            return True
+
+        return False
+
     def next_turn(self):
         """Move to the next living player's turn."""
         while True:
@@ -294,15 +338,35 @@ class Game:
             if self.players[self.current_player_index].is_alive:
                 break
 
-    def check_round_over(self):
-        """Check if the round has ended."""
-        alive_players = [p for p in self.players if p.is_alive]
 
-        if len(alive_players) == 1:
-            print(f"\n🏆 {alive_players[0].name} WINS THE GAME! 🏆")
-            return True
+class Game:
 
-        return False
+    def __init__(self, player_names):
+        number_of_players = len(player_names)
+        if number_of_players < 2 or number_of_players > 5:
+            raise ValueError("Game requires 2-5 players")
+
+        self.players = [Player(self, name) for name in player_names]
+
+    def play(self):
+        """Main game loop."""
+        print("🎮 Guess Spell Game Started! 🎮")
+
+        while True:
+            self.display_point_status()
+
+            round = Round(self)
+            round.play()
+
+            if self.check_game_over():
+                break
+
+    def display_point_status(self):
+        """Show current point status of all players."""
+        print("\n--- Current Game Status ---")
+        for player in self.players:
+            print(f"{player.name}: {player.points}")
+        print("-------------------------\n")
 
     def check_game_over(self):
         """Check if the game has ended."""
@@ -339,12 +403,12 @@ def main():
         except ValueError:
             print("Invalid input. Please enter a number.")
 
-    players = []
+    player_names = []
     for i in range(num_players):
         name = input(f"Enter name for Player {i+1}: ")
-        players.append(name)
+        player_names.append(name)
 
-    game = Game(players)
+    game = Game(player_names)
     game.play()
 
 
