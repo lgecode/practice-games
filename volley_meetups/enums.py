@@ -21,3 +21,23 @@ class Level(StrEnum):
     A_PLUS = "A+"
     S = "S"
     S_PLUS = "S+"
+
+
+class NetHeight(StrEnum):
+    MALE = "M"
+    FEMALE = "F"
+    MIXED = "X"
+
+
+class MeetupGender(StrEnum):
+    MALE = "M"
+    FEMALE = "F"
+    MIXED = "X"
+
+
+class RevisitIntention(StrEnum):
+    NEVER = "Never"
+    MAYBE = "Maybe"
+    NEUTRAL = "Neutral"
+    AGREE = "Agree"
+    STRONGLY_AGREE = "Strongly agree"
