@@ -99,6 +99,7 @@ celerybeat-schedule.*
 
 # Environments 
 .env 
+.facebook_session.json
 .venv 
 env/ 
 venv/ 
