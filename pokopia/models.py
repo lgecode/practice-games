@@ -13,69 +13,57 @@ class GameLanguage(models.TextChoices):
     ITALIAN = "it", "Italian"
 
 
-class PokemonRegion(models.TextChoices):
-    WITHERED_WASTELANDS = "WW", "Withered Wastelands"
-    BLEAK_BEACH = "BB", "Bleak Beach"
-    ROCKY_RIDGES = "RR", "Rocky Ridges"
-    SPARKLING_SKYLANDS = "SS", "Sparkling Skylands"
-    PALETTE_TOWN = "PT", "Palette Town"
-    CLOUD_ISLAND = "CI", "Cloud Island"
-    DREAM_ISLANDS = "DI", "Dream Islands"
-    STORY = "ST", "Story"
-    EVENT = "EV", "Event"
 
+class TimeOfDay(models.TextChoices):
+    DAWN = "dawn", "Dawn"
+    DAYTIME = "daytime", "Daytime"
+    DUSK = "dusk", "Dusk"
+    NIGHTTIME = "nighttime", "Nighttime"
+    
 
-class ItemCategory(models.TextChoices):
-    MATERIAL = "material", "Material"
-    FOOD = "food", "Food"
-    FURNITURE = "furniture", "Furniture"
-    MISC = "misc", "Misc."
-    OUTDOOR = "outdoor", "Outdoor"
-    UTILITY = "utility", "Utility"
-    NATURE = "nature", "Nature"
-    BUILDING = "building", "Building"
-    BLOCK = "block", "Block"
-    KIT = "kit", "Kit"
-    KEY_ITEM = "key_item", "Key Item"
-    LOST_RELIC_L = "lost_relic_l", "Lost Relic (L)"
-    LOST_RELIC_S = "lost_relic_s", "Lost Relic (S)"
-    FOSSIL = "fossil", "Fossil"
-    OTHER = "other", "Other"
+class Weather(models.TextChoices):
+    SUNNY = "sunny", "Sunny"
+    CLOUDY = "cloudy", "Cloudy"
+    RAINY = "rainy", "Rainy"
 
+class PokemonType(models.Model):
+    name = models.CharField(max_length=50)
 
-class ColorCustomization(models.TextChoices):
-    NONE = "none", "No change possible"
-    PAINT = "paint", "Paint"
-    PATTERN = "pattern", "Pattern"
-    PATTERN_PAINT = "pattern_paint", "Pattern and Paint"
 
 
 # 寶可夢
 class Pokemon(models.Model):
     slug = models.SlugField(
-        max_length=120, unique=True
+        max_length=100, unique=True
     )  # 穩定識別用代稱，適合網址、匯入資料或程式查找
-    pokopia_dex_number = models.PositiveSmallIntegerField(  # Pokopia 遊戲內圖鑑編號
-        blank=True, null=True, primary_key=True
-    )
-    default_name = models.CharField(
+    pokopia_dex_number = models.PositiveSmallIntegerField()  # Pokopia圖鑑編號
+    name = models.CharField(
         max_length=100
-    )  # 預設顯示名稱，通常用英文或主要匯入來源語言
-    classification = models.CharField(max_length=30, blank=True, default="")  # 分類
+    )
+    classification = models.CharField(max_length=50, blank=True, default="")  # 分類
     description = models.TextField(blank=True, default="")  # 描述
-    # 喜歡的環境
-    # habitats = models.ManyToManyField(blank=True, default=list)  # 可出現的棲地清單
-    # appearance_conditions = models.JSONField(blank=True, default=dict)  # 出現條件，例如時間、天氣、稀有度 是跟棲地有關連嗎
+    height = models.DecimalField(max_digits=5, decimal_places=2, blank=True, null=True)  # 身高
+    weight = models.DecimalField(max_digits=5, decimal_places=2, blank=True, null=True)  # 體重
+    types = models.ManyToManyField(PokemonType)  # 屬性
+    time_of_day = models.CharField(max_length=20, choices=TimeOfDay.choices, blank=True, default="")# 能遇見的時間
+    weather = models.CharField(max_length=20, choices=Weather.choices, blank=True, default="")# 能遇見的天氣
+    # habitats = models.ManyToManyField(blank=True, default=list)  # 可出現的棲地
     specialties = models.ManyToManyField(
         blank=True, default=list
-    )  # 可協助玩家的專長或工作
-    favorite_attributes = models.ManyToManyField(  # 這隻寶可夢偏好的物品屬性
-        "Attribute", blank=True, related_name="favored_by_pokemon"
+    )  # 專長
+    preferred_environment = models.CharField(
+        max_length=20, choices=Habitat.choices, blank=True, default=""
+    )  # 喜歡的環境
+    favorites = models.ManyToManyField(  # 喜歡的東西
+        "Item", blank=True, related_name="favored_by_pokemon"
+    )
+    flavor = models.CharField(
+        max_length=20, choices=Flavor.choices, blank=True, default=""
     )
     is_unique_npc = models.BooleanField(default=False)  # 是否為特殊 NPC 寶可夢
     is_event = models.BooleanField(default=False)  # 是否為活動限定寶可夢
-    created_at = models.DateTimeField(auto_now_add=True)  # 建立時間
-    updated_at = models.DateTimeField(auto_now=True)  # 最後更新時間
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
         if self.default_form_name:
@@ -129,6 +117,46 @@ class PokemonTranslation(models.Model):
         if self.form_name:
             return f"{self.name} ({self.form_name}) [{self.language_code}]"
         return f"{self.name} [{self.language_code}]"
+
+
+
+class PokemonRegion(models.TextChoices):
+    WITHERED_WASTELANDS = "WW", "Withered Wastelands"
+    BLEAK_BEACH = "BB", "Bleak Beach"
+    ROCKY_RIDGES = "RR", "Rocky Ridges"
+    SPARKLING_SKYLANDS = "SS", "Sparkling Skylands"
+    PALETTE_TOWN = "PT", "Palette Town"
+    CLOUD_ISLAND = "CI", "Cloud Island"
+    DREAM_ISLANDS = "DI", "Dream Islands"
+    STORY = "ST", "Story"
+    EVENT = "EV", "Event"
+
+
+class ItemCategory(models.TextChoices):
+    MATERIAL = "material", "Material"
+    FOOD = "food", "Food"
+    FURNITURE = "furniture", "Furniture"
+    MISC = "misc", "Misc."
+    OUTDOOR = "outdoor", "Outdoor"
+    UTILITY = "utility", "Utility"
+    NATURE = "nature", "Nature"
+    BUILDING = "building", "Building"
+    BLOCK = "block", "Block"
+    KIT = "kit", "Kit"
+    KEY_ITEM = "key_item", "Key Item"
+    LOST_RELIC_L = "lost_relic_l", "Lost Relic (L)"
+    LOST_RELIC_S = "lost_relic_s", "Lost Relic (S)"
+    FOSSIL = "fossil", "Fossil"
+    OTHER = "other", "Other"
+
+
+class ColorCustomization(models.TextChoices):
+    NONE = "none", "No change possible"
+    PAINT = "paint", "Paint"
+    PATTERN = "pattern", "Pattern"
+    PATTERN_PAINT = "pattern_paint", "Pattern and Paint"
+
+
 
 
 # item (物品、家具、裝飾、...的總稱)
