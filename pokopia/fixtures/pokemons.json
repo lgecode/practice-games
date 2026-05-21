@@ -1,0 +1,27 @@
+[
+  {
+    "model": "pokopia.pokemon",
+    "fields": {
+      "pokopia_dex_number": 1,
+      "name": "妙蛙種子",
+      "classification": "種子寶可夢",
+      "description": "從出生的時候開始背上就背著一顆種子。隨著身體長大，種子也會跟著變大。",
+      "height": 0.7,
+      "weight": 6.9,
+      "types": ["草", "毒"],
+      "time_of_day": ["黎明", "白天", "黃昏", "夜晚"],
+      "weather": ["晴天", "陰天", "雨天"],
+      "habitats": ["綠色的草叢", "綠色的長椅"],
+      "specialties": ["生長"],
+      "preferred_environment": "明亮",
+      "favorites": ["能感受大自然的",
+      "柔軟的",
+      "可愛的",
+      "能感受水的",
+      "大家一起用的"],
+      "flavor": "甜甜的",
+      "is_unique_npc": false,
+      "is_event": false
+    }
+  }
+]

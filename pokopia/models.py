@@ -1,3 +1,5 @@
+from bisect import bisect_right
+from warnings import WarningMessage
 from django.db import models
 
 
@@ -26,8 +28,35 @@ class Weather(models.TextChoices):
     CLOUDY = "cloudy", "Cloudy"
     RAINY = "rainy", "Rainy"
 
+class Environment(models.TextChoices):
+    BRIGHT = "bright", "Bright"
+    DARK = "dark", "Dark"
+    HUMID = "humid", "Humid"
+    DRY = "dry", "Dry"
+    WARM = "warm", "Warm"
+    COOL = "cool", "Cool"
+
+
+class Flavor(models.TextChoices):
+    SPICY = "spicy", "Spicy"
+    DRY = "dry", "Dry"
+    SWEET = "sweet", "Sweet"
+    BITTER = "bitter", "Bitter"
+    SOUR = "sour", "Sour"
+    NEUTRAL = "neutral", "Neutral"
+
+
 class PokemonType(models.Model):
     name = models.CharField(max_length=50)
+
+class Habitat(models.Model):
+    name = models.CharField(max_length=100)
+
+class Specialty(models.Model):
+    name = models.CharField(max_length=100)
+
+class Favorite(models.Model):
+    name = models.CharField(max_length=100)
 
 
 
@@ -45,30 +74,24 @@ class Pokemon(models.Model):
     height = models.DecimalField(max_digits=5, decimal_places=2, blank=True, null=True)  # 身高
     weight = models.DecimalField(max_digits=5, decimal_places=2, blank=True, null=True)  # 體重
     types = models.ManyToManyField(PokemonType)  # 屬性
-    time_of_day = models.CharField(max_length=20, choices=TimeOfDay.choices, blank=True, default="")# 能遇見的時間
-    weather = models.CharField(max_length=20, choices=Weather.choices, blank=True, default="")# 能遇見的天氣
-    # habitats = models.ManyToManyField(blank=True, default=list)  # 可出現的棲地
-    specialties = models.ManyToManyField(
-        blank=True, default=list
-    )  # 專長
+    time_of_day = models.JSONField(blank=True, default=list) # 能遇見的時間
+    weather = models.JSONField(blank=True, default=list) # 能遇見的天氣
+    habitats = models.ManyToManyField(Habitat)  # 會出現的棲地
+    specialties = models.ManyToManyField(Specialty)  # 專長
     preferred_environment = models.CharField(
-        max_length=20, choices=Habitat.choices, blank=True, default=""
+        max_length=20, choices=Environment.choices, blank=True, default=""
     )  # 喜歡的環境
-    favorites = models.ManyToManyField(  # 喜歡的東西
-        "Item", blank=True, related_name="favored_by_pokemon"
-    )
+    favorites = models.ManyToManyField(Favorite)    # 喜歡的東西
     flavor = models.CharField(
         max_length=20, choices=Flavor.choices, blank=True, default=""
-    )
+    )  # 喜歡的口味
     is_unique_npc = models.BooleanField(default=False)  # 是否為特殊 NPC 寶可夢
     is_event = models.BooleanField(default=False)  # 是否為活動限定寶可夢
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
-        if self.default_form_name:
-            return f"{self.default_name} ({self.default_form_name})"
-        return self.default_name
+        return self.name
 
     # def get_translation(self, language_code):
     #     return self.translations.filter(language_code=language_code).first()
