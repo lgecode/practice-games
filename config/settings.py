@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/dev/ref/settings/
 
 from pathlib import Path
 
+from django.utils.translation import gettext_lazy as _
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -38,7 +40,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "pokopia",
-    "volley_meetups",
+    # "volley_meetups",
 ]
 
 MIDDLEWARE = [
@@ -104,7 +106,13 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/dev/topics/i18n/
 
-LANGUAGE_CODE = "en-us"
+
+LANGUAGES = (
+    ("en", _("English")),
+    ("jp", _("Japanese")),
+    ("zh-hant", _("Traditional Chinese")),
+)
+LANGUAGE_CODE = "zh-hant"
 
 TIME_ZONE = 'Asia/Taipei'
 

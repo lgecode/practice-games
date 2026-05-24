@@ -1,0 +1,1844 @@
+[
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "草"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "毒"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "火"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "飛行"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "水"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "一般"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "蟲"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "超能力"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "電"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "鋼"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "岩石"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "地面"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "格鬥"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "惡"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "幽靈"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "龍"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "冰"
+    }
+  },
+  {
+    "model": "pokopia.pokemontype",
+    "fields": {
+      "name": "妖精"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "綠色的草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "綠色的長椅"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "整片的花海"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "庭園露臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "露營組合"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "樹果露營大餐"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "溼潤的草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "在陰涼處漂浮玩水"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "美麗的花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "高崗的草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "嘰嘰咕咕奢華大餐"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "南國氛圍"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "吉利蛋休息處"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "高崗的花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "庭園"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "光照的草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "光照的長椅"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "樹蔭的草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "燈光與香氣的誘惑"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "華麗的桌子"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "海浪邊的草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "垂釣場"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "布偶伴好眠"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "工廠的儲藏室"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "迷你遊戲城"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "好多垃圾桶"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "乾乾的草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "咚隆咣啷鋼架工程"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "花朵圍繞的墓地"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "修行瀑布"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "緊急救護站"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "健身區休息處"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "健身區救護處"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "垃圾集中站"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "古色古香"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "滿是精靈球"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "博士的寶物"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "海釣場"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "光照的瀑布"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "不明"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "柔光伴好眠"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "溼潤的花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "餓肚肚用餐處"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "充滿期待的餐桌"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "大晴天地點"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "樹蔭的花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "指路牌"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "乘著暖風"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "布偶堆"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "新鮮蔬菜田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "岩影的草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "裝上大貨物"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "工地的發電廠"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "詭異的墓前的供品"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "墓前的供品"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "樵夫工作區"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "有溫度感的圓木"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "求雨地點"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "樹果大集合"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "野餐氛圍桌"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "睡一覺來康復"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "大自然中的集市"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "樹蔭的黃色草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "公園的長椅"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "垃圾場"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "高崗的黃色草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "在櫃檯結賬"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "休息處"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "邪惡組織的基地"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "溫泉沖洗區"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "在度假區準備做飯"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "來收拾吧"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "熔岩釣場"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "小小博物館"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "打包好了"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "沼釣場"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "詭異的書房"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "小心機關"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "水手過家家"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "沙灘的樹蔭"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "鬧鐘床位"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "超可愛空間"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "自動售貨機套組"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "聚光舞臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "熱帶海濱"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "樹蔭下熟睡的卡比獸"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "美味的供品"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "黃色的草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "織毛線"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "草叢的自動售貨機"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "夜晚的慶典會場"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "自然風生活"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "溼潤的黃色草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "碼頭"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "沼澤的草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "小小畫室"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "嘰嘰咕咕大餐"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "火力發電廠"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "風之花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "歡迎來到度假區"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "水力發電廠"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "料理送來了"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "涼爽的花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "更衣區"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "打扮時不許偷看"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "在自動售貨機旁小憩"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "皮卡丘空間"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "餓肚肚餐廳"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "茶水休息區"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "沙灘套組"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "溼潤的優雅花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "優雅的花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "銅像觀光景點"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "花田裡的樹樁舞臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "獨唱舞臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "在貨物擺放處偷吃"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "樹蔭的紅色草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "大家一起開派對"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "草叢訓練場"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "跟著節奏一二三"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "長滿苔蘚的岩石"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "挖掘和煅燒"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "迷你廚房"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "樹蔭的優雅花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "高崗的紅色草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "鳴唱會"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "滿是苔蘚"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "樹蔭的粉紅色草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "種田不容易"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "溫泉釣場"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "浮浮水窪"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "溼潤的紅色草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "綠苔溫泉"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "音樂與閱讀"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "紅色的草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "熔岩熔岩熱乎乎"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "三角形樹蔭的岩石和草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "摩登生活"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "清爽的儲物間"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "露天溫泉"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "廚師的廚房"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "平交道"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "沉沉鐵色"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "悠閒地重溫照片"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "高調的搖滾舞臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "低調的搖滾舞臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "大口麵包工坊"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "忠誠騎士的祭壇"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "怨念騎士的祭壇"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "詭異的白色岩石"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "極致豪華"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "茸茸花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "九團火焰"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "擦得鋥亮"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "溼潤的茸茸花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "在道場訓練"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "井蓋檢修中"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "養生溫泉"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "水晶占卜"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "精神力量滿溢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "實驗空間"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "亮晶晶洗手檯"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "請自由取閱"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "研究員的桌子"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "辦公區"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "在遊戲城對戰"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "簡約浴室"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "水邊小船"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "水泥管秘密基地"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "在暖爐旁打瞌睡"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "極致新潮"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "辦公室的儲藏室"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "家庭影院"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "樹蔭的茸茸花田"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "學習區"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "保溼化妝臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "小小圖書館"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "絕景露臉立牌"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "粉紅色草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "鳥語花香"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "垃圾場的電視"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "騎行小憩"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "為成為博士進行研究"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "絕佳的遊戲環境"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "遊樂場"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "溼潤的粉紅色草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "惡作劇開關"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "輪胎公園"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "節奏感客廳"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "高崗的粉紅色草叢"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "和搭檔一起調查"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "咚咚鏘驚嚇箱"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "大型垃圾堆放處"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "飛翼化石展示臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "頭蓋化石展示臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "頭錘化石展示臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "盾甲化石展示臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "護盾化石展示臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "顎之化石展示臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "暴君化石展示臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "鰭之化石展示臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "凍原化石展示臺"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "勁爽清藍"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "麻麻薯餅"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "辣到噴火"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "優雅的午後"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "黑色滋味"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "綠色三明治"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "冰涼刨冰"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "可愛的蛋糕"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "黃色絨毯"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "遠足必備"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "和蒲公英一起午餐"
+    }
+  },
+  {
+    "model": "pokopia.habitat",
+    "fields": {
+      "name": "尋寶套組"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "栽培"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "亂撒"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "點火"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "飛翔"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "滋潤"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "交易"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "找東西"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "伐木"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "帶動氣氛"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "哈欠"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "瞬間移動"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "發電"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "回收利用"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "碾壓"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "重踏"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "建造"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "鑑定"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "不明"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "變身"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "收納"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "採蜜"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "夢島"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "分類"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "發光"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "爆炸"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "貪吃鬼"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "彩繪"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "DJ"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "開派對"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "收藏家"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "稀有物"
+    }
+  },
+  {
+    "model": "pokopia.specialty",
+    "fields": {
+      "name": "工匠"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "能感受大自然的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "柔軟的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "可愛的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "能感受水的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "大家一起用的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "花朵綻放的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "色彩繽紛的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "豪華的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "能感受火的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "木製的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "堅硬的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "訓練用的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "交通工具"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "能感受風的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "整潔的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "能治癒傷口的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "觀賞用的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "遊戲區"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "像食物的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "能感受土的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "垃圾"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "會發出聲響的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "奇妙的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "艱深難懂的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "有文字的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "以電力驅動的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "金屬的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "閃亮亮的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "集聚在一起的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "石製的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "方方的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "細長的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "建設"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "布製的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "圓滾滾的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "會搖晃的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "尖尖的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "能感受海的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "容器"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "詭異的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "會旋轉的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "有玻璃的"
+    }
+  },
+  {
+    "model": "pokopia.favorite",
+    "fields": {
+      "name": "象徵"
+    }
+  }
+]
