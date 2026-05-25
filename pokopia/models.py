@@ -93,6 +93,34 @@ class NameNaturalKeyManager(models.Manager):
         return self.get(name=name)
 
 
+class PokemonType(models.Model):
+    objects = NameNaturalKeyManager()
+    slug = models.SlugField(max_length=50, unique=True, blank=True, null=True)
+    name_zh_hant = models.CharField(max_length=50, unique=True)
+    name_en = models.CharField(max_length=50, unique=True)
+    name_jp = models.CharField(max_length=50, unique=True)
+
+    def natural_key(self):
+        return (self.slug,)
+
+    def __str__(self):
+        return self.name_en
+
+
+class Specialty(models.Model):
+    objects = NameNaturalKeyManager()
+    slug = models.SlugField(max_length=50, unique=True, blank=True, null=True)
+    name_zh_hant = models.CharField(max_length=50, unique=True)
+    name_en = models.CharField(max_length=50, unique=True)
+    name_jp = models.CharField(max_length=50, unique=True)
+
+    def natural_key(self):
+        return (self.slug,)
+
+    def __str__(self):
+        return self.name_en
+
+
 class Habitat(models.Model):
     objects = NameNaturalKeyManager()
 
@@ -139,11 +167,11 @@ class Pokemon(models.Model):
     description_japanese = models.TextField(_("description_japanese"), blank=True, default="")
     height = models.DecimalField(_("height"), max_digits=5, decimal_places=2, blank=True, null=True)  # 身高
     weight = models.DecimalField(_("weight"), max_digits=5, decimal_places=2, blank=True, null=True)  # 體重
-    types = models.CharField(_("types"), max_length=30, choices=PokemonType.choices, blank=True, default="")  # 屬性
+    types = models.ManyToManyField(PokemonType, verbose_name=_("types"))  # 屬性
     time_of_day = models.JSONField(_("time_of_day"), blank=True, default=list)  # 能遇見的時間
     weather = models.JSONField(_("weather"), blank=True, default=list)  # 能遇見的天氣
     habitats = models.ManyToManyField(Habitat, verbose_name=_("habitats"))  # 會出現的棲地
-    specialties = models.JSONField(_("specialties"), blank=True, default=list)  # 專長
+    specialties = models.ManyToManyField(Specialty, verbose_name=_("specialties"))  # 專長
     preferred_environment = models.CharField(
         max_length=20, choices=Environment.choices, blank=True, default="", verbose_name=_("preferred_environment")
     )  # 喜歡的環境
@@ -214,5 +242,3 @@ class Item(models.Model):
 
     def __str__(self):
         return self.name
-
-    def get_name(self, language):

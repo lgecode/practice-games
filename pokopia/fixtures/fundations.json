@@ -2,109 +2,163 @@
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "草"
+      "slug": "grass",
+      "name_zh_hant": "草",
+      "name_en": "Grass",
+      "name_jp": "くさ"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "毒"
+      "slug": "poison",
+      "name_zh_hant": "毒",
+      "name_en": "Poison",
+      "name_jp": "どく"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "火"
+      "slug": "fire",
+      "name_zh_hant": "火",
+      "name_en": "Fire",
+      "name_jp": "ほのお"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "飛行"
+      "slug": "flying",
+      "name_zh_hant": "飛行",
+      "name_en": "Flying",
+      "name_jp": "ひこう"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "水"
+      "slug": "water",
+      "name_zh_hant": "水",
+      "name_en": "Water",
+      "name_jp": "みず"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "一般"
+      "slug": "normal",
+      "name_zh_hant": "一般",
+      "name_en": "Normal",
+      "name_jp": "ノーマル"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "蟲"
+      "slug": "bug",
+      "name_zh_hant": "蟲",
+      "name_en": "Bug",
+      "name_jp": "むし"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "超能力"
+      "slug": "psychic",
+      "name_zh_hant": "超能力",
+      "name_en": "Psychic",
+      "name_jp": "エスパー"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "電"
+      "slug": "electric",
+      "name_zh_hant": "電",
+      "name_en": "Electric",
+      "name_jp": "でんき"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "鋼"
+      "slug": "steel",
+      "name_zh_hant": "鋼",
+      "name_en": "Steel",
+      "name_jp": "はがね"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "岩石"
+      "slug": "rock",
+      "name_zh_hant": "岩石",
+      "name_en": "Rock",
+      "name_jp": "いわ"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "地面"
+      "slug": "ground",
+      "name_zh_hant": "地面",
+      "name_en": "Ground",
+      "name_jp": "じめん"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "格鬥"
+      "slug": "fighting",
+      "name_zh_hant": "格鬥",
+      "name_en": "Fighting",
+      "name_jp": "かくとう"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "惡"
+      "slug": "dark",
+      "name_zh_hant": "惡",
+      "name_en": "Dark",
+      "name_jp": "あく"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "幽靈"
+      "slug": "ghost",
+      "name_zh_hant": "幽靈",
+      "name_en": "Ghost",
+      "name_jp": "ゴースト"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "龍"
+      "slug": "dragon",
+      "name_zh_hant": "龍",
+      "name_en": "Dragon",
+      "name_jp": "ドラゴン"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "冰"
+      "slug": "ice",
+      "name_zh_hant": "冰",
+      "name_en": "Ice",
+      "name_jp": "こおり"
     }
   },
   {
     "model": "pokopia.pokemontype",
     "fields": {
-      "name": "妖精"
+      "slug": "fairy",
+      "name_zh_hant": "妖精",
+      "name_en": "Fairy",
+      "name_jp": "フェアリー"
     }
   },
   {
@@ -1394,193 +1448,289 @@
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "栽培"
+      "slug": "grow",
+      "name_zh_hant": "栽培",
+      "name_en": "Grow",
+      "name_jp": "さいばい"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "亂撒"
+      "slug": "litter",
+      "name_zh_hant": "亂撒",
+      "name_en": "Litter",
+      "name_jp": "ちらかす"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "點火"
+      "slug": "burn",
+      "name_zh_hant": "點火",
+      "name_en": "Burn",
+      "name_jp": "もやす"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "飛翔"
+      "slug": "fly",
+      "name_zh_hant": "飛翔",
+      "name_en": "Fly",
+      "name_jp": "そらをとぶ"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "滋潤"
+      "slug": "water",
+      "name_zh_hant": "滋潤",
+      "name_en": "Water",
+      "name_jp": "うるおす"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "交易"
+      "slug": "trade",
+      "name_zh_hant": "交易",
+      "name_en": "Trade",
+      "name_jp": "とりひき"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "找東西"
+      "slug": "search",
+      "name_zh_hant": "找東西",
+      "name_en": "Search",
+      "name_jp": "さがしもの"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "伐木"
+      "slug": "chop",
+      "name_zh_hant": "伐木",
+      "name_en": "Chop",
+      "name_jp": "きをきる"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "帶動氣氛"
+      "slug": "hype",
+      "name_zh_hant": "帶動氣氛",
+      "name_en": "Hype",
+      "name_jp": "もりあげる"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "哈欠"
+      "slug": "yawn",
+      "name_zh_hant": "哈欠",
+      "name_en": "Yawn",
+      "name_jp": "あくび"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "瞬間移動"
+      "slug": "teleport",
+      "name_zh_hant": "瞬間移動",
+      "name_en": "Teleport",
+      "name_jp": "テレポート"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "發電"
+      "slug": "generate",
+      "name_zh_hant": "發電",
+      "name_en": "Generate",
+      "name_jp": "はつでん"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "回收利用"
+      "slug": "recycle",
+      "name_zh_hant": "回收利用",
+      "name_en": "Recycle",
+      "name_jp": "リサイクル"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "碾壓"
+      "slug": "crush",
+      "name_zh_hant": "碾壓",
+      "name_en": "Crush",
+      "name_jp": "つぶす"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "重踏"
+      "slug": "bulldoze",
+      "name_zh_hant": "重踏",
+      "name_en": "Bulldoze",
+      "name_jp": "じならし"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "建造"
+      "slug": "build",
+      "name_zh_hant": "建造",
+      "name_en": "Build",
+      "name_jp": "けんちく"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "鑑定"
+      "slug": "appraise",
+      "name_zh_hant": "鑑定",
+      "name_en": "Appraise",
+      "name_jp": "かんてい"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "不明"
+      "slug": "unknown",
+      "name_zh_hant": "不明",
+      "name_en": "Unknown",
+      "name_jp": ""
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "變身"
+      "slug": "transform",
+      "name_zh_hant": "變身",
+      "name_en": "Transform",
+      "name_jp": "へんしん"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "收納"
+      "slug": "storage",
+      "name_zh_hant": "收納",
+      "name_en": "Storage",
+      "name_jp": "しゅうのう"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "採蜜"
+      "slug": "gather_honey",
+      "name_zh_hant": "採蜜",
+      "name_en": "Gather Honey",
+      "name_jp": "ミツあつめ"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "夢島"
+      "slug": "dream_island",
+      "name_zh_hant": "夢島",
+      "name_en": "Dream Island",
+      "name_jp": "ゆめしま"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "分類"
+      "slug": "gather",
+      "name_zh_hant": "分類",
+      "name_en": "Gather",
+      "name_jp": "しわける"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "發光"
+      "slug": "illuminate",
+      "name_zh_hant": "發光",
+      "name_en": "Illuminate",
+      "name_jp": "はっこう"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "爆炸"
+      "slug": "explode",
+      "name_zh_hant": "爆炸",
+      "name_en": "Explode",
+      "name_jp": "ばくはつ"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "貪吃鬼"
+      "slug": "eat",
+      "name_zh_hant": "貪吃鬼",
+      "name_en": "Eat",
+      "name_jp": "くいしんぼ"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "彩繪"
+      "slug": "paint",
+      "name_zh_hant": "彩繪",
+      "name_en": "Paint",
+      "name_jp": "ペイント"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "DJ"
+      "slug": "dj",
+      "name_zh_hant": "DJ",
+      "name_en": "DJ",
+      "name_jp": "DJ"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "開派對"
+      "slug": "party",
+      "name_zh_hant": "開派對",
+      "name_en": "Party",
+      "name_jp": "パーティー"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "收藏家"
+      "slug": "collect",
+      "name_zh_hant": "收藏家",
+      "name_en": "Collect",
+      "name_jp": "コレクター"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "稀有物"
+      "slug": "rarify",
+      "name_zh_hant": "稀有物",
+      "name_en": "Rarify",
+      "name_jp": "レアもの"
     }
   },
   {
     "model": "pokopia.specialty",
     "fields": {
-      "name": "工匠"
+      "slug": "engineer",
+      "name_zh_hant": "工匠",
+      "name_en": "Engineer",
+      "name_jp": "しょくにん"
     }
   },
   {
