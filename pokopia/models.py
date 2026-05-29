@@ -2,60 +2,60 @@ from django.db import models
 from django.utils.translation import gettext_lazy as _
 
 
-class PokemonType(models.TextChoices):
-    NORMAL = "normal", _("normal")  # 一般
-    FIRE = "fire", _("fire")  # 火
-    WATER = "water", _("water")  # 水
-    ELECTRIC = "electric", _("electric")  # 電
-    GRASS = "grass", _("grass")  # 草
-    ICE = "ice", _("ice")  # 冰
-    FIGHTING = "fighting", _("fighting")  # 格鬥
-    POISON = "poison", _("poison")  # 毒
-    GROUND = "ground", _("ground")  # 地面
-    FLYING = "flying", _("flying")  # 飛行
-    PSYCHIC = "psychic", _("psychic")  # 超能力
-    BUG = "bug", _("bug")  # 蟲
-    ROCK = "rock", _("rock")  # 岩石
-    GHOST = "ghost", _("ghost")  # 幽靈
-    DRAGON = "dragon", _("dragon")  # 龍
-    DARK = "dark", _("dark")  # 惡
-    STEEL = "steel", _("steel")  # 鋼
-    FAIRY = "fairy", _("fairy")  # 妖精
+# class PokemonType(models.TextChoices):
+#     NORMAL = "normal", _("normal")  # 一般
+#     FIRE = "fire", _("fire")  # 火
+#     WATER = "water", _("water")  # 水
+#     ELECTRIC = "electric", _("electric")  # 電
+#     GRASS = "grass", _("grass")  # 草
+#     ICE = "ice", _("ice")  # 冰
+#     FIGHTING = "fighting", _("fighting")  # 格鬥
+#     POISON = "poison", _("poison")  # 毒
+#     GROUND = "ground", _("ground")  # 地面
+#     FLYING = "flying", _("flying")  # 飛行
+#     PSYCHIC = "psychic", _("psychic")  # 超能力
+#     BUG = "bug", _("bug")  # 蟲
+#     ROCK = "rock", _("rock")  # 岩石
+#     GHOST = "ghost", _("ghost")  # 幽靈
+#     DRAGON = "dragon", _("dragon")  # 龍
+#     DARK = "dark", _("dark")  # 惡
+#     STEEL = "steel", _("steel")  # 鋼
+#     FAIRY = "fairy", _("fairy")  # 妖精
 
 
-class Speciality(models.TextChoices):
-    GROW = "grow", _("grow")  # 栽培
-    LITTER = "litter", _("litter")  # 亂撒
-    BURN = "burn", _("burn")  # 點火
-    FLY = "fly", _("fly")  # 飛翔
-    WATER = "water", _("water")  # 滋潤
-    TRADE = "trade", _("trade")  # 交易
-    SEARCH = "search", _("search")  # 找東西
-    CHOP = "chop", _("chop")  # 伐木
-    HYPE = "hype", _("hype")  # 帶動氣氛
-    YAWN = "yawn", _("yawn")  # 哈欠
-    TELEPORT = "teleport", _("teleport")  # 瞬間移動
-    GENERATE = "generate", _("generate")  # 發電
-    RECYCLE = "recycle", _("recycle")  # 回收利用
-    CRUSH = "crush", _("crush")  # 碾壓
-    BULLDOZE = "bulldoze", _("bulldoze")  # 重踏
-    BUILD = "build", _("build")  # 建造
-    APPRAISE = "appraise", _("appraise")  # 鑑定
-    UNKNOWN = "unknown", _("unknown")  # 不明
-    TRANSFORM = "transform", _("transform")  # 變身
-    STORAGE = "storage", _("storage")  # 收納
-    GATHER_HONEY = "gather_honey", _("gather_honey")  # 採蜜
-    DREAM_ISLAND = "dream_island", _("dream_island")  # 夢島
-    GATHER = "gather", _("gather")  # 分類
-    ILLUMINATE = "illuminate", _("illuminate")  # 發光
-    EXPLODE = "explode", _("explode")  # 爆炸
-    EAT = "eat", _("eat")  # 貪吃鬼
-    PAINT = "paint", _("paint")  # 彩繪
-    DJ = "dj", _("dj")  # DJ
-    PARTY = "party", _("party")  # 開派對
-    COLLECT = "collect", _("collect")  # 收藏家
-    RARIFY = "rarify", _("rarify")  # 稀有物
-    ENGINEER = "engineer", _("engineer")  # 工匠
+# class Speciality(models.TextChoices):
+#     GROW = "grow", _("grow")  # 栽培
+#     LITTER = "litter", _("litter")  # 亂撒
+#     BURN = "burn", _("burn")  # 點火
+#     FLY = "fly", _("fly")  # 飛翔
+#     WATER = "water", _("water")  # 滋潤
+#     TRADE = "trade", _("trade")  # 交易
+#     SEARCH = "search", _("search")  # 找東西
+#     CHOP = "chop", _("chop")  # 伐木
+#     HYPE = "hype", _("hype")  # 帶動氣氛
+#     YAWN = "yawn", _("yawn")  # 哈欠
+#     TELEPORT = "teleport", _("teleport")  # 瞬間移動
+#     GENERATE = "generate", _("generate")  # 發電
+#     RECYCLE = "recycle", _("recycle")  # 回收利用
+#     CRUSH = "crush", _("crush")  # 碾壓
+#     BULLDOZE = "bulldoze", _("bulldoze")  # 重踏
+#     BUILD = "build", _("build")  # 建造
+#     APPRAISE = "appraise", _("appraise")  # 鑑定
+#     UNKNOWN = "unknown", _("unknown")  # 不明
+#     TRANSFORM = "transform", _("transform")  # 變身
+#     STORAGE = "storage", _("storage")  # 收納
+#     GATHER_HONEY = "gather_honey", _("gather_honey")  # 採蜜
+#     DREAM_ISLAND = "dream_island", _("dream_island")  # 夢島
+#     GATHER = "gather", _("gather")  # 分類
+#     ILLUMINATE = "illuminate", _("illuminate")  # 發光
+#     EXPLODE = "explode", _("explode")  # 爆炸
+#     EAT = "eat", _("eat")  # 貪吃鬼
+#     PAINT = "paint", _("paint")  # 彩繪
+#     DJ = "dj", _("dj")  # DJ
+#     PARTY = "party", _("party")  # 開派對
+#     COLLECT = "collect", _("collect")  # 收藏家
+#     RARIFY = "rarify", _("rarify")  # 稀有物
+#     ENGINEER = "engineer", _("engineer")  # 工匠
 
 
 class TimeOfDay(models.TextChoices):
@@ -88,61 +88,67 @@ class Flavor(models.TextChoices):
     SOUR = "sour", _("sour")  # 酸酸的
 
 
-class NameNaturalKeyManager(models.Manager):
-    def get_by_natural_key(self, name):
-        return self.get(name=name)
+class SlugNaturalKeyManager(models.Manager):
+    def get_by_natural_key(self, slug):
+        return self.get(slug=slug)
 
 
 class PokemonType(models.Model):
-    objects = NameNaturalKeyManager()
+    objects = SlugNaturalKeyManager()
     slug = models.SlugField(max_length=50, unique=True, blank=True, null=True)
-    name_zh_hant = models.CharField(max_length=50, unique=True)
-    name_en = models.CharField(max_length=50, unique=True)
-    name_jp = models.CharField(max_length=50, unique=True)
+    name_zh_hant = models.CharField(max_length=50, unique=True, blank=True, null=True)
+    name_en = models.CharField(max_length=50, unique=True, blank=True, null=True)
+    name_jp = models.CharField(max_length=50, unique=True, blank=True, null=True)
 
     def natural_key(self):
         return (self.slug,)
 
     def __str__(self):
-        return self.name_en
+        return self.name_zh_hant
 
 
 class Specialty(models.Model):
-    objects = NameNaturalKeyManager()
+    objects = SlugNaturalKeyManager()
     slug = models.SlugField(max_length=50, unique=True, blank=True, null=True)
-    name_zh_hant = models.CharField(max_length=50, unique=True)
-    name_en = models.CharField(max_length=50, unique=True)
-    name_jp = models.CharField(max_length=50, unique=True)
+    name_zh_hant = models.CharField(max_length=50, unique=True, blank=True, null=True)
+    name_en = models.CharField(max_length=50, unique=True, blank=True, null=True)
+    name_jp = models.CharField(max_length=50, unique=True, blank=True, null=True)
 
     def natural_key(self):
         return (self.slug,)
 
     def __str__(self):
-        return self.name_en
+        return self.name_zh_hant
 
 
 class Habitat(models.Model):
-    objects = NameNaturalKeyManager()
+    objects = SlugNaturalKeyManager()
 
-    name = models.CharField(max_length=100, unique=True)
+    slug = models.SlugField(max_length=100, unique=True, blank=True, null=True)
+    name_zh_hant = models.CharField(max_length=100, unique=True, blank=True, null=True)
+    name_en = models.CharField(max_length=100, unique=True, blank=True, null=True)
+    name_jp = models.CharField(max_length=100, unique=True, blank=True, null=True)
 
     def natural_key(self):
-        return (self.name,)
+        return (self.slug,)
 
     def __str__(self):
-        return self.name
+        return self.name_zh_hant
 
 
 class Favorite(models.Model):
-    objects = NameNaturalKeyManager()
+    objects = SlugNaturalKeyManager()
 
-    name = models.CharField(max_length=100, unique=True)
+    slug = models.SlugField(max_length=100, unique=True, blank=True, null=True)
+    name_zh_hant = models.CharField(max_length=100, unique=True, blank=True, null=True)
+    name_en = models.CharField(max_length=100, unique=True, blank=True, null=True)
+    name_jp = models.CharField(max_length=100, unique=True, blank=True, null=True)
 
     def natural_key(self):
-        return (self.name,)
+        return (self.slug,)
 
     def __str__(self):
-        return self.name
+        return self.name_zh_hant
 
 
 # 寶可夢
@@ -150,21 +156,16 @@ class Pokemon(models.Model):
     slug = models.SlugField(
         max_length=200, unique=True, blank=True, null=True
     )
-    pokopia_dex_number = models.PositiveSmallIntegerField()  # Pokopia圖鑑編號
-    name = models.CharField(_("name"),
-                            max_length=100
-                            )
-    name_chinese = models.CharField(_("name_chinese"), max_length=100, blank=True, default="")
-    name_english = models.CharField(_("name_english"), max_length=100, blank=True, default="")
-    name_japanese = models.CharField(_("name_japanese"), max_length=100, blank=True, default="")
-    classification = models.CharField(_("classification"), max_length=50, blank=True, default="")  # 分類
-    classification_chinese = models.CharField(_("classification_chinese"), max_length=100, blank=True, default="")
-    classification_english = models.CharField(_("classification_english"), max_length=100, blank=True, default="")
-    classification_japanese = models.CharField(_("classification_japanese"), max_length=100, blank=True, default="")
-    description = models.TextField(_("description"), blank=True, default="")  # 描述
-    description_chinese = models.TextField(_("description_chinese"), blank=True, default="")
-    description_english = models.TextField(_("description_english"), blank=True, default="")
-    description_japanese = models.TextField(_("description_japanese"), blank=True, default="")
+    pokopia_dex_number = models.PositiveSmallIntegerField(_("pokopia_dex_number"), blank=True, null=True)  # 圖鑑編號
+    name_zh_hant = models.CharField(_("name_zh_hant"), max_length=100, blank=True, default="")
+    name_en = models.CharField(_("name_en"), max_length=100, blank=True, default="")
+    name_jp = models.CharField(_("name_jp"), max_length=100, blank=True, default="")
+    classification_zh_hant = models.CharField(_("classification_zh_hant"), max_length=100, blank=True, default="")
+    classification_en = models.CharField(_("classification_en"), max_length=100, blank=True, default="")
+    classification_jp = models.CharField(_("classification_jp"), max_length=100, blank=True, default="")
+    description_zh_hant = models.TextField(_("description_zh_hant"), blank=True, default="")  # 描述
+    description_en = models.TextField(_("description_en"), blank=True, default="")
+    description_jp = models.TextField(_("description_jp"), blank=True, default="")
     height = models.DecimalField(_("height"), max_digits=5, decimal_places=2, blank=True, null=True)  # 身高
     weight = models.DecimalField(_("weight"), max_digits=5, decimal_places=2, blank=True, null=True)  # 體重
     types = models.ManyToManyField(PokemonType, verbose_name=_("types"))  # 屬性
@@ -185,7 +186,7 @@ class Pokemon(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
-        return self.name
+        return self.name_zh_hant
 
 
 class ItemCategory(models.TextChoices):
@@ -222,23 +223,19 @@ class Item(models.Model):
     category = models.CharField(
         max_length=50, choices=ItemCategory.choices, default=ItemCategory.OTHER
     )
-    name = models.CharField(_("name"),
-                            max_length=150
-                            )
-    name_chinese = models.CharField(max_length=150, blank=True, default="")
-    name_english = models.CharField(_("name_english"), max_length=150, blank=True, default="")
-    name_japanese = models.CharField(_("name_japanese"), max_length=150, blank=True, default="")
-    description = models.TextField(_("description"), blank=True, default="")
-    description_chinese = models.TextField(_("description_chinese"), blank=True, default="")
-    description_english = models.TextField(_("description_english"), blank=True, default="")
-    description_japanese = models.TextField(_("description_japanese"), blank=True, default="")
+    name_zh_hant = models.CharField(_("name_zh_hant"), max_length=150, blank=True, default="")
+    name_en = models.CharField(_("name_en"), max_length=150, blank=True, default="")
+    name_jp = models.CharField(_("name_jp"), max_length=150, blank=True, default="")
+    description_zh_hant = models.TextField(_("description_zh_hant"), blank=True, default="")
+    description_en = models.TextField(_("description_en"), blank=True, default="")
+    description_jp = models.TextField(_("description_jp"), blank=True, default="")
     tag = models.CharField(_("tag"), max_length=30, choices=ItemTag.choices, blank=True, default="")
     favorites = models.ManyToManyField(Favorite, verbose_name=_("favorites"))
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 
     class Meta:
-        ordering = ["category", "name"]
+        ordering = ["category", "slug"]
 
     def __str__(self):
-        return self.name
+        return self.name_zh_hant
