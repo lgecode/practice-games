@@ -8,7 +8,7 @@ from .models import Favorite, Habitat, Item, Pokemon, PokemonType, Specialty
 class NamedLookupAdminForm(forms.ModelForm):
     pokemons = forms.ModelMultipleChoiceField(
         label="對應寶可夢",
-        queryset=Pokemon.objects.order_by("pokopia_dex_number", "name"),
+        queryset=Pokemon.objects.order_by("dex_number", "name"),
         required=False,
         widget=FilteredSelectMultiple("寶可夢", is_stacked=False),
     )
@@ -48,7 +48,7 @@ class NamedLookupAdmin(admin.ModelAdmin):
 @admin.register(Pokemon)
 class PokemonAdmin(admin.ModelAdmin):
     list_display = (
-        "pokopia_dex_number",
+        "dex_number",
         "name",
         "classification",
         "preferred_environment",
@@ -76,7 +76,7 @@ class PokemonAdmin(admin.ModelAdmin):
         "favorites__name",
     )
     filter_horizontal = ("types", "habitats", "specialties", "favorites")
-    ordering = ("pokopia_dex_number", "name")
+    ordering = ("dex_number", "name")
 
 
 @admin.register(Item)

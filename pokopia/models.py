@@ -171,7 +171,7 @@ class Pokemon(models.Model):
     slug = models.SlugField(
         max_length=200, unique=True, blank=True, null=True
     )
-    pokopia_dex_number = models.PositiveSmallIntegerField(_("pokopia_dex_number"), blank=True, null=True)  # 圖鑑編號
+    dex_number = models.PositiveSmallIntegerField(_("dex_number"), blank=True, null=True)  # 圖鑑編號
     name_zh_hant = models.CharField(_("name_zh_hant"), max_length=100, blank=True, default="")
     name_en = models.CharField(_("name_en"), max_length=100, blank=True, default="")
     name_jp = models.CharField(_("name_jp"), max_length=100, blank=True, default="")

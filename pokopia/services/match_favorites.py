@@ -9,7 +9,7 @@ def match_favorite_items(pokemon_number):
 
     pokemon = (
         Pokemon.objects.prefetch_related("favorites")
-        .filter(pokopia_dex_number=pokemon_number)
+        .filter(dex_number=pokemon_number)
         .first()
     )
     if pokemon is None:

@@ -2,13 +2,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 1,
+      "dex_number": 1,
       "slug": "bulbasaur",
       "name_zh_hant": "妙蛙種子",
       "name_en": "Bulbasaur",
       "name_jp": "フシギダネ",
-      "classification": "種子寶可夢",
-      "description": "從出生的時候開始，背上就揹著一顆種子。每當身體長大時，種子也會跟著變大。",
+      "classification_zh_hant": "種子寶可夢",
+      "description_zh_hant": "從出生的時候開始，背上就揹著一顆種子。每當身體長大時，種子也會跟著變大。",
       "height": 0.7,
       "weight": 6.9,
       "types": [
@@ -69,12 +69,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 2,
-      "name": "妙蛙草",
-      "name_english": "Ivysaur",
+      "dex_number": 2,
+      "slug": "ivysaur",
+      "name_zh_hant": "妙蛙草",
+      "name_en": "Ivysaur",
       "name_jp": "フシギソウ",
-      "classification": "種子寶可夢",
-      "description": "背上的花苞會在吸收養分後鼓起。快開花時會散發出很香的味道。",
+      "classification_zh_hant": "種子寶可夢",
+      "description_zh_hant": "背上的花苞會在吸收養分後鼓起。快開花時會散發出很香的味道。",
       "height": 1.0,
       "weight": 13.0,
       "types": [
@@ -135,12 +136,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 3,
-      "name": "妙蛙花",
-      "name_english": "Venusaur",
+      "dex_number": 3,
+      "slug": "venusaur",
+      "name_zh_hant": "妙蛙花",
+      "name_en": "Venusaur",
       "name_jp": "フシギバナ",
-      "classification": "種子寶可夢",
-      "description": "展開大片的花瓣沐浴陽光時，身體就會變得充滿活力。",
+      "classification_zh_hant": "種子寶可夢",
+      "description_zh_hant": "展開大片的花瓣沐浴陽光時，身體就會變得充滿活力。",
       "height": 2.0,
       "weight": 100.0,
       "types": [
@@ -202,12 +204,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 4,
-      "name": "小火龍",
-      "name_english": "Charmander",
+      "dex_number": 4,
+      "slug": "charmander",
+      "name_zh_hant": "小火龍",
+      "name_en": "Charmander",
       "name_jp": "ヒトカゲ",
-      "classification": "蜥蜴寶可夢",
-      "description": "只要它精力充沛，尾巴尖端的火焰即使被稍微弄溼也會猛烈燃燒，而不會熄滅。",
+      "classification_zh_hant": "蜥蜴寶可夢",
+      "description_zh_hant": "只要它精力充沛，尾巴尖端的火焰即使被稍微弄溼也會猛烈燃燒，而不會熄滅。",
       "height": 0.6,
       "weight": 8.5,
       "types": [
@@ -262,12 +265,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 5,
-      "name": "火恐龍",
-      "name_english": "Charmeleon",
+      "dex_number": 5,
+      "slug": "charmeleon",
+      "name_zh_hant": "火恐龍",
+      "name_en": "Charmeleon",
       "name_jp": "リザード",
-      "classification": "火焰寶可夢",
-      "description": "如烈火般的性格讓它一直尋找對戰的對手。在打贏之前沸騰的熱血都不會平息。",
+      "classification_zh_hant": "火焰寶可夢",
+      "description_zh_hant": "如烈火般的性格讓它一直尋找對戰的對手。在打贏之前沸騰的熱血都不會平息。",
       "height": 1.1,
       "weight": 19.0,
       "types": [
@@ -322,12 +326,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 6,
-      "name": "噴火龍",
-      "name_english": "Charizard",
+      "dex_number": 6,
+      "slug": "charizard",
+      "name_zh_hant": "噴火龍",
+      "name_en": "Charizard",
       "name_jp": "リザードン",
-      "classification": "火焰寶可夢",
-      "description": "從口中噴出灼熱的火焰時，尾巴尖端的紅色火焰會燃燒得更加猛烈。",
+      "classification_zh_hant": "火焰寶可夢",
+      "description_zh_hant": "從口中噴出灼熱的火焰時，尾巴尖端的紅色火焰會燃燒得更加猛烈。",
       "height": 1.7,
       "weight": 90.5,
       "types": [
@@ -389,12 +394,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 7,
-      "name": "傑尼龜",
-      "name_english": "Squirtle",
+      "dex_number": 7,
+      "slug": "squirtle",
+      "name_zh_hant": "傑尼龜",
+      "name_en": "Squirtle",
       "name_jp": "ゼニガメ",
-      "classification": "小龜寶可夢",
-      "description": "透過從水面噴水來捕食。在危急時刻會將四肢縮入龜殼裡保護自己。",
+      "classification_zh_hant": "小龜寶可夢",
+      "description_zh_hant": "透過從水面噴水來捕食。在危急時刻會將四肢縮入龜殼裡保護自己。",
       "height": 0.5,
       "weight": 9.0,
       "types": [
@@ -452,12 +458,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 8,
-      "name": "卡咪龜",
-      "name_english": "Wartortle",
+      "dex_number": 8,
+      "slug": "wartortle",
+      "name_zh_hant": "卡咪龜",
+      "name_en": "Wartortle",
       "name_jp": "カメール",
-      "classification": "龜寶可夢",
-      "description": "經常潛伏在水中伺機襲擊獵物。高速游泳時會用耳朵來保持平衡。",
+      "classification_zh_hant": "龜寶可夢",
+      "description_zh_hant": "經常潛伏在水中伺機襲擊獵物。高速游泳時會用耳朵來保持平衡。",
       "height": 1.0,
       "weight": 22.5,
       "types": [
@@ -512,12 +519,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 9,
-      "name": "水箭龜",
-      "name_english": "Blastoise",
+      "dex_number": 9,
+      "slug": "blastoise",
+      "name_zh_hant": "水箭龜",
+      "name_en": "Blastoise",
       "name_jp": "カメックス",
-      "classification": "甲殼寶可夢",
-      "description": "甲殼上有噴射口，是個會以火箭般氣勢衝向對手的厲害傢伙。",
+      "classification_zh_hant": "甲殼寶可夢",
+      "description_zh_hant": "甲殼上有噴射口，是個會以火箭般氣勢衝向對手的厲害傢伙。",
       "height": 1.6,
       "weight": 85.5,
       "types": [
@@ -576,12 +584,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 10,
-      "name": "波波",
-      "name_english": "Pidgey",
+      "dex_number": 10,
+      "slug": "pidgey",
+      "name_zh_hant": "波波",
+      "name_en": "Pidgey",
       "name_jp": "ポッポ",
-      "classification": "小鳥寶可夢",
-      "description": "性格沉著冷靜，即使受到攻擊也很少反擊，只會朝對手揚起沙子保護自己。",
+      "classification_zh_hant": "小鳥寶可夢",
+      "description_zh_hant": "性格沉著冷靜，即使受到攻擊也很少反擊，只會朝對手揚起沙子保護自己。",
       "height": 0.3,
       "weight": 1.8,
       "types": [
@@ -643,12 +652,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 11,
-      "name": "比比鳥",
-      "name_english": "Pidgeotto",
+      "dex_number": 11,
+      "slug": "pidgeotto",
+      "name_zh_hant": "比比鳥",
+      "name_en": "Pidgeotto",
       "name_jp": "ピジョン",
-      "classification": "鳥寶可夢",
-      "description": "擁有超群的體力，而且飛翔範圍廣，經常飛到很遠的地方尋找食物。",
+      "classification_zh_hant": "鳥寶可夢",
+      "description_zh_hant": "擁有超群的體力，而且飛翔範圍廣，經常飛到很遠的地方尋找食物。",
       "height": 1.1,
       "weight": 30.0,
       "types": [
@@ -710,12 +720,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 12,
-      "name": "大比鳥",
-      "name_english": "Pidgeot",
+      "dex_number": 12,
+      "slug": "pidgeot",
+      "name_zh_hant": "大比鳥",
+      "name_en": "Pidgeot",
       "name_jp": "ピジョット",
-      "classification": "鳥寶可夢",
-      "description": "會展開美麗的翅膀威嚇對手。能以２馬赫的速度在天上飛來飛去。",
+      "classification_zh_hant": "鳥寶可夢",
+      "description_zh_hant": "會展開美麗的翅膀威嚇對手。能以２馬赫的速度在天上飛來飛去。",
       "height": 1.5,
       "weight": 39.5,
       "types": [
@@ -774,12 +785,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 13,
-      "name": "走路草",
-      "name_english": "Oddish",
+      "dex_number": 13,
+      "slug": "oddish",
+      "name_zh_hant": "走路草",
+      "name_en": "Oddish",
       "name_jp": "ナゾノクサ",
-      "classification": "雜草寶可夢",
-      "description": "別名謎行草。據說到了晚上，會用２條根走上長達３００米的距離。",
+      "classification_zh_hant": "雜草寶可夢",
+      "description_zh_hant": "別名謎行草。據說到了晚上，會用２條根走上長達３００米的距離。",
       "height": 0.5,
       "weight": 5.4,
       "types": [
@@ -837,12 +849,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 14,
-      "name": "臭臭花",
-      "name_english": "Gloom",
+      "dex_number": 14,
+      "slug": "gloom",
+      "name_zh_hant": "臭臭花",
+      "name_en": "Gloom",
       "name_jp": "クサイハナ",
-      "classification": "雜草寶可夢",
-      "description": "從嘴裡流出來的蜜有著就算在２公里外也能把鼻子燻歪的強烈臭味。",
+      "classification_zh_hant": "雜草寶可夢",
+      "description_zh_hant": "從嘴裡流出來的蜜有著就算在２公里外也能把鼻子燻歪的強烈臭味。",
       "height": 0.8,
       "weight": 8.6,
       "types": [
@@ -900,12 +913,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 15,
-      "name": "霸王花",
-      "name_english": "Vileplume",
+      "dex_number": 15,
+      "slug": "vileplume",
+      "name_zh_hant": "霸王花",
+      "name_en": "Vileplume",
       "name_jp": "ラフレシア",
-      "classification": "花寶可夢",
-      "description": "它有著世界上最大的花瓣。每走一步，花瓣都會跟著搖動，同時撒出大量的毒花粉。",
+      "classification_zh_hant": "花寶可夢",
+      "description_zh_hant": "它有著世界上最大的花瓣。每走一步，花瓣都會跟著搖動，同時撒出大量的毒花粉。",
       "height": 1.2,
       "weight": 18.6,
       "types": [
@@ -964,12 +978,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 16,
-      "name": "美麗花",
-      "name_english": "Bellossom",
+      "dex_number": 16,
+      "slug": "bellossom",
+      "name_zh_hant": "美麗花",
+      "name_en": "Bellossom",
       "name_jp": "キレイハナ",
-      "classification": "花寶可夢",
-      "description": "在南國大量生活著。跳舞時花瓣會互相碰觸，發出悅耳的聲音。",
+      "classification_zh_hant": "花寶可夢",
+      "description_zh_hant": "在南國大量生活著。跳舞時花瓣會互相碰觸，發出悅耳的聲音。",
       "height": 0.4,
       "weight": 5.8,
       "types": [
@@ -1025,12 +1040,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 17,
-      "name": "派拉斯",
-      "name_english": "Paras",
+      "dex_number": 17,
+      "slug": "paras",
+      "name_zh_hant": "派拉斯",
+      "name_en": "Paras",
       "name_jp": "パラス",
-      "classification": "蘑菇寶可夢",
-      "description": "它會透過挖洞來從樹根裡吸取營養，但大部分營養都會被背上的蘑菇搶走。",
+      "classification_zh_hant": "蘑菇寶可夢",
+      "description_zh_hant": "它會透過挖洞來從樹根裡吸取營養，但大部分營養都會被背上的蘑菇搶走。",
       "height": 0.3,
       "weight": 5.4,
       "types": [
@@ -1091,12 +1107,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 18,
-      "name": "派拉斯特",
-      "name_english": "Parasect",
+      "dex_number": 18,
+      "slug": "parasect",
+      "name_zh_hant": "派拉斯特",
+      "name_en": "Parasect",
       "name_jp": "パラセクト",
-      "classification": "蘑菇寶可夢",
-      "description": "由於蟲子的精華不斷被吸走，在思考的似乎已經不是蟲子，而是背上的蘑菇了。",
+      "classification_zh_hant": "蘑菇寶可夢",
+      "description_zh_hant": "由於蟲子的精華不斷被吸走，在思考的似乎已經不是蟲子，而是背上的蘑菇了。",
       "height": 1.0,
       "weight": 29.5,
       "types": [
@@ -1157,12 +1174,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 19,
-      "name": "毛球",
-      "name_english": "Venonat",
+      "dex_number": 19,
+      "slug": "venonat",
+      "name_zh_hant": "毛球",
+      "name_en": "Venonat",
       "name_jp": "コンパン",
-      "classification": "昆蟲寶可夢",
-      "description": "在明亮的地方你便能發現它具有雷達功能的大眼其實是由許多個小眼睛聚集而成的。",
+      "classification_zh_hant": "昆蟲寶可夢",
+      "description_zh_hant": "在明亮的地方你便能發現它具有雷達功能的大眼其實是由許多個小眼睛聚集而成的。",
       "height": 1.0,
       "weight": 30.0,
       "types": [
@@ -1223,12 +1241,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 20,
-      "name": "摩魯蛾",
-      "name_english": "Venomoth",
+      "dex_number": 20,
+      "slug": "venomoth",
+      "name_zh_hant": "摩魯蛾",
+      "name_en": "Venomoth",
       "name_jp": "モルフォン",
-      "classification": "毒蛾寶可夢",
-      "description": "翅膀上附著著鱗粉，每次翩翩扇動翅膀，就會播撒劇毒的粉末。",
+      "classification_zh_hant": "毒蛾寶可夢",
+      "description_zh_hant": "翅膀上附著著鱗粉，每次翩翩扇動翅膀，就會播撒劇毒的粉末。",
       "height": 1.5,
       "weight": 12.5,
       "types": [
@@ -1289,12 +1308,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 21,
-      "name": "喇叭芽",
-      "name_english": "Bellsprout",
+      "dex_number": 21,
+      "slug": "bellsprout",
+      "name_zh_hant": "喇叭芽",
+      "name_en": "Bellsprout",
       "name_jp": "マダツボミ",
-      "classification": "花寶可夢",
-      "description": "會把腳伸到地下深處補充水分，但若在此時遭到襲擊就會無法逃脫。",
+      "classification_zh_hant": "花寶可夢",
+      "description_zh_hant": "會把腳伸到地下深處補充水分，但若在此時遭到襲擊就會無法逃脫。",
       "height": 0.7,
       "weight": 4.0,
       "types": [
@@ -1353,12 +1373,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 22,
-      "name": "口呆花",
-      "name_english": "Weepinbell",
+      "dex_number": 22,
+      "slug": "weepinbell",
+      "name_zh_hant": "口呆花",
+      "name_en": "Weepinbell",
       "name_jp": "ウツドン",
-      "classification": "捕蠅寶可夢",
-      "description": "因為它也能分泌出讓溶解液無效的液體，所以自身不會被溶解。",
+      "classification_zh_hant": "捕蠅寶可夢",
+      "description_zh_hant": "因為它也能分泌出讓溶解液無效的液體，所以自身不會被溶解。",
       "height": 1.0,
       "weight": 6.4,
       "types": [
@@ -1420,12 +1441,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 23,
-      "name": "大食花",
-      "name_english": "Victreebel",
+      "dex_number": 23,
+      "slug": "victreebel",
+      "name_zh_hant": "大食花",
+      "name_en": "Victreebel",
       "name_jp": "ウツボット",
-      "classification": "捕蠅寶可夢",
-      "description": "溶掉了大量食物的溶解液會更加甜美，從而變得更容易吸引獵物上門。",
+      "classification_zh_hant": "捕蠅寶可夢",
+      "description_zh_hant": "溶掉了大量食物的溶解液會更加甜美，從而變得更容易吸引獵物上門。",
       "height": 1.7,
       "weight": 15.5,
       "types": [
@@ -1487,12 +1509,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 24,
-      "name": "呆呆獸",
-      "name_english": "Slowpoke",
+      "dex_number": 24,
+      "slug": "slowpoke",
+      "name_zh_hant": "呆呆獸",
+      "name_en": "Slowpoke",
       "name_jp": "ヤドン",
-      "classification": "憨憨寶可夢",
-      "description": "動作遲緩又呆頭呆腦。就算捱打也要過５秒才能感受到疼痛。",
+      "classification_zh_hant": "憨憨寶可夢",
+      "description_zh_hant": "動作遲緩又呆頭呆腦。就算捱打也要過５秒才能感受到疼痛。",
       "height": 1.2,
       "weight": 36.0,
       "types": [
@@ -1551,12 +1574,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 25,
-      "name": "呆殼獸",
-      "name_english": "Slowbro",
+      "dex_number": 25,
+      "slug": "slowbro",
+      "name_zh_hant": "呆殼獸",
+      "name_en": "Slowbro",
       "name_jp": "ヤドラン",
-      "classification": "寄居蟹寶可夢",
-      "description": "呆呆獸去海里捕食時，由於被大舌貝咬住尾巴而變成了呆殼獸。",
+      "classification_zh_hant": "寄居蟹寶可夢",
+      "description_zh_hant": "呆呆獸去海里捕食時，由於被大舌貝咬住尾巴而變成了呆殼獸。",
       "height": 1.6,
       "weight": 78.5,
       "types": [
@@ -1621,12 +1645,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 26,
-      "name": "呆呆王",
-      "name_english": "Slowking",
+      "dex_number": 26,
+      "slug": "slowking",
+      "name_zh_hant": "呆呆王",
+      "name_en": "Slowking",
       "name_jp": "ヤドキング",
-      "classification": "王者寶可夢",
-      "description": "有著非凡的智慧和靈感。不論何時都會不慌不忙，一副悠然自得的樣子。",
+      "classification_zh_hant": "王者寶可夢",
+      "description_zh_hant": "有著非凡的智慧和靈感。不論何時都會不慌不忙，一副悠然自得的樣子。",
       "height": 2.0,
       "weight": 79.5,
       "types": [
@@ -1691,12 +1716,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 27,
-      "name": "小磁怪",
-      "name_english": "Magnemite",
+      "dex_number": 27,
+      "slug": "magnemite",
+      "name_zh_hant": "小磁怪",
+      "name_en": "Magnemite",
       "name_jp": "コイル",
-      "classification": "磁鐵寶可夢",
-      "description": "用左右的元件放出的電磁波來遮蔽重力，使自己浮在空中。",
+      "classification_zh_hant": "磁鐵寶可夢",
+      "description_zh_hant": "用左右的元件放出的電磁波來遮蔽重力，使自己浮在空中。",
       "height": 0.3,
       "weight": 6.0,
       "types": [
@@ -1754,12 +1780,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 28,
-      "name": "三合一磁怪",
-      "name_english": "Magneton",
+      "dex_number": 28,
+      "slug": "magneton",
+      "name_zh_hant": "三合一磁怪",
+      "name_en": "Magneton",
       "name_jp": "レアコイル",
-      "classification": "磁鐵寶可夢",
-      "description": "３只小磁怪連在了一起。會透過放出強力的電波來觀測周圍的狀況。",
+      "classification_zh_hant": "磁鐵寶可夢",
+      "description_zh_hant": "３只小磁怪連在了一起。會透過放出強力的電波來觀測周圍的狀況。",
       "height": 1.0,
       "weight": 60.0,
       "types": [
@@ -1820,12 +1847,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 29,
-      "name": "自爆磁怪",
-      "name_english": "Magnezone",
+      "dex_number": 29,
+      "slug": "magnezone",
+      "name_zh_hant": "自爆磁怪",
+      "name_en": "Magnezone",
       "name_jp": "ジバコイル",
-      "classification": "磁場寶可夢",
-      "description": "據說會在空中來回飛行，一邊傳送怪異電波一邊接收未知電波。",
+      "classification_zh_hant": "磁場寶可夢",
+      "description_zh_hant": "據說會在空中來回飛行，一邊傳送怪異電波一邊接收未知電波。",
       "height": 1.2,
       "weight": 180.0,
       "types": [
@@ -1887,12 +1915,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 30,
-      "name": "大岩蛇",
-      "name_english": "Onix",
+      "dex_number": 30,
+      "slug": "onix",
+      "name_zh_hant": "大岩蛇",
+      "name_en": "Onix",
       "name_jp": "イワーク",
-      "classification": "岩蛇寶可夢",
-      "description": "彎曲扭動巨大結實的身體，以時速８０公里的猛烈勁頭向前挖進。",
+      "classification_zh_hant": "岩蛇寶可夢",
+      "description_zh_hant": "彎曲扭動巨大結實的身體，以時速８０公里的猛烈勁頭向前挖進。",
       "height": 8.8,
       "weight": 210.0,
       "types": [
@@ -1951,12 +1980,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 31,
-      "name": "大鋼蛇",
-      "name_english": "Steelix",
+      "dex_number": 31,
+      "slug": "steelix",
+      "name_zh_hant": "大鋼蛇",
+      "name_en": "Steelix",
       "name_jp": "ハガネール",
-      "classification": "鐵蛇寶可夢",
-      "description": "人們認為它的身體是因為堆積了很多和泥土一起吞下的鐵元素，才會發生變化的。",
+      "classification_zh_hant": "鐵蛇寶可夢",
+      "description_zh_hant": "人們認為它的身體是因為堆積了很多和泥土一起吞下的鐵元素，才會發生變化的。",
       "height": 9.2,
       "weight": 400.0,
       "types": [
@@ -2015,12 +2045,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 32,
-      "name": "卡拉卡拉",
-      "name_english": "Cubone",
+      "dex_number": 32,
+      "slug": "cubone",
+      "name_zh_hant": "卡拉卡拉",
+      "name_en": "Cubone",
       "name_jp": "カラカラ",
-      "classification": "孤獨寶可夢",
-      "description": "它頭上戴著死去母親的頭骨。它的哭聲會在頭骨裡迴響出悲傷的旋律。",
+      "classification_zh_hant": "孤獨寶可夢",
+      "description_zh_hant": "它頭上戴著死去母親的頭骨。它的哭聲會在頭骨裡迴響出悲傷的旋律。",
       "height": 0.4,
       "weight": 6.5,
       "types": [
@@ -2075,12 +2106,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 33,
-      "name": "嘎啦嘎啦",
-      "name_english": "Marowak",
+      "dex_number": 33,
+      "slug": "marowak",
+      "name_zh_hant": "嘎啦嘎啦",
+      "name_en": "Marowak",
       "name_jp": "ガラガラ",
-      "classification": "愛骨寶可夢",
-      "description": "身體曾經又小又弱，在習慣了使用骨頭戰鬥後才變成了粗暴的性格。",
+      "classification_zh_hant": "愛骨寶可夢",
+      "description_zh_hant": "身體曾經又小又弱，在習慣了使用骨頭戰鬥後才變成了粗暴的性格。",
       "height": 1.0,
       "weight": 45.0,
       "types": [
@@ -2135,12 +2167,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 34,
-      "name": "無畏小子",
-      "name_english": "Tyrogue",
+      "dex_number": 34,
+      "slug": "tyrogue",
+      "name_zh_hant": "無畏小子",
+      "name_en": "Tyrogue",
       "name_jp": "バルキー",
-      "classification": "打鬥寶可夢",
-      "description": "因為想要變得更強，所以會瘋狂鍛鍊身體，遇到誰都會上前挑戰。",
+      "classification_zh_hant": "打鬥寶可夢",
+      "description_zh_hant": "因為想要變得更強，所以會瘋狂鍛鍊身體，遇到誰都會上前挑戰。",
       "height": 0.7,
       "weight": 21.0,
       "types": [
@@ -2195,12 +2228,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 35,
-      "name": "飛腿郎",
-      "name_english": "Hitmonlee",
+      "dex_number": 35,
+      "slug": "hitmonlee",
+      "name_zh_hant": "飛腿郎",
+      "name_en": "Hitmonlee",
       "name_jp": "サワムラー",
-      "classification": "踢腿寶可夢",
-      "description": "能自由地伸縮腿的韌帶，讓踢技的攻擊範圍擴大至２倍。",
+      "classification_zh_hant": "踢腿寶可夢",
+      "description_zh_hant": "能自由地伸縮腿的韌帶，讓踢技的攻擊範圍擴大至２倍。",
       "height": 1.5,
       "weight": 49.8,
       "types": [
@@ -2255,12 +2289,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 36,
-      "name": "快拳郎",
-      "name_english": "Hitmonchan",
+      "dex_number": 36,
+      "slug": "hitmonchan",
+      "name_zh_hant": "快拳郎",
+      "name_en": "Hitmonchan",
       "name_jp": "エビワラー",
-      "classification": "拳擊寶可夢",
-      "description": "會用左右組合拳把敵人逼入絕境，再使出時速５００公里的直拳一口氣打敗對手。",
+      "classification_zh_hant": "拳擊寶可夢",
+      "description_zh_hant": "會用左右組合拳把敵人逼入絕境，再使出時速５００公里的直拳一口氣打敗對手。",
       "height": 1.4,
       "weight": 50.2,
       "types": [
@@ -2315,12 +2350,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 37,
-      "name": "戰舞郎",
-      "name_english": "Hitmontop",
+      "dex_number": 37,
+      "slug": "hitmontop",
+      "name_zh_hant": "戰舞郎",
+      "name_en": "Hitmontop",
       "name_jp": "カポエラー",
-      "classification": "倒立寶可夢",
-      "description": "擅長如舞蹈般的踢技。頭上的角擁有與體毛和指甲相同的成分。",
+      "classification_zh_hant": "倒立寶可夢",
+      "description_zh_hant": "擅長如舞蹈般的踢技。頭上的角擁有與體毛和指甲相同的成分。",
       "height": 1.4,
       "weight": 48.0,
       "types": [
@@ -2375,12 +2411,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 38,
-      "name": "瓦斯彈",
-      "name_english": "Koffing",
+      "dex_number": 38,
+      "slug": "koffing",
+      "name_zh_hant": "瓦斯彈",
+      "name_en": "Koffing",
       "name_jp": "ドガース",
-      "classification": "毒氣寶可夢",
-      "description": "會透過往體內儲存比空氣還輕的瓦斯浮在空中。瓦斯不但很臭還會爆炸。",
+      "classification_zh_hant": "毒氣寶可夢",
+      "description_zh_hant": "會透過往體內儲存比空氣還輕的瓦斯浮在空中。瓦斯不但很臭還會爆炸。",
       "height": 0.6,
       "weight": 1.0,
       "types": [
@@ -2435,12 +2472,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 39,
-      "name": "雙彈瓦斯",
-      "name_english": "Weezing",
+      "dex_number": 39,
+      "slug": "weezing",
+      "name_zh_hant": "雙彈瓦斯",
+      "name_en": "Weezing",
       "name_jp": "マタドガス",
-      "classification": "毒氣寶可夢",
-      "description": "將它體內所含的毒瓦斯稀釋到極限，就能做出最高階的香水。",
+      "classification_zh_hant": "毒氣寶可夢",
+      "description_zh_hant": "將它體內所含的毒瓦斯稀釋到極限，就能做出最高階的香水。",
       "height": 1.2,
       "weight": 9.5,
       "types": [
@@ -2498,12 +2536,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 40,
-      "name": "蔓藤怪",
-      "name_english": "Tangela",
+      "dex_number": 40,
+      "slug": "tangela",
+      "name_zh_hant": "蔓藤怪",
+      "name_en": "Tangela",
       "name_jp": "モンジャラ",
-      "classification": "藤蔓狀寶可夢",
-      "description": "藤蔓即使斷了也能無限生長，裡面的真面目是什麼樣子，直到今天也未被查明。",
+      "classification_zh_hant": "藤蔓狀寶可夢",
+      "description_zh_hant": "藤蔓即使斷了也能無限生長，裡面的真面目是什麼樣子，直到今天也未被查明。",
       "height": 1.0,
       "weight": 35.0,
       "types": [
@@ -2559,12 +2598,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 41,
-      "name": "巨蔓藤（博士）",
-      "name_english": "Professor Tangrowth",
+      "dex_number": 41,
+      "slug": "professor-tangrowth",
+      "name_zh_hant": "巨蔓藤（博士）",
+      "name_en": "Professor Tangrowth",
       "name_jp": "モジャンボ(はかせ)",
-      "classification": "藤蔓狀寶可夢",
-      "description": "還是蔓藤怪的時候，曾和人類的博士一起生活過。胸前的眼鏡是博士的心愛之物。",
+      "classification_zh_hant": "藤蔓狀寶可夢",
+      "description_zh_hant": "還是蔓藤怪的時候，曾和人類的博士一起生活過。胸前的眼鏡是博士的心愛之物。",
       "height": 2.0,
       "weight": 128.6,
       "types": [
@@ -2619,12 +2659,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 41,
-      "name": "巨蔓藤",
-      "name_english": "Tangrowth",
+      "dex_number": 41,
+      "slug": "tangrowth",
+      "name_zh_hant": "巨蔓藤",
+      "name_en": "Tangrowth",
       "name_jp": "モジャンボ",
-      "classification": "藤蔓狀寶可夢",
-      "description": "棲息的地域越是溫暖，藤蔓生長得就越快。藤蔓變長後，它會親手將其扯斷使其變短。",
+      "classification_zh_hant": "藤蔓狀寶可夢",
+      "description_zh_hant": "棲息的地域越是溫暖，藤蔓生長得就越快。藤蔓變長後，它會親手將其扯斷使其變短。",
       "height": 2.0,
       "weight": 128.6,
       "types": [
@@ -2680,12 +2721,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 42,
-      "name": "飛天螳螂",
-      "name_english": "Scyther",
+      "dex_number": 42,
+      "slug": "scyther",
+      "name_zh_hant": "飛天螳螂",
+      "name_en": "Scyther",
       "name_jp": "ストライク",
-      "classification": "螳螂寶可夢",
-      "description": "雙手的鐮刀鋒利無比，砍斷越多堅硬的東西，鋒利的程度就越能得到提升。",
+      "classification_zh_hant": "螳螂寶可夢",
+      "description_zh_hant": "雙手的鐮刀鋒利無比，砍斷越多堅硬的東西，鋒利的程度就越能得到提升。",
       "height": 1.5,
       "weight": 56.0,
       "types": [
@@ -2743,12 +2785,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 43,
-      "name": "巨鉗螳螂",
-      "name_english": "Scizor",
+      "dex_number": 43,
+      "slug": "scizor",
+      "name_zh_hant": "巨鉗螳螂",
+      "name_en": "Scizor",
       "name_jp": "ハッサム",
-      "classification": "鉗子寶可夢",
-      "description": "當它舉起帶有眼珠花紋的鉗子威嚇對手時，看起來就像是擁有３顆頭一樣。",
+      "classification_zh_hant": "鉗子寶可夢",
+      "description_zh_hant": "當它舉起帶有眼珠花紋的鉗子威嚇對手時，看起來就像是擁有３顆頭一樣。",
       "height": 1.8,
       "weight": 118.0,
       "types": [
@@ -2806,12 +2849,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 44,
-      "name": "凱羅斯",
-      "name_english": "Pinsir",
+      "dex_number": 44,
+      "slug": "pinsir",
+      "name_zh_hant": "凱羅斯",
+      "name_en": "Pinsir",
       "name_jp": "カイロス",
-      "classification": "鍬形蟲寶可夢",
-      "description": "會揮舞著長角攻擊過來。天冷的時候就會躲入森林深處。",
+      "classification_zh_hant": "鍬形蟲寶可夢",
+      "description_zh_hant": "會揮舞著長角攻擊過來。天冷的時候就會躲入森林深處。",
       "height": 1.5,
       "weight": 55.0,
       "types": [
@@ -2867,12 +2911,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 45,
-      "name": "鯉魚王",
-      "name_english": "Magikarp",
+      "dex_number": 45,
+      "slug": "magikarp",
+      "name_zh_hant": "鯉魚王",
+      "name_en": "Magikarp",
       "name_jp": "コイキング",
-      "classification": "魚寶可夢",
-      "description": "沒力量的可憐寶可夢。即使偶爾跳得比較高，也只能勉強超過2米。",
+      "classification_zh_hant": "魚寶可夢",
+      "description_zh_hant": "沒力量的可憐寶可夢。即使偶爾跳得比較高，也只能勉強超過2米。",
       "height": 0.9,
       "weight": 10.0,
       "types": [
@@ -2927,12 +2972,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 46,
-      "name": "暴鯉龍",
-      "name_english": "Gyarados",
+      "dex_number": 46,
+      "slug": "gyarados",
+      "name_zh_hant": "暴鯉龍",
+      "name_en": "Gyarados",
       "name_jp": "ギャラドス",
-      "classification": "兇惡寶可夢",
-      "description": "據說暴鯉龍一旦現身，不把周圍的一切都燃燒殆盡，它的怒火就不會平息。",
+      "classification_zh_hant": "兇惡寶可夢",
+      "description_zh_hant": "據說暴鯉龍一旦現身，不把周圍的一切都燃燒殆盡，它的怒火就不會平息。",
       "height": 6.5,
       "weight": 235.0,
       "types": [
@@ -2990,12 +3036,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 47,
-      "name": "百變怪",
-      "name_english": "Ditto",
+      "dex_number": 47,
+      "slug": "ditto",
+      "name_zh_hant": "百變怪",
+      "name_en": "Ditto",
       "name_jp": "メタモン",
-      "classification": "變身寶可夢",
-      "description": "透過重組細胞讓自己樣子變得和眼前的對手一模一樣。相似度依個體而有所不同。",
+      "classification_zh_hant": "變身寶可夢",
+      "description_zh_hant": "透過重組細胞讓自己樣子變得和眼前的對手一模一樣。相似度依個體而有所不同。",
       "height": 0.3,
       "weight": 4.0,
       "types": [
@@ -3034,12 +3081,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 48,
-      "name": "咕咕",
-      "name_english": "Hoothoot",
+      "dex_number": 48,
+      "slug": "hoothoot",
+      "name_zh_hant": "咕咕",
+      "name_en": "Hoothoot",
       "name_jp": "ホーホー",
-      "classification": "貓頭鷹寶可夢",
-      "description": "不管在什麼時候，體內的生物鐘都準確無比，會用固定的節奏傾斜頭部。",
+      "classification_zh_hant": "貓頭鷹寶可夢",
+      "description_zh_hant": "不管在什麼時候，體內的生物鐘都準確無比，會用固定的節奏傾斜頭部。",
       "height": 0.7,
       "weight": 21.2,
       "types": [
@@ -3104,12 +3152,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 49,
-      "name": "貓頭夜鷹",
-      "name_english": "Noctowl",
+      "dex_number": 49,
+      "slug": "noctowl",
+      "name_zh_hant": "貓頭夜鷹",
+      "name_en": "Noctowl",
       "name_jp": "ヨルノズク",
-      "classification": "貓頭鷹寶可夢",
-      "description": "雙眼有著特殊的構造。只要接收到一點點光線，即使是在黑暗中也能分辨四周的情況。",
+      "classification_zh_hant": "貓頭鷹寶可夢",
+      "description_zh_hant": "雙眼有著特殊的構造。只要接收到一點點光線，即使是在黑暗中也能分辨四周的情況。",
       "height": 1.6,
       "weight": 40.8,
       "types": [
@@ -3171,12 +3220,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 50,
-      "name": "赫拉克羅斯",
-      "name_english": "Heracross",
+      "dex_number": 50,
+      "slug": "heracross",
+      "name_zh_hant": "赫拉克羅斯",
+      "name_en": "Heracross",
       "name_jp": "ヘラクロス",
-      "classification": "獨角寶可夢",
-      "description": "用２只觸角來感知氣味，以此在整片森林中尋找自己超愛的甘甜樹汁。",
+      "classification_zh_hant": "獨角寶可夢",
+      "description_zh_hant": "用２只觸角來感知氣味，以此在整片森林中尋找自己超愛的甘甜樹汁。",
       "height": 1.5,
       "weight": 54.0,
       "types": [
@@ -3235,12 +3285,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 51,
-      "name": "電螢蟲",
-      "name_english": "Volbeat",
+      "dex_number": 51,
+      "slug": "volbeat",
+      "name_zh_hant": "電螢蟲",
+      "name_en": "Volbeat",
       "name_jp": "バルビート",
-      "classification": "螢火蟲寶可夢",
-      "description": "會閃爍臀部的光來和夥伴交流。非常喜歡甜甜螢放出的甜甜香氣。",
+      "classification_zh_hant": "螢火蟲寶可夢",
+      "description_zh_hant": "會閃爍臀部的光來和夥伴交流。非常喜歡甜甜螢放出的甜甜香氣。",
       "height": 0.7,
       "weight": 17.7,
       "types": [
@@ -3295,12 +3346,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 52,
-      "name": "甜甜螢",
-      "name_english": "Illumise",
+      "dex_number": 52,
+      "slug": "illumise",
+      "name_zh_hant": "甜甜螢",
+      "name_en": "Illumise",
       "name_jp": "イルミーゼ",
-      "classification": "螢火蟲寶可夢",
-      "description": "會誘導電螢蟲在夜空中描繪記號。也有學者在研究記號的含意。",
+      "classification_zh_hant": "螢火蟲寶可夢",
+      "description_zh_hant": "會誘導電螢蟲在夜空中描繪記號。也有學者在研究記號的含意。",
       "height": 0.6,
       "weight": 17.7,
       "types": [
@@ -3355,12 +3407,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 53,
-      "name": "溶食獸",
-      "name_english": "Gulpin",
+      "dex_number": 53,
+      "slug": "gulpin",
+      "name_zh_hant": "溶食獸",
+      "name_en": "Gulpin",
       "name_jp": "ゴクリン",
-      "classification": "胃袋寶可夢",
-      "description": "心臟和大腦都很小，身體的大部分是胃。會分泌出什麼都能溶解的胃液。",
+      "classification_zh_hant": "胃袋寶可夢",
+      "description_zh_hant": "心臟和大腦都很小，身體的大部分是胃。會分泌出什麼都能溶解的胃液。",
       "height": 0.4,
       "weight": 10.3,
       "types": [
@@ -3415,12 +3468,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 54,
-      "name": "吞食獸",
-      "name_english": "Swalot",
+      "dex_number": 54,
+      "slug": "swalot",
+      "name_zh_hant": "吞食獸",
+      "name_en": "Swalot",
       "name_jp": "マルノーム",
-      "classification": "毒袋寶可夢",
-      "description": "即使是輪胎也能整個吞掉。會從身上的毛孔分泌出帶有劇毒的體液。",
+      "classification_zh_hant": "毒袋寶可夢",
+      "description_zh_hant": "即使是輪胎也能整個吞掉。會從身上的毛孔分泌出帶有劇毒的體液。",
       "height": 1.7,
       "weight": 80.0,
       "types": [
@@ -3475,12 +3529,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 55,
-      "name": "刺球仙人掌",
-      "name_english": "Cacnea",
+      "dex_number": 55,
+      "slug": "cacnea",
+      "name_zh_hant": "刺球仙人掌",
+      "name_en": "Cacnea",
       "name_jp": "サボネア",
-      "classification": "仙人掌寶可夢",
-      "description": "棲息在少雨的乾燥地方。黃色的花朵１年綻放１次。",
+      "classification_zh_hant": "仙人掌寶可夢",
+      "description_zh_hant": "棲息在少雨的乾燥地方。黃色的花朵１年綻放１次。",
       "height": 0.4,
       "weight": 51.3,
       "types": [
@@ -3535,12 +3590,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 56,
-      "name": "夢歌仙人掌",
-      "name_english": "Cacturne",
+      "dex_number": 56,
+      "slug": "cacturne",
+      "name_zh_hant": "夢歌仙人掌",
+      "name_en": "Cacturne",
       "name_jp": "ノクタス",
-      "classification": "稻草人寶可夢",
-      "description": "到了夜間會開始活動。會找出並捉住那些因受不了沙漠炎熱而精疲力竭的獵物。",
+      "classification_zh_hant": "稻草人寶可夢",
+      "description_zh_hant": "到了夜間會開始活動。會找出並捉住那些因受不了沙漠炎熱而精疲力竭的獵物。",
       "height": 1.3,
       "weight": 77.4,
       "types": [
@@ -3599,12 +3655,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 57,
-      "name": "三蜜蜂",
-      "name_english": "Combee",
+      "dex_number": 57,
+      "slug": "combee",
+      "name_zh_hant": "三蜜蜂",
+      "name_en": "Combee",
       "name_jp": "ミツハニー",
-      "classification": "幼蜂寶可夢",
-      "description": "從出生時起就是３只一起。為了取悅蜂女王，一直都在採集著花蜜。",
+      "classification_zh_hant": "幼蜂寶可夢",
+      "description_zh_hant": "從出生時起就是３只一起。為了取悅蜂女王，一直都在採集著花蜜。",
       "height": 0.3,
       "weight": 5.5,
       "types": [
@@ -3662,12 +3719,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 58,
-      "name": "蜂女王",
-      "name_english": "Vespiquen",
+      "dex_number": 58,
+      "slug": "vespiquen",
+      "name_zh_hant": "蜂女王",
+      "name_en": "Vespiquen",
       "name_jp": "ビークイン",
-      "classification": "蜂巢寶可夢",
-      "description": "軀體是孩子們的巢穴。釋放出各種各樣的費洛蒙，自由地控制孩子們。",
+      "classification_zh_hant": "蜂巢寶可夢",
+      "description_zh_hant": "軀體是孩子們的巢穴。釋放出各種各樣的費洛蒙，自由地控制孩子們。",
       "height": 1.2,
       "weight": 38.5,
       "types": [
@@ -3726,12 +3784,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 59,
-      "name": "無殼海兔（西海）",
-      "name_english": "Shellos",
+      "dex_number": 59,
+      "slug": "shellos",
+      "name_zh_hant": "無殼海兔（西海）",
+      "name_en": "Shellos",
       "name_jp": "カラナクシ(にしのうみ)",
-      "classification": "海兔寶可夢",
-      "description": "如果用力按住它，它就會分泌出神秘的紫色液體。雖然液體無害，不過黏糊糊的。",
+      "classification_zh_hant": "海兔寶可夢",
+      "description_zh_hant": "如果用力按住它，它就會分泌出神秘的紫色液體。雖然液體無害，不過黏糊糊的。",
       "height": 0.3,
       "weight": 6.3,
       "types": [
@@ -3786,12 +3845,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 59,
-      "name": "無殼海兔（東海）",
-      "name_english": "Shellos East Sea",
+      "dex_number": 59,
+      "slug": "shellos-east-sea",
+      "name_zh_hant": "無殼海兔（東海）",
+      "name_en": "Shellos East Sea",
       "name_jp": "カラナクシ(ひがしのうみ)",
-      "classification": "海兔寶可夢",
-      "description": "經常能在岩岸發現它的身影。如果只是一定程度的時間，它也能在陸地上活動。",
+      "classification_zh_hant": "海兔寶可夢",
+      "description_zh_hant": "經常能在岩岸發現它的身影。如果只是一定程度的時間，它也能在陸地上活動。",
       "height": 0.3,
       "weight": 6.3,
       "types": [
@@ -3846,12 +3906,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 60,
-      "name": "海兔獸（西海）",
-      "name_english": "Gastrodon",
+      "dex_number": 60,
+      "slug": "gastrodon",
+      "name_zh_hant": "海兔獸（西海）",
+      "name_en": "Gastrodon",
       "name_jp": "トリトドン(にしのうみ)",
-      "classification": "海兔寶可夢",
-      "description": "身體軟癱癱的但十分強韌。因為它身體的軟度可以幫助分散它所受到的衝擊。",
+      "classification_zh_hant": "海兔寶可夢",
+      "description_zh_hant": "身體軟癱癱的但十分強韌。因為它身體的軟度可以幫助分散它所受到的衝擊。",
       "height": 0.9,
       "weight": 29.9,
       "types": [
@@ -3910,12 +3971,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 60,
-      "name": "海兔獸（東海）",
-      "name_english": "Gastrodon East Sea",
+      "dex_number": 60,
+      "slug": "gastrodon-east-sea",
+      "name_zh_hant": "海兔獸（東海）",
+      "name_en": "Gastrodon East Sea",
       "name_jp": "トリトドン(ひがしのうみ)",
-      "classification": "海兔寶可夢",
-      "description": "雖然平時都待在海岸，但如果雨下個不停，有時也會在離海很遙遠的山裡發現它的蹤影。",
+      "classification_zh_hant": "海兔寶可夢",
+      "description_zh_hant": "雖然平時都待在海岸，但如果雨下個不停，有時也會在離海很遙遠的山裡發現它的蹤影。",
       "height": 0.9,
       "weight": 29.9,
       "types": [
@@ -3974,12 +4036,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 61,
-      "name": "飄飄球",
-      "name_english": "Drifloon",
+      "dex_number": 61,
+      "slug": "drifloon",
+      "name_zh_hant": "飄飄球",
+      "name_en": "Drifloon",
       "name_jp": "フワンテ",
-      "classification": "氣球寶可夢",
-      "description": "漫無目的地浮在空中的樣子，使它在某些民間故事裡被相傳為迷途靈魂的路標。",
+      "classification_zh_hant": "氣球寶可夢",
+      "description_zh_hant": "漫無目的地浮在空中的樣子，使它在某些民間故事裡被相傳為迷途靈魂的路標。",
       "height": 0.4,
       "weight": 1.2,
       "types": [
@@ -4043,12 +4106,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 62,
-      "name": "隨風球",
-      "name_english": "Drifblim",
+      "dex_number": 62,
+      "slug": "drifblim",
+      "name_zh_hant": "隨風球",
+      "name_en": "Drifblim",
       "name_jp": "フワライド",
-      "classification": "熱氣球寶可夢",
-      "description": "會在體內製造或是吐出氣體，以此來調節飛在空中的高度。",
+      "classification_zh_hant": "熱氣球寶可夢",
+      "description_zh_hant": "會在體內製造或是吐出氣體，以此來調節飛在空中的高度。",
       "height": 1.2,
       "weight": 15.0,
       "types": [
@@ -4107,12 +4171,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 63,
-      "name": "螺釘地鼠",
-      "name_english": "Drilbur",
+      "dex_number": 63,
+      "slug": "drilbur",
+      "name_zh_hant": "螺釘地鼠",
+      "name_en": "Drilbur",
       "name_jp": "モグリュー",
-      "classification": "鼴鼠寶可夢",
-      "description": "將雙掌上的爪子併攏，並讓身體高速會旋轉的話，就會以迅猛的速度在地裡前進。",
+      "classification_zh_hant": "鼴鼠寶可夢",
+      "description_zh_hant": "將雙掌上的爪子併攏，並讓身體高速會旋轉的話，就會以迅猛的速度在地裡前進。",
       "height": 0.3,
       "weight": 8.5,
       "types": [
@@ -4167,12 +4232,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 64,
-      "name": "龍頭地鼠",
-      "name_english": "Excadrill",
+      "dex_number": 64,
+      "slug": "excadrill",
+      "name_zh_hant": "龍頭地鼠",
+      "name_en": "Excadrill",
       "name_jp": "ドリュウズ",
-      "classification": "地底寶可夢",
-      "description": "會用變成了鋼的爪和頭組成鑽頭，無論多厚的鐵板都能貫穿。",
+      "classification_zh_hant": "地底寶可夢",
+      "description_zh_hant": "會用變成了鋼的爪和頭組成鑽頭，無論多厚的鐵板都能貫穿。",
       "height": 0.7,
       "weight": 40.4,
       "types": [
@@ -4231,12 +4297,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 65,
-      "name": "搬運小匠",
-      "name_english": "Timburr",
+      "dex_number": 65,
+      "slug": "timburr",
+      "name_zh_hant": "搬運小匠",
+      "name_en": "Timburr",
       "name_jp": "ドッコラー",
-      "classification": "筋骨寶可夢",
-      "description": "經常拿著方材走，幫忙做土木工程。長大後會換大的方材拿。",
+      "classification_zh_hant": "筋骨寶可夢",
+      "description_zh_hant": "經常拿著方材走，幫忙做土木工程。長大後會換大的方材拿。",
       "height": 0.6,
       "weight": 12.5,
       "types": [
@@ -4291,12 +4358,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 66,
-      "name": "鐵骨土人",
-      "name_english": "Gurdurr",
+      "dex_number": 66,
+      "slug": "gurdurr",
+      "name_zh_hant": "鐵骨土人",
+      "name_en": "Gurdurr",
       "name_jp": "ドテッコツ",
-      "classification": "筋骨寶可夢",
-      "description": "扛著工字鋼鍛鍊身體。會和夥伴互相炫耀經過鍛鍊的肌肉。",
+      "classification_zh_hant": "筋骨寶可夢",
+      "description_zh_hant": "扛著工字鋼鍛鍊身體。會和夥伴互相炫耀經過鍛鍊的肌肉。",
       "height": 1.2,
       "weight": 40.0,
       "types": [
@@ -4354,12 +4422,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 67,
-      "name": "修建老匠",
-      "name_english": "Conkeldurr",
+      "dex_number": 67,
+      "slug": "conkeldurr",
+      "name_zh_hant": "修建老匠",
+      "name_en": "Conkeldurr",
       "name_jp": "ローブシン",
-      "classification": "筋骨寶可夢",
-      "description": "製作混凝土的技術，被認為是２０００年前從修建老匠那兒學來的。",
+      "classification_zh_hant": "筋骨寶可夢",
+      "description_zh_hant": "製作混凝土的技術，被認為是２０００年前從修建老匠那兒學來的。",
       "height": 1.4,
       "weight": 87.0,
       "types": [
@@ -4415,12 +4484,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 68,
-      "name": "燭光靈",
-      "name_english": "Litwick",
+      "dex_number": 68,
+      "slug": "litwick",
+      "name_zh_hant": "燭光靈",
+      "name_en": "Litwick",
       "name_jp": "ヒトモシ",
-      "classification": "蠟燭寶可夢",
-      "description": "假裝點亮燭光，指引道路，實際上是在吸取對方的生命力。",
+      "classification_zh_hant": "蠟燭寶可夢",
+      "description_zh_hant": "假裝點亮燭光，指引道路，實際上是在吸取對方的生命力。",
       "height": 0.3,
       "weight": 3.1,
       "types": [
@@ -4481,12 +4551,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 69,
-      "name": "燈火幽靈",
-      "name_english": "Lampent",
+      "dex_number": 69,
+      "slug": "lampent",
+      "name_zh_hant": "燈火幽靈",
+      "name_en": "Lampent",
       "name_jp": "ランプラー",
-      "classification": "油燈寶可夢",
-      "description": "在人類的臨終時刻出現。當人的魂魄離開肉體的瞬間，它就會立即吸取。",
+      "classification_zh_hant": "油燈寶可夢",
+      "description_zh_hant": "在人類的臨終時刻出現。當人的魂魄離開肉體的瞬間，它就會立即吸取。",
       "height": 0.6,
       "weight": 13.0,
       "types": [
@@ -4547,12 +4618,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 70,
-      "name": "水晶燈火靈",
-      "name_english": "Chandelure",
+      "dex_number": 70,
+      "slug": "chandelure",
+      "name_zh_hant": "水晶燈火靈",
+      "name_en": "Chandelure",
       "name_jp": "シャンデラ",
-      "classification": "引誘寶可夢",
-      "description": "被怪異的火焰燃燒過的靈魂無處可去，只能永遠遊蕩在這個世界上。",
+      "classification_zh_hant": "引誘寶可夢",
+      "description_zh_hant": "被怪異的火焰燃燒過的靈魂無處可去，只能永遠遊蕩在這個世界上。",
       "height": 1.0,
       "weight": 34.3,
       "types": [
@@ -4610,12 +4682,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 71,
-      "name": "牙牙",
-      "name_english": "Axew",
+      "dex_number": 71,
+      "slug": "axew",
+      "name_zh_hant": "牙牙",
+      "name_en": "Axew",
       "name_jp": "キバゴ",
-      "classification": "牙寶可夢",
-      "description": "在地面上築巢居住。用牙齒粉碎堅硬的樹果，和夥伴比拼力氣。",
+      "classification_zh_hant": "牙寶可夢",
+      "description_zh_hant": "在地面上築巢居住。用牙齒粉碎堅硬的樹果，和夥伴比拼力氣。",
       "height": 0.6,
       "weight": 18.0,
       "types": [
@@ -4673,12 +4746,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 72,
-      "name": "斧牙龍",
-      "name_english": "Fraxure",
+      "dex_number": 72,
+      "slug": "fraxure",
+      "name_zh_hant": "斧牙龍",
+      "name_en": "Fraxure",
       "name_jp": "オノンド",
-      "classification": "顎斧寶可夢",
-      "description": "會使用粗壯的牙齒利落地分解獵物，然後把當下要吃的份和存糧的份分開。",
+      "classification_zh_hant": "顎斧寶可夢",
+      "description_zh_hant": "會使用粗壯的牙齒利落地分解獵物，然後把當下要吃的份和存糧的份分開。",
       "height": 1.0,
       "weight": 36.0,
       "types": [
@@ -4736,12 +4810,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 73,
-      "name": "雙斧戰龍",
-      "name_english": "Haxorus",
+      "dex_number": 73,
+      "slug": "haxorus",
+      "name_zh_hant": "雙斧戰龍",
+      "name_en": "Haxorus",
       "name_jp": "オノノクス",
-      "classification": "顎斧寶可夢",
-      "description": "堅固的大牙是它的驕傲。為了保持牙齒的強度，會舔泥土來補充礦物質。",
+      "classification_zh_hant": "顎斧寶可夢",
+      "description_zh_hant": "堅固的大牙是它的驕傲。為了保持牙齒的強度，會舔泥土來補充礦物質。",
       "height": 1.8,
       "weight": 105.5,
       "types": [
@@ -4800,12 +4875,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 74,
-      "name": "黏黏寶",
-      "name_english": "Goomy",
+      "dex_number": 74,
+      "slug": "goomy",
+      "name_zh_hant": "黏黏寶",
+      "name_en": "Goomy",
       "name_jp": "ヌメラ",
-      "classification": "軟體生物寶可夢",
-      "description": "身體幾乎都是水分。會用黏膜包裹全身，來避免隨環境乾燥而變幹。",
+      "classification_zh_hant": "軟體生物寶可夢",
+      "description_zh_hant": "身體幾乎都是水分。會用黏膜包裹全身，來避免隨環境乾燥而變幹。",
       "height": 0.3,
       "weight": 2.8,
       "types": [
@@ -4863,12 +4939,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 75,
-      "name": "黏美兒",
-      "name_english": "Sliggoo",
+      "dex_number": 75,
+      "slug": "sliggoo",
+      "name_zh_hant": "黏美兒",
+      "name_en": "Sliggoo",
       "name_jp": "ヌメイル",
-      "classification": "軟體生物寶可夢",
-      "description": "背上漩渦狀的突起物裡裝著它的大腦和心臟等所有重要的器官。",
+      "classification_zh_hant": "軟體生物寶可夢",
+      "description_zh_hant": "背上漩渦狀的突起物裡裝著它的大腦和心臟等所有重要的器官。",
       "height": 0.8,
       "weight": 17.5,
       "types": [
@@ -4923,12 +5000,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 76,
-      "name": "黏美龍",
-      "name_english": "Goodra",
+      "dex_number": 76,
+      "slug": "goodra",
+      "name_zh_hant": "黏美龍",
+      "name_en": "Goodra",
       "name_jp": "ヌメルゴン",
-      "classification": "龍寶可夢",
-      "description": "用伸長角產生的力道來攻擊對手，產生的威力比重量級拳擊手的拳擊還強１００倍。",
+      "classification_zh_hant": "龍寶可夢",
+      "description_zh_hant": "用伸長角產生的力道來攻擊對手，產生的威力比重量級拳擊手的拳擊還強１００倍。",
       "height": 2.0,
       "weight": 150.5,
       "types": [
@@ -4984,12 +5062,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 77,
-      "name": "古月鳥",
-      "name_english": "Cramorant",
+      "dex_number": 77,
+      "slug": "cramorant",
+      "name_zh_hant": "古月鳥",
+      "name_en": "Cramorant",
       "name_jp": "ウッウ",
-      "classification": "一口吞寶可夢",
-      "description": "擁有將什麼東西都一口吞下的習性。越是為喉嚨卡住過大獵物而煩惱的古月鳥就越難對付。",
+      "classification_zh_hant": "一口吞寶可夢",
+      "description_zh_hant": "擁有將什麼東西都一口吞下的習性。越是為喉嚨卡住過大獵物而煩惱的古月鳥就越難對付。",
       "height": 0.8,
       "weight": 18.0,
       "types": [
@@ -5048,12 +5127,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 78,
-      "name": "皮丘",
-      "name_english": "Pichu",
+      "dex_number": 78,
+      "slug": "pichu",
+      "name_zh_hant": "皮丘",
+      "name_en": "Pichu",
       "name_jp": "ピチュー",
-      "classification": "小鼠寶可夢",
-      "description": "臉頰上有電力袋。充滿電時就會精神十足地四處玩耍。",
+      "classification_zh_hant": "小鼠寶可夢",
+      "description_zh_hant": "臉頰上有電力袋。充滿電時就會精神十足地四處玩耍。",
       "height": 0.3,
       "weight": 2.0,
       "types": [
@@ -5108,12 +5188,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 79,
-      "name": "皮卡丘（淺色）",
-      "name_english": "Peakychu",
+      "dex_number": 79,
+      "slug": "peakychu",
+      "name_zh_hant": "皮卡丘（淺色）",
+      "name_en": "Peakychu",
       "name_jp": "ピカチュウ(うすチュウ)",
-      "classification": "鼠寶可夢",
-      "description": "不斷將自己的電力分給病倒的夥伴，最終體質發生變化，再也無法發電了。",
+      "classification_zh_hant": "鼠寶可夢",
+      "description_zh_hant": "不斷將自己的電力分給病倒的夥伴，最終體質發生變化，再也無法發電了。",
       "height": 0.4,
       "weight": 6.0,
       "types": [
@@ -5168,12 +5249,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 79,
-      "name": "皮卡丘",
-      "name_english": "Pikachu",
+      "dex_number": 79,
+      "slug": "pikachu",
+      "name_zh_hant": "皮卡丘",
+      "name_en": "Pikachu",
       "name_jp": "ピカチュウ",
-      "classification": "鼠寶可夢",
-      "description": "越是能製造出強大電流的皮卡丘，臉頰上的囊就越柔軟，同時也越有伸展性。",
+      "classification_zh_hant": "鼠寶可夢",
+      "description_zh_hant": "越是能製造出強大電流的皮卡丘，臉頰上的囊就越柔軟，同時也越有伸展性。",
       "height": 0.4,
       "weight": 6.0,
       "types": [
@@ -5228,12 +5310,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 80,
-      "name": "雷丘",
-      "name_english": "Raichu",
+      "dex_number": 80,
+      "slug": "raichu",
+      "name_zh_hant": "雷丘",
+      "name_en": "Raichu",
       "name_jp": "ライチュウ",
-      "classification": "鼠寶可夢",
-      "description": "尾巴會發揮接地線的作用把電匯入地面，因此自己不會被電到。",
+      "classification_zh_hant": "鼠寶可夢",
+      "description_zh_hant": "尾巴會發揮接地線的作用把電匯入地面，因此自己不會被電到。",
       "height": 0.8,
       "weight": 30.0,
       "types": [
@@ -5289,12 +5372,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 81,
-      "name": "超音蝠",
-      "name_english": "Zubat",
+      "dex_number": 81,
+      "slug": "zubat",
+      "name_zh_hant": "超音蝠",
+      "name_en": "Zubat",
       "name_jp": "ズバット",
-      "classification": "蝙蝠寶可夢",
-      "description": "沒有雙眼。會從嘴裡發出超音波在黑暗中飛來飛去。",
+      "classification_zh_hant": "蝙蝠寶可夢",
+      "description_zh_hant": "沒有雙眼。會從嘴裡發出超音波在黑暗中飛來飛去。",
       "height": 0.8,
       "weight": 7.5,
       "types": [
@@ -5355,12 +5439,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 82,
-      "name": "大嘴蝠",
-      "name_english": "Golbat",
+      "dex_number": 82,
+      "slug": "golbat",
+      "name_zh_hant": "大嘴蝠",
+      "name_en": "Golbat",
       "name_jp": "ゴルバット",
-      "classification": "蝙蝠寶可夢",
-      "description": "用小而靈活的腳走路。會悄悄接近正在睡覺的獵物，用尖牙咬住對方吸取血液。",
+      "classification_zh_hant": "蝙蝠寶可夢",
+      "description_zh_hant": "用小而靈活的腳走路。會悄悄接近正在睡覺的獵物，用尖牙咬住對方吸取血液。",
       "height": 1.6,
       "weight": 55.0,
       "types": [
@@ -5418,12 +5503,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 83,
-      "name": "叉字蝠",
-      "name_english": "Crobat",
+      "dex_number": 83,
+      "slug": "crobat",
+      "name_zh_hant": "叉字蝠",
+      "name_en": "Crobat",
       "name_jp": "クロバット",
-      "classification": "蝙蝠寶可夢",
-      "description": "會用增加到２對的翅膀在黑暗中靜靜飛行。就算它從身旁飛過也不會察覺。",
+      "classification_zh_hant": "蝙蝠寶可夢",
+      "description_zh_hant": "會用增加到２對的翅膀在黑暗中靜靜飛行。就算它從身旁飛過也不會察覺。",
       "height": 1.8,
       "weight": 75.0,
       "types": [
@@ -5485,12 +5571,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 84,
-      "name": "喵喵",
-      "name_english": "Meowth",
+      "dex_number": 84,
+      "slug": "meowth",
+      "name_zh_hant": "喵喵",
+      "name_en": "Meowth",
       "name_jp": "ニャース",
-      "classification": "妖怪貓寶可夢",
-      "description": "貌似一到晚上就精力充沛。喜歡又圓又亮的東西，發現了就一定要撿走。",
+      "classification_zh_hant": "妖怪貓寶可夢",
+      "description_zh_hant": "貌似一到晚上就精力充沛。喜歡又圓又亮的東西，發現了就一定要撿走。",
       "height": 0.4,
       "weight": 4.2,
       "types": [
@@ -5548,12 +5635,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 85,
-      "name": "貓老大",
-      "name_english": "Persian",
+      "dex_number": 85,
+      "slug": "persian",
+      "name_zh_hant": "貓老大",
+      "name_en": "Persian",
       "name_jp": "ペルシアン",
-      "classification": "暹羅貓寶可夢",
-      "description": "額頭上的寶石閃閃發亮！走路的姿態也十分優美，就像女王一樣華麗高貴。",
+      "classification_zh_hant": "暹羅貓寶可夢",
+      "description_zh_hant": "額頭上的寶石閃閃發亮！走路的姿態也十分優美，就像女王一樣華麗高貴。",
       "height": 1.0,
       "weight": 32.0,
       "types": [
@@ -5609,12 +5697,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 86,
-      "name": "可達鴨",
-      "name_english": "Psyduck",
+      "dex_number": 86,
+      "slug": "psyduck",
+      "name_zh_hant": "可達鴨",
+      "name_en": "Psyduck",
       "name_jp": "コダック",
-      "classification": "鴨寶可夢",
-      "description": "一直受到頭痛的困擾。在頭痛欲裂時，就會開始使用神奇的力量。",
+      "classification_zh_hant": "鴨寶可夢",
+      "description_zh_hant": "一直受到頭痛的困擾。在頭痛欲裂時，就會開始使用神奇的力量。",
       "height": 0.8,
       "weight": 19.6,
       "types": [
@@ -5669,12 +5758,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 87,
-      "name": "哥達鴨",
-      "name_english": "Golduck",
+      "dex_number": 87,
+      "slug": "golduck",
+      "name_zh_hant": "哥達鴨",
+      "name_en": "Golduck",
       "name_jp": "ゴルダック",
-      "classification": "鴨寶可夢",
-      "description": "喜歡水流平穩的河川與湖泊。它游泳的姿態非常優雅。",
+      "classification_zh_hant": "鴨寶可夢",
+      "description_zh_hant": "喜歡水流平穩的河川與湖泊。它游泳的姿態非常優雅。",
       "height": 1.7,
       "weight": 76.6,
       "types": [
@@ -5729,12 +5819,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 88,
-      "name": "卡蒂狗",
-      "name_english": "Growlithe",
+      "dex_number": 88,
+      "slug": "growlithe",
+      "name_zh_hant": "卡蒂狗",
+      "name_en": "Growlithe",
       "name_jp": "ガーディ",
-      "classification": "小狗寶可夢",
-      "description": "能毫無畏懼地去對抗比自己更強更大的對手。性格勇敢非常可靠。",
+      "classification_zh_hant": "小狗寶可夢",
+      "description_zh_hant": "能毫無畏懼地去對抗比自己更強更大的對手。性格勇敢非常可靠。",
       "height": 0.7,
       "weight": 19.0,
       "types": [
@@ -5793,12 +5884,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 89,
-      "name": "風速狗",
-      "name_english": "Arcanine",
+      "dex_number": 89,
+      "slug": "arcanine",
+      "name_zh_hant": "風速狗",
+      "name_en": "Arcanine",
       "name_jp": "ウインディ",
-      "classification": "傳說寶可夢",
-      "description": "根據過去的畫卷記載，它在草原上賓士的姿態俘虜了眾多人心。",
+      "classification_zh_hant": "傳說寶可夢",
+      "description_zh_hant": "根據過去的畫卷記載，它在草原上賓士的姿態俘虜了眾多人心。",
       "height": 1.9,
       "weight": 155.0,
       "types": [
@@ -5857,12 +5949,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 90,
-      "name": "大蔥鴨",
-      "name_english": "Farfetch'd",
+      "dex_number": 90,
+      "slug": "farfetchd",
+      "name_zh_hant": "大蔥鴨",
+      "name_en": "Farfetch'd",
       "name_jp": "カモネギ",
-      "classification": "黃嘴鴨寶可夢",
-      "description": "走路的同時，手上會一直拿著１根用來給自己築巢的植物莖。",
+      "classification_zh_hant": "黃嘴鴨寶可夢",
+      "description_zh_hant": "走路的同時，手上會一直拿著１根用來給自己築巢的植物莖。",
       "height": 0.8,
       "weight": 15.0,
       "types": [
@@ -5921,12 +6014,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 91,
-      "name": "臭泥",
-      "name_english": "Grimer",
+      "dex_number": 91,
+      "slug": "grimer",
+      "name_zh_hant": "臭泥",
+      "name_en": "Grimer",
       "name_jp": "ベトベター",
-      "classification": "汙泥寶可夢",
-      "description": "由汙泥變成的寶可夢。會聚集在骯髒的地方來繁殖身體的細菌。",
+      "classification_zh_hant": "汙泥寶可夢",
+      "description_zh_hant": "由汙泥變成的寶可夢。會聚集在骯髒的地方來繁殖身體的細菌。",
       "height": 0.9,
       "weight": 30.0,
       "types": [
@@ -5981,12 +6075,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 92,
-      "name": "臭臭泥",
-      "name_english": "Muk",
+      "dex_number": 92,
+      "slug": "muk",
+      "name_zh_hant": "臭臭泥",
+      "name_en": "Muk",
       "name_jp": "ベトベトン",
-      "classification": "汙泥寶可夢",
-      "description": "非常難聞！氣味臭到讓人窒息，但由於鼻子的退化，它自己完全聞不到味道。",
+      "classification_zh_hant": "汙泥寶可夢",
+      "description_zh_hant": "非常難聞！氣味臭到讓人窒息，但由於鼻子的退化，它自己完全聞不到味道。",
       "height": 1.2,
       "weight": 30.0,
       "types": [
@@ -6041,12 +6136,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 93,
-      "name": "鬼斯",
-      "name_english": "Gastly",
+      "dex_number": 93,
+      "slug": "gastly",
+      "name_zh_hant": "鬼斯",
+      "name_en": "Gastly",
       "name_jp": "ゴース",
-      "classification": "氣體狀寶可夢",
-      "description": "它似乎會在沒人居住的舊屋子裡出現。形狀不清，彷彿就像是氣體一樣。",
+      "classification_zh_hant": "氣體狀寶可夢",
+      "description_zh_hant": "它似乎會在沒人居住的舊屋子裡出現。形狀不清，彷彿就像是氣體一樣。",
       "height": 1.3,
       "weight": 0.1,
       "types": [
@@ -6105,12 +6201,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 94,
-      "name": "鬼斯通",
-      "name_english": "Haunter",
+      "dex_number": 94,
+      "slug": "haunter",
+      "name_zh_hant": "鬼斯通",
+      "name_en": "Haunter",
       "name_jp": "ゴースト",
-      "classification": "氣體狀寶可夢",
-      "description": "如果黑暗中空空如也，但你卻感覺被什麼盯上了，那麼鬼斯通一定就在那裡。",
+      "classification_zh_hant": "氣體狀寶可夢",
+      "description_zh_hant": "如果黑暗中空空如也，但你卻感覺被什麼盯上了，那麼鬼斯通一定就在那裡。",
       "height": 1.6,
       "weight": 0.1,
       "types": [
@@ -6172,12 +6269,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 95,
-      "name": "耿鬼",
-      "name_english": "Gengar",
+      "dex_number": 95,
+      "slug": "gengar",
+      "name_zh_hant": "耿鬼",
+      "name_en": "Gengar",
       "name_jp": "ゲンガー",
-      "classification": "影子寶可夢",
-      "description": "如果你突然感到寒氣逼近，就說明耿鬼在你身邊，或許它已經在你身上下了詛咒。",
+      "classification_zh_hant": "影子寶可夢",
+      "description_zh_hant": "如果你突然感到寒氣逼近，就說明耿鬼在你身邊，或許它已經在你身上下了詛咒。",
       "height": 1.5,
       "weight": 40.5,
       "types": [
@@ -6236,12 +6334,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 96,
-      "name": "霹靂電球",
-      "name_english": "Voltorb",
+      "dex_number": 96,
+      "slug": "voltorb",
+      "name_zh_hant": "霹靂電球",
+      "name_en": "Voltorb",
       "name_jp": "ビリリダマ",
-      "classification": "球寶可夢",
-      "description": "據說它與精靈球相似的外形其實是它的保護色，但它很容易自爆這一點也出人意料。",
+      "classification_zh_hant": "球寶可夢",
+      "description_zh_hant": "據說它與精靈球相似的外形其實是它的保護色，但它很容易自爆這一點也出人意料。",
       "height": 0.5,
       "weight": 10.4,
       "types": [
@@ -6300,12 +6399,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 97,
-      "name": "頑皮雷彈",
-      "name_english": "Electrode",
+      "dex_number": 97,
+      "slug": "electrode",
+      "name_zh_hant": "頑皮雷彈",
+      "name_en": "Electrode",
       "name_jp": "マルマイン",
-      "classification": "球寶可夢",
-      "description": "因為體內儲存著多到快要溢位的電能，所以稍微受點刺激便會爆炸。",
+      "classification_zh_hant": "球寶可夢",
+      "description_zh_hant": "因為體內儲存著多到快要溢位的電能，所以稍微受點刺激便會爆炸。",
       "height": 1.2,
       "weight": 66.6,
       "types": [
@@ -6364,12 +6464,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 98,
-      "name": "蛋蛋",
-      "name_english": "Exeggcute",
+      "dex_number": 98,
+      "slug": "exeggcute",
+      "name_zh_hant": "蛋蛋",
+      "name_en": "Exeggcute",
       "name_jp": "タマタマ",
-      "classification": "蛋寶可夢",
-      "description": "因為會互相發出僅能在蛋蛋之間傳遞的心靈感應，所以無論何時都能集齊６只。",
+      "classification_zh_hant": "蛋寶可夢",
+      "description_zh_hant": "因為會互相發出僅能在蛋蛋之間傳遞的心靈感應，所以無論何時都能集齊６只。",
       "height": 0.4,
       "weight": 2.5,
       "types": [
@@ -6431,12 +6532,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 99,
-      "name": "椰蛋樹",
-      "name_english": "Exeggutor",
+      "dex_number": 99,
+      "slug": "exeggutor",
+      "name_zh_hant": "椰蛋樹",
+      "name_en": "Exeggutor",
       "name_jp": "ナッシー",
-      "classification": "椰子寶可夢",
-      "description": "３個腦袋分別在想不同的事。似乎對自己以外的事物沒有什麼興趣。",
+      "classification_zh_hant": "椰子寶可夢",
+      "description_zh_hant": "３個腦袋分別在想不同的事。似乎對自己以外的事物沒有什麼興趣。",
       "height": 2.0,
       "weight": 120.0,
       "types": [
@@ -6498,12 +6600,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 100,
-      "name": "小福蛋",
-      "name_english": "Happiny",
+      "dex_number": 100,
+      "slug": "happiny",
+      "name_zh_hant": "小福蛋",
+      "name_en": "Happiny",
       "name_jp": "ピンプク",
-      "classification": "家家酒寶可夢",
-      "description": "深信白白圓滾滾的石頭是蛋，很小心翼翼地拿著。很在意自己捲毛的形狀。",
+      "classification_zh_hant": "家家酒寶可夢",
+      "description_zh_hant": "深信白白圓滾滾的石頭是蛋，很小心翼翼地拿著。很在意自己捲毛的形狀。",
       "height": 0.6,
       "weight": 24.4,
       "types": [
@@ -6561,12 +6664,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 101,
-      "name": "吉利蛋",
-      "name_english": "Chansey",
+      "dex_number": 101,
+      "slug": "chansey",
+      "name_zh_hant": "吉利蛋",
+      "name_en": "Chansey",
       "name_jp": "ラッキー",
-      "classification": "蛋寶可夢",
-      "description": "性格溫柔的寶可夢，當它看到受傷的寶可夢時，會把營養豐富的蛋分給對方。",
+      "classification_zh_hant": "蛋寶可夢",
+      "description_zh_hant": "性格溫柔的寶可夢，當它看到受傷的寶可夢時，會把營養豐富的蛋分給對方。",
       "height": 1.1,
       "weight": 34.6,
       "types": [
@@ -6621,12 +6725,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 102,
-      "name": "幸福蛋",
-      "name_english": "Blissey",
+      "dex_number": 102,
+      "slug": "blissey",
+      "name_zh_hant": "幸福蛋",
+      "name_en": "Blissey",
       "name_jp": "ハピナス",
-      "classification": "幸福寶可夢",
-      "description": "幸福蛋生的蛋裡飽含幸福，只要吃上一口，不管是誰都會笑逐顏開。",
+      "classification_zh_hant": "幸福寶可夢",
+      "description_zh_hant": "幸福蛋生的蛋裡飽含幸福，只要吃上一口，不管是誰都會笑逐顏開。",
       "height": 1.5,
       "weight": 46.8,
       "types": [
@@ -6682,12 +6787,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 103,
-      "name": "電擊怪",
-      "name_english": "Elekid",
+      "dex_number": 103,
+      "slug": "elekid",
+      "name_zh_hant": "電擊怪",
+      "name_en": "Elekid",
       "name_jp": "エレキッド",
-      "classification": "電氣寶可夢",
-      "description": "會一圈圈掄動雙臂產生電力，但很快就會感到疲憊，因此只能儲存少量電力。",
+      "classification_zh_hant": "電氣寶可夢",
+      "description_zh_hant": "會一圈圈掄動雙臂產生電力，但很快就會感到疲憊，因此只能儲存少量電力。",
       "height": 0.6,
       "weight": 23.5,
       "types": [
@@ -6742,12 +6848,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 104,
-      "name": "電擊獸",
-      "name_english": "Electabuzz",
+      "dex_number": 104,
+      "slug": "electabuzz",
+      "name_zh_hant": "電擊獸",
+      "name_en": "Electabuzz",
       "name_jp": "エレブー",
-      "classification": "電擊寶可夢",
-      "description": "全身總是在放電，因此接近它的話，頭髮就會豎起來。",
+      "classification_zh_hant": "電擊寶可夢",
+      "description_zh_hant": "全身總是在放電，因此接近它的話，頭髮就會豎起來。",
       "height": 1.1,
       "weight": 30.0,
       "types": [
@@ -6805,12 +6912,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 105,
-      "name": "電擊魔獸",
-      "name_english": "Electivire",
+      "dex_number": 105,
+      "slug": "electivire",
+      "name_zh_hant": "電擊魔獸",
+      "name_en": "Electivire",
       "name_jp": "エレキブル",
-      "classification": "雷電寶可夢",
-      "description": "只要１只電擊魔獸就能提供一座大城市的建築物１年所需的全部電力。",
+      "classification_zh_hant": "雷電寶可夢",
+      "description_zh_hant": "只要１只電擊魔獸就能提供一座大城市的建築物１年所需的全部電力。",
       "height": 1.8,
       "weight": 138.6,
       "types": [
@@ -6869,12 +6977,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 106,
-      "name": "拉普拉斯",
-      "name_english": "Lapras",
+      "dex_number": 106,
+      "slug": "lapras",
+      "name_zh_hant": "拉普拉斯",
+      "name_en": "Lapras",
       "name_jp": "ラプラス",
-      "classification": "乘載寶可夢",
-      "description": "頭腦聰慧，心地善良的寶可夢。會一邊以優美的聲音歌唱，一邊暢遊於大海之上。",
+      "classification_zh_hant": "乘載寶可夢",
+      "description_zh_hant": "頭腦聰慧，心地善良的寶可夢。會一邊以優美的聲音歌唱，一邊暢遊於大海之上。",
       "height": 2.5,
       "weight": 220.0,
       "types": [
@@ -6932,12 +7041,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 107,
-      "name": "小卡比獸",
-      "name_english": "Munchlax",
+      "dex_number": 107,
+      "slug": "munchlax",
+      "name_zh_hant": "小卡比獸",
+      "name_en": "Munchlax",
       "name_jp": "ゴンベ",
-      "classification": "大胃王寶可夢",
-      "description": "會在拼命進食的途中忘記藏到體毛下的食物。",
+      "classification_zh_hant": "大胃王寶可夢",
+      "description_zh_hant": "會在拼命進食的途中忘記藏到體毛下的食物。",
       "height": 0.6,
       "weight": 105.0,
       "types": [
@@ -6995,12 +7105,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 108,
-      "name": "卡比獸（萌苔）",
-      "name_english": "Mosslax",
+      "dex_number": 108,
+      "slug": "mosslax",
+      "name_zh_hant": "卡比獸（萌苔）",
+      "name_en": "Mosslax",
       "name_jp": "カビゴン(こけむし)",
-      "classification": "瞌睡寶可夢",
-      "description": "打架輸了後賭氣睡覺，結果被土埋住了。睡著睡著，逐漸忘記了和誰打的架。",
+      "classification_zh_hant": "瞌睡寶可夢",
+      "description_zh_hant": "打架輸了後賭氣睡覺，結果被土埋住了。睡著睡著，逐漸忘記了和誰打的架。",
       "height": 2.1,
       "weight": 460.0,
       "types": [
@@ -7055,12 +7166,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 108,
-      "name": "卡比獸",
-      "name_english": "Snorlax",
+      "dex_number": 108,
+      "slug": "snorlax",
+      "name_zh_hant": "卡比獸",
+      "name_en": "Snorlax",
       "name_jp": "カビゴン",
-      "classification": "瞌睡寶可夢",
-      "description": "平時不是吃就是睡，但如果因某些事而認真起來的話，好像就會發揮出驚人的力量。",
+      "classification_zh_hant": "瞌睡寶可夢",
+      "description_zh_hant": "平時不是吃就是睡，但如果因某些事而認真起來的話，好像就會發揮出驚人的力量。",
       "height": 2.1,
       "weight": 460.0,
       "types": [
@@ -7119,12 +7231,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 109,
-      "name": "圓絲蛛",
-      "name_english": "Spinarak",
+      "dex_number": 109,
+      "slug": "spinarak",
+      "name_zh_hant": "圓絲蛛",
+      "name_en": "Spinarak",
       "name_jp": "イトマル",
-      "classification": "吐絲寶可夢",
-      "description": "由它吐絲製成的巢穴非常堅固。即便放上１０公斤重的岩石也不會破掉。",
+      "classification_zh_hant": "吐絲寶可夢",
+      "description_zh_hant": "由它吐絲製成的巢穴非常堅固。即便放上１０公斤重的岩石也不會破掉。",
       "height": 0.5,
       "weight": 8.5,
       "types": [
@@ -7182,12 +7295,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 110,
-      "name": "阿利多斯",
-      "name_english": "Ariados",
+      "dex_number": 110,
+      "slug": "ariados",
+      "name_zh_hant": "阿利多斯",
+      "name_en": "Ariados",
       "name_jp": "アリアドス",
-      "classification": "長腿寶可夢",
-      "description": "不僅會從臀部，還會從口中吐出絲來，所以僅憑眼睛看，無法分清哪邊才是頭。",
+      "classification_zh_hant": "長腿寶可夢",
+      "description_zh_hant": "不僅會從臀部，還會從口中吐出絲來，所以僅憑眼睛看，無法分清哪邊才是頭。",
       "height": 1.1,
       "weight": 33.5,
       "types": [
@@ -7245,12 +7359,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 111,
-      "name": "咩利羊",
-      "name_english": "Mareep",
+      "dex_number": 111,
+      "slug": "mareep",
+      "name_zh_hant": "咩利羊",
+      "name_en": "Mareep",
       "name_jp": "メリープ",
-      "classification": "綿毛寶可夢",
-      "description": "身體裡儲存了靜電後，體毛就會膨脹到平時的２倍。一旦觸控就會觸電。",
+      "classification_zh_hant": "綿毛寶可夢",
+      "description_zh_hant": "身體裡儲存了靜電後，體毛就會膨脹到平時的２倍。一旦觸控就會觸電。",
       "height": 0.6,
       "weight": 7.8,
       "types": [
@@ -7309,12 +7424,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 112,
-      "name": "茸茸羊",
-      "name_english": "Flaaffy",
+      "dex_number": 112,
+      "slug": "flaaffy",
+      "name_zh_hant": "茸茸羊",
+      "name_en": "Flaaffy",
       "name_jp": "モココ",
-      "classification": "綿毛寶可夢",
-      "description": "由於儲存了過多電力，造成它身體表面有些部分連絨毛都長不出來了。",
+      "classification_zh_hant": "綿毛寶可夢",
+      "description_zh_hant": "由於儲存了過多電力，造成它身體表面有些部分連絨毛都長不出來了。",
       "height": 0.8,
       "weight": 13.3,
       "types": [
@@ -7373,12 +7489,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 113,
-      "name": "電龍",
-      "name_english": "Ampharos",
+      "dex_number": 113,
+      "slug": "ampharos",
+      "name_zh_hant": "電龍",
+      "name_en": "Ampharos",
       "name_jp": "デンリュウ",
-      "classification": "燈寶可夢",
-      "description": "每當天色變暗，尾巴就會發出耀眼的光輝，即使是從遙遠的海上也能被發現。",
+      "classification_zh_hant": "燈寶可夢",
+      "description_zh_hant": "每當天色變暗，尾巴就會發出耀眼的光輝，即使是從遙遠的海上也能被發現。",
       "height": 1.4,
       "weight": 61.5,
       "types": [
@@ -7434,12 +7551,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 114,
-      "name": "露力麗",
-      "name_english": "Azurill",
+      "dex_number": 114,
+      "slug": "azurill",
+      "name_zh_hant": "露力麗",
+      "name_en": "Azurill",
       "name_jp": "ルリリ",
-      "classification": "水珠寶可夢",
-      "description": "又圓又大的尾巴里貯滿了它在成長時所需要的營養。",
+      "classification_zh_hant": "水珠寶可夢",
+      "description_zh_hant": "又圓又大的尾巴里貯滿了它在成長時所需要的營養。",
       "height": 0.2,
       "weight": 2.0,
       "types": [
@@ -7501,12 +7619,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 115,
-      "name": "瑪力露",
-      "name_english": "Marill",
+      "dex_number": 115,
+      "slug": "marill",
+      "name_zh_hant": "瑪力露",
+      "name_en": "Marill",
       "name_jp": "マリル",
-      "classification": "水鼠寶可夢",
-      "description": "存滿了油脂的尾巴能用來代替浮囊，因此面對湍急的河流也不成問題。",
+      "classification_zh_hant": "水鼠寶可夢",
+      "description_zh_hant": "存滿了油脂的尾巴能用來代替浮囊，因此面對湍急的河流也不成問題。",
       "height": 0.4,
       "weight": 8.5,
       "types": [
@@ -7568,12 +7687,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 116,
-      "name": "瑪力露麗",
-      "name_english": "Azumarill",
+      "dex_number": 116,
+      "slug": "azumarill",
+      "name_zh_hant": "瑪力露麗",
+      "name_en": "Azumarill",
       "name_jp": "マリルリ",
-      "classification": "水兔寶可夢",
-      "description": "長長的耳朵是靈敏的感應器。透過聆聽水中的聲音，能分辨出是什麼在動。",
+      "classification_zh_hant": "水兔寶可夢",
+      "description_zh_hant": "長長的耳朵是靈敏的感應器。透過聆聽水中的聲音，能分辨出是什麼在動。",
       "height": 0.8,
       "weight": 28.5,
       "types": [
@@ -7632,12 +7752,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 117,
-      "name": "烏波（帕底亞的樣子）",
-      "name_english": "Paldean Wooper",
+      "dex_number": 117,
+      "slug": "paldean-wooper",
+      "name_zh_hant": "烏波（帕底亞的樣子）",
+      "name_en": "Paldean Wooper",
       "name_jp": "ウパー(パルデア)",
-      "classification": "水魚寶可夢",
-      "description": "在地盤的爭奪中落敗而到陸地生活，漸漸地就變成用有毒的粘膜來保護身體。",
+      "classification_zh_hant": "水魚寶可夢",
+      "description_zh_hant": "在地盤的爭奪中落敗而到陸地生活，漸漸地就變成用有毒的粘膜來保護身體。",
       "height": 0.4,
       "weight": 8.5,
       "types": [
@@ -7695,12 +7816,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 118,
-      "name": "土王",
-      "name_english": "Clodsire",
+      "dex_number": 118,
+      "slug": "clodsire",
+      "name_zh_hant": "土王",
+      "name_en": "Clodsire",
       "name_jp": "ドオー",
-      "classification": "刺魚寶可夢",
-      "description": "棲息在池塘或沼澤的底部。會讓烏波坐在自己背上，然後遊著泳把它送到對岸去。",
+      "classification_zh_hant": "刺魚寶可夢",
+      "description_zh_hant": "棲息在池塘或沼澤的底部。會讓烏波坐在自己背上，然後遊著泳把它送到對岸去。",
       "height": 1.8,
       "weight": 223.0,
       "types": [
@@ -7762,12 +7884,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 119,
-      "name": "圖圖犬（彩繪匠）",
-      "name_english": "Smeargle",
+      "dex_number": 119,
+      "slug": "smeargle",
+      "name_zh_hant": "圖圖犬（彩繪匠）",
+      "name_en": "Smeargle",
       "name_jp": "ドーブル",
-      "classification": "畫畫寶可夢",
-      "description": "尾巴尖端會滲出的各種顏色的體液，可以當作顏料使用。夢想有朝一日能描繪出家鄉的景色。",
+      "classification_zh_hant": "畫畫寶可夢",
+      "description_zh_hant": "尾巴尖端會滲出的各種顏色的體液，可以當作顏料使用。夢想有朝一日能描繪出家鄉的景色。",
       "height": 1.2,
       "weight": 58.0,
       "types": [
@@ -7822,12 +7945,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 120,
-      "name": "火稚雞",
-      "name_english": "Torchic",
+      "dex_number": 120,
+      "slug": "torchic",
+      "name_zh_hant": "火稚雞",
+      "name_en": "Torchic",
       "name_jp": "アチャモ",
-      "classification": "雛雞寶可夢",
-      "description": "肚子裡有燃燒火焰的囊袋，所以緊緊抱住它的時候，會感到像熱水袋一樣溫暖。",
+      "classification_zh_hant": "雛雞寶可夢",
+      "description_zh_hant": "肚子裡有燃燒火焰的囊袋，所以緊緊抱住它的時候，會感到像熱水袋一樣溫暖。",
       "height": 0.4,
       "weight": 2.5,
       "types": [
@@ -7885,12 +8009,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 121,
-      "name": "力壯雞",
-      "name_english": "Combusken",
+      "dex_number": 121,
+      "slug": "combusken",
+      "name_zh_hant": "力壯雞",
+      "name_en": "Combusken",
       "name_jp": "ワカシャモ",
-      "classification": "幼雞寶可夢",
-      "description": "會發出尖銳的叫聲來提高注意力。腿技的破壞力超群。",
+      "classification_zh_hant": "幼雞寶可夢",
+      "description_zh_hant": "會發出尖銳的叫聲來提高注意力。腿技的破壞力超群。",
       "height": 0.9,
       "weight": 19.5,
       "types": [
@@ -7952,12 +8077,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 122,
-      "name": "火焰雞",
-      "name_english": "Blaziken",
+      "dex_number": 122,
+      "slug": "blaziken",
+      "name_zh_hant": "火焰雞",
+      "name_en": "Blaziken",
       "name_jp": "バシャーモ",
-      "classification": "猛火寶可夢",
-      "description": "遇到強敵時會從手腕噴出火焰。有著能夠躍過大樓的腳力。",
+      "classification_zh_hant": "猛火寶可夢",
+      "description_zh_hant": "遇到強敵時會從手腕噴出火焰。有著能夠躍過大樓的腳力。",
       "height": 1.9,
       "weight": 52.0,
       "types": [
@@ -8019,12 +8145,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 123,
-      "name": "長翅鷗",
-      "name_english": "Wingull",
+      "dex_number": 123,
+      "slug": "wingull",
+      "name_zh_hant": "長翅鷗",
+      "name_en": "Wingull",
       "name_jp": "キャモメ",
-      "classification": "海鷗寶可夢",
-      "description": "會用長長的翅膀迎著海風，像滑翔機一樣滑翔。休息的時候會收攏翅膀。",
+      "classification_zh_hant": "海鷗寶可夢",
+      "description_zh_hant": "會用長長的翅膀迎著海風，像滑翔機一樣滑翔。休息的時候會收攏翅膀。",
       "height": 0.6,
       "weight": 9.5,
       "types": [
@@ -8086,12 +8213,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 124,
-      "name": "大嘴鷗",
-      "name_english": "Pelipper",
+      "dex_number": 124,
+      "slug": "pelipper",
+      "name_zh_hant": "大嘴鷗",
+      "name_en": "Pelipper",
       "name_jp": "ペリッパー",
-      "classification": "水鳥寶可夢",
-      "description": "把孩子放進鳥嘴裡保護。風平浪靜的日子會浮在海面上小憩。",
+      "classification_zh_hant": "水鳥寶可夢",
+      "description_zh_hant": "把孩子放進鳥嘴裡保護。風平浪靜的日子會浮在海面上小憩。",
       "height": 1.2,
       "weight": 28.0,
       "types": [
@@ -8153,12 +8281,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 125,
-      "name": "幕下力士",
-      "name_english": "Makuhita",
+      "dex_number": 125,
+      "slug": "makuhita",
+      "name_zh_hant": "幕下力士",
+      "name_en": "Makuhita",
       "name_jp": "マクノシタ",
-      "classification": "毅力寶可夢",
-      "description": "會不斷地撞擊大樹來鍛鍊強韌的身軀和不氣餒的心。",
+      "classification_zh_hant": "毅力寶可夢",
+      "description_zh_hant": "會不斷地撞擊大樹來鍛鍊強韌的身軀和不氣餒的心。",
       "height": 1.0,
       "weight": 86.4,
       "types": [
@@ -8217,12 +8346,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 126,
-      "name": "鐵掌力士",
-      "name_english": "Hariyama",
+      "dex_number": 126,
+      "slug": "hariyama",
+      "name_zh_hant": "鐵掌力士",
+      "name_en": "Hariyama",
       "name_jp": "ハリテヤマ",
-      "classification": "猛推寶可夢",
-      "description": "喜歡和對手比試力氣，它擁有的力量足以一掌擋下迎面駛來的列車。",
+      "classification_zh_hant": "猛推寶可夢",
+      "description_zh_hant": "喜歡和對手比試力氣，它擁有的力量足以一掌擋下迎面駛來的列車。",
       "height": 2.3,
       "weight": 253.8,
       "types": [
@@ -8281,12 +8411,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 127,
-      "name": "阿勃梭魯",
-      "name_english": "Absol",
+      "dex_number": 127,
+      "slug": "absol",
+      "name_zh_hant": "阿勃梭魯",
+      "name_en": "Absol",
       "name_jp": "アブソル",
-      "classification": "災禍寶可夢",
-      "description": "由於擁有感知危險的能力，因此它被人們誤解為是會招來災禍的寶可夢。",
+      "classification_zh_hant": "災禍寶可夢",
+      "description_zh_hant": "由於擁有感知危險的能力，因此它被人們誤解為是會招來災禍的寶可夢。",
       "height": 1.2,
       "weight": 47.0,
       "types": [
@@ -8341,12 +8472,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 128,
-      "name": "波加曼",
-      "name_english": "Piplup",
+      "dex_number": 128,
+      "slug": "piplup",
+      "name_zh_hant": "波加曼",
+      "name_en": "Piplup",
       "name_jp": "ポッチャマ",
-      "classification": "企鵝寶可夢",
-      "description": "不擅長走路，有時還會跌到，但波加曼強烈的自尊心會讓它挺起胸膛，毫不在意。",
+      "classification_zh_hant": "企鵝寶可夢",
+      "description_zh_hant": "不擅長走路，有時還會跌到，但波加曼強烈的自尊心會讓它挺起胸膛，毫不在意。",
       "height": 0.4,
       "weight": 5.2,
       "types": [
@@ -8401,12 +8533,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 129,
-      "name": "波皇子",
-      "name_english": "Prinplup",
+      "dex_number": 129,
+      "slug": "prinplup",
+      "name_zh_hant": "波皇子",
+      "name_en": "Prinplup",
       "name_jp": "ポッタイシ",
-      "classification": "企鵝寶可夢",
-      "description": "每一隻波皇子都認為自己是最了不起的，因此它們無法形成群體。",
+      "classification_zh_hant": "企鵝寶可夢",
+      "description_zh_hant": "每一隻波皇子都認為自己是最了不起的，因此它們無法形成群體。",
       "height": 0.8,
       "weight": 23.0,
       "types": [
@@ -8465,12 +8598,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 130,
-      "name": "帝王拿波",
-      "name_english": "Empoleon",
+      "dex_number": 130,
+      "slug": "empoleon",
+      "name_zh_hant": "帝王拿波",
+      "name_en": "Empoleon",
       "name_jp": "エンペルト",
-      "classification": "皇帝寶可夢",
-      "description": "傷害到它自尊心的傢伙，會被它用能切斷浮冰的翅膀一分為二。",
+      "classification_zh_hant": "皇帝寶可夢",
+      "description_zh_hant": "傷害到它自尊心的傢伙，會被它用能切斷浮冰的翅膀一分為二。",
       "height": 1.7,
       "weight": 84.5,
       "types": [
@@ -8532,12 +8666,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 131,
-      "name": "差不多娃娃",
-      "name_english": "Audino",
+      "dex_number": 131,
+      "slug": "audino",
+      "name_zh_hant": "差不多娃娃",
+      "name_en": "Audino",
       "name_jp": "タブンネ",
-      "classification": "聽力寶可夢",
-      "description": "擁有敏銳的聽覺。連２公里以外小石頭滾動的聲音都能聽到。",
+      "classification_zh_hant": "聽力寶可夢",
+      "description_zh_hant": "擁有敏銳的聽覺。連２公里以外小石頭滾動的聲音都能聽到。",
       "height": 1.1,
       "weight": 31.0,
       "types": [
@@ -8592,12 +8727,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 132,
-      "name": "破破袋",
-      "name_english": "Trubbish",
+      "dex_number": 132,
+      "slug": "trubbish",
+      "name_zh_hant": "破破袋",
+      "name_en": "Trubbish",
       "name_jp": "ヤブクロン",
-      "classification": "垃圾袋寶可夢",
-      "description": "喜歡不衛生的地方。如果不及時清理家裡的垃圾，破破袋就會過來居住。",
+      "classification_zh_hant": "垃圾袋寶可夢",
+      "description_zh_hant": "喜歡不衛生的地方。如果不及時清理家裡的垃圾，破破袋就會過來居住。",
       "height": 0.6,
       "weight": 31.0,
       "types": [
@@ -8652,12 +8788,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 133,
-      "name": "灰塵山",
-      "name_english": "Garbodor",
+      "dex_number": 133,
+      "slug": "garbodor",
+      "name_zh_hant": "灰塵山",
+      "name_en": "Garbodor",
       "name_jp": "ダストダス",
-      "classification": "垃圾場寶可夢",
-      "description": "吃掉的垃圾會在體內轉化為毒素。毒素的成分會隨著吃掉的垃圾而不同。",
+      "classification_zh_hant": "垃圾場寶可夢",
+      "description_zh_hant": "吃掉的垃圾會在體內轉化為毒素。毒素的成分會隨著吃掉的垃圾而不同。",
       "height": 1.9,
       "weight": 107.3,
       "types": [
@@ -8713,12 +8850,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 134,
-      "name": "索羅亞",
-      "name_english": "Zorua",
+      "dex_number": 134,
+      "slug": "zorua",
+      "name_zh_hant": "索羅亞",
+      "name_en": "Zorua",
       "name_jp": "ゾロア",
-      "classification": "惡狐寶可夢",
-      "description": "之所以學會了幻化成其他東西的能力，似乎是因為它的性格比較膽小。",
+      "classification_zh_hant": "惡狐寶可夢",
+      "description_zh_hant": "之所以學會了幻化成其他東西的能力，似乎是因為它的性格比較膽小。",
       "height": 0.7,
       "weight": 12.5,
       "types": [
@@ -8773,12 +8911,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 135,
-      "name": "索羅亞克",
-      "name_english": "Zoroark",
+      "dex_number": 135,
+      "slug": "zoroark",
+      "name_zh_hant": "索羅亞克",
+      "name_en": "Zoroark",
       "name_jp": "ゾロアーク",
-      "classification": "妖狐寶可夢",
-      "description": "時刻為夥伴著想的寶可夢。為保護自己的棲息地和族群，會讓敵人看到恐怖的幻象。",
+      "classification_zh_hant": "妖狐寶可夢",
+      "description_zh_hant": "時刻為夥伴著想的寶可夢。為保護自己的棲息地和族群，會讓敵人看到恐怖的幻象。",
       "height": 1.6,
       "weight": 81.1,
       "types": [
@@ -8837,12 +8976,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 136,
-      "name": "泡沫栗鼠",
-      "name_english": "Minccino",
+      "dex_number": 136,
+      "slug": "minccino",
+      "name_zh_hant": "泡沫栗鼠",
+      "name_en": "Minccino",
       "name_jp": "チラーミィ",
-      "classification": "栗鼠寶可夢",
-      "description": "是喜愛乾淨的寶可夢。總是把尾巴當做掃帚，來清掃住所的灰塵。",
+      "classification_zh_hant": "栗鼠寶可夢",
+      "description_zh_hant": "是喜愛乾淨的寶可夢。總是把尾巴當做掃帚，來清掃住所的灰塵。",
       "height": 0.4,
       "weight": 5.8,
       "types": [
@@ -8900,12 +9040,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 137,
-      "name": "奇諾栗鼠",
-      "name_english": "Cinccino",
+      "dex_number": 137,
+      "slug": "cinccino",
+      "name_zh_hant": "奇諾栗鼠",
+      "name_en": "Cinccino",
       "name_jp": "チラチーノ",
-      "classification": "圍巾寶可夢",
-      "description": "潔癖使它連一絲灰塵都無法容忍，會把自己身上滲出的油塗在巢上保持清潔。",
+      "classification_zh_hant": "圍巾寶可夢",
+      "description_zh_hant": "潔癖使它連一絲灰塵都無法容忍，會把自己身上滲出的油塗在巢上保持清潔。",
       "height": 0.5,
       "weight": 7.5,
       "types": [
@@ -8961,12 +9102,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 138,
-      "name": "強顎雞母蟲",
-      "name_english": "Grubbin",
+      "dex_number": 138,
+      "slug": "grubbin",
+      "name_zh_hant": "強顎雞母蟲",
+      "name_en": "Grubbin",
       "name_jp": "アゴジムシ",
-      "classification": "幼蟲寶可夢",
-      "description": "雖然平時生活在土中，但由於會被咕咕挖出來，因此會聚集到電氣寶可夢附近。",
+      "classification_zh_hant": "幼蟲寶可夢",
+      "description_zh_hant": "雖然平時生活在土中，但由於會被咕咕挖出來，因此會聚集到電氣寶可夢附近。",
       "height": 0.4,
       "weight": 4.4,
       "types": [
@@ -9024,12 +9166,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 139,
-      "name": "蟲電寶",
-      "name_english": "Charjabug",
+      "dex_number": 139,
+      "slug": "charjabug",
+      "name_zh_hant": "蟲電寶",
+      "name_en": "Charjabug",
       "name_jp": "デンジムシ",
-      "classification": "蓄電池寶可夢",
-      "description": "會將消化吃下的食物時所產生的電能儲藏在電力袋中。",
+      "classification_zh_hant": "蓄電池寶可夢",
+      "description_zh_hant": "會將消化吃下的食物時所產生的電能儲藏在電力袋中。",
       "height": 0.5,
       "weight": 10.5,
       "types": [
@@ -9088,12 +9231,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 140,
-      "name": "鍬農炮蟲",
-      "name_english": "Vikavolt",
+      "dex_number": 140,
+      "slug": "vikavolt",
+      "name_zh_hant": "鍬農炮蟲",
+      "name_en": "Vikavolt",
       "name_jp": "クワガノン",
-      "classification": "鍬形蟲寶可夢",
-      "description": "會以卓越的機動性來回盤旋於樹木之間，並用電磁光束擊落鳥寶可夢。",
+      "classification_zh_hant": "鍬形蟲寶可夢",
+      "description_zh_hant": "會以卓越的機動性來回盤旋於樹木之間，並用電磁光束擊落鳥寶可夢。",
       "height": 1.5,
       "weight": 45.0,
       "types": [
@@ -9152,12 +9296,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 141,
-      "name": "謎擬丘",
-      "name_english": "Mimikyu",
+      "dex_number": 141,
+      "slug": "mimikyu",
+      "name_zh_hant": "謎擬丘",
+      "name_en": "Mimikyu",
       "name_jp": "ミミッキュ",
-      "classification": "畫皮寶可夢",
-      "description": "棲息在陽光照射不到的陰暗處。在人們面前現身時會用酷似皮卡丘的布來蓋住全身。",
+      "classification_zh_hant": "畫皮寶可夢",
+      "description_zh_hant": "棲息在陽光照射不到的陰暗處。在人們面前現身時會用酷似皮卡丘的布來蓋住全身。",
       "height": 0.2,
       "weight": 0.7,
       "types": [
@@ -9215,12 +9360,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 142,
-      "name": "布撥",
-      "name_english": "Pawmi",
+      "dex_number": 142,
+      "slug": "pawmi",
+      "name_zh_hant": "布撥",
+      "name_en": "Pawmi",
       "name_jp": "パモ",
-      "classification": "鼠寶可夢",
-      "description": "臉頰上的電囊尚未發達。必須拼命摩擦前腳的肉球才得以製造出電力。",
+      "classification_zh_hant": "鼠寶可夢",
+      "description_zh_hant": "臉頰上的電囊尚未發達。必須拼命摩擦前腳的肉球才得以製造出電力。",
       "height": 0.3,
       "weight": 2.5,
       "types": [
@@ -9278,12 +9424,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 143,
-      "name": "布土撥",
-      "name_english": "Pawmo",
+      "dex_number": 143,
+      "slug": "pawmo",
+      "name_zh_hant": "布土撥",
+      "name_en": "Pawmo",
       "name_jp": "パモット",
-      "classification": "鼠寶可夢",
-      "description": "當群體受到襲擊的時候，會率先挑起戰鬥，並活用電擊的格鬥招式打倒敵人。",
+      "classification_zh_hant": "鼠寶可夢",
+      "description_zh_hant": "當群體受到襲擊的時候，會率先挑起戰鬥，並活用電擊的格鬥招式打倒敵人。",
       "height": 0.4,
       "weight": 6.5,
       "types": [
@@ -9345,12 +9492,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 144,
-      "name": "巴布土撥",
-      "name_english": "Pawmot",
+      "dex_number": 144,
+      "slug": "pawmot",
+      "name_zh_hant": "巴布土撥",
+      "name_en": "Pawmot",
       "name_jp": "パーモット",
-      "classification": "押掌寶可夢",
-      "description": "蓬鬆的體毛是蓄電池。可以儲存與電動汽車等量的電力。",
+      "classification_zh_hant": "押掌寶可夢",
+      "description_zh_hant": "蓬鬆的體毛是蓄電池。可以儲存與電動汽車等量的電力。",
       "height": 0.9,
       "weight": 41.0,
       "types": [
@@ -9409,12 +9557,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 145,
-      "name": "米立龍（上弓姿勢）",
-      "name_english": "Tatsugiri Curly Form",
+      "dex_number": 145,
+      "slug": "tatsugiri-curly-form",
+      "name_zh_hant": "米立龍（上弓姿勢）",
+      "name_en": "Tatsugiri Curly Form",
       "name_jp": "シャリタツ(そったすがた)",
-      "classification": "擬態寶可夢",
-      "description": "非常狡猾奸詐的寶可夢。會假裝虛弱來吸引獵物接近，接著讓自己同夥的寶可夢發動攻擊。",
+      "classification_zh_hant": "擬態寶可夢",
+      "description_zh_hant": "非常狡猾奸詐的寶可夢。會假裝虛弱來吸引獵物接近，接著讓自己同夥的寶可夢發動攻擊。",
       "height": 0.3,
       "weight": 8.0,
       "types": [
@@ -9472,12 +9621,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 145,
-      "name": "米立龍（下垂姿勢）",
-      "name_english": "Tatsugiri Droopy Form",
+      "dex_number": 145,
+      "slug": "tatsugiri-droopy-form",
+      "name_zh_hant": "米立龍（下垂姿勢）",
+      "name_en": "Tatsugiri Droopy Form",
       "name_jp": "シャリタツ(たれたすがた)",
-      "classification": "擬態寶可夢",
-      "description": "會裝死來欺騙對手。雖然體型小又沒力氣，卻懂得運用智慧來求生。",
+      "classification_zh_hant": "擬態寶可夢",
+      "description_zh_hant": "會裝死來欺騙對手。雖然體型小又沒力氣，卻懂得運用智慧來求生。",
       "height": 0.3,
       "weight": 8.0,
       "types": [
@@ -9535,12 +9685,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 145,
-      "name": "米立龍（平挺姿勢）",
-      "name_english": "Tatsugiri Stretchy Form",
+      "dex_number": 145,
+      "slug": "tatsugiri-stretchy-form",
+      "name_zh_hant": "米立龍（平挺姿勢）",
+      "name_en": "Tatsugiri Stretchy Form",
       "name_jp": "シャリタツ(のびたすがた)",
-      "classification": "擬態寶可夢",
-      "description": "即使在龍寶可夢當中，它的智商也是名列前茅。會膨脹喉囊來擬態。",
+      "classification_zh_hant": "擬態寶可夢",
+      "description_zh_hant": "即使在龍寶可夢當中，它的智商也是名列前茅。會膨脹喉囊來擬態。",
       "height": 0.3,
       "weight": 8.0,
       "types": [
@@ -9598,12 +9749,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 146,
-      "name": "阿柏蛇",
-      "name_english": "Ekans",
+      "dex_number": 146,
+      "slug": "ekans",
+      "name_zh_hant": "阿柏蛇",
+      "name_en": "Ekans",
       "name_jp": "アーボ",
-      "classification": "蛇寶可夢",
-      "description": "大量棲息在草地等地方。會伸出舌頭感知周圍的危險。",
+      "classification_zh_hant": "蛇寶可夢",
+      "description_zh_hant": "大量棲息在草地等地方。會伸出舌頭感知周圍的危險。",
       "height": 2.0,
       "weight": 6.9,
       "types": [
@@ -9658,12 +9810,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 147,
-      "name": "阿柏怪",
-      "name_english": "Arbok",
+      "dex_number": 147,
+      "slug": "arbok",
+      "name_zh_hant": "阿柏怪",
+      "name_en": "Arbok",
       "name_jp": "アーボック",
-      "classification": "眼鏡蛇寶可夢",
-      "description": "腹部的花紋看起來像一張可怕的臉。弱小的敵人只要看到這個花紋就會被嚇跑。",
+      "classification_zh_hant": "眼鏡蛇寶可夢",
+      "description_zh_hant": "腹部的花紋看起來像一張可怕的臉。弱小的敵人只要看到這個花紋就會被嚇跑。",
       "height": 3.5,
       "weight": 65.0,
       "types": [
@@ -9718,12 +9871,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 148,
-      "name": "皮寶寶",
-      "name_english": "Cleffa",
+      "dex_number": 148,
+      "slug": "cleffa",
+      "name_zh_hant": "皮寶寶",
+      "name_en": "Cleffa",
       "name_jp": "ピィ",
-      "classification": "星形寶可夢",
-      "description": "因為在流星很多的夜晚經常能發現皮寶寶，所以人們說它們是乘著星星而來的。",
+      "classification_zh_hant": "星形寶可夢",
+      "description_zh_hant": "因為在流星很多的夜晚經常能發現皮寶寶，所以人們說它們是乘著星星而來的。",
       "height": 0.3,
       "weight": 3.0,
       "types": [
@@ -9778,12 +9932,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 149,
-      "name": "皮皮",
-      "name_english": "Clefairy",
+      "dex_number": 149,
+      "slug": "clefairy",
+      "name_zh_hant": "皮皮",
+      "name_en": "Clefairy",
       "name_jp": "ピッピ",
-      "classification": "妖精寶可夢",
-      "description": "據說在滿月的夜晚，如果能看到皮皮們聚在一起跳舞，就能得到幸福。",
+      "classification_zh_hant": "妖精寶可夢",
+      "description_zh_hant": "據說在滿月的夜晚，如果能看到皮皮們聚在一起跳舞，就能得到幸福。",
       "height": 0.6,
       "weight": 7.5,
       "types": [
@@ -9841,12 +9996,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 150,
-      "name": "皮可西",
-      "name_english": "Clefable",
+      "dex_number": 150,
+      "slug": "clefable",
+      "name_zh_hant": "皮可西",
+      "name_en": "Clefable",
       "name_jp": "ピクシー",
-      "classification": "妖精寶可夢",
-      "description": "妖精的一種，不喜歡被人看見自己的身影。據說生活在幽靜的深山裡。",
+      "classification_zh_hant": "妖精寶可夢",
+      "description_zh_hant": "妖精的一種，不喜歡被人看見自己的身影。據說生活在幽靜的深山裡。",
       "height": 1.3,
       "weight": 40.0,
       "types": [
@@ -9905,12 +10061,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 151,
-      "name": "寶寶丁",
-      "name_english": "Igglybuff",
+      "dex_number": 151,
+      "slug": "igglybuff",
+      "name_zh_hant": "寶寶丁",
+      "name_en": "Igglybuff",
       "name_jp": "ププリン",
-      "classification": "氣球寶可夢",
-      "description": "最喜歡唱歌。像棉花糖一樣的身體會散發出微甜的香氣。",
+      "classification_zh_hant": "氣球寶可夢",
+      "description_zh_hant": "最喜歡唱歌。像棉花糖一樣的身體會散發出微甜的香氣。",
       "height": 0.3,
       "weight": 1.0,
       "types": [
@@ -9968,12 +10125,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 152,
-      "name": "胖丁",
-      "name_english": "Jigglypuff",
+      "dex_number": 152,
+      "slug": "jigglypuff",
+      "name_zh_hant": "胖丁",
+      "name_en": "Jigglypuff",
       "name_jp": "プリン",
-      "classification": "氣球寶可夢",
-      "description": "當它圓溜溜的大眼睛轉動時就會唱起奇妙又令人愜意的歌曲，讓人昏昏欲睡。",
+      "classification_zh_hant": "氣球寶可夢",
+      "description_zh_hant": "當它圓溜溜的大眼睛轉動時就會唱起奇妙又令人愜意的歌曲，讓人昏昏欲睡。",
       "height": 0.5,
       "weight": 5.5,
       "types": [
@@ -10034,12 +10192,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 153,
-      "name": "胖可丁",
-      "name_english": "Wigglytuff",
+      "dex_number": 153,
+      "slug": "wigglytuff",
+      "name_zh_hant": "胖可丁",
+      "name_en": "Wigglytuff",
       "name_jp": "プクリン",
-      "classification": "氣球寶可夢",
-      "description": "生起氣來就會死命地吸氣讓自己不斷膨脹。有時甚至能脹大到原來的２０倍。",
+      "classification_zh_hant": "氣球寶可夢",
+      "description_zh_hant": "生起氣來就會死命地吸氣讓自己不斷膨脹。有時甚至能脹大到原來的２０倍。",
       "height": 1.0,
       "weight": 12.0,
       "types": [
@@ -10098,12 +10257,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 154,
-      "name": "地鼠",
-      "name_english": "Diglett",
+      "dex_number": 154,
+      "slug": "diglett",
+      "name_zh_hant": "地鼠",
+      "name_en": "Diglett",
       "name_jp": "ディグダ",
-      "classification": "鼴鼠寶可夢",
-      "description": "喜歡陰暗的地方。大部分時間都待在地下，只有在洞窟裡會經常探頭出來。",
+      "classification_zh_hant": "鼴鼠寶可夢",
+      "description_zh_hant": "喜歡陰暗的地方。大部分時間都待在地下，只有在洞窟裡會經常探頭出來。",
       "height": 0.2,
       "weight": 0.8,
       "types": [
@@ -10161,12 +10321,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 155,
-      "name": "三地鼠",
-      "name_english": "Dugtrio",
+      "dex_number": 155,
+      "slug": "dugtrio",
+      "name_zh_hant": "三地鼠",
+      "name_en": "Dugtrio",
       "name_jp": "ダグトリオ",
-      "classification": "鼴鼠寶可夢",
-      "description": "３個腦袋會輪流行動，是為了讓周圍的土地變得鬆軟而容易挖掘。",
+      "classification_zh_hant": "鼴鼠寶可夢",
+      "description_zh_hant": "３個腦袋會輪流行動，是為了讓周圍的土地變得鬆軟而容易挖掘。",
       "height": 0.7,
       "weight": 33.3,
       "types": [
@@ -10225,12 +10386,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 156,
-      "name": "腕力",
-      "name_english": "Machop",
+      "dex_number": 156,
+      "slug": "machop",
+      "name_zh_hant": "腕力",
+      "name_en": "Machop",
       "name_jp": "ワンリキー",
-      "classification": "怪力寶可夢",
-      "description": "透過多次反覆上下舉動隆隆石來鍛鍊全身的肌肉。會使用所有的格鬥技。",
+      "classification_zh_hant": "怪力寶可夢",
+      "description_zh_hant": "透過多次反覆上下舉動隆隆石來鍛鍊全身的肌肉。會使用所有的格鬥技。",
       "height": 0.8,
       "weight": 19.5,
       "types": [
@@ -10286,12 +10448,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 157,
-      "name": "豪力",
-      "name_english": "Machoke",
+      "dex_number": 157,
+      "slug": "machoke",
+      "name_zh_hant": "豪力",
+      "name_en": "Machoke",
       "name_jp": "ゴーリキー",
-      "classification": "怪力寶可夢",
-      "description": "積極地幫忙做重體力勞動，因為知道這會成為對自己有用的肌肉鍛鍊。",
+      "classification_zh_hant": "怪力寶可夢",
+      "description_zh_hant": "積極地幫忙做重體力勞動，因為知道這會成為對自己有用的肌肉鍛鍊。",
       "height": 1.5,
       "weight": 70.5,
       "types": [
@@ -10350,12 +10513,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 158,
-      "name": "怪力",
-      "name_english": "Machamp",
+      "dex_number": 158,
+      "slug": "machamp",
+      "name_zh_hant": "怪力",
+      "name_en": "Machamp",
       "name_jp": "カイリキー",
-      "classification": "怪力寶可夢",
-      "description": "即使是翻鬥車也能輕鬆舉起。但是手指很笨拙，所以細微的工作完全不行。",
+      "classification_zh_hant": "怪力寶可夢",
+      "description_zh_hant": "即使是翻鬥車也能輕鬆舉起。但是手指很笨拙，所以細微的工作完全不行。",
       "height": 1.6,
       "weight": 130.0,
       "types": [
@@ -10414,12 +10578,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 159,
-      "name": "小拳石",
-      "name_english": "Geodude",
+      "dex_number": 159,
+      "slug": "geodude",
+      "name_zh_hant": "小拳石",
+      "name_en": "Geodude",
       "name_jp": "イシツブテ",
-      "classification": "岩石寶可夢",
-      "description": "不動的時候怎麼看都是顆小石頭。要是因此不小心踩到它，它就會揮舞拳頭大發雷霆。",
+      "classification_zh_hant": "岩石寶可夢",
+      "description_zh_hant": "不動的時候怎麼看都是顆小石頭。要是因此不小心踩到它，它就會揮舞拳頭大發雷霆。",
       "height": 0.4,
       "weight": 20.0,
       "types": [
@@ -10477,12 +10642,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 160,
-      "name": "隆隆石",
-      "name_english": "Graveler",
+      "dex_number": 160,
+      "slug": "graveler",
+      "name_zh_hant": "隆隆石",
+      "name_en": "Graveler",
       "name_jp": "ゴローン",
-      "classification": "岩石寶可夢",
-      "description": "常在山路上滾來滾去。滾動時從來不關心前面的路上都有什麼。",
+      "classification_zh_hant": "岩石寶可夢",
+      "description_zh_hant": "常在山路上滾來滾去。滾動時從來不關心前面的路上都有什麼。",
       "height": 1.0,
       "weight": 105.0,
       "types": [
@@ -10540,12 +10706,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 161,
-      "name": "隆隆岩",
-      "name_english": "Golem",
+      "dex_number": 161,
+      "slug": "golem",
+      "name_zh_hant": "隆隆岩",
+      "name_en": "Golem",
       "name_jp": "ゴローニャ",
-      "classification": "重量級寶可夢",
-      "description": "剛蛻皮時渾身都白白的非常柔軟，但是接觸到空氣之後會迅速變堅硬。",
+      "classification_zh_hant": "重量級寶可夢",
+      "description_zh_hant": "剛蛻皮時渾身都白白的非常柔軟，但是接觸到空氣之後會迅速變堅硬。",
       "height": 1.4,
       "weight": 300.0,
       "types": [
@@ -10604,12 +10771,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 162,
-      "name": "鴨嘴寶寶",
-      "name_english": "Magby",
+      "dex_number": 162,
+      "slug": "magby",
+      "name_zh_hant": "鴨嘴寶寶",
+      "name_en": "Magby",
       "name_jp": "ブビィ",
-      "classification": "火種寶可夢",
-      "description": "每次吸氣和呼氣的時候，都會從嘴巴和鼻子裡冒出火花。",
+      "classification_zh_hant": "火種寶可夢",
+      "description_zh_hant": "每次吸氣和呼氣的時候，都會從嘴巴和鼻子裡冒出火花。",
       "height": 0.7,
       "weight": 21.4,
       "types": [
@@ -10664,12 +10832,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 163,
-      "name": "鴨嘴火獸",
-      "name_english": "Magmar",
+      "dex_number": 163,
+      "slug": "magmar",
+      "name_zh_hant": "鴨嘴火獸",
+      "name_en": "Magmar",
       "name_jp": "ブーバー",
-      "classification": "吐火寶可夢",
-      "description": "它是在火山口附近被發現的。會從嘴裡吐出火焰。體溫高達１２００度。",
+      "classification_zh_hant": "吐火寶可夢",
+      "description_zh_hant": "它是在火山口附近被發現的。會從嘴裡吐出火焰。體溫高達１２００度。",
       "height": 1.3,
       "weight": 44.5,
       "types": [
@@ -10724,12 +10893,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 164,
-      "name": "鴨嘴炎獸",
-      "name_english": "Magmortar",
+      "dex_number": 164,
+      "slug": "magmortar",
+      "name_zh_hant": "鴨嘴炎獸",
+      "name_en": "Magmortar",
       "name_jp": "ブーバーン",
-      "classification": "爆炎寶可夢",
-      "description": "從手臂前端發射出攝氏２０００度的火球時，身體會因為高溫而稍稍變白。",
+      "classification_zh_hant": "爆炎寶可夢",
+      "description_zh_hant": "從手臂前端發射出攝氏２０００度的火球時，身體會因為高溫而稍稍變白。",
       "height": 1.6,
       "weight": 68.0,
       "types": [
@@ -10785,12 +10955,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 165,
-      "name": "盆才怪",
-      "name_english": "Bonsly",
+      "dex_number": 165,
+      "slug": "bonsly",
+      "name_zh_hant": "盆才怪",
+      "name_en": "Bonsly",
       "name_jp": "ウソハチ",
-      "classification": "盆栽寶可夢",
-      "description": "會從眼睛排出體內多餘的水分。該成分接近人類的汗液。",
+      "classification_zh_hant": "盆栽寶可夢",
+      "description_zh_hant": "會從眼睛排出體內多餘的水分。該成分接近人類的汗液。",
       "height": 0.5,
       "weight": 15.0,
       "types": [
@@ -10845,12 +11016,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 166,
-      "name": "樹才怪",
-      "name_english": "Sudowoodo",
+      "dex_number": 166,
+      "slug": "sudowoodo",
+      "name_zh_hant": "樹才怪",
+      "name_en": "Sudowoodo",
       "name_jp": "ウソッキー",
-      "classification": "模仿寶可夢",
-      "description": "總是偽裝成樹的樣子。身體構造比起植物來，好像更接近石頭或岩石一類的東西。",
+      "classification_zh_hant": "模仿寶可夢",
+      "description_zh_hant": "總是偽裝成樹的樣子。身體構造比起植物來，好像更接近石頭或岩石一類的東西。",
       "height": 1.2,
       "weight": 38.0,
       "types": [
@@ -10908,12 +11080,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 167,
-      "name": "黑暗鴉",
-      "name_english": "Murkrow",
+      "dex_number": 167,
+      "slug": "murkrow",
+      "name_zh_hant": "黑暗鴉",
+      "name_en": "Murkrow",
       "name_jp": "ヤミカラス",
-      "classification": "黑暗寶可夢",
-      "description": "日落時醒來，夜晚飛行。也有俗話說，黑暗鴉出窩，趕緊要回家。",
+      "classification_zh_hant": "黑暗寶可夢",
+      "description_zh_hant": "日落時醒來，夜晚飛行。也有俗話說，黑暗鴉出窩，趕緊要回家。",
       "height": 0.5,
       "weight": 2.1,
       "types": [
@@ -10975,12 +11148,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 168,
-      "name": "烏鴉頭頭",
-      "name_english": "Honchkrow",
+      "dex_number": 168,
+      "slug": "honchkrow",
+      "name_zh_hant": "烏鴉頭頭",
+      "name_en": "Honchkrow",
       "name_jp": "ドンカラス",
-      "classification": "大頭目寶可夢",
-      "description": "夜行性。只要鳴叫一聲，就會有超過１００只的黑暗鴉跟班聚集起來。",
+      "classification_zh_hant": "大頭目寶可夢",
+      "description_zh_hant": "夜行性。只要鳴叫一聲，就會有超過１００只的黑暗鴉跟班聚集起來。",
       "height": 0.9,
       "weight": 27.3,
       "types": [
@@ -11042,12 +11216,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 169,
-      "name": "幼基拉斯",
-      "name_english": "Larvitar",
+      "dex_number": 169,
+      "slug": "larvitar",
+      "name_zh_hant": "幼基拉斯",
+      "name_en": "Larvitar",
       "name_jp": "ヨーギラス",
-      "classification": "岩石膚寶可夢",
-      "description": "以吃土為生。吃掉一座大山後，就會為了成長而開始沉睡。",
+      "classification_zh_hant": "岩石膚寶可夢",
+      "description_zh_hant": "以吃土為生。吃掉一座大山後，就會為了成長而開始沉睡。",
       "height": 0.6,
       "weight": 72.0,
       "types": [
@@ -11106,12 +11281,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 170,
-      "name": "沙基拉斯",
-      "name_english": "Pupitar",
+      "dex_number": 170,
+      "slug": "pupitar",
+      "name_zh_hant": "沙基拉斯",
+      "name_en": "Pupitar",
       "name_jp": "サナギラス",
-      "classification": "子彈寶可夢",
-      "description": "雖然全身覆蓋著岩盤一樣的硬殼，但它力量強大，發狂後連山都會崩塌。",
+      "classification_zh_hant": "子彈寶可夢",
+      "description_zh_hant": "雖然全身覆蓋著岩盤一樣的硬殼，但它力量強大，發狂後連山都會崩塌。",
       "height": 1.2,
       "weight": 152.0,
       "types": [
@@ -11170,12 +11346,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 171,
-      "name": "班基拉斯",
-      "name_english": "Tyranitar",
+      "dex_number": 171,
+      "slug": "tyranitar",
+      "name_zh_hant": "班基拉斯",
+      "name_en": "Tyranitar",
       "name_jp": "バンギラス",
-      "classification": "鎧甲寶可夢",
-      "description": "力氣之大，就連改變自己周圍的地形也是小菜一碟。個性狂妄，不顧周遭的感受。",
+      "classification_zh_hant": "鎧甲寶可夢",
+      "description_zh_hant": "力氣之大，就連改變自己周圍的地形也是小菜一碟。個性狂妄，不顧周遭的感受。",
       "height": 2.0,
       "weight": 202.0,
       "types": [
@@ -11237,12 +11414,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 172,
-      "name": "蓮葉童子",
-      "name_english": "Lotad",
+      "dex_number": 172,
+      "slug": "lotad",
+      "name_zh_hant": "蓮葉童子",
+      "name_en": "Lotad",
       "name_jp": "ハスボー",
-      "classification": "浮萍寶可夢",
-      "description": "頭上的葉子擁有防汙的特性。即使承載滿身泥巴的寶可夢，也能保持葉子潔淨。",
+      "classification_zh_hant": "浮萍寶可夢",
+      "description_zh_hant": "頭上的葉子擁有防汙的特性。即使承載滿身泥巴的寶可夢，也能保持葉子潔淨。",
       "height": 0.5,
       "weight": 2.6,
       "types": [
@@ -11306,12 +11484,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 173,
-      "name": "蓮帽小童",
-      "name_english": "Lombre",
+      "dex_number": 173,
+      "slug": "lombre",
+      "name_zh_hant": "蓮帽小童",
+      "name_en": "Lombre",
       "name_jp": "ハスブレロ",
-      "classification": "爽朗寶可夢",
-      "description": "傍晚時開始活動的夜行性寶可夢。喜歡吃河底的水苔。",
+      "classification_zh_hant": "爽朗寶可夢",
+      "description_zh_hant": "傍晚時開始活動的夜行性寶可夢。喜歡吃河底的水苔。",
       "height": 1.2,
       "weight": 32.5,
       "types": [
@@ -11372,12 +11551,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 174,
-      "name": "樂天河童",
-      "name_english": "Ludicolo",
+      "dex_number": 174,
+      "slug": "ludicolo",
+      "name_zh_hant": "樂天河童",
+      "name_en": "Ludicolo",
       "name_jp": "ルンパッパ",
-      "classification": "樂天寶可夢",
-      "description": "如果聽到歡快的音樂，體內就會充滿力量，會情不自禁地跳起舞來。",
+      "classification_zh_hant": "樂天寶可夢",
+      "description_zh_hant": "如果聽到歡快的音樂，體內就會充滿力量，會情不自禁地跳起舞來。",
       "height": 1.5,
       "weight": 55.0,
       "types": [
@@ -11436,12 +11616,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 175,
-      "name": "大嘴娃",
-      "name_english": "Mawile",
+      "dex_number": 175,
+      "slug": "mawile",
+      "name_zh_hant": "大嘴娃",
+      "name_en": "Mawile",
       "name_jp": "クチート",
-      "classification": "欺騙寶可夢",
-      "description": "會用溫順的長相讓對手大意，然後再用大顎一口咬住對手。咬住後就絕不會鬆口。",
+      "classification_zh_hant": "欺騙寶可夢",
+      "description_zh_hant": "會用溫順的長相讓對手大意，然後再用大顎一口咬住對手。咬住後就絕不會鬆口。",
       "height": 0.6,
       "weight": 11.5,
       "types": [
@@ -11500,12 +11681,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 176,
-      "name": "煤炭龜",
-      "name_english": "Torkoal",
+      "dex_number": 176,
+      "slug": "torkoal",
+      "name_zh_hant": "煤炭龜",
+      "name_en": "Torkoal",
       "name_jp": "コータス",
-      "classification": "煤炭寶可夢",
-      "description": "煤炭是其能量的來源。在煤炭龜棲息著的山裡，沉睡著大量的煤炭。",
+      "classification_zh_hant": "煤炭寶可夢",
+      "description_zh_hant": "煤炭是其能量的來源。在煤炭龜棲息著的山裡，沉睡著大量的煤炭。",
       "height": 0.5,
       "weight": 80.4,
       "types": [
@@ -11560,12 +11742,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 177,
-      "name": "圓法師",
-      "name_english": "Kricketot",
+      "dex_number": 177,
+      "slug": "kricketot",
+      "name_zh_hant": "圓法師",
+      "name_en": "Kricketot",
       "name_jp": "コロボーシ",
-      "classification": "蟋蟀寶可夢",
-      "description": "每當腿短的它快要跌倒時，堅硬的觸角就會互相摩擦，發出如木琴般的聲音。",
+      "classification_zh_hant": "蟋蟀寶可夢",
+      "description_zh_hant": "每當腿短的它快要跌倒時，堅硬的觸角就會互相摩擦，發出如木琴般的聲音。",
       "height": 0.3,
       "weight": 2.2,
       "types": [
@@ -11623,12 +11806,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 178,
-      "name": "音箱蟀",
-      "name_english": "Kricketune",
+      "dex_number": 178,
+      "slug": "kricketune",
+      "name_zh_hant": "音箱蟀",
+      "name_en": "Kricketune",
       "name_jp": "コロトック",
-      "classification": "蟋蟀寶可夢",
-      "description": "透過讓聲音在體內的空洞迴響來使自己的叫聲變得悅耳。",
+      "classification_zh_hant": "蟋蟀寶可夢",
+      "description_zh_hant": "透過讓聲音在體內的空洞迴響來使自己的叫聲變得悅耳。",
       "height": 1.0,
       "weight": 25.5,
       "types": [
@@ -11686,12 +11870,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 179,
-      "name": "聒噪鳥",
-      "name_english": "Chatot",
+      "dex_number": 179,
+      "slug": "chatot",
+      "name_zh_hant": "聒噪鳥",
+      "name_en": "Chatot",
       "name_jp": "ペラップ",
-      "classification": "音符寶可夢",
-      "description": "學習人類的語言來鳴叫。當夥伴們聚集在同一個地方時，大家就會學習到同樣的詞彙。",
+      "classification_zh_hant": "音符寶可夢",
+      "description_zh_hant": "學習人類的語言來鳴叫。當夥伴們聚集在同一個地方時，大家就會學習到同樣的詞彙。",
       "height": 0.5,
       "weight": 1.9,
       "types": [
@@ -11753,12 +11938,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 180,
-      "name": "利歐路",
-      "name_english": "Riolu",
+      "dex_number": 180,
+      "slug": "riolu",
+      "name_zh_hant": "利歐路",
+      "name_en": "Riolu",
       "name_jp": "リオル",
-      "classification": "波紋寶可夢",
-      "description": "精力充沛，可以奔跑一整夜。由於它十分活潑，帶它散步的人非常辛苦。",
+      "classification_zh_hant": "波紋寶可夢",
+      "description_zh_hant": "精力充沛，可以奔跑一整夜。由於它十分活潑，帶它散步的人非常辛苦。",
       "height": 0.7,
       "weight": 20.2,
       "types": [
@@ -11816,12 +12002,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 181,
-      "name": "路卡利歐",
-      "name_english": "Lucario",
+      "dex_number": 181,
+      "slug": "lucario",
+      "name_zh_hant": "路卡利歐",
+      "name_en": "Lucario",
       "name_jp": "ルカリオ",
-      "classification": "波導寶可夢",
-      "description": "經過鍛鍊的路卡利歐能使用波導來探測出１公里之外有誰在，還能知道對方的心情。",
+      "classification_zh_hant": "波導寶可夢",
+      "description_zh_hant": "經過鍛鍊的路卡利歐能使用波導來探測出１公里之外有誰在，還能知道對方的心情。",
       "height": 1.2,
       "weight": 54.0,
       "types": [
@@ -11879,12 +12066,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 182,
-      "name": "洛託姆（立體音響洛託姆）",
-      "name_english": "Stereo Rotom",
+      "dex_number": 182,
+      "slug": "stereo-rotom",
+      "name_zh_hant": "洛託姆（立體音響洛託姆）",
+      "name_en": "Stereo Rotom",
       "name_jp": "ロトム(ステレオ)",
-      "classification": "等離子寶可夢",
-      "description": "鑽入迷你音響時碰巧聽到正在播放的電子流行音樂，深受感動後變成了很嗨的性格。",
+      "classification_zh_hant": "等離子寶可夢",
+      "description_zh_hant": "鑽入迷你音響時碰巧聽到正在播放的電子流行音樂，深受感動後變成了很嗨的性格。",
       "height": 0.3,
       "weight": 0.3,
       "types": [
@@ -11942,12 +12130,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 183,
-      "name": "燃燒蟲",
-      "name_english": "Larvesta",
+      "dex_number": 183,
+      "slug": "larvesta",
+      "name_zh_hant": "燃燒蟲",
+      "name_en": "Larvesta",
       "name_jp": "メラルバ",
-      "classification": "火炬寶可夢",
-      "description": "很久很久以前，人們相信燃燒蟲是從太陽上落下來的。",
+      "classification_zh_hant": "火炬寶可夢",
+      "description_zh_hant": "很久很久以前，人們相信燃燒蟲是從太陽上落下來的。",
       "height": 1.1,
       "weight": 28.8,
       "types": [
@@ -12006,12 +12195,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 184,
-      "name": "火神蛾",
-      "name_english": "Volcarona",
+      "dex_number": 184,
+      "slug": "volcarona",
+      "name_zh_hant": "火神蛾",
+      "name_en": "Volcarona",
       "name_jp": "ウルガモス",
-      "classification": "太陽寶可夢",
-      "description": "在炎熱之地因其燃燒的身體而備受嫌棄，但在寒冷之地卻被信奉為太陽的化身。",
+      "classification_zh_hant": "太陽寶可夢",
+      "description_zh_hant": "在炎熱之地因其燃燒的身體而備受嫌棄，但在寒冷之地卻被信奉為太陽的化身。",
       "height": 1.6,
       "weight": 46.0,
       "types": [
@@ -12073,12 +12263,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 185,
-      "name": "木木梟",
-      "name_english": "Rowlet",
+      "dex_number": 185,
+      "slug": "rowlet",
+      "name_zh_hant": "木木梟",
+      "name_en": "Rowlet",
       "name_jp": "モクロー",
-      "classification": "草羽寶可夢",
-      "description": "在狹窄黑暗的地方會很平靜。有時候也會用訓練家的懷抱或包包代替巢穴。",
+      "classification_zh_hant": "草羽寶可夢",
+      "description_zh_hant": "在狹窄黑暗的地方會很平靜。有時候也會用訓練家的懷抱或包包代替巢穴。",
       "height": 0.3,
       "weight": 1.5,
       "types": [
@@ -12136,12 +12327,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 186,
-      "name": "投羽梟",
-      "name_english": "Dartrix",
+      "dex_number": 186,
+      "slug": "dartrix",
+      "name_zh_hant": "投羽梟",
+      "name_en": "Dartrix",
       "name_jp": "フクスロー",
-      "classification": "刃羽寶可夢",
-      "description": "非常自戀，又愛美。如果不勤快地給它打理，或許會不聽話。",
+      "classification_zh_hant": "刃羽寶可夢",
+      "description_zh_hant": "非常自戀，又愛美。如果不勤快地給它打理，或許會不聽話。",
       "height": 0.7,
       "weight": 16.0,
       "types": [
@@ -12200,12 +12392,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 187,
-      "name": "狙射樹梟",
-      "name_english": "Decidueye",
+      "dex_number": 187,
+      "slug": "decidueye",
+      "name_zh_hant": "狙射樹梟",
+      "name_en": "Decidueye",
       "name_jp": "ジュナイパー",
-      "classification": "箭羽寶可夢",
-      "description": "搭弦射出收藏在翅膀裡的箭羽。有著連前方１００米的小石頭也能穿透的精度。",
+      "classification_zh_hant": "箭羽寶可夢",
+      "description_zh_hant": "搭弦射出收藏在翅膀裡的箭羽。有著連前方１００米的小石頭也能穿透的精度。",
       "height": 1.6,
       "weight": 36.6,
       "types": [
@@ -12267,12 +12460,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 188,
-      "name": "炎兔兒",
-      "name_english": "Scorbunny",
+      "dex_number": 188,
+      "slug": "scorbunny",
+      "name_zh_hant": "炎兔兒",
+      "name_en": "Scorbunny",
       "name_jp": "ヒバニー",
-      "classification": "兔子寶可夢",
-      "description": "透過提升全身的溫度，便能發揮出真正的力量。它會為此而做準備運動。",
+      "classification_zh_hant": "兔子寶可夢",
+      "description_zh_hant": "透過提升全身的溫度，便能發揮出真正的力量。它會為此而做準備運動。",
       "height": 0.3,
       "weight": 4.5,
       "types": [
@@ -12327,12 +12521,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 189,
-      "name": "騰蹴小將",
-      "name_english": "Raboot",
+      "dex_number": 189,
+      "slug": "raboot",
+      "name_zh_hant": "騰蹴小將",
+      "name_en": "Raboot",
       "name_jp": "ラビフット",
-      "classification": "兔子寶可夢",
-      "description": "蓬鬆的體毛讓它更容易提升火之能量的溫度，放出更強的火焰。",
+      "classification_zh_hant": "兔子寶可夢",
+      "description_zh_hant": "蓬鬆的體毛讓它更容易提升火之能量的溫度，放出更強的火焰。",
       "height": 0.6,
       "weight": 9.0,
       "types": [
@@ -12390,12 +12585,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 190,
-      "name": "閃焰王牌",
-      "name_english": "Cinderace",
+      "dex_number": 190,
+      "slug": "cinderace",
+      "name_zh_hant": "閃焰王牌",
+      "name_en": "Cinderace",
       "name_jp": "エースバーン",
-      "classification": "前鋒寶可夢",
-      "description": "會將小石頭像足球般用腳挑起，製造出纏繞著火焰的足球。會用猛烈的踢射來燃燒對手。",
+      "classification_zh_hant": "前鋒寶可夢",
+      "description_zh_hant": "會將小石頭像足球般用腳挑起，製造出纏繞著火焰的足球。會用猛烈的踢射來燃燒對手。",
       "height": 1.4,
       "weight": 33.0,
       "types": [
@@ -12454,12 +12650,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 191,
-      "name": "貪心栗鼠",
-      "name_english": "Skwovet",
+      "dex_number": 191,
+      "slug": "skwovet",
+      "name_zh_hant": "貪心栗鼠",
+      "name_en": "Skwovet",
       "name_jp": "ホシガリス",
-      "classification": "貪吃寶可夢",
-      "description": "不管吃得再怎麼飽都還是會擔心肚子餓，因此會往臉頰和尾巴里儲存樹果。",
+      "classification_zh_hant": "貪吃寶可夢",
+      "description_zh_hant": "不管吃得再怎麼飽都還是會擔心肚子餓，因此會往臉頰和尾巴里儲存樹果。",
       "height": 0.3,
       "weight": 2.5,
       "types": [
@@ -12515,12 +12712,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 192,
-      "name": "藏飽栗鼠（廚師）",
-      "name_english": "Greedent",
+      "dex_number": 192,
+      "slug": "greedent",
+      "name_zh_hant": "藏飽栗鼠（廚師）",
+      "name_en": "Greedent",
       "name_jp": "ヨクバリス(シェフ)",
-      "classification": "貪慾寶可夢",
-      "description": "因成長於熱愛美食的家庭而愛上烹飪。但由於無論吃什麼都津津有味，所以在調味方面有些馬虎。",
+      "classification_zh_hant": "貪慾寶可夢",
+      "description_zh_hant": "因成長於熱愛美食的家庭而愛上烹飪。但由於無論吃什麼都津津有味，所以在調味方面有些馬虎。",
       "height": 0.6,
       "weight": 6.0,
       "types": [
@@ -12575,12 +12773,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 193,
-      "name": "小炭仔",
-      "name_english": "Rolycoly",
+      "dex_number": 193,
+      "slug": "rolycoly",
+      "name_zh_hant": "小炭仔",
+      "name_en": "Rolycoly",
       "name_jp": "タンドン",
-      "classification": "煤炭寶可夢",
-      "description": "晴天時會在草原東奔西跑，然後吃掉被捲進它那彷彿是車輪的腳裡的草。",
+      "classification_zh_hant": "煤炭寶可夢",
+      "description_zh_hant": "晴天時會在草原東奔西跑，然後吃掉被捲進它那彷彿是車輪的腳裡的草。",
       "height": 0.3,
       "weight": 12.0,
       "types": [
@@ -12636,12 +12835,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 194,
-      "name": "大炭車",
-      "name_english": "Carkol",
+      "dex_number": 194,
+      "slug": "carkol",
+      "name_zh_hant": "大炭車",
+      "name_en": "Carkol",
       "name_jp": "トロッゴン",
-      "classification": "煤炭寶可夢",
-      "description": "由於內部在製造煤焦油，因此就算它跑得再快，背上的煤炭山也不會崩塌。",
+      "classification_zh_hant": "煤炭寶可夢",
+      "description_zh_hant": "由於內部在製造煤焦油，因此就算它跑得再快，背上的煤炭山也不會崩塌。",
       "height": 1.1,
       "weight": 78.0,
       "types": [
@@ -12700,12 +12900,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 195,
-      "name": "巨炭山",
-      "name_english": "Coalossal",
+      "dex_number": 195,
+      "slug": "coalossal",
+      "name_zh_hant": "巨炭山",
+      "name_en": "Coalossal",
       "name_jp": "セキタンザン",
-      "classification": "煤炭寶可夢",
-      "description": "性情溫厚，發怒時卻十分可怕。它會用燃燒到１５００度的軀體壓住對手，將其燒成灰燼。",
+      "classification_zh_hant": "煤炭寶可夢",
+      "description_zh_hant": "性情溫厚，發怒時卻十分可怕。它會用燃燒到１５００度的軀體壓住對手，將其燒成灰燼。",
       "height": 2.8,
       "weight": 310.5,
       "types": [
@@ -12767,12 +12968,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 196,
-      "name": "電音嬰",
-      "name_english": "Toxel",
+      "dex_number": 196,
+      "slug": "toxel",
+      "name_zh_hant": "電音嬰",
+      "name_en": "Toxel",
       "name_jp": "エレズン",
-      "classification": "嬰兒寶可夢",
-      "description": "喝了汙水也安然無恙。那是因為它能靠著體內的器官把汙水過濾成對自己無害的毒液。",
+      "classification_zh_hant": "嬰兒寶可夢",
+      "description_zh_hant": "喝了汙水也安然無恙。那是因為它能靠著體內的器官把汙水過濾成對自己無害的毒液。",
       "height": 0.4,
       "weight": 11.0,
       "types": [
@@ -12830,12 +13032,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 197,
-      "name": "顫弦蠑螈（高調的樣子）",
-      "name_english": "Toxtricity Amped Form",
+      "dex_number": 197,
+      "slug": "toxtricity-amped-form",
+      "name_zh_hant": "顫弦蠑螈（高調的樣子）",
+      "name_en": "Toxtricity Amped Form",
       "name_jp": "ストリンダー(ハイ)",
-      "classification": "龐克寶可夢",
-      "description": "當它一邊排出帶毒的汗水一邊放電時，周圍會響起彷彿吉他般的旋律。",
+      "classification_zh_hant": "龐克寶可夢",
+      "description_zh_hant": "當它一邊排出帶毒的汗水一邊放電時，周圍會響起彷彿吉他般的旋律。",
       "height": 1.6,
       "weight": 40.0,
       "types": [
@@ -12894,12 +13097,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 197,
-      "name": "顫弦蠑螈（低調的樣子）",
-      "name_english": "Toxtricity Low Key Form",
+      "dex_number": 197,
+      "slug": "toxtricity-low-key-form",
+      "name_zh_hant": "顫弦蠑螈（低調的樣子）",
+      "name_en": "Toxtricity Low Key Form",
       "name_jp": "ストリンダー(ロー)",
-      "classification": "龐克寶可夢",
-      "description": "當它大口喝下淤水，並在體內製造電氣的時候，會響起彷彿像是貝斯的節拍。",
+      "classification_zh_hant": "龐克寶可夢",
+      "description_zh_hant": "當它大口喝下淤水，並在體內製造電氣的時候，會響起彷彿像是貝斯的節拍。",
       "height": 1.6,
       "weight": 40.0,
       "types": [
@@ -12958,12 +13162,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 198,
-      "name": "狗仔包",
-      "name_english": "Fidough",
+      "dex_number": 198,
+      "slug": "fidough",
+      "name_zh_hant": "狗仔包",
+      "name_en": "Fidough",
       "name_jp": "パピモッチ",
-      "classification": "小狗寶可夢",
-      "description": "吐出的氣息中所含有的酵母能在製作料理時派上用場，因此自古以來都受到人們的保護。",
+      "classification_zh_hant": "小狗寶可夢",
+      "description_zh_hant": "吐出的氣息中所含有的酵母能在製作料理時派上用場，因此自古以來都受到人們的保護。",
       "height": 0.3,
       "weight": 10.9,
       "types": [
@@ -13021,12 +13226,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 199,
-      "name": "麻花犬",
-      "name_english": "Dachsbun",
+      "dex_number": 199,
+      "slug": "dachsbun",
+      "name_zh_hant": "麻花犬",
+      "name_en": "Dachsbun",
       "name_jp": "バウッツェル",
-      "classification": "狗寶可夢",
-      "description": "身體散發出的迷人香氣有助於小麥的成長，因此在農村一直備受重視。",
+      "classification_zh_hant": "狗寶可夢",
+      "description_zh_hant": "身體散發出的迷人香氣有助於小麥的成長，因此在農村一直備受重視。",
       "height": 0.5,
       "weight": 14.9,
       "types": [
@@ -13085,12 +13291,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 200,
-      "name": "炭小侍",
-      "name_english": "Charcadet",
+      "dex_number": 200,
+      "slug": "charcadet",
+      "name_zh_hant": "炭小侍",
+      "name_en": "Charcadet",
       "name_jp": "カルボウ",
-      "classification": "小火星寶可夢",
-      "description": "一旦進入戰鬥狀態，火力就會上升至攝氏１０００度。喜歡吃油脂含量高的樹果。",
+      "classification_zh_hant": "小火星寶可夢",
+      "description_zh_hant": "一旦進入戰鬥狀態，火力就會上升至攝氏１０００度。喜歡吃油脂含量高的樹果。",
       "height": 0.6,
       "weight": 10.5,
       "types": [
@@ -13145,12 +13352,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 201,
-      "name": "紅蓮鎧騎",
-      "name_english": "Armarouge",
+      "dex_number": 201,
+      "slug": "armarouge",
+      "name_zh_hant": "紅蓮鎧騎",
+      "name_en": "Armarouge",
       "name_jp": "グレンアルマ",
-      "classification": "火戰士寶可夢",
-      "description": "藉助立下諸多功勳的戰士所穿的鎧甲進化而來的樣子。是忠心耿耿的寶可夢。",
+      "classification_zh_hant": "火戰士寶可夢",
+      "description_zh_hant": "藉助立下諸多功勳的戰士所穿的鎧甲進化而來的樣子。是忠心耿耿的寶可夢。",
       "height": 1.5,
       "weight": 85.0,
       "types": [
@@ -13209,12 +13417,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 202,
-      "name": "蒼炎刃鬼",
-      "name_english": "Ceruledge",
+      "dex_number": 202,
+      "slug": "ceruledge",
+      "name_zh_hant": "蒼炎刃鬼",
+      "name_en": "Ceruledge",
       "name_jp": "ソウブレイズ",
-      "classification": "火劍士寶可夢",
-      "description": "雙臂的火焰之劍是靠著得志前就亡命的劍士的怨念而燃燒。",
+      "classification_zh_hant": "火劍士寶可夢",
+      "description_zh_hant": "雙臂的火焰之劍是靠著得志前就亡命的劍士的怨念而燃燒。",
       "height": 1.6,
       "weight": 62.0,
       "types": [
@@ -13273,12 +13482,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 203,
-      "name": "晶光芽",
-      "name_english": "Glimmet",
+      "dex_number": 203,
+      "slug": "glimmet",
+      "name_zh_hant": "晶光芽",
+      "name_en": "Glimmet",
       "name_jp": "キラーメ",
-      "classification": "礦石寶可夢",
-      "description": "從洞窟的壁上吸取營養。包覆在身上的花瓣是用毒所凝聚的結晶做成的。",
+      "classification_zh_hant": "礦石寶可夢",
+      "description_zh_hant": "從洞窟的壁上吸取營養。包覆在身上的花瓣是用毒所凝聚的結晶做成的。",
       "height": 0.7,
       "weight": 8.0,
       "types": [
@@ -13339,12 +13549,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 204,
-      "name": "晶光花",
-      "name_english": "Glimmora",
+      "dex_number": 204,
+      "slug": "glimmora",
+      "name_zh_hant": "晶光花",
+      "name_en": "Glimmora",
       "name_jp": "キラフロル",
-      "classification": "礦石寶可夢",
-      "description": "只要感應到危險，就會張開結晶的花瓣，從圓錐形的身體發射光束。",
+      "classification_zh_hant": "礦石寶可夢",
+      "description_zh_hant": "只要感應到危險，就會張開結晶的花瓣，從圓錐形的身體發射光束。",
       "height": 1.5,
       "weight": 45.0,
       "types": [
@@ -13405,12 +13616,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 205,
-      "name": "索財靈",
-      "name_english": "Gimmighoul",
+      "dex_number": 205,
+      "slug": "gimmighoul",
+      "name_zh_hant": "索財靈",
+      "name_en": "Gimmighoul",
       "name_jp": "コレクレー",
-      "classification": "寶箱寶可夢",
-      "description": "棲息在老舊的寶箱中。有時會因沒人注意到自己是寶可夢，而被擱置在道具店的角落。",
+      "classification_zh_hant": "寶箱寶可夢",
+      "description_zh_hant": "棲息在老舊的寶箱中。有時會因沒人注意到自己是寶可夢，而被擱置在道具店的角落。",
       "height": 0.3,
       "weight": 5.0,
       "types": [
@@ -13465,12 +13677,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 206,
-      "name": "賽富豪",
-      "name_english": "Gholdengo",
+      "dex_number": 206,
+      "slug": "gholdengo",
+      "name_zh_hant": "賽富豪",
+      "name_en": "Gholdengo",
       "name_jp": "サーフゴー",
-      "classification": "寶者寶可夢",
-      "description": "據說它的身體是由１０００枚硬幣組成的。喜歡與人親近，不管與誰都能立刻處好關係。",
+      "classification_zh_hant": "寶者寶可夢",
+      "description_zh_hant": "據說它的身體是由１０００枚硬幣組成的。喜歡與人親近，不管與誰都能立刻處好關係。",
       "height": 1.2,
       "weight": 30.0,
       "types": [
@@ -13528,12 +13741,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 207,
-      "name": "六尾",
-      "name_english": "Vulpix",
+      "dex_number": 207,
+      "slug": "vulpix",
+      "name_zh_hant": "六尾",
+      "name_en": "Vulpix",
       "name_jp": "ロコン",
-      "classification": "狐狸寶可夢",
-      "description": "因為會從口中噴出好像人的靈魂一樣的火焰，所以也有人把它錯看成妖怪。",
+      "classification_zh_hant": "狐狸寶可夢",
+      "description_zh_hant": "因為會從口中噴出好像人的靈魂一樣的火焰，所以也有人把它錯看成妖怪。",
       "height": 0.6,
       "weight": 9.9,
       "types": [
@@ -13588,12 +13802,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 208,
-      "name": "九尾",
-      "name_english": "Ninetales",
+      "dex_number": 208,
+      "slug": "ninetales",
+      "name_zh_hant": "九尾",
+      "name_en": "Ninetales",
       "name_jp": "キュウコン",
-      "classification": "狐狸寶可夢",
-      "description": "擁有金光燦燦的體毛以及９條長長的尾巴。據說它可以活上１０００年。",
+      "classification_zh_hant": "狐狸寶可夢",
+      "description_zh_hant": "擁有金光燦燦的體毛以及９條長長的尾巴。據說它可以活上１０００年。",
       "height": 1.1,
       "weight": 19.9,
       "types": [
@@ -13651,12 +13866,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 209,
-      "name": "蚊香蝌蚪",
-      "name_english": "Poliwag",
+      "dex_number": 209,
+      "slug": "poliwag",
+      "name_zh_hant": "蚊香蝌蚪",
+      "name_en": "Poliwag",
       "name_jp": "ニョロモ",
-      "classification": "蝌蚪寶可夢",
-      "description": "比起走路更擅長游泳。腹部旋渦狀的花紋其實是透過皮膚看到的部分內臟。",
+      "classification_zh_hant": "蝌蚪寶可夢",
+      "description_zh_hant": "比起走路更擅長游泳。腹部旋渦狀的花紋其實是透過皮膚看到的部分內臟。",
       "height": 0.6,
       "weight": 12.4,
       "types": [
@@ -13711,12 +13927,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 210,
-      "name": "蚊香君",
-      "name_english": "Poliwhirl",
+      "dex_number": 210,
+      "slug": "poliwhirl",
+      "name_zh_hant": "蚊香君",
+      "name_en": "Poliwhirl",
       "name_jp": "ニョロゾ",
-      "classification": "蝌蚪寶可夢",
-      "description": "２條腿很發達，雖然可以在地上生活，但不知為何更喜歡生活在水裡。",
+      "classification_zh_hant": "蝌蚪寶可夢",
+      "description_zh_hant": "２條腿很發達，雖然可以在地上生活，但不知為何更喜歡生活在水裡。",
       "height": 1.0,
       "weight": 20.0,
       "types": [
@@ -13771,12 +13988,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 211,
-      "name": "蚊香泳士",
-      "name_english": "Poliwrath",
+      "dex_number": 211,
+      "slug": "poliwrath",
+      "name_zh_hant": "蚊香泳士",
+      "name_en": "Poliwrath",
       "name_jp": "ニョロボン",
-      "classification": "蝌蚪寶可夢",
-      "description": "透過游泳鍛煉出來的肌肉結實又健碩。正面直拳連巨大的岩石都能擊碎。",
+      "classification_zh_hant": "蝌蚪寶可夢",
+      "description_zh_hant": "透過游泳鍛煉出來的肌肉結實又健碩。正面直拳連巨大的岩石都能擊碎。",
       "height": 1.3,
       "weight": 54.0,
       "types": [
@@ -13838,12 +14056,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 212,
-      "name": "蚊香蛙皇",
-      "name_english": "Politoed",
+      "dex_number": 212,
+      "slug": "politoed",
+      "name_zh_hant": "蚊香蛙皇",
+      "name_en": "Politoed",
       "name_jp": "ニョロトノ",
-      "classification": "蛙寶可夢",
-      "description": "在有月亮的夜晚聚集起來大合唱。那鳴叫聲如怒吼般，並不美妙，但卻別有韻味。",
+      "classification_zh_hant": "蛙寶可夢",
+      "description_zh_hant": "在有月亮的夜晚聚集起來大合唱。那鳴叫聲如怒吼般，並不美妙，但卻別有韻味。",
       "height": 1.1,
       "weight": 33.9,
       "types": [
@@ -13905,12 +14124,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 213,
-      "name": "凱西",
-      "name_english": "Abra",
+      "dex_number": 213,
+      "slug": "abra",
+      "name_zh_hant": "凱西",
+      "name_en": "Abra",
       "name_jp": "ケーシィ",
-      "classification": "念力寶可夢",
-      "description": "即使是在睡夢中也會使用各種超能力，所以分辨不出它是不是醒著。",
+      "classification_zh_hant": "念力寶可夢",
+      "description_zh_hant": "即使是在睡夢中也會使用各種超能力，所以分辨不出它是不是醒著。",
       "height": 0.9,
       "weight": 19.5,
       "types": [
@@ -13968,12 +14188,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 214,
-      "name": "勇基拉",
-      "name_english": "Kadabra",
+      "dex_number": 214,
+      "slug": "kadabra",
+      "name_zh_hant": "勇基拉",
+      "name_en": "Kadabra",
       "name_jp": "ユンゲラー",
-      "classification": "念力寶可夢",
-      "description": "雖然有著強大的精神力，但如果沒有拿著銀湯匙，精神力量就會減半。",
+      "classification_zh_hant": "念力寶可夢",
+      "description_zh_hant": "雖然有著強大的精神力，但如果沒有拿著銀湯匙，精神力量就會減半。",
       "height": 1.3,
       "weight": 56.5,
       "types": [
@@ -14028,12 +14249,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 215,
-      "name": "胡地",
-      "name_english": "Alakazam",
+      "dex_number": 215,
+      "slug": "alakazam",
+      "name_zh_hant": "胡地",
+      "name_en": "Alakazam",
       "name_jp": "フーディン",
-      "classification": "念力寶可夢",
-      "description": "什麼事情都能記住。只要是曾經體驗過的事情就絕對不會忘記，頭腦非常聰明。",
+      "classification_zh_hant": "念力寶可夢",
+      "description_zh_hant": "什麼事情都能記住。只要是曾經體驗過的事情就絕對不會忘記，頭腦非常聰明。",
       "height": 1.5,
       "weight": 48.0,
       "types": [
@@ -14092,12 +14314,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 216,
-      "name": "魔尼尼",
-      "name_english": "Mime Jr.",
+      "dex_number": 216,
+      "slug": "mime-jr",
+      "name_zh_hant": "魔尼尼",
+      "name_en": "Mime Jr.",
       "name_jp": "マネネ",
-      "classification": "默劇寶可夢",
-      "description": "擅長模仿。如果對方因此大吃一驚，它就會很開心，甚至不知不覺忘記了自己正在模仿這件事。",
+      "classification_zh_hant": "默劇寶可夢",
+      "description_zh_hant": "擅長模仿。如果對方因此大吃一驚，它就會很開心，甚至不知不覺忘記了自己正在模仿這件事。",
       "height": 0.6,
       "weight": 13.0,
       "types": [
@@ -14158,12 +14381,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 217,
-      "name": "魔牆人偶",
-      "name_english": "Mr. Mime",
+      "dex_number": 217,
+      "slug": "mr-mime",
+      "name_zh_hant": "魔牆人偶",
+      "name_en": "Mr. Mime",
       "name_jp": "バリヤード",
-      "classification": "屏障寶可夢",
-      "description": "擅長表演啞劇，一直都在練習。即使空無一物，也能讓人覺得那裡真的有東西存在。",
+      "classification_zh_hant": "屏障寶可夢",
+      "description_zh_hant": "擅長表演啞劇，一直都在練習。即使空無一物，也能讓人覺得那裡真的有東西存在。",
       "height": 1.3,
       "weight": 54.5,
       "types": [
@@ -14222,12 +14446,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 218,
-      "name": "多邊獸",
-      "name_english": "Porygon",
+      "dex_number": 218,
+      "slug": "porygon",
+      "name_zh_hant": "多邊獸",
+      "name_en": "Porygon",
       "name_jp": "ポリゴン",
-      "classification": "虛擬寶可夢",
-      "description": "因為不需要呼吸而被期待在任何地方都能大顯身手的人工寶可夢。",
+      "classification_zh_hant": "虛擬寶可夢",
+      "description_zh_hant": "因為不需要呼吸而被期待在任何地方都能大顯身手的人工寶可夢。",
       "height": 0.8,
       "weight": 36.5,
       "types": [
@@ -14282,12 +14507,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 219,
-      "name": "多邊獸２型",
-      "name_english": "Porygon2",
+      "dex_number": 219,
+      "slug": "porygon2",
+      "name_zh_hant": "多邊獸２型",
+      "name_en": "Porygon2",
       "name_jp": "ポリゴン２",
-      "classification": "虛擬寶可夢",
-      "description": "利用最新科技進化而成的人工寶可夢。有時會作出不存在於程式裡的反應。",
+      "classification_zh_hant": "虛擬寶可夢",
+      "description_zh_hant": "利用最新科技進化而成的人工寶可夢。有時會作出不存在於程式裡的反應。",
       "height": 0.6,
       "weight": 32.5,
       "types": [
@@ -14342,12 +14568,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 220,
-      "name": "多邊獸乙型",
-      "name_english": "Porygon-Z",
+      "dex_number": 220,
+      "slug": "porygon-z",
+      "name_zh_hant": "多邊獸乙型",
+      "name_en": "Porygon-Z",
       "name_jp": "ポリゴンＺ",
-      "classification": "虛擬寶可夢",
-      "description": "以更優秀的寶可夢為目標，好像新追加的程式狀況不佳，動作很奇怪。",
+      "classification_zh_hant": "虛擬寶可夢",
+      "description_zh_hant": "以更優秀的寶可夢為目標，好像新追加的程式狀況不佳，動作很奇怪。",
       "height": 0.9,
       "weight": 34.0,
       "types": [
@@ -14402,12 +14629,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 221,
-      "name": "迷你龍",
-      "name_english": "Dratini",
+      "dex_number": 221,
+      "slug": "dratini",
+      "name_zh_hant": "迷你龍",
+      "name_en": "Dratini",
       "name_jp": "ミニリュウ",
-      "classification": "龍寶可夢",
-      "description": "因為目擊者非常少，所以過去它被稱為幻之寶可夢。現在還找到過它蛻下的皮。",
+      "classification_zh_hant": "龍寶可夢",
+      "description_zh_hant": "因為目擊者非常少，所以過去它被稱為幻之寶可夢。現在還找到過它蛻下的皮。",
       "height": 1.8,
       "weight": 3.3,
       "types": [
@@ -14465,12 +14693,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 222,
-      "name": "哈克龍",
-      "name_english": "Dragonair",
+      "dex_number": 222,
+      "slug": "dragonair",
+      "name_zh_hant": "哈克龍",
+      "name_en": "Dragonair",
       "name_jp": "ハクリュー",
-      "classification": "龍寶可夢",
-      "description": "據說它全身散發出氣場時，周圍的天氣會在轉眼間發生突變。",
+      "classification_zh_hant": "龍寶可夢",
+      "description_zh_hant": "據說它全身散發出氣場時，周圍的天氣會在轉眼間發生突變。",
       "height": 4.0,
       "weight": 16.5,
       "types": [
@@ -14528,12 +14757,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 223,
-      "name": "快龍",
-      "name_english": "Dragonite",
+      "dex_number": 223,
+      "slug": "dragonite",
+      "name_zh_hant": "快龍",
+      "name_en": "Dragonite",
       "name_jp": "カイリュー",
-      "classification": "龍寶可夢",
-      "description": "體型很大，能在空中飛行。大約只需１６小時就能繞地球１周。",
+      "classification_zh_hant": "龍寶可夢",
+      "description_zh_hant": "體型很大，能在空中飛行。大約只需１６小時就能繞地球１周。",
       "height": 2.2,
       "weight": 210.0,
       "types": [
@@ -14592,12 +14822,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 224,
-      "name": "火球鼠",
-      "name_english": "Cyndaquil",
+      "dex_number": 224,
+      "slug": "cyndaquil",
+      "name_zh_hant": "火球鼠",
+      "name_en": "Cyndaquil",
       "name_jp": "ヒノアラシ",
-      "classification": "火鼠寶可夢",
-      "description": "平時會將背部蜷起。但當它發怒或受驚時，會從背部噴出火焰。",
+      "classification_zh_hant": "火鼠寶可夢",
+      "description_zh_hant": "平時會將背部蜷起。但當它發怒或受驚時，會從背部噴出火焰。",
       "height": 0.5,
       "weight": 7.9,
       "types": [
@@ -14652,12 +14883,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 225,
-      "name": "火岩鼠",
-      "name_english": "Quilava",
+      "dex_number": 225,
+      "slug": "quilava",
+      "name_zh_hant": "火岩鼠",
+      "name_en": "Quilava",
       "name_jp": "マグマラシ",
-      "classification": "火山寶可夢",
-      "description": "戰鬥前會背過身去向對手展示自己的火焰有多麼厲害。",
+      "classification_zh_hant": "火山寶可夢",
+      "description_zh_hant": "戰鬥前會背過身去向對手展示自己的火焰有多麼厲害。",
       "height": 0.9,
       "weight": 19.0,
       "types": [
@@ -14715,12 +14947,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 226,
-      "name": "火暴獸",
-      "name_english": "Typhlosion",
+      "dex_number": 226,
+      "slug": "typhlosion",
+      "name_zh_hant": "火暴獸",
+      "name_en": "Typhlosion",
       "name_jp": "バクフーン",
-      "classification": "火山寶可夢",
-      "description": "該寶可夢藏有大絕招。會摩擦熊熊燃燒著的體毛，掀起爆炸氣浪進行攻擊。",
+      "classification_zh_hant": "火山寶可夢",
+      "description_zh_hant": "該寶可夢藏有大絕招。會摩擦熊熊燃燒著的體毛，掀起爆炸氣浪進行攻擊。",
       "height": 1.7,
       "weight": 79.5,
       "types": [
@@ -14779,12 +15012,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 227,
-      "name": "夢妖",
-      "name_english": "Misdreavus",
+      "dex_number": 227,
+      "slug": "misdreavus",
+      "name_zh_hant": "夢妖",
+      "name_en": "Misdreavus",
       "name_jp": "ムウマ",
-      "classification": "夜啼寶可夢",
-      "description": "喜歡惡作劇，經常在夜晚發出類似人哭喊一樣的叫聲來嚇唬大家。",
+      "classification_zh_hant": "夜啼寶可夢",
+      "description_zh_hant": "喜歡惡作劇，經常在夜晚發出類似人哭喊一樣的叫聲來嚇唬大家。",
       "height": 0.7,
       "weight": 1.0,
       "types": [
@@ -14842,12 +15076,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 228,
-      "name": "夢妖魔",
-      "name_english": "Mismagius",
+      "dex_number": 228,
+      "slug": "mismagius",
+      "name_zh_hant": "夢妖魔",
+      "name_en": "Mismagius",
       "name_jp": "ムウマージ",
-      "classification": "魔法寶可夢",
-      "description": "用咒語般的怪異叫聲折磨對手。是神出鬼沒的寶可夢。",
+      "classification_zh_hant": "魔法寶可夢",
+      "description_zh_hant": "用咒語般的怪異叫聲折磨對手。是神出鬼沒的寶可夢。",
       "height": 0.9,
       "weight": 4.4,
       "types": [
@@ -14909,12 +15144,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 229,
-      "name": "麒麟奇",
-      "name_english": "Girafarig",
+      "dex_number": 229,
+      "slug": "girafarig",
+      "name_zh_hant": "麒麟奇",
+      "name_en": "Girafarig",
       "name_jp": "キリンリキ",
-      "classification": "長頸寶可夢",
-      "description": "尾巴上有小小的頭。如果有敵人從背後靠近，就會受本能驅使地咬過去。",
+      "classification_zh_hant": "長頸寶可夢",
+      "description_zh_hant": "尾巴上有小小的頭。如果有敵人從背後靠近，就會受本能驅使地咬過去。",
       "height": 1.5,
       "weight": 41.5,
       "types": [
@@ -14972,12 +15208,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 230,
-      "name": "奇麒麟",
-      "name_english": "Farigiraf",
+      "dex_number": 230,
+      "slug": "farigiraf",
+      "name_zh_hant": "奇麒麟",
+      "name_en": "Farigiraf",
       "name_jp": "リキキリン",
-      "classification": "長頸寶可夢",
-      "description": "透過同步頭部和尾巴的腦波，來讓自己的超能力提升到了麒麟奇的１０倍之高。",
+      "classification_zh_hant": "長頸寶可夢",
+      "description_zh_hant": "透過同步頭部和尾巴的腦波，來讓自己的超能力提升到了麒麟奇的１０倍之高。",
       "height": 3.2,
       "weight": 160.0,
       "types": [
@@ -15036,12 +15273,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 231,
-      "name": "拉魯拉絲",
-      "name_english": "Ralts",
+      "dex_number": 231,
+      "slug": "ralts",
+      "name_zh_hant": "拉魯拉絲",
+      "name_en": "Ralts",
       "name_jp": "ラルトス",
-      "classification": "心情寶可夢",
-      "description": "用紅色的角捕捉到人和寶可夢的溫情後，全身也會稍稍變暖起來。",
+      "classification_zh_hant": "心情寶可夢",
+      "description_zh_hant": "用紅色的角捕捉到人和寶可夢的溫情後，全身也會稍稍變暖起來。",
       "height": 0.4,
       "weight": 6.6,
       "types": [
@@ -15099,12 +15337,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 232,
-      "name": "奇魯莉安",
-      "name_english": "Kirlia",
+      "dex_number": 232,
+      "slug": "kirlia",
+      "name_zh_hant": "奇魯莉安",
+      "name_en": "Kirlia",
       "name_jp": "キルリア",
-      "classification": "感情寶可夢",
-      "description": "可以透過操縱精神力量扭曲周圍的空間來看清未來。",
+      "classification_zh_hant": "感情寶可夢",
+      "description_zh_hant": "可以透過操縱精神力量扭曲周圍的空間來看清未來。",
       "height": 0.8,
       "weight": 20.2,
       "types": [
@@ -15165,12 +15404,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 233,
-      "name": "沙奈朵",
-      "name_english": "Gardevoir",
+      "dex_number": 233,
+      "slug": "gardevoir",
+      "name_zh_hant": "沙奈朵",
+      "name_en": "Gardevoir",
       "name_jp": "サーナイト",
-      "classification": "包容寶可夢",
-      "description": "如果是為了保護訓練家，它就會用盡自己的精神力量製造出小型黑洞。",
+      "classification_zh_hant": "包容寶可夢",
+      "description_zh_hant": "如果是為了保護訓練家，它就會用盡自己的精神力量製造出小型黑洞。",
       "height": 1.6,
       "weight": 48.4,
       "types": [
@@ -15232,12 +15472,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 234,
-      "name": "艾路雷朵",
-      "name_english": "Gallade",
+      "dex_number": 234,
+      "slug": "gallade",
+      "name_zh_hant": "艾路雷朵",
+      "name_en": "Gallade",
       "name_jp": "エルレイド",
-      "classification": "利刃寶可夢",
-      "description": "因為有著能敏銳感知對手想法的能力，所以可以率先攻擊。",
+      "classification_zh_hant": "利刃寶可夢",
+      "description_zh_hant": "因為有著能敏銳感知對手想法的能力，所以可以率先攻擊。",
       "height": 1.6,
       "weight": 52.0,
       "types": [
@@ -15296,12 +15537,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 235,
-      "name": "正電拍拍",
-      "name_english": "Plusle",
+      "dex_number": 235,
+      "slug": "plusle",
+      "name_zh_hant": "正電拍拍",
+      "name_en": "Plusle",
       "name_jp": "プラスル",
-      "classification": "加油寶可夢",
-      "description": "能從電線杆上吸取電力。會透過讓體內儲存的電流短路來發出聲音。",
+      "classification_zh_hant": "加油寶可夢",
+      "description_zh_hant": "能從電線杆上吸取電力。會透過讓體內儲存的電流短路來發出聲音。",
       "height": 0.4,
       "weight": 4.2,
       "types": [
@@ -15356,12 +15598,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 236,
-      "name": "負電拍拍",
-      "name_english": "Minun",
+      "dex_number": 236,
+      "slug": "minun",
+      "name_zh_hant": "負電拍拍",
+      "name_en": "Minun",
       "name_jp": "マイナン",
-      "classification": "加油寶可夢",
-      "description": "負電拍拍和正電拍拍放出的電流有促進血液流動，緩解痠痛的功效。",
+      "classification_zh_hant": "加油寶可夢",
+      "description_zh_hant": "負電拍拍和正電拍拍放出的電流有促進血液流動，緩解痠痛的功效。",
       "height": 0.4,
       "weight": 4.2,
       "types": [
@@ -15416,12 +15659,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 237,
-      "name": "大顎蟻",
-      "name_english": "Trapinch",
+      "dex_number": 237,
+      "slug": "trapinch",
+      "name_zh_hant": "大顎蟻",
+      "name_en": "Trapinch",
       "name_jp": "ナックラー",
-      "classification": "蟻獅寶可夢",
-      "description": "棲息在乾燥的沙漠裡。會待在搗蒜缽狀的巢穴中，一動不動地持續等著獵物出現。",
+      "classification_zh_hant": "蟻獅寶可夢",
+      "description_zh_hant": "棲息在乾燥的沙漠裡。會待在搗蒜缽狀的巢穴中，一動不動地持續等著獵物出現。",
       "height": 0.7,
       "weight": 15.0,
       "types": [
@@ -15477,12 +15721,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 238,
-      "name": "超音波幼蟲",
-      "name_english": "Vibrava",
+      "dex_number": 238,
+      "slug": "vibrava",
+      "name_zh_hant": "超音波幼蟲",
+      "name_en": "Vibrava",
       "name_jp": "ビブラーバ",
-      "classification": "震動寶可夢",
-      "description": "還不發達的翅膀，比起飛行，反而更多地用於透過摩擦產生超音波攻擊敵人。",
+      "classification_zh_hant": "震動寶可夢",
+      "description_zh_hant": "還不發達的翅膀，比起飛行，反而更多地用於透過摩擦產生超音波攻擊敵人。",
       "height": 1.1,
       "weight": 15.3,
       "types": [
@@ -15541,12 +15786,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 239,
-      "name": "沙漠蜻蜓",
-      "name_english": "Flygon",
+      "dex_number": 239,
+      "slug": "flygon",
+      "name_zh_hant": "沙漠蜻蜓",
+      "name_en": "Flygon",
       "name_jp": "フライゴン",
-      "classification": "神秘寶可夢",
-      "description": "被稱為沙漠精靈。隱藏在揮動翅膀掀起的沙暴中。",
+      "classification_zh_hant": "神秘寶可夢",
+      "description_zh_hant": "被稱為沙漠精靈。隱藏在揮動翅膀掀起的沙暴中。",
       "height": 2.0,
       "weight": 82.0,
       "types": [
@@ -15605,12 +15851,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 240,
-      "name": "青綿鳥",
-      "name_english": "Swablu",
+      "dex_number": 240,
+      "slug": "swablu",
+      "name_zh_hant": "青綿鳥",
+      "name_en": "Swablu",
       "name_jp": "チルット",
-      "classification": "綿鳥寶可夢",
-      "description": "如果自己和周圍不乾淨，就無法靜下心來的性格。見到髒東西就會用羽毛擦掉。",
+      "classification_zh_hant": "綿鳥寶可夢",
+      "description_zh_hant": "如果自己和周圍不乾淨，就無法靜下心來的性格。見到髒東西就會用羽毛擦掉。",
       "height": 0.4,
       "weight": 1.2,
       "types": [
@@ -15668,12 +15915,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 241,
-      "name": "七夕青鳥",
-      "name_english": "Altaria",
+      "dex_number": 241,
+      "slug": "altaria",
+      "name_zh_hant": "七夕青鳥",
+      "name_en": "Altaria",
       "name_jp": "チルタリス",
-      "classification": "哼唱寶可夢",
-      "description": "在晴朗日子裡會混在棉花雲裡自由地在空中飛來飛去，會用優美的高音歌唱。",
+      "classification_zh_hant": "哼唱寶可夢",
+      "description_zh_hant": "在晴朗日子裡會混在棉花雲裡自由地在空中飛來飛去，會用優美的高音歌唱。",
       "height": 1.1,
       "weight": 20.6,
       "types": [
@@ -15732,12 +15980,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 242,
-      "name": "夜巡靈",
-      "name_english": "Duskull",
+      "dex_number": 242,
+      "slug": "duskull",
+      "name_zh_hant": "夜巡靈",
+      "name_en": "Duskull",
       "name_jp": "ヨマワル",
-      "classification": "渡魂寶可夢",
-      "description": "最愛小孩的生物能量。會為了尋找孩子而在深夜的街上四處徘徊。",
+      "classification_zh_hant": "渡魂寶可夢",
+      "description_zh_hant": "最愛小孩的生物能量。會為了尋找孩子而在深夜的街上四處徘徊。",
       "height": 0.8,
       "weight": 15.0,
       "types": [
@@ -15792,12 +16041,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 243,
-      "name": "彷徨夜靈",
-      "name_english": "Dusclops",
+      "dex_number": 243,
+      "slug": "dusclops",
+      "name_zh_hant": "彷徨夜靈",
+      "name_en": "Dusclops",
       "name_jp": "サマヨール",
-      "classification": "招手寶可夢",
-      "description": "據說盯著它神秘手部動作看的話，靈魂會被它從身體裡抽走，因此被大家所深深恐懼。",
+      "classification_zh_hant": "招手寶可夢",
+      "description_zh_hant": "據說盯著它神秘手部動作看的話，靈魂會被它從身體裡抽走，因此被大家所深深恐懼。",
       "height": 1.6,
       "weight": 30.6,
       "types": [
@@ -15852,12 +16102,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 244,
-      "name": "黑夜魔靈",
-      "name_english": "Dusknoir",
+      "dex_number": 244,
+      "slug": "dusknoir",
+      "name_zh_hant": "黑夜魔靈",
+      "name_en": "Dusknoir",
       "name_jp": "ヨノワール",
-      "classification": "抓握寶可夢",
-      "description": "往來於這個世界與另一個世界。因據說會吸收並帶走徘徊的靈魂而遭人畏懼。",
+      "classification_zh_hant": "抓握寶可夢",
+      "description_zh_hant": "往來於這個世界與另一個世界。因據說會吸收並帶走徘徊的靈魂而遭人畏懼。",
       "height": 2.2,
       "weight": 106.6,
       "types": [
@@ -15913,12 +16164,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 245,
-      "name": "鐵啞鈴",
-      "name_english": "Beldum",
+      "dex_number": 245,
+      "slug": "beldum",
+      "name_zh_hant": "鐵啞鈴",
+      "name_en": "Beldum",
       "name_jp": "ダンバル",
-      "classification": "鐵球寶可夢",
-      "description": "讓身上放出的磁力和地上的磁力相互排斥，從而飄浮在空中。",
+      "classification_zh_hant": "鐵球寶可夢",
+      "description_zh_hant": "讓身上放出的磁力和地上的磁力相互排斥，從而飄浮在空中。",
       "height": 0.6,
       "weight": 95.2,
       "types": [
@@ -15976,12 +16228,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 246,
-      "name": "金屬怪",
-      "name_english": "Metang",
+      "dex_number": 246,
+      "slug": "metang",
+      "name_zh_hant": "金屬怪",
+      "name_en": "Metang",
       "name_jp": "メタング",
-      "classification": "鐵爪寶可夢",
-      "description": "由２只鐵啞鈴組合而成。因為２個大腦結合了，所以精神力量也變得更強了。",
+      "classification_zh_hant": "鐵爪寶可夢",
+      "description_zh_hant": "由２只鐵啞鈴組合而成。因為２個大腦結合了，所以精神力量也變得更強了。",
       "height": 1.2,
       "weight": 202.5,
       "types": [
@@ -16039,12 +16292,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 247,
-      "name": "巨金怪",
-      "name_english": "Metagross",
+      "dex_number": 247,
+      "slug": "metagross",
+      "name_zh_hant": "巨金怪",
+      "name_en": "Metagross",
       "name_jp": "メタグロス",
-      "classification": "鐵足寶可夢",
-      "description": "用４只爪子和龐大的身體牢牢地按住獵物後，用腹部的牙齒嘎嘣嘎嘣地啃咬。",
+      "classification_zh_hant": "鐵足寶可夢",
+      "description_zh_hant": "用４只爪子和龐大的身體牢牢地按住獵物後，用腹部的牙齒嘎嘣嘎嘣地啃咬。",
       "height": 1.6,
       "weight": 550.0,
       "types": [
@@ -16103,12 +16357,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 248,
-      "name": "藤藤蛇",
-      "name_english": "Snivy",
+      "dex_number": 248,
+      "slug": "snivy",
+      "name_zh_hant": "藤藤蛇",
+      "name_en": "Snivy",
       "name_jp": "ツタージャ",
-      "classification": "草蛇寶可夢",
-      "description": "當尾巴的葉子受到日照製造出能量後，動作就會變得敏捷，招式也會更加強勁。",
+      "classification_zh_hant": "草蛇寶可夢",
+      "description_zh_hant": "當尾巴的葉子受到日照製造出能量後，動作就會變得敏捷，招式也會更加強勁。",
       "height": 0.6,
       "weight": 8.1,
       "types": [
@@ -16164,12 +16419,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 249,
-      "name": "青藤蛇",
-      "name_english": "Servine",
+      "dex_number": 249,
+      "slug": "servine",
+      "name_zh_hant": "青藤蛇",
+      "name_en": "Servine",
       "name_jp": "ジャノビー",
-      "classification": "草蛇寶可夢",
-      "description": "如果身體變髒，就沒法用葉子進行光合作用，所以它總是保持自身的清潔。",
+      "classification_zh_hant": "草蛇寶可夢",
+      "description_zh_hant": "如果身體變髒，就沒法用葉子進行光合作用，所以它總是保持自身的清潔。",
       "height": 0.8,
       "weight": 16.0,
       "types": [
@@ -16225,12 +16481,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 250,
-      "name": "君主蛇",
-      "name_english": "Serperior",
+      "dex_number": 250,
+      "slug": "serperior",
+      "name_zh_hant": "君主蛇",
+      "name_en": "Serperior",
       "name_jp": "ジャローダ",
-      "classification": "皇家寶可夢",
-      "description": "它擁有能讓對手畏懼的眼神和威風凜凜的樣子，因此被稱為森林的君主。",
+      "classification_zh_hant": "皇家寶可夢",
+      "description_zh_hant": "它擁有能讓對手畏懼的眼神和威風凜凜的樣子，因此被稱為森林的君主。",
       "height": 3.3,
       "weight": 63.0,
       "types": [
@@ -16289,12 +16546,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 251,
-      "name": "呱呱泡蛙",
-      "name_english": "Froakie",
+      "dex_number": 251,
+      "slug": "froakie",
+      "name_zh_hant": "呱呱泡蛙",
+      "name_en": "Froakie",
       "name_jp": "ケロマツ",
-      "classification": "泡蛙寶可夢",
-      "description": "用細膩的泡泡包住身體，保護皮膚。裝得無憂無慮的，實則很精明地窺視著四周。",
+      "classification_zh_hant": "泡蛙寶可夢",
+      "description_zh_hant": "用細膩的泡泡包住身體，保護皮膚。裝得無憂無慮的，實則很精明地窺視著四周。",
       "height": 0.3,
       "weight": 7.0,
       "types": [
@@ -16349,12 +16607,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 252,
-      "name": "呱頭蛙",
-      "name_english": "Frogadier",
+      "dex_number": 252,
+      "slug": "frogadier",
+      "name_zh_hant": "呱頭蛙",
+      "name_en": "Frogadier",
       "name_jp": "ゲコガシラ",
-      "classification": "泡蛙寶可夢",
-      "description": "指尖能緊貼垂直的牆壁，即使是高樓大廈，它也能輕鬆登頂。",
+      "classification_zh_hant": "泡蛙寶可夢",
+      "description_zh_hant": "指尖能緊貼垂直的牆壁，即使是高樓大廈，它也能輕鬆登頂。",
       "height": 0.6,
       "weight": 10.9,
       "types": [
@@ -16412,12 +16671,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 253,
-      "name": "甲賀忍蛙",
-      "name_english": "Greninja",
+      "dex_number": 253,
+      "slug": "greninja",
+      "name_zh_hant": "甲賀忍蛙",
+      "name_en": "Greninja",
       "name_jp": "ゲッコウガ",
-      "classification": "忍者寶可夢",
-      "description": "用大腿滲出的粘液所製成的手裡劍能利落地切斷鋼絲。",
+      "classification_zh_hant": "忍者寶可夢",
+      "description_zh_hant": "用大腿滲出的粘液所製成的手裡劍能利落地切斷鋼絲。",
       "height": 1.5,
       "weight": 40.0,
       "types": [
@@ -16479,12 +16739,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 254,
-      "name": "咚咚鼠",
-      "name_english": "Dedenne",
+      "dex_number": 254,
+      "slug": "dedenne",
+      "name_zh_hant": "咚咚鼠",
+      "name_en": "Dedenne",
       "name_jp": "デデンネ",
-      "classification": "天線寶可夢",
-      "description": "用鬍子來感知夥伴發出的電波。它們透過這種方式告訴彼此哪裡有食物和電。",
+      "classification_zh_hant": "天線寶可夢",
+      "description_zh_hant": "用鬍子來感知夥伴發出的電波。它們透過這種方式告訴彼此哪裡有食物和電。",
       "height": 0.2,
       "weight": 2.2,
       "types": [
@@ -16542,12 +16803,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 255,
-      "name": "嗡蝠",
-      "name_english": "Noibat",
+      "dex_number": 255,
+      "slug": "noibat",
+      "name_zh_hant": "嗡蝠",
+      "name_en": "Noibat",
       "name_jp": "オンバット",
-      "classification": "音波寶可夢",
-      "description": "到了太陽落山時，它便會離開居住的洞窟四處飛行，用超音波尋找熟透的果實。",
+      "classification_zh_hant": "音波寶可夢",
+      "description_zh_hant": "到了太陽落山時，它便會離開居住的洞窟四處飛行，用超音波尋找熟透的果實。",
       "height": 0.5,
       "weight": 8.0,
       "types": [
@@ -16605,12 +16867,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 256,
-      "name": "音波龍",
-      "name_english": "Noivern",
+      "dex_number": 256,
+      "slug": "noivern",
+      "name_zh_hant": "音波龍",
+      "name_en": "Noivern",
       "name_jp": "オンバーン",
-      "classification": "音波寶可夢",
-      "description": "性格粗暴，但如果給它喜愛吃的成熟水果，就會一反常態，變得很親切。",
+      "classification_zh_hant": "音波寶可夢",
+      "description_zh_hant": "性格粗暴，但如果給它喜愛吃的成熟水果，就會一反常態，變得很親切。",
       "height": 1.5,
       "weight": 85.0,
       "types": [
@@ -16669,12 +16932,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 257,
-      "name": "稚山雀",
-      "name_english": "Rookidee",
+      "dex_number": 257,
+      "slug": "rookidee",
+      "name_zh_hant": "稚山雀",
+      "name_en": "Rookidee",
       "name_jp": "ココガラ",
-      "classification": "小鳥寶可夢",
-      "description": "性格勇敢，冒失莽撞。眼睛周圍的白色花紋會讓懦弱的寶可夢感到畏懼。",
+      "classification_zh_hant": "小鳥寶可夢",
+      "description_zh_hant": "性格勇敢，冒失莽撞。眼睛周圍的白色花紋會讓懦弱的寶可夢感到畏懼。",
       "height": 0.2,
       "weight": 1.8,
       "types": [
@@ -16729,12 +16993,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 258,
-      "name": "藍鴉",
-      "name_english": "Corvisquire",
+      "dex_number": 258,
+      "slug": "corvisquire",
+      "name_zh_hant": "藍鴉",
+      "name_en": "Corvisquire",
       "name_jp": "アオガラス",
-      "classification": "烏鴉寶可夢",
-      "description": "頭腦聰明，凡是靠鳥嘴和爪子能夠操控的工具，它都可以輕易地學會用法。",
+      "classification_zh_hant": "烏鴉寶可夢",
+      "description_zh_hant": "頭腦聰明，凡是靠鳥嘴和爪子能夠操控的工具，它都可以輕易地學會用法。",
       "height": 0.8,
       "weight": 16.0,
       "types": [
@@ -16789,12 +17054,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 259,
-      "name": "鋼鎧鴉",
-      "name_english": "Corviknight",
+      "dex_number": 259,
+      "slug": "corviknight",
+      "name_zh_hant": "鋼鎧鴉",
+      "name_en": "Corviknight",
       "name_jp": "アーマーガア",
-      "classification": "烏鴉寶可夢",
-      "description": "羽毛的一部分變成了鋼鐵。即使翅膀沉重也能悠然地飛在空中。",
+      "classification_zh_hant": "烏鴉寶可夢",
+      "description_zh_hant": "羽毛的一部分變成了鋼鐵。即使翅膀沉重也能悠然地飛在空中。",
       "height": 2.2,
       "weight": 75.0,
       "types": [
@@ -16856,12 +17122,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 260,
-      "name": "多龍梅西亞",
-      "name_english": "Dreepy",
+      "dex_number": 260,
+      "slug": "dreepy",
+      "name_zh_hant": "多龍梅西亞",
+      "name_en": "Dreepy",
       "name_jp": "ドラメシア",
-      "classification": "哀怨寶可夢",
-      "description": "傍晚時會成群結隊地快速環遊在海上，戳水裡的寶可夢玩。",
+      "classification_zh_hant": "哀怨寶可夢",
+      "description_zh_hant": "傍晚時會成群結隊地快速環遊在海上，戳水裡的寶可夢玩。",
       "height": 0.5,
       "weight": 2.0,
       "types": [
@@ -16920,12 +17187,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 261,
-      "name": "多龍奇",
-      "name_english": "Drakloak",
+      "dex_number": 261,
+      "slug": "drakloak",
+      "name_zh_hant": "多龍奇",
+      "name_en": "Drakloak",
       "name_jp": "ドロンチ",
-      "classification": "保姆寶可夢",
-      "description": "能以時速２００公里四處飛行。一旦輸了對戰，多龍梅西亞會二話不說地消失無蹤。",
+      "classification_zh_hant": "保姆寶可夢",
+      "description_zh_hant": "能以時速２００公里四處飛行。一旦輸了對戰，多龍梅西亞會二話不說地消失無蹤。",
       "height": 1.4,
       "weight": 11.0,
       "types": [
@@ -16987,12 +17255,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 262,
-      "name": "多龍巴魯託",
-      "name_english": "Dragapult",
+      "dex_number": 262,
+      "slug": "dragapult",
+      "name_zh_hant": "多龍巴魯託",
+      "name_en": "Dragapult",
       "name_jp": "ドラパルト",
-      "classification": "隱形寶可夢",
-      "description": "磨鍊意志，就能讓全身變透明。就連角里的多龍梅西亞也變得看不到。",
+      "classification_zh_hant": "隱形寶可夢",
+      "description_zh_hant": "磨鍊意志，就能讓全身變透明。就連角里的多龍梅西亞也變得看不到。",
       "height": 3.0,
       "weight": 50.0,
       "types": [
@@ -17051,12 +17320,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 263,
-      "name": "新葉喵",
-      "name_english": "Sprigatito",
+      "dex_number": 263,
+      "slug": "sprigatito",
+      "name_zh_hant": "新葉喵",
+      "name_en": "Sprigatito",
       "name_jp": "ニャオハ",
-      "classification": "草貓寶可夢",
-      "description": "毛茸茸的體毛有著近似於植物的成分。會勤於洗臉以防止乾燥。",
+      "classification_zh_hant": "草貓寶可夢",
+      "description_zh_hant": "毛茸茸的體毛有著近似於植物的成分。會勤於洗臉以防止乾燥。",
       "height": 0.4,
       "weight": 4.1,
       "types": [
@@ -17114,12 +17384,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 264,
-      "name": "蒂蕾喵",
-      "name_english": "Floragato",
+      "dex_number": 264,
+      "slug": "floragato",
+      "name_zh_hant": "蒂蕾喵",
+      "name_en": "Floragato",
       "name_jp": "ニャローテ",
-      "classification": "草貓寶可夢",
-      "description": "體毛的硬度隨心情而變。進入迎戰狀態時，體毛會變得如針一般尖銳。",
+      "classification_zh_hant": "草貓寶可夢",
+      "description_zh_hant": "體毛的硬度隨心情而變。進入迎戰狀態時，體毛會變得如針一般尖銳。",
       "height": 0.9,
       "weight": 12.2,
       "types": [
@@ -17174,12 +17445,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 265,
-      "name": "魔幻假面喵",
-      "name_english": "Meowscarada",
+      "dex_number": 265,
+      "slug": "meowscarada",
+      "name_zh_hant": "魔幻假面喵",
+      "name_en": "Meowscarada",
       "name_jp": "マスカーニャ",
-      "classification": "魔術師寶可夢",
-      "description": "花看似浮在空中，其實它是透過斗篷內的毛的反射來隱藏住了莖。",
+      "classification_zh_hant": "魔術師寶可夢",
+      "description_zh_hant": "花看似浮在空中，其實它是透過斗篷內的毛的反射來隱藏住了莖。",
       "height": 1.5,
       "weight": 31.2,
       "types": [
@@ -17238,12 +17510,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 266,
-      "name": "電海燕",
-      "name_english": "Wattrel",
+      "dex_number": 266,
+      "slug": "wattrel",
+      "name_zh_hant": "電海燕",
+      "name_en": "Wattrel",
       "name_jp": "カイデン",
-      "classification": "海燕寶可夢",
-      "description": "在海岸的懸崖上築巢。它的巢具有在嘴裡蹦跳的神奇口感，因此是受歡迎的珍味佳餚。",
+      "classification_zh_hant": "海燕寶可夢",
+      "description_zh_hant": "在海岸的懸崖上築巢。它的巢具有在嘴裡蹦跳的神奇口感，因此是受歡迎的珍味佳餚。",
       "height": 0.4,
       "weight": 3.6,
       "types": [
@@ -17301,12 +17574,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 267,
-      "name": "大電海燕",
-      "name_english": "Kilowattrel",
+      "dex_number": 267,
+      "slug": "kilowattrel",
+      "name_zh_hant": "大電海燕",
+      "name_en": "Kilowattrel",
       "name_jp": "タイカイデン",
-      "classification": "軍艦鳥寶可夢",
-      "description": "會把翅膀製造的電儲存到喉囊裡。由於羽毛所含的油脂非常少，因此它不是很擅長游泳。",
+      "classification_zh_hant": "軍艦鳥寶可夢",
+      "description_zh_hant": "會把翅膀製造的電儲存到喉囊裡。由於羽毛所含的油脂非常少，因此它不是很擅長游泳。",
       "height": 1.4,
       "weight": 38.6,
       "types": [
@@ -17365,12 +17639,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 268,
-      "name": "小鍛匠",
-      "name_english": "Tinkatink",
+      "dex_number": 268,
+      "slug": "tinkatink",
+      "name_zh_hant": "小鍛匠",
+      "name_en": "Tinkatink",
       "name_jp": "カヌチャン",
-      "classification": "錘鍊寶可夢",
-      "description": "揮動手工製造的錘子來保護自己，但卻經常被會吃金屬的寶可夢搶走錘子。",
+      "classification_zh_hant": "錘鍊寶可夢",
+      "description_zh_hant": "揮動手工製造的錘子來保護自己，但卻經常被會吃金屬的寶可夢搶走錘子。",
       "height": 0.4,
       "weight": 8.9,
       "types": [
@@ -17431,12 +17706,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 269,
-      "name": "巧鍛匠",
-      "name_english": "Tinkatuff",
+      "dex_number": 269,
+      "slug": "tinkatuff",
+      "name_zh_hant": "巧鍛匠",
+      "name_en": "Tinkatuff",
       "name_jp": "ナカヌチャン",
-      "classification": "錘子寶可夢",
-      "description": "棲息在堆滿破銅爛鐵的地方。為了測試錘子的強度，會和夥伴們激烈地敲打彼此。",
+      "classification_zh_hant": "錘子寶可夢",
+      "description_zh_hant": "棲息在堆滿破銅爛鐵的地方。為了測試錘子的強度，會和夥伴們激烈地敲打彼此。",
       "height": 0.7,
       "weight": 59.1,
       "types": [
@@ -17497,12 +17773,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 270,
-      "name": "巨鍛匠（頭頭）",
-      "name_english": "Tinkaton",
+      "dex_number": 270,
+      "slug": "tinkaton",
+      "name_zh_hant": "巨鍛匠（頭頭）",
+      "name_en": "Tinkaton",
       "name_jp": "デカヌチャン(おやかた)",
-      "classification": "錘子寶可夢",
-      "description": "特別心靈手巧的巨鍛匠。除了錘子，還能熟練使用其他工具。對人類造的建築物和機器也非常感興趣。",
+      "classification_zh_hant": "錘子寶可夢",
+      "description_zh_hant": "特別心靈手巧的巨鍛匠。除了錘子，還能熟練使用其他工具。對人類造的建築物和機器也非常感興趣。",
       "height": 0.7,
       "weight": 112.8,
       "types": [
@@ -17560,12 +17837,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 271,
-      "name": "化石翼龍",
-      "name_english": "Aerodactyl",
+      "dex_number": 271,
+      "slug": "aerodactyl",
+      "name_zh_hant": "化石翼龍",
+      "name_en": "Aerodactyl",
       "name_jp": "プテラ",
-      "classification": "化石寶可夢",
-      "description": "會以一副傲然的姿態翱翔在古代的廣袤天空中。降落到地面後，它好像會變弱，走起路來也會變慢。",
+      "classification_zh_hant": "化石寶可夢",
+      "description_zh_hant": "會以一副傲然的姿態翱翔在古代的廣袤天空中。降落到地面後，它好像會變弱，走起路來也會變慢。",
       "height": 1.8,
       "weight": 59.0,
       "types": [
@@ -17623,12 +17901,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 272,
-      "name": "頭蓋龍",
-      "name_english": "Cranidos",
+      "dex_number": 272,
+      "slug": "cranidos",
+      "name_zh_hant": "頭蓋龍",
+      "name_en": "Cranidos",
       "name_jp": "ズガイドス",
-      "classification": "頭錘寶可夢",
-      "description": "在發現頭蓋龍化石的地層裡也一併出土了被錘斷了的樹木的化石。",
+      "classification_zh_hant": "頭錘寶可夢",
+      "description_zh_hant": "在發現頭蓋龍化石的地層裡也一併出土了被錘斷了的樹木的化石。",
       "height": 0.9,
       "weight": 31.5,
       "types": [
@@ -17683,12 +17962,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 273,
-      "name": "戰槌龍",
-      "name_english": "Rampardos",
+      "dex_number": 273,
+      "slug": "rampardos",
+      "name_zh_hant": "戰槌龍",
+      "name_en": "Rampardos",
       "name_jp": "ラムパルド",
-      "classification": "頭錘寶可夢",
-      "description": "過去的人們曾在挖出化石後，用比鋼鐵還硬的頭蓋骨做成頭盔。",
+      "classification_zh_hant": "頭錘寶可夢",
+      "description_zh_hant": "過去的人們曾在挖出化石後，用比鋼鐵還硬的頭蓋骨做成頭盔。",
       "height": 1.6,
       "weight": 102.5,
       "types": [
@@ -17744,12 +18024,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 274,
-      "name": "盾甲龍",
-      "name_english": "Shieldon",
+      "dex_number": 274,
+      "slug": "shieldon",
+      "name_zh_hant": "盾甲龍",
+      "name_en": "Shieldon",
       "name_jp": "タテトプス",
-      "classification": "護盾寶可夢",
-      "description": "雖然從太古時代的地層中發現了它的化石，但尚未發現除了臉以外的部分。",
+      "classification_zh_hant": "護盾寶可夢",
+      "description_zh_hant": "雖然從太古時代的地層中發現了它的化石，但尚未發現除了臉以外的部分。",
       "height": 0.5,
       "weight": 57.0,
       "types": [
@@ -17807,12 +18088,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 275,
-      "name": "護城龍",
-      "name_english": "Bastiodon",
+      "dex_number": 275,
+      "slug": "bastiodon",
+      "name_zh_hant": "護城龍",
+      "name_en": "Bastiodon",
       "name_jp": "トリデプス",
-      "classification": "護盾寶可夢",
-      "description": "與戰槌龍生活在相似的地方。也曾發現過２只互相爭鬥一起倒下後變成的化石。",
+      "classification_zh_hant": "護盾寶可夢",
+      "description_zh_hant": "與戰槌龍生活在相似的地方。也曾發現過２只互相爭鬥一起倒下後變成的化石。",
       "height": 1.3,
       "weight": 149.5,
       "types": [
@@ -17871,12 +18153,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 276,
-      "name": "寶寶暴龍",
-      "name_english": "Tyrunt",
+      "dex_number": 276,
+      "slug": "tyrunt",
+      "name_zh_hant": "寶寶暴龍",
+      "name_en": "Tyrunt",
       "name_jp": "チゴラス",
-      "classification": "幼君寶可夢",
-      "description": "復活而來的古代寶可夢。性格既粗野又任性，能用大顎咬碎任何東西。",
+      "classification_zh_hant": "幼君寶可夢",
+      "description_zh_hant": "復活而來的古代寶可夢。性格既粗野又任性，能用大顎咬碎任何東西。",
       "height": 0.8,
       "weight": 26.0,
       "types": [
@@ -17934,12 +18217,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 277,
-      "name": "怪顎龍",
-      "name_english": "Tyrantrum",
+      "dex_number": 277,
+      "slug": "tyrantrum",
+      "name_zh_hant": "怪顎龍",
+      "name_en": "Tyrantrum",
       "name_jp": "ガチゴラス",
-      "classification": "暴君寶可夢",
-      "description": "有說法，要完全復原是不可能的，實際上它全身都是羽毛一樣的毛髮。",
+      "classification_zh_hant": "暴君寶可夢",
+      "description_zh_hant": "有說法，要完全復原是不可能的，實際上它全身都是羽毛一樣的毛髮。",
       "height": 2.5,
       "weight": 270.0,
       "types": [
@@ -17998,12 +18282,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 278,
-      "name": "冰雪龍",
-      "name_english": "Amaura",
+      "dex_number": 278,
+      "slug": "amaura",
+      "name_zh_hant": "冰雪龍",
+      "name_en": "Amaura",
       "name_jp": "アマルス",
-      "classification": "凍原寶可夢",
-      "description": "從化石中成功復原。曾經在沒什麼天敵的寒冷地區群居。",
+      "classification_zh_hant": "凍原寶可夢",
+      "description_zh_hant": "從化石中成功復原。曾經在沒什麼天敵的寒冷地區群居。",
       "height": 1.3,
       "weight": 25.2,
       "types": [
@@ -18061,12 +18346,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 279,
-      "name": "冰雪巨龍",
-      "name_english": "Aurorus",
+      "dex_number": 279,
+      "slug": "aurorus",
+      "name_zh_hant": "冰雪巨龍",
+      "name_en": "Aurorus",
       "name_jp": "アマルルガ",
-      "classification": "凍原寶可夢",
-      "description": "從化石復原而來。據說當冰雪巨龍吼叫時，夜空中就會出現極光。",
+      "classification_zh_hant": "凍原寶可夢",
+      "description_zh_hant": "從化石復原而來。據說當冰雪巨龍吼叫時，夜空中就會出現極光。",
       "height": 2.7,
       "weight": 225.0,
       "types": [
@@ -18125,12 +18411,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 280,
-      "name": "伊布",
-      "name_english": "Eevee",
+      "dex_number": 280,
+      "slug": "eevee",
+      "name_zh_hant": "伊布",
+      "name_en": "Eevee",
       "name_jp": "イーブイ",
-      "classification": "進化寶可夢",
-      "description": "為了能立刻適應環境的變化，這種寶可夢蘊含著多種進化的可能性。",
+      "classification_zh_hant": "進化寶可夢",
+      "description_zh_hant": "為了能立刻適應環境的變化，這種寶可夢蘊含著多種進化的可能性。",
       "height": 0.3,
       "weight": 6.5,
       "types": [
@@ -18185,12 +18472,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 281,
-      "name": "水伊布",
-      "name_english": "Vaporeon",
+      "dex_number": 281,
+      "slug": "vaporeon",
+      "name_zh_hant": "水伊布",
+      "name_en": "Vaporeon",
       "name_jp": "シャワーズ",
-      "classification": "吐泡寶可夢",
-      "description": "喜歡清澈見底的水邊。因為細胞和水分子很相似，所以也能和水融為一體。",
+      "classification_zh_hant": "吐泡寶可夢",
+      "description_zh_hant": "喜歡清澈見底的水邊。因為細胞和水分子很相似，所以也能和水融為一體。",
       "height": 1.0,
       "weight": 29.0,
       "types": [
@@ -18245,12 +18533,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 282,
-      "name": "雷伊布",
-      "name_english": "Jolteon",
+      "dex_number": 282,
+      "slug": "jolteon",
+      "name_zh_hant": "雷伊布",
+      "name_en": "Jolteon",
       "name_jp": "サンダース",
-      "classification": "雷寶可夢",
-      "description": "稍微受點刺激就會大叫或生氣，每當心情變化時都會蓄電。",
+      "classification_zh_hant": "雷寶可夢",
+      "description_zh_hant": "稍微受點刺激就會大叫或生氣，每當心情變化時都會蓄電。",
       "height": 0.8,
       "weight": 24.5,
       "types": [
@@ -18305,12 +18594,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 283,
-      "name": "火伊布",
-      "name_english": "Flareon",
+      "dex_number": 283,
+      "slug": "flareon",
+      "name_zh_hant": "火伊布",
+      "name_en": "Flareon",
       "name_jp": "ブースター",
-      "classification": "火寶可夢",
-      "description": "會將吸入的空氣傳送到自己體內的火囊裡，製造成１７００度的火焰再吐出。",
+      "classification_zh_hant": "火寶可夢",
+      "description_zh_hant": "會將吸入的空氣傳送到自己體內的火囊裡，製造成１７００度的火焰再吐出。",
       "height": 0.9,
       "weight": 25.0,
       "types": [
@@ -18365,12 +18655,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 284,
-      "name": "太陽伊布",
-      "name_english": "Espeon",
+      "dex_number": 284,
+      "slug": "espeon",
+      "name_zh_hant": "太陽伊布",
+      "name_en": "Espeon",
       "name_jp": "エーフィ",
-      "classification": "太陽寶可夢",
-      "description": "能透過感受空氣的流動，準確地預測出接下來的天氣和對手的行動等等。",
+      "classification_zh_hant": "太陽寶可夢",
+      "description_zh_hant": "能透過感受空氣的流動，準確地預測出接下來的天氣和對手的行動等等。",
       "height": 0.9,
       "weight": 26.5,
       "types": [
@@ -18425,12 +18716,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 285,
-      "name": "月亮伊布",
-      "name_english": "Umbreon",
+      "dex_number": 285,
+      "slug": "umbreon",
+      "name_zh_hant": "月亮伊布",
+      "name_en": "Umbreon",
       "name_jp": "ブラッキー",
-      "classification": "月光寶可夢",
-      "description": "在滿月之夜或是興奮的時候，它身上圈圈一樣的花紋就會發出金黃色的光。",
+      "classification_zh_hant": "月光寶可夢",
+      "description_zh_hant": "在滿月之夜或是興奮的時候，它身上圈圈一樣的花紋就會發出金黃色的光。",
       "height": 1.0,
       "weight": 27.0,
       "types": [
@@ -18485,12 +18777,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 286,
-      "name": "葉伊布",
-      "name_english": "Leafeon",
+      "dex_number": 286,
+      "slug": "leafeon",
+      "name_zh_hant": "葉伊布",
+      "name_en": "Leafeon",
       "name_jp": "リーフィア",
-      "classification": "新綠寶可夢",
-      "description": "在晴朗的日子裡睡著的葉伊佈會進行光合作用，製造出新鮮的空氣。",
+      "classification_zh_hant": "新綠寶可夢",
+      "description_zh_hant": "在晴朗的日子裡睡著的葉伊佈會進行光合作用，製造出新鮮的空氣。",
       "height": 1.0,
       "weight": 25.5,
       "types": [
@@ -18545,12 +18838,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 287,
-      "name": "冰伊布",
-      "name_english": "Glaceon",
+      "dex_number": 287,
+      "slug": "glaceon",
+      "name_zh_hant": "冰伊布",
+      "name_en": "Glaceon",
       "name_jp": "グレイシア",
-      "classification": "新雪寶可夢",
-      "description": "自由地控制體溫，讓大氣中的水分凍結，捲起冰晶。",
+      "classification_zh_hant": "新雪寶可夢",
+      "description_zh_hant": "自由地控制體溫，讓大氣中的水分凍結，捲起冰晶。",
       "height": 0.8,
       "weight": 25.9,
       "types": [
@@ -18605,12 +18899,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 288,
-      "name": "仙子伊布",
-      "name_english": "Sylveon",
+      "dex_number": 288,
+      "slug": "sylveon",
+      "name_zh_hant": "仙子伊布",
+      "name_en": "Sylveon",
       "name_jp": "ニンフィア",
-      "classification": "連結寶可夢",
-      "description": "會從蝴蝶結般的觸角里釋放能夠消除敵意的波動，藉此平息紛爭。",
+      "classification_zh_hant": "連結寶可夢",
+      "description_zh_hant": "會從蝴蝶結般的觸角里釋放能夠消除敵意的波動，藉此平息紛爭。",
       "height": 1.0,
       "weight": 23.5,
       "types": [
@@ -18665,12 +18960,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 289,
-      "name": "蓋歐卡",
-      "name_english": "Kyogre",
+      "dex_number": 289,
+      "slug": "kyogre",
+      "name_zh_hant": "蓋歐卡",
+      "name_en": "Kyogre",
       "name_jp": "カイオーガ",
-      "classification": "海底寶可夢",
-      "description": "據說能用下大雨的能力擴張海洋。一直沉睡在海溝的底部。",
+      "classification_zh_hant": "海底寶可夢",
+      "description_zh_hant": "據說能用下大雨的能力擴張海洋。一直沉睡在海溝的底部。",
       "height": 4.5,
       "weight": 352.0,
       "types": [
@@ -18725,12 +19021,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 290,
-      "name": "雷公",
-      "name_english": "Raikou",
+      "dex_number": 290,
+      "slug": "raikou",
+      "name_zh_hant": "雷公",
+      "name_en": "Raikou",
       "name_jp": "ライコウ",
-      "classification": "天雷寶可夢",
-      "description": "因為揹著雨雲，所以無論何時都能釋放雷電。據說是和雷電一同降臨的寶可夢。",
+      "classification_zh_hant": "天雷寶可夢",
+      "description_zh_hant": "因為揹著雨雲，所以無論何時都能釋放雷電。據說是和雷電一同降臨的寶可夢。",
       "height": 1.9,
       "weight": 178.0,
       "types": [
@@ -18785,12 +19082,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 291,
-      "name": "炎帝",
-      "name_english": "Entei",
+      "dex_number": 291,
+      "slug": "entei",
+      "name_zh_hant": "炎帝",
+      "name_en": "Entei",
       "name_jp": "エンテイ",
-      "classification": "火山寶可夢",
-      "description": "據說如果炎帝吼叫的話，世界上的某處火山就會噴發。",
+      "classification_zh_hant": "火山寶可夢",
+      "description_zh_hant": "據說如果炎帝吼叫的話，世界上的某處火山就會噴發。",
       "height": 2.1,
       "weight": 198.0,
       "types": [
@@ -18845,12 +19143,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 292,
-      "name": "水君",
-      "name_english": "Suicune",
+      "dex_number": 292,
+      "slug": "suicune",
+      "name_zh_hant": "水君",
+      "name_en": "Suicune",
       "name_jp": "スイクン",
-      "classification": "極光寶可夢",
-      "description": "在全世界四處奔跑，讓汙水重回清澈。會隨北風奔跑著離去。",
+      "classification_zh_hant": "極光寶可夢",
+      "description_zh_hant": "在全世界四處奔跑，讓汙水重回清澈。會隨北風奔跑著離去。",
       "height": 2.0,
       "weight": 187.0,
       "types": [
@@ -18905,12 +19204,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 293,
-      "name": "波爾凱尼恩",
-      "name_english": "Volcanion",
+      "dex_number": 293,
+      "slug": "volcanion",
+      "name_zh_hant": "波爾凱尼恩",
+      "name_en": "Volcanion",
       "name_jp": "ボルケニオン",
-      "classification": "蒸汽寶可夢",
-      "description": "噴出水蒸氣，用濃霧隱藏自己。據說住在人類不會進入的山裡。",
+      "classification_zh_hant": "蒸汽寶可夢",
+      "description_zh_hant": "噴出水蒸氣，用濃霧隱藏自己。據說住在人類不會進入的山裡。",
       "height": 1.7,
       "weight": 195.0,
       "types": [
@@ -18968,12 +19268,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 294,
-      "name": "急凍鳥",
-      "name_english": "Articuno",
+      "dex_number": 294,
+      "slug": "articuno",
+      "name_zh_hant": "急凍鳥",
+      "name_en": "Articuno",
       "name_jp": "フリーザー",
-      "classification": "冰凍寶可夢",
-      "description": "傳說的鳥寶可夢。它能將冬日空中的空氣中含有的水分凍結，降下雪花。",
+      "classification_zh_hant": "冰凍寶可夢",
+      "description_zh_hant": "傳說的鳥寶可夢。它能將冬日空中的空氣中含有的水分凍結，降下雪花。",
       "height": 1.7,
       "weight": 55.4,
       "types": [
@@ -19031,12 +19332,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 295,
-      "name": "閃電鳥",
-      "name_english": "Zapdos",
+      "dex_number": 295,
+      "slug": "zapdos",
+      "name_zh_hant": "閃電鳥",
+      "name_en": "Zapdos",
       "name_jp": "サンダー",
-      "classification": "電擊寶可夢",
-      "description": "能夠隨心所欲地操縱雷電。據傳說，它的巢穴處在漆黑的雷雲中。",
+      "classification_zh_hant": "電擊寶可夢",
+      "description_zh_hant": "能夠隨心所欲地操縱雷電。據傳說，它的巢穴處在漆黑的雷雲中。",
       "height": 1.6,
       "weight": 52.6,
       "types": [
@@ -19094,12 +19396,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 296,
-      "name": "火焰鳥",
-      "name_english": "Moltres",
+      "dex_number": 296,
+      "slug": "moltres",
+      "name_zh_hant": "火焰鳥",
+      "name_en": "Moltres",
       "name_jp": "ファイヤー",
-      "classification": "火焰寶可夢",
-      "description": "傳說的鳥寶可夢。當它揮舞起劇烈燃燒著的雙翅，哪怕是夜空也會被點亮。",
+      "classification_zh_hant": "火焰寶可夢",
+      "description_zh_hant": "傳說的鳥寶可夢。當它揮舞起劇烈燃燒著的雙翅，哪怕是夜空也會被點亮。",
       "height": 2.0,
       "weight": 60.0,
       "types": [
@@ -19157,12 +19460,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 297,
-      "name": "洛奇亞",
-      "name_english": "Lugia",
+      "dex_number": 297,
+      "slug": "lugia",
+      "name_zh_hant": "洛奇亞",
+      "name_en": "Lugia",
       "name_jp": "ルギア",
-      "classification": "潛水寶可夢",
-      "description": "沉睡在很深的海溝底部。據說洛奇亞揮動翅膀的話，就會引起長達４０天的暴風雨。",
+      "classification_zh_hant": "潛水寶可夢",
+      "description_zh_hant": "沉睡在很深的海溝底部。據說洛奇亞揮動翅膀的話，就會引起長達４０天的暴風雨。",
       "height": 5.2,
       "weight": 216.0,
       "types": [
@@ -19220,12 +19524,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 298,
-      "name": "鳳王",
-      "name_english": "Ho-Oh",
+      "dex_number": 298,
+      "slug": "ho-oh",
+      "name_zh_hant": "鳳王",
+      "name_en": "Ho-Oh",
       "name_jp": "ホウオウ",
-      "classification": "虹色寶可夢",
-      "description": "記載於神話中的寶可夢。說其身體閃耀著七彩光芒，飛過的地方會形成彩虹。",
+      "classification_zh_hant": "虹色寶可夢",
+      "description_zh_hant": "記載於神話中的寶可夢。說其身體閃耀著七彩光芒，飛過的地方會形成彩虹。",
       "height": 3.8,
       "weight": 199.0,
       "types": [
@@ -19283,12 +19588,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 299,
-      "name": "超夢",
-      "name_english": "Mewtwo",
+      "dex_number": 299,
+      "slug": "mewtwo",
+      "name_zh_hant": "超夢",
+      "name_en": "Mewtwo",
       "name_jp": "ミュウツー",
-      "classification": "基因寶可夢",
-      "description": "超夢的基因幾乎和夢幻完全一樣，但是大小和性格卻迥異得讓人吃驚。",
+      "classification_zh_hant": "基因寶可夢",
+      "description_zh_hant": "超夢的基因幾乎和夢幻完全一樣，但是大小和性格卻迥異得讓人吃驚。",
       "height": 2.0,
       "weight": 122.0,
       "types": [
@@ -19343,12 +19649,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 300,
-      "name": "夢幻",
-      "name_english": "Mew",
+      "dex_number": 300,
+      "slug": "mew",
+      "name_zh_hant": "夢幻",
+      "name_en": "Mew",
       "name_jp": "ミュウ",
-      "classification": "新種寶可夢",
-      "description": "許多人認為它是所有寶可夢的祖先。有著很高的智力，能夠使用一切的招式。",
+      "classification_zh_hant": "新種寶可夢",
+      "description_zh_hant": "許多人認為它是所有寶可夢的祖先。有著很高的智力，能夠使用一切的招式。",
       "height": 0.4,
       "weight": 4.0,
       "types": [
@@ -19403,12 +19710,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 1,
-      "name": "毽子草",
-      "name_english": "Hoppip",
+      "dex_number": 1,
+      "slug": "hoppip",
+      "name_zh_hant": "毽子草",
+      "name_en": "Hoppip",
       "name_jp": "ハネッコ",
-      "classification": "棉草寶可夢",
-      "description": "由於會乘著風在各地移動，因此除了寒冷的地方，幾乎隨處可見它的身影。",
+      "classification_zh_hant": "棉草寶可夢",
+      "description_zh_hant": "由於會乘著風在各地移動，因此除了寒冷的地方，幾乎隨處可見它的身影。",
       "height": 0.4,
       "weight": 0.5,
       "types": [
@@ -19466,12 +19774,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 2,
-      "name": "毽子花",
-      "name_english": "Skiploom",
+      "dex_number": 2,
+      "slug": "skiploom",
+      "name_zh_hant": "毽子花",
+      "name_en": "Skiploom",
       "name_jp": "ポポッコ",
-      "classification": "棉草寶可夢",
-      "description": "一旦天氣變冷就會關上花瓣。由此就無法進行光合作用了，所以會飛到溫暖的地區去。",
+      "classification_zh_hant": "棉草寶可夢",
+      "description_zh_hant": "一旦天氣變冷就會關上花瓣。由此就無法進行光合作用了，所以會飛到溫暖的地區去。",
       "height": 0.6,
       "weight": 1.0,
       "types": [
@@ -19532,12 +19841,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 3,
-      "name": "毽子棉",
-      "name_english": "Jumpluff",
+      "dex_number": 3,
+      "slug": "jumpluff",
+      "name_zh_hant": "毽子棉",
+      "name_en": "Jumpluff",
       "name_jp": "ワタッコ",
-      "classification": "棉草寶可夢",
-      "description": "會隨季風到處旅行。當毽子棉的棉孢子掉光的時候，就是它的旅行和生命終結之時。",
+      "classification_zh_hant": "棉草寶可夢",
+      "description_zh_hant": "會隨季風到處旅行。當毽子棉的棉孢子掉光的時候，就是它的旅行和生命終結之時。",
       "height": 0.8,
       "weight": 3.0,
       "types": [
@@ -19599,12 +19909,13 @@
   {
     "model": "pokopia.pokemon",
     "fields": {
-      "pokopia_dex_number": 4,
-      "name": "勾魂眼",
-      "name_english": "Sableye",
+      "dex_number": 4,
+      "slug": "sableye",
+      "name_zh_hant": "勾魂眼",
+      "name_en": "Sableye",
       "name_jp": "ヤミラミ",
-      "classification": "黑暗寶可夢",
-      "description": "會在陰暗的洞窟建造住所，並用鋒利的爪子挖寶石吃。",
+      "classification_zh_hant": "黑暗寶可夢",
+      "description_zh_hant": "會在陰暗的洞窟建造住所，並用鋒利的爪子挖寶石吃。",
       "height": 0.5,
       "weight": 11.0,
       "types": [
