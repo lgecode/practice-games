@@ -92,13 +92,18 @@ class SlugNaturalKeyManager(models.Manager):
     def get_by_natural_key(self, slug):
         return self.get(slug=slug)
 
+class NameNaturalKeyManager(models.Manager):
+    def get_by_natural_key(self, name):
+        return self.get(name=name)
+
 
 class PokemonType(models.Model):
-    objects = SlugNaturalKeyManager()
     slug = models.SlugField(max_length=50, unique=True, blank=True, null=True)
     name_zh_hant = models.CharField(max_length=50, unique=True, blank=True, null=True)
     name_en = models.CharField(max_length=50, unique=True, blank=True, null=True)
     name_jp = models.CharField(max_length=50, unique=True, blank=True, null=True)
+
+    objects = SlugNaturalKeyManager()
 
     def natural_key(self):
         return (self.slug,)
@@ -108,11 +113,12 @@ class PokemonType(models.Model):
 
 
 class Specialty(models.Model):
-    objects = SlugNaturalKeyManager()
     slug = models.SlugField(max_length=50, unique=True, blank=True, null=True)
     name_zh_hant = models.CharField(max_length=50, unique=True, blank=True, null=True)
     name_en = models.CharField(max_length=50, unique=True, blank=True, null=True)
     name_jp = models.CharField(max_length=50, unique=True, blank=True, null=True)
+
+    objects = SlugNaturalKeyManager()
 
     def natural_key(self):
         return (self.slug,)
@@ -122,27 +128,36 @@ class Specialty(models.Model):
 
 
 class Habitat(models.Model):
-    objects = SlugNaturalKeyManager()
-
-    slug = models.SlugField(max_length=100, unique=True, blank=True, null=True)
-    name_zh_hant = models.CharField(max_length=100, unique=True, blank=True, null=True)
-    name_en = models.CharField(max_length=100, unique=True, blank=True, null=True)
-    name_jp = models.CharField(max_length=100, unique=True, blank=True, null=True)
-
+    name = models.CharField(max_length=100, unique=True, blank=True, null=True)
+    
+    objects = NameNaturalKeyManager()
     def natural_key(self):
-        return (self.slug,)
+        return (self.name,)
 
     def __str__(self):
-        return self.name_zh_hant
+        return self.name
+
+    # slug = models.SlugField(max_length=100, unique=True, blank=True, null=True)
+    # name_zh_hant = models.CharField(max_length=100, unique=True, blank=True, null=True)
+    # name_en = models.CharField(max_length=100, unique=True, blank=True, null=True)
+    # name_jp = models.CharField(max_length=100, unique=True, blank=True, null=True)
+
+    # objects = SlugNaturalKeyManager()
+
+    # def natural_key(self):
+    #     return (self.slug,)
+
+    # def __str__(self):
+    #     return self.name_zh_hant
 
 
 class Favorite(models.Model):
-    objects = SlugNaturalKeyManager()
-
     slug = models.SlugField(max_length=100, unique=True, blank=True, null=True)
     name_zh_hant = models.CharField(max_length=100, unique=True, blank=True, null=True)
     name_en = models.CharField(max_length=100, unique=True, blank=True, null=True)
     name_jp = models.CharField(max_length=100, unique=True, blank=True, null=True)
+
+    objects = SlugNaturalKeyManager()
 
     def natural_key(self):
         return (self.slug,)

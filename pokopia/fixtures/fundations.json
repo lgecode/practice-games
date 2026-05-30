@@ -1736,302 +1736,388 @@
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "能感受大自然的",
-      "name_en": "Lots of nature"
+      "slug": "lots_of_nature",
+      "name_zh_hant": "能感受大自然的",
+      "name_en": "Lots of nature",
+      "name_jp": "自然を感じる"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "柔軟的",
-      "name_en": "Soft stuff"
+      "slug": "soft_stuff",
+      "name_zh_hant": "柔軟的",
+      "name_en": "Soft stuff",
+      "name_jp": "やわらかい"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "可愛的",
-      "name_en": "Cute stuff"
+      "slug": "cute_stuff",
+      "name_zh_hant": "可愛的",
+      "name_en": "Cute stuff",
+      "name_jp": "キュート"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "能感受水的",
-      "name_en": "Lots of water"
+      "slug": "lots_of_water",
+      "name_zh_hant": "能感受水的",
+      "name_en": "Lots of water",
+      "name_jp": "水を感じる"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "大家一起用的",
-      "name_en": "Group Activities"
+      "slug": "group_activities",
+      "name_zh_hant": "大家一起用的",
+      "name_en": "Group Activities",
+      "name_jp": "みんなで使う"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "花朵綻放的",
-      "name_en": "Pretty flowers"
+      "slug": "pretty_flowers",
+      "name_zh_hant": "花朵綻放的",
+      "name_en": "Pretty flowers",
+      "name_jp": "花ざかり"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "色彩繽紛的",
-      "name_en": "Colorful stuff"
+      "slug": "colorful_stuff",
+      "name_zh_hant": "色彩繽紛的",
+      "name_en": "Colorful stuff",
+      "name_jp": "カラフル"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "豪華的",
-      "name_en": "Luxury"
+      "slug": "luxury",
+      "name_zh_hant": "豪華的",
+      "name_en": "Luxury",
+      "name_jp": "ゴージャス"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "能感受火的",
-      "name_en": "Lots of fire"
+      "slug": "lots_of_fire",
+      "name_zh_hant": "能感受火的",
+      "name_en": "Lots of fire",
+      "name_jp": "炎を感じる"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "木製的",
-      "name_en": "Wooden stuff"
+      "slug": "wooden_stuff",
+      "name_zh_hant": "木製的",
+      "name_en": "Wooden stuff",
+      "name_jp": "木製"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "堅硬的",
-      "name_en": "Hard stuff"
+      "slug": "hard_stuff",
+      "name_zh_hant": "堅硬的",
+      "name_en": "Hard stuff",
+      "name_jp": "かたい"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "訓練用的",
-      "name_en": "Exercise"
+      "slug": "exercise",
+      "name_zh_hant": "訓練用的",
+      "name_en": "Exercise",
+      "name_jp": "トレーニングできる"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "交通工具",
-      "name_en": "Rides"
+      "slug": "rides",
+      "name_zh_hant": "交通工具",
+      "name_en": "Rides",
+      "name_jp": "乗りもの"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "能感受風的",
-      "name_en": "Nice breezes"
+      "slug": "nice_breezes",
+      "name_zh_hant": "能感受風的",
+      "name_en": "Nice breezes",
+      "name_jp": "風を感じる"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "整潔的",
-      "name_en": "Cleanliness"
+      "slug": "cleanliness",
+      "name_zh_hant": "整潔的",
+      "name_en": "Cleanliness",
+      "name_jp": "せいけつ"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "能治癒傷口的",
-      "name_en": "Healing"
+      "slug": "healing",
+      "name_zh_hant": "能治癒傷口的",
+      "name_en": "Healing",
+      "name_jp": "キズをいやす"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "觀賞用的",
-      "name_en": "Watching stuff"
+      "slug": "watching_stuff",
+      "name_zh_hant": "觀賞用的",
+      "name_en": "Watching stuff",
+      "name_jp": "見て楽しむ"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "遊戲區",
-      "name_en": "Play spaces"
+      "slug": "play_spaces",
+      "name_zh_hant": "遊戲區",
+      "name_en": "Play spaces",
+      "name_jp": "あそびば"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "像食物的",
-      "name_en": "Looks like food"
+      "slug": "looks_like_food",
+      "name_zh_hant": "像食物的",
+      "name_en": "Looks like food",
+      "name_jp": "食べものそっくり"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "能感受土的",
-      "name_en": "Lots of dirt"
+      "slug": "lots_of_dirt",
+      "name_zh_hant": "能感受土的",
+      "name_en": "Lots of dirt",
+      "name_jp": "土を感じる"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "垃圾",
-      "name_en": "Garbage"
+      "slug": "garbage",
+      "name_zh_hant": "垃圾",
+      "name_en": "Garbage",
+      "name_jp": "ゴミ"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "會發出聲響的",
-      "name_en": "Noisy stuff"
+      "slug": "noisy_stuff",
+      "name_zh_hant": "會發出聲響的",
+      "name_en": "Noisy stuff",
+      "name_jp": "音が鳴る"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "奇妙的",
-      "name_en": "Strange stuff"
+      "slug": "strange_stuff",
+      "name_zh_hant": "奇妙的",
+      "name_en": "Strange stuff",
+      "name_jp": "フシギ"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "艱深難懂的",
-      "name_en": "Complicated stuff"
+      "slug": "complicated_stuff",
+      "name_zh_hant": "艱深難懂的",
+      "name_en": "Complicated stuff",
+      "name_jp": "難しそうなもの"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "有文字的",
-      "name_en": "Letters and words"
+      "slug": "letters_and_words",
+      "name_zh_hant": "有文字的",
+      "name_en": "Letters and words",
+      "name_jp": "文字がある"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "以電力驅動的",
-      "name_en": "Electronics"
+      "slug": "electronics",
+      "name_zh_hant": "以電力驅動的",
+      "name_en": "Electronics",
+      "name_jp": "電気で動く"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "金屬的",
-      "name_en": "Metal stuff"
+      "slug": "metal_stuff",
+      "name_zh_hant": "金屬的",
+      "name_en": "Metal stuff",
+      "name_jp": "メタリック"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "閃亮亮的",
-      "name_en": "Shiny stuff"
+      "slug": "shiny_stuff",
+      "name_zh_hant": "閃亮亮的",
+      "name_en": "Shiny stuff",
+      "name_jp": "キラキラしてる"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "集聚在一起的",
-      "name_en": "Gatherings"
+      "slug": "gatherings",
+      "name_zh_hant": "集聚在一起的",
+      "name_en": "Gatherings",
+      "name_jp": "あつまり"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "石製的",
-      "name_en": "Stone stuff"
+      "slug": "stone_stuff",
+      "name_zh_hant": "石製的",
+      "name_en": "Stone stuff",
+      "name_jp": "石づくり"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "方方的",
-      "name_en": "Blocky stuff"
+      "slug": "blocky_stuff",
+      "name_zh_hant": "方方的",
+      "name_en": "Blocky stuff",
+      "name_jp": "四角い"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "細長的",
-      "name_en": "Slender objects"
+      "slug": "slender_objects",
+      "name_zh_hant": "細長的",
+      "name_en": "Slender objects",
+      "name_jp": "ほっそり"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "建設",
-      "name_en": "Construction"
+      "slug": "construction",
+      "name_zh_hant": "建設",
+      "name_en": "Construction",
+      "name_jp": "けんせつ"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "布製的",
-      "name_en": "Fabric"
+      "slug": "fabric",
+      "name_zh_hant": "布製的",
+      "name_en": "Fabric",
+      "name_jp": "布仕立て"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "圓滾滾的",
-      "name_en": "Round stuff"
+      "slug": "round_stuff",
+      "name_zh_hant": "圓滾滾的",
+      "name_en": "Round stuff",
+      "name_jp": "まんまる"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "會搖晃的",
-      "name_en": "Wobbly stuff"
+      "slug": "wobbly_stuff",
+      "name_zh_hant": "會搖晃的",
+      "name_en": "Wobbly stuff",
+      "name_jp": "ゆれる"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "尖尖的",
-      "name_en": "Sharp stuff"
+      "slug": "sharp_stuff",
+      "name_zh_hant": "尖尖的",
+      "name_en": "Sharp stuff",
+      "name_jp": "とがっている"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "能感受海的",
-      "name_en": "Ocean vibes"
+      "slug": "ocean_vibes",
+      "name_zh_hant": "能感受海的",
+      "name_en": "Ocean vibes",
+      "name_jp": "海を感じる"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "容器",
-      "name_en": "Containers"
+      "slug": "containers",
+      "name_zh_hant": "容器",
+      "name_en": "Containers",
+      "name_jp": "いれもの"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "詭異的",
-      "name_en": "Spooky stuff"
+      "slug": "spooky_stuff",
+      "name_zh_hant": "詭異的",
+      "name_en": "Spooky stuff",
+      "name_jp": "ブキミ"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "會旋轉的",
-      "name_en": "Spinning stuff"
+      "slug": "spinning_stuff",
+      "name_zh_hant": "會旋轉的",
+      "name_en": "Spinning stuff",
+      "name_jp": "まわる"
     }
   },
   {
     "model": "pokopia.favorite",
     "fields": {
-      "name": "有玻璃的",
-      "name_en": "Glass stuff"
+      "slug": "glass_stuff",
+      "name_zh_hant": "有玻璃的",
+      "name_en": "Glass stuff",
+      "name_jp": "ガラス入り"
     }
   },
   {
     "model": "pokopia.favorite",
-    "fields": {
-      "name": "象徵",
-      "name_en": "Symbols"
+    "fields": { 
+      "slug": "symbols",
+      "name_zh_hant": "象徵",
+      "name_en": "Symbols",
+      "name_jp": "シンボル"
     }
   }
 ]
