@@ -8,7 +8,7 @@ from .models import Favorite, Habitat, Item, Pokemon
 class NamedLookupAdminForm(forms.ModelForm):
     pokemons = forms.ModelMultipleChoiceField(
         label="對應寶可夢",
-        queryset=Pokemon.objects.order_by("dex_number", "name"),
+        queryset=Pokemon.objects.order_by("dex_number", "name_zh_hant"),
         required=False,
         widget=FilteredSelectMultiple("寶可夢", is_stacked=False),
     )
@@ -22,13 +22,13 @@ class NamedLookupAdminForm(forms.ModelForm):
             self.fields["pokemons"].initial = self.instance.pokemon_set.all()
 
 
-@admin.register(Habitat, Favorite)
+@admin.register(Favorite)
 class NamedLookupAdmin(admin.ModelAdmin):
     form = NamedLookupAdminForm
-    list_display = ("name", "related_pokemons")
-    search_fields = ("name", "pokemon__name")
+    list_display = ("name_zh_hant", "related_pokemons")
+    search_fields = ("name_zh_hant", "pokemon__name_zh_hant")
     readonly_fields = ("related_pokemons",)
-    ordering = ("name",)
+    ordering = ("name_zh_hant",)
 
     def get_queryset(self, request):
         queryset = super().get_queryset(request)
@@ -36,7 +36,7 @@ class NamedLookupAdmin(admin.ModelAdmin):
 
     @admin.display(description="對應寶可夢")
     def related_pokemons(self, obj):
-        return ", ".join(pokemon.name for pokemon in obj.pokemon_set.all())
+        return ", ".join(pokemon.name_zh_hant for pokemon in obj.pokemon_set.all())
 
     def save_related(self, request, form, formsets, change):
         super().save_related(request, form, formsets, change)
@@ -49,8 +49,7 @@ class NamedLookupAdmin(admin.ModelAdmin):
 class PokemonAdmin(admin.ModelAdmin):
     list_display = (
         "dex_number",
-        "name",
-        "classification",
+        "name_zh_hant",
         "preferred_environment",
         "flavor",
         "is_unique_npc",
@@ -62,27 +61,21 @@ class PokemonAdmin(admin.ModelAdmin):
         "is_unique_npc",
         "is_event",
         "types",
-        "habitats",
         "specialties",
         "favorites",
     )
     search_fields = (
-        "name",
-        "classification",
-        "description",
-        "types__name",
-        "habitats__name",
-        "specialties__name",
-        "favorites__name",
+        "name_zh_hant",
+        "favorites__name_zh_hant",
     )
     filter_horizontal = ("types", "habitats", "specialties", "favorites")
-    ordering = ("dex_number", "name")
+    ordering = ("dex_number", "name_zh_hant")
 
 
 @admin.register(Item)
 class ItemAdmin(admin.ModelAdmin):
-    list_display = ("name", "category", "tag")
+    list_display = ("name_zh_hant", "category", "tag")
     list_filter = ("tag", "category", "favorites")
-    search_fields = ("name", "description", "favorites__name")
+    search_fields = ("name_zh_hant", "favorites__name_zh_hant")
     filter_horizontal = ("favorites",)
-    ordering = ("category", "name")
+    ordering = ("category", "name_zh_hant")
