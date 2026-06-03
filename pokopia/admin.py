@@ -2,7 +2,7 @@ from django import forms
 from django.contrib import admin
 from django.contrib.admin.widgets import FilteredSelectMultiple
 
-from .models import Favorite, Habitat, Item, Pokemon, PokemonType, Specialty
+from .models import Favorite, Habitat, Item, Pokemon
 
 
 class NamedLookupAdminForm(forms.ModelForm):
