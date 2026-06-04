@@ -164,235 +164,391 @@
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "綠色的草叢"
+      "is_event": false,
+      "number": 1,
+      "slug": "tall-grass",
+      "name_zh_hant": "綠色的草叢",
+      "name_en": "Tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "綠色的長椅"
+      "is_event": false,
+      "number": 22,
+      "slug": "bench-with-greenery",
+      "name_zh_hant": "綠色的長椅",
+      "name_en": "Bench with greenery"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "整片的花海"
+      "is_event": false,
+      "number": 11,
+      "slug": "field-of-flowers",
+      "name_zh_hant": "整片的花海",
+      "name_en": "Field of flowers"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "庭園露臺"
+      "is_event": false,
+      "number": 46,
+      "slug": "garden-terrace",
+      "name_zh_hant": "庭園露臺",
+      "name_en": "Garden terrace"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "露營組合"
+      "is_event": false,
+      "number": 17,
+      "slug": "campsite",
+      "name_zh_hant": "露營組合",
+      "name_en": "Campsite"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "樹果露營大餐"
+      "is_event": false,
+      "number": 40,
+      "slug": "berry-feast-campsite",
+      "name_zh_hant": "樹果露營大餐",
+      "name_en": "Berry-feast campsite"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "溼潤的草叢"
+      "is_event": false,
+      "number": 4,
+      "slug": "hydrated-tall-grass",
+      "name_zh_hant": "溼潤的草叢",
+      "name_en": "Hydrated tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "在陰涼處漂浮玩水"
+      "is_event": false,
+      "number": 36,
+      "slug": "floating-in-the-shade",
+      "name_zh_hant": "在陰涼處漂浮玩水",
+      "name_en": "Floating in the shade"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "美麗的花田"
+      "is_event": false,
+      "number": 8,
+      "slug": "pretty-flower-bed",
+      "name_zh_hant": "美麗的花田",
+      "name_en": "Pretty flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "高崗的草叢"
+      "is_event": false,
+      "number": 6,
+      "slug": "elevated-tall-grass",
+      "name_zh_hant": "高崗的草叢",
+      "name_en": "Elevated tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "嘰嘰咕咕奢華大餐"
+      "is_event": false,
+      "number": 39,
+      "slug": "luxury-chirp-chirp-meal",
+      "name_zh_hant": "嘰嘰咕咕奢華大餐",
+      "name_en": "Luxury chirp-chirp meal"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "南國氛圍"
+      "is_event": false,
+      "number": 57,
+      "slug": "tropical-vibes",
+      "name_zh_hant": "南國氛圍",
+      "name_en": "Tropical vibes"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "吉利蛋休息處"
+      "is_event": false,
+      "number": 34,
+      "slug": "chansey-resting-area",
+      "name_zh_hant": "吉利蛋休息處",
+      "name_en": "Chansey resting area"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "高崗的花田"
+      "is_event": false,
+      "number": 12,
+      "slug": "elevated-flower-bed",
+      "name_zh_hant": "高崗的花田",
+      "name_en": "Elevated flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "庭園"
+      "is_event": false,
+      "number": 14,
+      "slug": "flower-garden",
+      "name_zh_hant": "庭園",
+      "name_en": "Flower garden"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "光照的草叢"
+      "is_event": false,
+      "number": 7,
+      "slug": "illuminated-tall-grass",
+      "name_zh_hant": "光照的草叢",
+      "name_en": "Illuminated tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "光照的長椅"
+      "is_event": false,
+      "number": 23,
+      "slug": "illuminated-bench",
+      "name_zh_hant": "光照的長椅",
+      "name_en": "Illuminated bench"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "樹蔭的草叢"
+      "is_event": false,
+      "number": 2,
+      "slug": "tree-shaded-tall-grass",
+      "name_zh_hant": "樹蔭的草叢",
+      "name_en": "Tree-shaded tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "燈光與香氣的誘惑"
+      "is_event": false,
+      "number": 35,
+      "slug": "irresistible-scent-and-glow",
+      "name_zh_hant": "燈光與香氣的誘惑",
+      "name_en": "Irresistible scent and glow"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "華麗的桌子"
+      "is_event": false,
+      "number": 21,
+      "slug": "flowery-table",
+      "name_zh_hant": "華麗的桌子",
+      "name_en": "Flowery table"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "海浪邊的草叢"
+      "is_event": false,
+      "number": 5,
+      "slug": "seaside-tall-grass",
+      "name_zh_hant": "海浪邊的草叢",
+      "name_en": "Seaside tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "垂釣場"
+      "is_event": false,
+      "number": 184,
+      "slug": "fishing-pond",
+      "name_zh_hant": "垂釣場",
+      "name_en": "Fishing pond"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "布偶伴好眠"
+      "is_event": false,
+      "number": 30,
+      "slug": "bed-with-a-plush",
+      "name_zh_hant": "布偶伴好眠",
+      "name_en": "Bed with a plush"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "工廠的儲藏室"
+      "is_event": false,
+      "number": 38,
+      "slug": "factory-storage",
+      "name_zh_hant": "工廠的儲藏室",
+      "name_en": "Factory storage"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "迷你遊戲城"
+      "is_event": false,
+      "number": 85,
+      "slug": "mini-game-corner",
+      "name_zh_hant": "迷你遊戲城",
+      "name_en": "Mini Game Corner"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "好多垃圾桶"
+      "is_event": false,
+      "number": 64,
+      "slug": "trash-can-central",
+      "name_zh_hant": "好多垃圾桶",
+      "name_en": "Trash can central"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "乾乾的草叢"
+      "is_event": false,
+      "number": 37,
+      "slug": "smooth-tall-grass",
+      "name_zh_hant": "乾乾的草叢",
+      "name_en": "Smooth tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "咚隆咣啷鋼架工程"
+      "is_event": false,
+      "number": 117,
+      "slug": "clink-clang-iron-construction",
+      "name_zh_hant": "咚隆咣啷鋼架工程",
+      "name_en": "Clink-clang iron construction"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "花朵圍繞的墓地"
+      "is_event": false,
+      "number": 13,
+      "slug": "grave-with-flowers",
+      "name_zh_hant": "花朵圍繞的墓地",
+      "name_en": "Grave with flowers"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "修行瀑布"
+      "is_event": false,
+      "number": 18,
+      "slug": "training-waterfall",
+      "name_zh_hant": "修行瀑布",
+      "name_en": "Training waterfall"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "緊急救護站"
+      "is_event": false,
+      "number": 25,
+      "slug": "urgent-care",
+      "name_zh_hant": "緊急救護站",
+      "name_en": "Urgent care"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "健身區休息處"
+      "is_event": false,
+      "number": 24,
+      "slug": "exercise-resting-spot",
+      "name_zh_hant": "健身區休息處",
+      "name_en": "Exercise resting spot"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "健身區救護處"
+      "is_event": false,
+      "number": 26,
+      "slug": "gym-first-aid",
+      "name_zh_hant": "健身區救護處",
+      "name_en": "Gym first aid"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "垃圾集中站"
+      "is_event": false,
+      "number": 63,
+      "slug": "trash-collection-site",
+      "name_zh_hant": "垃圾集中站",
+      "name_en": "Trash collection site"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "古色古香"
+      "is_event": false,
+      "number": 48,
+      "slug": "good-old-fashioned-antiques",
+      "name_zh_hant": "古色古香",
+      "name_en": "Good old-fashioned antiques"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "滿是精靈球"
+      "is_event": false,
+      "number": 49,
+      "slug": "nothin-but-poke-balls",
+      "name_zh_hant": "滿是精靈球",
+      "name_en": "Nothin' but Poke Balls"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "博士的寶物"
+      "is_event": false,
+      "number": 43,
+      "slug": "professors-treasure-trove",
+      "name_zh_hant": "博士的寶物",
+      "name_en": "Professor's treasure trove"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "海釣場"
+      "is_event": false,
+      "number": 185,
+      "slug": "ocean-fishing-spot",
+      "name_zh_hant": "海釣場",
+      "name_en": "Ocean fishing spot"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "光照的瀑布"
+      "is_event": false,
+      "number": 146,
+      "slug": "illuminated-waterfall",
+      "name_zh_hant": "光照的瀑布",
+      "name_en": "Illuminated waterfall"
     }
   },
   {
@@ -404,1021 +560,1701 @@
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "柔光伴好眠"
+      "is_event": false,
+      "number": 31,
+      "slug": "gently-lit-bed",
+      "name_zh_hant": "柔光伴好眠",
+      "name_en": "Gently lit bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "溼潤的花田"
+      "is_event": false,
+      "number": 10,
+      "slug": "hydrated-flower-bed",
+      "name_zh_hant": "溼潤的花田",
+      "name_en": "Hydrated flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "餓肚肚用餐處"
+      "is_event": false,
+      "number": 19,
+      "slug": "tantalizing-dining-set",
+      "name_zh_hant": "餓肚肚用餐處",
+      "name_en": "Tantalizing dining set"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "充滿期待的餐桌"
+      "is_event": false,
+      "number": 120,
+      "slug": "dinner-table-surprise",
+      "name_zh_hant": "充滿期待的餐桌",
+      "name_en": "Dinner table surprise"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "大晴天地點"
+      "is_event": false,
+      "number": 42,
+      "slug": "sunny-day-site",
+      "name_zh_hant": "大晴天地點",
+      "name_en": "Sunny Day site"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "樹蔭的花田"
+      "is_event": false,
+      "number": 9,
+      "slug": "tree-shaded-flower-bed",
+      "name_zh_hant": "樹蔭的花田",
+      "name_en": "Tree-shaded flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "指路牌"
+      "is_event": false,
+      "number": 27,
+      "slug": "road-sign",
+      "name_zh_hant": "指路牌",
+      "name_en": "Road sign"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "乘著暖風"
+      "is_event": false,
+      "number": 16,
+      "slug": "riding-warm-updrafts",
+      "name_zh_hant": "乘著暖風",
+      "name_en": "Riding warm updrafts"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "布偶堆"
+      "is_event": false,
+      "number": 181,
+      "slug": "plush-central",
+      "name_zh_hant": "布偶堆",
+      "name_en": "Plush central"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "新鮮蔬菜田"
+      "is_event": false,
+      "number": 15,
+      "slug": "fresh-veggie-field",
+      "name_zh_hant": "新鮮蔬菜田",
+      "name_en": "Fresh veggie field"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "岩影的草叢"
+      "is_event": false,
+      "number": 3,
+      "slug": "boulder-shaded-tall-grass",
+      "name_zh_hant": "岩影的草叢",
+      "name_en": "Boulder-shaded tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "裝上大貨物"
+      "is_event": false,
+      "number": 28,
+      "slug": "large-luggage-carrier",
+      "name_zh_hant": "裝上大貨物",
+      "name_en": "Large luggage carrier"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "工地的發電廠"
+      "is_event": false,
+      "number": 177,
+      "slug": "construction-site-generator",
+      "name_zh_hant": "工地的發電廠",
+      "name_en": "Construction-site generator"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "詭異的墓前的供品"
+      "is_event": false,
+      "number": 33,
+      "slug": "creepy-grave-offering",
+      "name_zh_hant": "詭異的墓前的供品",
+      "name_en": "Creepy grave offering"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "墓前的供品"
+      "is_event": false,
+      "number": 32,
+      "slug": "grave-offering",
+      "name_zh_hant": "墓前的供品",
+      "name_en": "Grave offering"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "樵夫工作區"
+      "is_event": false,
+      "number": 29,
+      "slug": "lumberjacks-workplace",
+      "name_zh_hant": "樵夫工作區",
+      "name_en": "Lumberjack's workplace"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "有溫度感的圓木"
+      "is_event": false,
+      "number": 44,
+      "slug": "cozy-log-handicrafts",
+      "name_zh_hant": "有溫度感的圓木",
+      "name_en": "Cozy log handicrafts"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "求雨地點"
+      "is_event": false,
+      "number": 41,
+      "slug": "rain-dance-site",
+      "name_zh_hant": "求雨地點",
+      "name_en": "Rain Dance site"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "樹果大集合"
+      "is_event": false,
+      "number": 45,
+      "slug": "very-berry-space",
+      "name_zh_hant": "樹果大集合",
+      "name_en": "Very-berry space"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "野餐氛圍桌"
+      "is_event": false,
+      "number": 20,
+      "slug": "picnic-set",
+      "name_zh_hant": "野餐氛圍桌",
+      "name_en": "Picnic set"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "睡一覺來康復"
+      "is_event": false,
+      "number": 81,
+      "slug": "full-recovery",
+      "name_zh_hant": "睡一覺來康復",
+      "name_en": "Full recovery"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "大自然中的集市"
+      "is_event": false,
+      "number": 176,
+      "slug": "natures-market",
+      "name_zh_hant": "大自然中的集市",
+      "name_en": "Nature's market"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "樹蔭的黃色草叢"
+      "is_event": false,
+      "number": 51,
+      "slug": "tree-shaded-yellow-tall-grass",
+      "name_zh_hant": "樹蔭的黃色草叢",
+      "name_en": "Tree-shaded yellow tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "公園的長椅"
+      "is_event": false,
+      "number": 66,
+      "slug": "park-bench",
+      "name_zh_hant": "公園的長椅",
+      "name_en": "Park bench"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "垃圾場"
+      "is_event": false,
+      "number": 65,
+      "slug": "trash-disposal-site",
+      "name_zh_hant": "垃圾場",
+      "name_en": "Trash disposal site"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "高崗的黃色草叢"
+      "is_event": false,
+      "number": 52,
+      "slug": "elevated-yellow-tall-grass",
+      "name_zh_hant": "高崗的黃色草叢",
+      "name_en": "Elevated yellow tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "在櫃檯結賬"
+      "is_event": false,
+      "number": 91,
+      "slug": "working-the-register",
+      "name_zh_hant": "在櫃檯結賬",
+      "name_en": "Working the register"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "休息處"
+      "is_event": false,
+      "number": 61,
+      "slug": "resting-spot",
+      "name_zh_hant": "休息處",
+      "name_en": "Resting spot"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "邪惡組織的基地"
+      "is_event": false,
+      "number": 179,
+      "slug": "evil-organization-hq",
+      "name_zh_hant": "邪惡組織的基地",
+      "name_en": "Evil organization HQ"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "溫泉沖洗區"
+      "is_event": false,
+      "number": 78,
+      "slug": "hot-spring-shower",
+      "name_zh_hant": "溫泉沖洗區",
+      "name_en": "Hot-spring shower"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "在度假區準備做飯"
+      "is_event": false,
+      "number": 79,
+      "slug": "resort-meal-prep",
+      "name_zh_hant": "在度假區準備做飯",
+      "name_en": "Resort meal prep"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "來收拾吧"
+      "is_event": false,
+      "number": 62,
+      "slug": "perpetual-mess",
+      "name_zh_hant": "來收拾吧",
+      "name_en": "Perpetual mess"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "熔岩釣場"
+      "is_event": false,
+      "number": 188,
+      "slug": "magma-fishing-spot",
+      "name_zh_hant": "熔岩釣場",
+      "name_en": "Magma fishing spot"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "小小博物館"
+      "is_event": false,
+      "number": 129,
+      "slug": "mini-museum",
+      "name_zh_hant": "小小博物館",
+      "name_en": "Mini museum"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "打包好了"
+      "is_event": false,
+      "number": 80,
+      "slug": "all-packed-up",
+      "name_zh_hant": "打包好了",
+      "name_en": "All packed up"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "沼釣場"
+      "is_event": false,
+      "number": 186,
+      "slug": "marsh-fishing-spot",
+      "name_zh_hant": "沼釣場",
+      "name_en": "Marsh fishing spot"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "詭異的書房"
+      "is_event": false,
+      "number": 89,
+      "slug": "spooky-study",
+      "name_zh_hant": "詭異的書房",
+      "name_en": "Spooky study"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "小心機關"
+      "is_event": false,
+      "number": 73,
+      "slug": "surprise-in-store",
+      "name_zh_hant": "小心機關",
+      "name_en": "Surprise in store"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "水手過家家"
+      "is_event": false,
+      "number": 90,
+      "slug": "playing-pirate",
+      "name_zh_hant": "水手過家家",
+      "name_en": "Playing pirate"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "沙灘的樹蔭"
+      "is_event": false,
+      "number": 59,
+      "slug": "shaded-beach",
+      "name_zh_hant": "沙灘的樹蔭",
+      "name_en": "Shaded beach"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "鬧鐘床位"
+      "is_event": false,
+      "number": 82,
+      "slug": "alarm-clock-sleep-zone",
+      "name_zh_hant": "鬧鐘床位",
+      "name_en": "Alarm clock sleep zone"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "超可愛空間"
+      "is_event": false,
+      "number": 95,
+      "slug": "cuteness-overload",
+      "name_zh_hant": "超可愛空間",
+      "name_en": "Cuteness overload"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "自動售貨機套組"
+      "is_event": false,
+      "number": 84,
+      "slug": "vending-machine-set",
+      "name_zh_hant": "自動售貨機套組",
+      "name_en": "Vending machine set"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "聚光舞臺"
+      "is_event": false,
+      "number": 72,
+      "slug": "light-up-stage",
+      "name_zh_hant": "聚光舞臺",
+      "name_en": "Light-up stage"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "熱帶海濱"
+      "is_event": false,
+      "number": 60,
+      "slug": "tropical-seaside",
+      "name_zh_hant": "熱帶海濱",
+      "name_en": "Tropical seaside"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "樹蔭下熟睡的卡比獸"
+      "is_event": false,
+      "number": 47,
+      "slug": "tree-shaded-snoozing-snorlax",
+      "name_zh_hant": "樹蔭下熟睡的卡比獸",
+      "name_en": "Tree-shaded snoozing Snorlax"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "美味的供品"
+      "is_event": false,
+      "number": 93,
+      "slug": "gourmets-altar",
+      "name_zh_hant": "美味的供品",
+      "name_en": "Gourmet's altar"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "黃色的草叢"
+      "is_event": false,
+      "number": 50,
+      "slug": "yellow-tall-grass",
+      "name_zh_hant": "黃色的草叢",
+      "name_en": "Yellow tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "織毛線"
+      "is_event": false,
+      "number": 77,
+      "slug": "knitting-station",
+      "name_zh_hant": "織毛線",
+      "name_en": "Knitting station"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "草叢的自動售貨機"
+      "is_event": false,
+      "number": 55,
+      "slug": "overgrowth-vending-machine",
+      "name_zh_hant": "草叢的自動售貨機",
+      "name_en": "Overgrowth vending machine"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "夜晚的慶典會場"
+      "is_event": false,
+      "number": 74,
+      "slug": "night-festival-venue",
+      "name_zh_hant": "夜晚的慶典會場",
+      "name_en": "Night festival venue"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "自然風生活"
+      "is_event": false,
+      "number": 97,
+      "slug": "plain-life",
+      "name_zh_hant": "自然風生活",
+      "name_en": "Plain life"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "溼潤的黃色草叢"
+      "is_event": false,
+      "number": 53,
+      "slug": "hydrated-yellow-tall-grass",
+      "name_zh_hant": "溼潤的黃色草叢",
+      "name_en": "Hydrated yellow tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "碼頭"
+      "is_event": false,
+      "number": 88,
+      "slug": "dock",
+      "name_zh_hant": "碼頭",
+      "name_en": "Dock"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "沼澤的草叢"
+      "is_event": false,
+      "number": 54,
+      "slug": "marshy-tall-grass",
+      "name_zh_hant": "沼澤的草叢",
+      "name_en": "Marshy tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "小小畫室"
+      "is_event": false,
+      "number": 92,
+      "slug": "tiny-atelier",
+      "name_zh_hant": "小小畫室",
+      "name_en": "Tiny atelier"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "嘰嘰咕咕大餐"
+      "is_event": false,
+      "number": 69,
+      "slug": "chirp-chirp-meal",
+      "name_zh_hant": "嘰嘰咕咕大餐",
+      "name_en": "Chirp-chirp meal"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "火力發電廠"
+      "is_event": false,
+      "number": 87,
+      "slug": "furnace-spot",
+      "name_zh_hant": "火力發電廠",
+      "name_en": "Furnace spot"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "風之花田"
+      "is_event": false,
+      "number": 58,
+      "slug": "windy-flower-bed",
+      "name_zh_hant": "風之花田",
+      "name_en": "Windy flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "歡迎來到度假區"
+      "is_event": false,
+      "number": 96,
+      "slug": "welcoming-resort",
+      "name_zh_hant": "歡迎來到度假區",
+      "name_en": "Welcoming resort"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "水力發電廠"
+      "is_event": false,
+      "number": 86,
+      "slug": "waterwheel-spot",
+      "name_zh_hant": "水力發電廠",
+      "name_en": "Waterwheel spot"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "料理送來了"
+      "is_event": false,
+      "number": 68,
+      "slug": "tableside-delivery-cart",
+      "name_zh_hant": "料理送來了",
+      "name_en": "Tableside delivery cart"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "涼爽的花田"
+      "is_event": false,
+      "number": 56,
+      "slug": "breezy-flower-bed",
+      "name_zh_hant": "涼爽的花田",
+      "name_en": "Breezy flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "更衣區"
+      "is_event": false,
+      "number": 75,
+      "slug": "changing-area",
+      "name_zh_hant": "更衣區",
+      "name_en": "Changing area"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "打扮時不許偷看"
+      "is_event": false,
+      "number": 76,
+      "slug": "private-makeup-stand",
+      "name_zh_hant": "打扮時不許偷看",
+      "name_en": "Private makeup stand"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "在自動售貨機旁小憩"
+      "is_event": false,
+      "number": 83,
+      "slug": "vending-machine-break-area",
+      "name_zh_hant": "在自動售貨機旁小憩",
+      "name_en": "Vending machine break area"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "皮卡丘空間"
+      "is_event": false,
+      "number": 94,
+      "slug": "pikachu-space",
+      "name_zh_hant": "皮卡丘空間",
+      "name_en": "Pikachu space"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "餓肚肚餐廳"
+      "is_event": false,
+      "number": 67,
+      "slug": "tantalizing-restaurant",
+      "name_zh_hant": "餓肚肚餐廳",
+      "name_en": "Tantalizing restaurant"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "茶水休息區"
+      "is_event": false,
+      "number": 70,
+      "slug": "cafe-space",
+      "name_zh_hant": "茶水休息區",
+      "name_en": "Cafe space"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "沙灘套組"
+      "is_event": false,
+      "number": 71,
+      "slug": "beach-set",
+      "name_zh_hant": "沙灘套組",
+      "name_en": "Beach set"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "溼潤的優雅花田"
+      "is_event": false,
+      "number": 106,
+      "slug": "hydrated-graceful-flower-bed",
+      "name_zh_hant": "溼潤的優雅花田",
+      "name_en": "Hydrated graceful flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "優雅的花田"
+      "is_event": false,
+      "number": 104,
+      "slug": "graceful-flower-bed",
+      "name_zh_hant": "優雅的花田",
+      "name_en": "Graceful flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "銅像觀光景點"
+      "is_event": false,
+      "number": 131,
+      "slug": "bronze-landmark",
+      "name_zh_hant": "銅像觀光景點",
+      "name_en": "Bronze landmark"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "花田裡的樹樁舞臺"
+      "is_event": false,
+      "number": 107,
+      "slug": "flower-garden-stump-stage",
+      "name_zh_hant": "花田裡的樹樁舞臺",
+      "name_en": "Flower garden stump stage"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "獨唱舞臺"
+      "is_event": false,
+      "number": 126,
+      "slug": "recital-stage",
+      "name_zh_hant": "獨唱舞臺",
+      "name_en": "Recital stage"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "在貨物擺放處偷吃"
+      "is_event": false,
+      "number": 119,
+      "slug": "container-snacking",
+      "name_zh_hant": "在貨物擺放處偷吃",
+      "name_en": "Container snacking"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "樹蔭的紅色草叢"
+      "is_event": false,
+      "number": 99,
+      "slug": "tree-shaded-red-tall-grass",
+      "name_zh_hant": "樹蔭的紅色草叢",
+      "name_en": "Tree-shaded red tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "大家一起開派對"
+      "is_event": false,
+      "number": 123,
+      "slug": "house-party",
+      "name_zh_hant": "大家一起開派對",
+      "name_en": "House party"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "草叢訓練場"
+      "is_event": false,
+      "number": 103,
+      "slug": "grassy-training-field",
+      "name_zh_hant": "草叢訓練場",
+      "name_en": "Grassy training field"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "跟著節奏一二三"
+      "is_event": false,
+      "number": 127,
+      "slug": "box-to-the-rhythm",
+      "name_zh_hant": "跟著節奏一二三",
+      "name_en": "Box to the rhythm"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "長滿苔蘚的岩石"
+      "is_event": false,
+      "number": 111,
+      "slug": "mossy-boulder",
+      "name_zh_hant": "長滿苔蘚的岩石",
+      "name_en": "Mossy boulder"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "挖掘和煅燒"
+      "is_event": false,
+      "number": 116,
+      "slug": "digging-and-burning",
+      "name_zh_hant": "挖掘和煅燒",
+      "name_en": "Digging and burning"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "迷你廚房"
+      "is_event": false,
+      "number": 122,
+      "slug": "mini-kitchen",
+      "name_zh_hant": "迷你廚房",
+      "name_en": "Mini kitchen"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "樹蔭的優雅花田"
+      "is_event": false,
+      "number": 105,
+      "slug": "tree-shaded-graceful-flower-bed",
+      "name_zh_hant": "樹蔭的優雅花田",
+      "name_en": "Tree-shaded graceful flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "高崗的紅色草叢"
+      "is_event": false,
+      "number": 102,
+      "slug": "elevated-red-tall-grass",
+      "name_zh_hant": "高崗的紅色草叢",
+      "name_en": "Elevated red tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "鳴唱會"
+      "is_event": false,
+      "number": 125,
+      "slug": "chirping-recital",
+      "name_zh_hant": "鳴唱會",
+      "name_en": "Chirping recital"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "滿是苔蘚"
+      "is_event": false,
+      "number": 110,
+      "slug": "mossy-rest-spot",
+      "name_zh_hant": "滿是苔蘚",
+      "name_en": "Mossy rest spot"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "樹蔭的粉紅色草叢"
+      "is_event": false,
+      "number": 138,
+      "slug": "tree-shaded-pink-tall-grass",
+      "name_zh_hant": "樹蔭的粉紅色草叢",
+      "name_en": "Tree-shaded pink tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "種田不容易"
+      "is_event": false,
+      "number": 108,
+      "slug": "toil-in-the-soil",
+      "name_zh_hant": "種田不容易",
+      "name_en": "Toil in the soil"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "溫泉釣場"
+      "is_event": false,
+      "number": 187,
+      "slug": "hot-spring-fishing-spot",
+      "name_zh_hant": "溫泉釣場",
+      "name_en": "Hot-spring fishing spot"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "浮浮水窪"
+      "is_event": false,
+      "number": 109,
+      "slug": "uplifting-duckweed",
+      "name_zh_hant": "浮浮水窪",
+      "name_en": "Uplifting duckweed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "溼潤的紅色草叢"
+      "is_event": false,
+      "number": 101,
+      "slug": "hydrated-red-tall-grass",
+      "name_zh_hant": "溼潤的紅色草叢",
+      "name_en": "Hydrated red tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "綠苔溫泉"
+      "is_event": false,
+      "number": 112,
+      "slug": "mossy-hot-spring",
+      "name_zh_hant": "綠苔溫泉",
+      "name_en": "Mossy hot spring"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "音樂與閱讀"
+      "is_event": false,
+      "number": 128,
+      "slug": "music-and-magazines",
+      "name_zh_hant": "音樂與閱讀",
+      "name_en": "Music and magazines"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "紅色的草叢"
+      "is_event": false,
+      "number": 98,
+      "slug": "red-tall-grass",
+      "name_zh_hant": "紅色的草叢",
+      "name_en": "Red tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "熔岩熔岩熱乎乎"
+      "is_event": false,
+      "number": 115,
+      "slug": "piping-hot-lava",
+      "name_zh_hant": "熔岩熔岩熱乎乎",
+      "name_en": "Piping-hot lava"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "三角形樹蔭的岩石和草叢"
+      "is_event": false,
+      "number": 100,
+      "slug": "pointy-tree-shaded-rocky-tall-grass",
+      "name_zh_hant": "三角形樹蔭的岩石和草叢",
+      "name_en": "Pointy tree-shaded rocky tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "摩登生活"
+      "is_event": false,
+      "number": 136,
+      "slug": "modern-living",
+      "name_zh_hant": "摩登生活",
+      "name_en": "Modern living"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "清爽的儲物間"
+      "is_event": false,
+      "number": 130,
+      "slug": "refreshing-locker-room",
+      "name_zh_hant": "清爽的儲物間",
+      "name_en": "Refreshing locker room"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "露天溫泉"
+      "is_event": false,
+      "number": 113,
+      "slug": "open-air-bath",
+      "name_zh_hant": "露天溫泉",
+      "name_en": "Open-air bath"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "廚師的廚房"
+      "is_event": false,
+      "number": 133,
+      "slug": "chefs-kitchen",
+      "name_zh_hant": "廚師的廚房",
+      "name_en": "Chef's kitchen"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "平交道"
+      "is_event": false,
+      "number": 132,
+      "slug": "railroad-crossing",
+      "name_zh_hant": "平交道",
+      "name_en": "Railroad crossing"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "沉沉鐵色"
+      "is_event": false,
+      "number": 135,
+      "slug": "heavy-iron",
+      "name_zh_hant": "沉沉鐵色",
+      "name_en": "Heavy iron"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "悠閒地重溫照片"
+      "is_event": false,
+      "number": 124,
+      "slug": "lazy-photo-album-scrolling",
+      "name_zh_hant": "悠閒地重溫照片",
+      "name_en": "Lazy photo-album scrolling"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "高調的搖滾舞臺"
+      "is_event": false,
+      "number": 189,
+      "slug": "amped-rock-stage",
+      "name_zh_hant": "高調的搖滾舞臺",
+      "name_en": "Amped rock stage"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "低調的搖滾舞臺"
+      "is_event": false,
+      "number": 190,
+      "slug": "low-key-rock-stage",
+      "name_zh_hant": "低調的搖滾舞臺",
+      "name_en": "Low-key rock stage"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "大口麵包工坊"
+      "is_event": false,
+      "number": 121,
+      "slug": "best-bread-bakery",
+      "name_zh_hant": "大口麵包工坊",
+      "name_en": "Best bread bakery"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "忠誠騎士的祭壇"
+      "is_event": false,
+      "number": 192,
+      "slug": "auspicious-knights-shrine",
+      "name_zh_hant": "忠誠騎士的祭壇",
+      "name_en": "Auspicious knight's shrine"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "怨念騎士的祭壇"
+      "is_event": false,
+      "number": 191,
+      "slug": "malicious-knights-shrine",
+      "name_zh_hant": "怨念騎士的祭壇",
+      "name_en": "Malicious knight's shrine"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "詭異的白色岩石"
+      "is_event": false,
+      "number": 118,
+      "slug": "creepy-white-rocks",
+      "name_zh_hant": "詭異的白色岩石",
+      "name_en": "Creepy white rocks"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "極致豪華"
+      "is_event": false,
+      "number": 134,
+      "slug": "absolute-luxury",
+      "name_zh_hant": "極致豪華",
+      "name_en": "Absolute luxury"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "茸茸花田"
+      "is_event": false,
+      "number": 142,
+      "slug": "fluffy-flower-bed",
+      "name_zh_hant": "茸茸花田",
+      "name_en": "Fluffy flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "九團火焰"
+      "is_event": false,
+      "number": 180,
+      "slug": "nine-flames",
+      "name_zh_hant": "九團火焰",
+      "name_en": "Nine flames"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "擦得鋥亮"
+      "is_event": false,
+      "number": 161,
+      "slug": "squeaky-clean",
+      "name_zh_hant": "擦得鋥亮",
+      "name_en": "Squeaky clean"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "溼潤的茸茸花田"
+      "is_event": false,
+      "number": 144,
+      "slug": "hydrated-fluffy-flower-bed",
+      "name_zh_hant": "溼潤的茸茸花田",
+      "name_en": "Hydrated fluffy flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "在道場訓練"
+      "is_event": false,
+      "number": 178,
+      "slug": "dojo-training",
+      "name_zh_hant": "在道場訓練",
+      "name_en": "Dojo training"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "井蓋檢修中"
+      "is_event": false,
+      "number": 156,
+      "slug": "sewer-hole-inspection",
+      "name_zh_hant": "井蓋檢修中",
+      "name_en": "Sewer-hole inspection"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "養生溫泉"
+      "is_event": false,
+      "number": 114,
+      "slug": "harmonious-hot-spring",
+      "name_zh_hant": "養生溫泉",
+      "name_en": "Harmonious hot spring"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "水晶占卜"
+      "is_event": false,
+      "number": 152,
+      "slug": "fortune-tellers-table",
+      "name_zh_hant": "水晶占卜",
+      "name_en": "Fortune-teller's table"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "精神力量滿溢"
+      "is_event": false,
+      "number": 151,
+      "slug": "surging-psychic-power",
+      "name_zh_hant": "精神力量滿溢",
+      "name_en": "Surging psychic power"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "實驗空間"
+      "is_event": false,
+      "number": 168,
+      "slug": "experiment-space",
+      "name_zh_hant": "實驗空間",
+      "name_en": "Experiment space"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "亮晶晶洗手檯"
+      "is_event": false,
+      "number": 157,
+      "slug": "spotless-washing-station",
+      "name_zh_hant": "亮晶晶洗手檯",
+      "name_en": "Spotless washing station"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "請自由取閱"
+      "is_event": false,
+      "number": 171,
+      "slug": "public-reading-material",
+      "name_zh_hant": "請自由取閱",
+      "name_en": "Public reading material"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "研究員的桌子"
+      "is_event": false,
+      "number": 170,
+      "slug": "researchers-desk",
+      "name_zh_hant": "研究員的桌子",
+      "name_en": "Researcher's desk"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "辦公區"
+      "is_event": false,
+      "number": 166,
+      "slug": "work-desk",
+      "name_zh_hant": "辦公區",
+      "name_en": "Work desk"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "在遊戲城對戰"
+      "is_event": false,
+      "number": 164,
+      "slug": "game-corner-battle-zone",
+      "name_zh_hant": "在遊戲城對戰",
+      "name_en": "Game Corner battle zone"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "簡約浴室"
+      "is_event": false,
+      "number": 148,
+      "slug": "simple-bathroom",
+      "name_zh_hant": "簡約浴室",
+      "name_en": "Simple bathroom"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "水邊小船"
+      "is_event": false,
+      "number": 145,
+      "slug": "waterside-dinghy",
+      "name_zh_hant": "水邊小船",
+      "name_en": "Waterside dinghy"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "水泥管秘密基地"
+      "is_event": false,
+      "number": 141,
+      "slug": "concrete-pipe-secret-base",
+      "name_zh_hant": "水泥管秘密基地",
+      "name_en": "Concrete pipe secret base"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "在暖爐旁打瞌睡"
+      "is_event": false,
+      "number": 150,
+      "slug": "fireplace-nap-spot",
+      "name_zh_hant": "在暖爐旁打瞌睡",
+      "name_en": "Fireplace nap spot"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "極致新潮"
+      "is_event": false,
+      "number": 183,
+      "slug": "top-pop",
+      "name_zh_hant": "極致新潮",
+      "name_en": "Top pop"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "辦公室的儲藏室"
+      "is_event": false,
+      "number": 167,
+      "slug": "office-storeroom",
+      "name_zh_hant": "辦公室的儲藏室",
+      "name_en": "Office storeroom"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "家庭影院"
+      "is_event": false,
+      "number": 158,
+      "slug": "home-theater",
+      "name_zh_hant": "家庭影院",
+      "name_en": "Home theater"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "樹蔭的茸茸花田"
+      "is_event": false,
+      "number": 143,
+      "slug": "tree-shaded-fluffy-flower-bed",
+      "name_zh_hant": "樹蔭的茸茸花田",
+      "name_en": "Tree-shaded fluffy flower bed"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "學習區"
+      "is_event": false,
+      "number": 159,
+      "slug": "study-area",
+      "name_zh_hant": "學習區",
+      "name_en": "Study area"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "保溼化妝臺"
+      "is_event": false,
+      "number": 162,
+      "slug": "moisturizing-makeup-stand",
+      "name_zh_hant": "保溼化妝臺",
+      "name_en": "Moisturizing makeup stand"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "小小圖書館"
+      "is_event": false,
+      "number": 163,
+      "slug": "mini-library",
+      "name_zh_hant": "小小圖書館",
+      "name_en": "Mini library"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "絕景露臉立牌"
+      "is_event": false,
+      "number": 174,
+      "slug": "picturesque-photo-cutout-board",
+      "name_zh_hant": "絕景露臉立牌",
+      "name_en": "Picturesque photo cutout board"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "粉紅色草叢"
+      "is_event": false,
+      "number": 137,
+      "slug": "pink-tall-grass",
+      "name_zh_hant": "粉紅色草叢",
+      "name_en": "Pink tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "鳥語花香"
+      "is_event": false,
+      "number": 147,
+      "slug": "birdsong-garden",
+      "name_zh_hant": "鳥語花香",
+      "name_en": "Birdsong garden"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "垃圾場的電視"
+      "is_event": false,
+      "number": 153,
+      "slug": "trash-site-tv",
+      "name_zh_hant": "垃圾場的電視",
+      "name_en": "Trash site TV"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "騎行小憩"
+      "is_event": false,
+      "number": 149,
+      "slug": "cycling-rest-stop",
+      "name_zh_hant": "騎行小憩",
+      "name_en": "Cycling rest stop"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "為成為博士進行研究"
+      "is_event": false,
+      "number": 169,
+      "slug": "professors-apprentice-program",
+      "name_zh_hant": "為成為博士進行研究",
+      "name_en": "Professor's apprentice program"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "絕佳的遊戲環境"
+      "is_event": false,
+      "number": 182,
+      "slug": "gamers-paradise",
+      "name_zh_hant": "絕佳的遊戲環境",
+      "name_en": "Gamer's paradise"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "遊樂場"
+      "is_event": false,
+      "number": 165,
+      "slug": "playland",
+      "name_zh_hant": "遊樂場",
+      "name_en": "Playland"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "溼潤的粉紅色草叢"
+      "is_event": false,
+      "number": 139,
+      "slug": "hydrated-pink-tall-grass",
+      "name_zh_hant": "溼潤的粉紅色草叢",
+      "name_en": "Hydrated pink tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "惡作劇開關"
+      "is_event": false,
+      "number": 173,
+      "slug": "prank-button",
+      "name_zh_hant": "惡作劇開關",
+      "name_en": "Prank button"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "輪胎公園"
+      "is_event": false,
+      "number": 175,
+      "slug": "tire-park",
+      "name_zh_hant": "輪胎公園",
+      "name_en": "Tire park"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "節奏感客廳"
+      "is_event": false,
+      "number": 160,
+      "slug": "rhythmic-living-room",
+      "name_zh_hant": "節奏感客廳",
+      "name_en": "Rhythmic living room"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "高崗的粉紅色草叢"
+      "is_event": false,
+      "number": 140,
+      "slug": "elevated-pink-tall-grass",
+      "name_zh_hant": "高崗的粉紅色草叢",
+      "name_en": "Elevated pink tall grass"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "和搭檔一起調查"
+      "is_event": false,
+      "number": 155,
+      "slug": "interrogation-desk",
+      "name_zh_hant": "和搭檔一起調查",
+      "name_en": "Interrogation desk"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "咚咚鏘驚嚇箱"
+      "is_event": false,
+      "number": 172,
+      "slug": "heart-pounding-surprise-box",
+      "name_zh_hant": "咚咚鏘驚嚇箱",
+      "name_en": "Heart-pounding surprise box"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "大型垃圾堆放處"
+      "is_event": false,
+      "number": 154,
+      "slug": "oversized-dumping-ground",
+      "name_zh_hant": "大型垃圾堆放處",
+      "name_en": "Oversized dumping ground"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "飛翼化石展示臺"
+      "is_event": false,
+      "number": 193,
+      "slug": "wing-fossil-display",
+      "name_zh_hant": "飛翼化石展示臺",
+      "name_en": "Wing Fossil display"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "頭蓋化石展示臺"
+      "is_event": false,
+      "number": 194,
+      "slug": "skull-fossil-display",
+      "name_zh_hant": "頭蓋化石展示臺",
+      "name_en": "Skull Fossil display"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "頭錘化石展示臺"
+      "is_event": false,
+      "number": 195,
+      "slug": "headbutt-fossil-display",
+      "name_zh_hant": "頭錘化石展示臺",
+      "name_en": "Headbutt Fossil display"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "盾甲化石展示臺"
+      "is_event": false,
+      "number": 196,
+      "slug": "armor-fossil-display",
+      "name_zh_hant": "盾甲化石展示臺",
+      "name_en": "Armor Fossil display"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "護盾化石展示臺"
+      "is_event": false,
+      "number": 197,
+      "slug": "shield-fossil-display",
+      "name_zh_hant": "護盾化石展示臺",
+      "name_en": "Shield Fossil display"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "顎之化石展示臺"
+      "is_event": false,
+      "number": 198,
+      "slug": "jaw-fossil-display",
+      "name_zh_hant": "顎之化石展示臺",
+      "name_en": "Jaw Fossil display"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "暴君化石展示臺"
+      "is_event": false,
+      "number": 199,
+      "slug": "despot-fossil-display",
+      "name_zh_hant": "暴君化石展示臺",
+      "name_en": "Despot Fossil display"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "鰭之化石展示臺"
+      "is_event": false,
+      "number": 200,
+      "slug": "sail-fossil-display",
+      "name_zh_hant": "鰭之化石展示臺",
+      "name_en": "Sail Fossil display"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "凍原化石展示臺"
+      "is_event": false,
+      "number": 201,
+      "slug": "tundra-fossil-display",
+      "name_zh_hant": "凍原化石展示臺",
+      "name_en": "Tundra Fossil display"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "勁爽清藍"
+      "is_event": false,
+      "number": 202,
+      "slug": "boundless-blue-beverage",
+      "name_zh_hant": "勁爽清藍",
+      "name_en": "Boundless blue beverage"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "麻麻薯餅"
+      "is_event": false,
+      "number": 203,
+      "slug": "electrifying-potatoes",
+      "name_zh_hant": "麻麻薯餅",
+      "name_en": "Electrifying potatoes"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "辣到噴火"
+      "is_event": false,
+      "number": 204,
+      "slug": "burning-hot-spice",
+      "name_zh_hant": "辣到噴火",
+      "name_en": "Burning-hot spice"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "優雅的午後"
+      "is_event": false,
+      "number": 205,
+      "slug": "elegant-daytime-treats",
+      "name_zh_hant": "優雅的午後",
+      "name_en": "Elegant daytime treats"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "黑色滋味"
+      "is_event": false,
+      "number": 206,
+      "slug": "dark-chocolate-cookies",
+      "name_zh_hant": "黑色滋味",
+      "name_en": "Dark-chocolate cookies"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "綠色三明治"
+      "is_event": false,
+      "number": 207,
+      "slug": "leafy-greens-sandwich",
+      "name_zh_hant": "綠色三明治",
+      "name_en": "Leafy greens sandwich"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "冰涼刨冰"
+      "is_event": false,
+      "number": 208,
+      "slug": "chilly-shaved-ice",
+      "name_zh_hant": "冰涼刨冰",
+      "name_en": "Chilly shaved ice"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "可愛的蛋糕"
+      "is_event": false,
+      "number": 209,
+      "slug": "lovely-ribbon-cake",
+      "name_zh_hant": "可愛的蛋糕",
+      "name_en": "Lovely ribbon cake"
     }
   },
   {
@@ -2113,7 +2949,7 @@
   },
   {
     "model": "pokopia.favorite",
-    "fields": { 
+    "fields": {
       "slug": "symbols",
       "name_zh_hant": "象徵",
       "name_en": "Symbols",

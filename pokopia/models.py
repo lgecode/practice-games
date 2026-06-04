@@ -60,6 +60,7 @@ from django.utils.translation import gettext_lazy as _
 
 class TimeOfDay(models.TextChoices):
     """能遇見的時間"""
+
     DAWN = "dawn", _("dawn")  # 黎明
     DAYTIME = "daytime", _("daytime")  # 白天
     DUSK = "dusk", _("dusk")  # 黃昏
@@ -68,6 +69,7 @@ class TimeOfDay(models.TextChoices):
 
 class Weather(models.TextChoices):
     """能遇見的天氣"""
+
     SUNNY = "sunny", _("sunny")  # 晴天
     CLOUDY = "cloudy", _("cloudy")  # 陰天
     RAINY = "rainy", _("rainy")  # 雨天
@@ -75,6 +77,7 @@ class Weather(models.TextChoices):
 
 class Environment(models.TextChoices):
     """喜歡的環境"""
+
     BRIGHT = "bright", _("bright")  # 明亮
     DARK = "dark", _("dark")  # 昏暗
     HUMID = "humid", _("humid")  # 潮濕
@@ -85,6 +88,7 @@ class Environment(models.TextChoices):
 
 class Flavor(models.TextChoices):
     """喜歡的口味"""
+
     SPICY = "spicy", _("spicy")  # 辣辣的
     DRY = "dry", _("dry")  # 澀澀的
     SWEET = "sweet", _("sweet")  # 甜甜的
@@ -99,6 +103,7 @@ class SlugNaturalKeyManager(models.Manager):
 
 class PokemonType(models.Model):
     """寶可夢屬性"""
+
     slug = models.SlugField(max_length=50, unique=True, blank=True, null=True)
     name_zh_hant = models.CharField(max_length=50, unique=True, blank=True, null=True)
     name_en = models.CharField(max_length=50, unique=True, blank=True, null=True)
@@ -120,6 +125,7 @@ class PokemonType(models.Model):
 
 class Specialty(models.Model):
     """寶可夢專長"""
+
     slug = models.SlugField(max_length=50, unique=True, blank=True, null=True)
     name_zh_hant = models.CharField(max_length=50, unique=True, blank=True, null=True)
     name_en = models.CharField(max_length=50, unique=True, blank=True, null=True)
@@ -139,44 +145,39 @@ class Specialty(models.Model):
         return self.name_zh_hant
 
 
-class NameNaturalKeyManager(models.Manager):
-    def get_by_natural_key(self, name):
-        return self.get(name=name)
-
-
 class Habitat(models.Model):
     """寶可夢棲地"""
-    name = models.CharField(max_length=100, unique=True, blank=True, null=True)
 
-    objects = NameNaturalKeyManager()
+    slug = models.SlugField(max_length=100, unique=True, blank=True, null=True)
+    is_event = models.BooleanField(default=False, verbose_name=_("is_event"))
+    number = models.PositiveSmallIntegerField(_("number"), blank=True, null=True)
+    name_zh_hant = models.CharField(
+        _("name_zh_hant"), max_length=100, unique=True, blank=True, null=True
+    )
+    name_en = models.CharField(
+        _("name_en"), max_length=100, unique=True, blank=True, null=True
+    )
+    name_jp = models.CharField(
+        _("name_jp"), max_length=100, unique=True, blank=True, null=True
+    )
+
+    objects = SlugNaturalKeyManager()
 
     class Meta:
-        ordering = ["name"]
+        ordering = ["is_event", "number"]
         verbose_name = _("habitat")
         verbose_name_plural = _("habitats")
 
     def natural_key(self):
-        return (self.name,)
+        return (self.slug,)
 
     def __str__(self):
-        return self.name
-
-    # slug = models.SlugField(max_length=100, unique=True, blank=True, null=True)
-    # name_zh_hant = models.CharField(max_length=100, unique=True, blank=True, null=True)
-    # name_en = models.CharField(max_length=100, unique=True, blank=True, null=True)
-    # name_jp = models.CharField(max_length=100, unique=True, blank=True, null=True)
-
-    # objects = SlugNaturalKeyManager()
-
-    # def natural_key(self):
-    #     return (self.slug,)
-
-    # def __str__(self):
-    #     return self.name_zh_hant
+        return self.name_zh_hant
 
 
 class Favorite(models.Model):
     """喜歡的東西"""
+
     slug = models.SlugField(max_length=100, unique=True, blank=True, null=True)
     name_zh_hant = models.CharField(max_length=100, unique=True, blank=True, null=True)
     name_en = models.CharField(max_length=100, unique=True, blank=True, null=True)
@@ -198,35 +199,70 @@ class Favorite(models.Model):
 
 class Pokemon(models.Model):
     """寶可夢"""
-    slug = models.SlugField(
-        max_length=200, unique=True, blank=True, null=True
+
+    slug = models.SlugField(max_length=200, unique=True, blank=True, null=True)
+    dex_number = models.PositiveSmallIntegerField(
+        _("dex_number"), blank=True, null=True
+    )  # 圖鑑編號
+    name_zh_hant = models.CharField(
+        _("name_zh_hant"), max_length=100, blank=True, default=""
     )
-    dex_number = models.PositiveSmallIntegerField(_("dex_number"), blank=True, null=True)  # 圖鑑編號
-    name_zh_hant = models.CharField(_("name_zh_hant"), max_length=100, blank=True, default="")
     name_en = models.CharField(_("name_en"), max_length=100, blank=True, default="")
     name_jp = models.CharField(_("name_jp"), max_length=100, blank=True, default="")
-    classification_zh_hant = models.CharField(_("classification_zh_hant"), max_length=100, blank=True, default="")
-    classification_en = models.CharField(_("classification_en"), max_length=100, blank=True, default="")
-    classification_jp = models.CharField(_("classification_jp"), max_length=100, blank=True, default="")
-    description_zh_hant = models.TextField(_("description_zh_hant"), blank=True, default="")  # 描述
+    classification_zh_hant = models.CharField(
+        _("classification_zh_hant"), max_length=100, blank=True, default=""
+    )
+    classification_en = models.CharField(
+        _("classification_en"), max_length=100, blank=True, default=""
+    )
+    classification_jp = models.CharField(
+        _("classification_jp"), max_length=100, blank=True, default=""
+    )
+    description_zh_hant = models.TextField(
+        _("description_zh_hant"), blank=True, default=""
+    )  # 描述
     description_en = models.TextField(_("description_en"), blank=True, default="")
     description_jp = models.TextField(_("description_jp"), blank=True, default="")
-    height = models.DecimalField(_("height"), max_digits=5, decimal_places=2, blank=True, null=True)  # 身高
-    weight = models.DecimalField(_("weight"), max_digits=5, decimal_places=2, blank=True, null=True)  # 體重
+    height = models.DecimalField(
+        _("height"), max_digits=5, decimal_places=2, blank=True, null=True
+    )  # 身高
+    weight = models.DecimalField(
+        _("weight"), max_digits=5, decimal_places=2, blank=True, null=True
+    )  # 體重
     types = models.ManyToManyField(PokemonType, verbose_name=_("types"))  # 屬性
-    time_of_day = models.JSONField(_("time_of_day"), blank=True, default=list)  # 能遇見的時間
+    time_of_day = models.JSONField(
+        _("time_of_day"), blank=True, default=list
+    )  # 能遇見的時間
     weather = models.JSONField(_("weather"), blank=True, default=list)  # 能遇見的天氣
-    habitats = models.ManyToManyField(Habitat, verbose_name=_("habitats"))  # 會出現的棲地
-    specialties = models.ManyToManyField(Specialty, verbose_name=_("specialties"))  # 專長
+    habitats = models.ManyToManyField(
+        Habitat, verbose_name=_("habitats")
+    )  # 會出現的棲地
+    specialties = models.ManyToManyField(
+        Specialty, verbose_name=_("specialties")
+    )  # 專長
     preferred_environment = models.CharField(
-        max_length=20, choices=Environment.choices, blank=True, default="", verbose_name=_("preferred_environment")
+        max_length=20,
+        choices=Environment.choices,
+        blank=True,
+        default="",
+        verbose_name=_("preferred_environment"),
     )  # 喜歡的環境
-    favorites = models.ManyToManyField(Favorite, verbose_name=_("favorites"))  # 喜歡的東西
+    favorites = models.ManyToManyField(
+        Favorite, verbose_name=_("favorites")
+    )  # 喜歡的東西
     flavor = models.CharField(
-        max_length=20, choices=Flavor.choices, blank=True, default="", verbose_name=_("flavor")
+        max_length=20,
+        choices=Flavor.choices,
+        blank=True,
+        default="",
+        verbose_name=_("flavor"),
     )  # 喜歡的口味
-    is_unique_npc = models.BooleanField(default=False, verbose_name=_("is_unique_npc"))  # 是否為特殊 NPC 寶可夢
-    is_event = models.BooleanField(default=False, verbose_name=_("is_event"))  # 是否為活動限定寶可夢
+    is_unique_npc = models.BooleanField(
+        default=False, verbose_name=_("is_unique_npc")
+    )  # 是否為特殊 NPC 寶可夢
+    is_event = models.BooleanField(
+        default=False, verbose_name=_("is_event")
+    )  # 是否為活動限定寶可夢
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 
@@ -241,6 +277,7 @@ class Pokemon(models.Model):
 
 class ItemCategory(models.TextChoices):
     """物品分類"""
+
     FURNITURE = "furniture", _("furniture")  # 家具
     MISC = "misc", _("misc")  # 雜貨
     OUTDOOR = "outdoor", _("outdoor")  # 戶外
@@ -249,7 +286,7 @@ class ItemCategory(models.TextChoices):
     BLOCKS = "blocks", _("blocks")  # 方塊
     KITS = "kits", _("kits")  # 套組
     NATURE = "nature", _("nature")  # 大自然
-    FOOD = "food", _("food")  # 食物    
+    FOOD = "food", _("food")  # 食物
     MATERIALS = "materials", _("materials")  # 材料
     KEY_ITEMS = "key_items", _("key_items")  # 重要的東西
     OTHER = "other", _("other")  # 其他
@@ -269,19 +306,27 @@ class ItemTag(models.TextChoices):
 
 class Item(models.Model):
     """物品"""
-    slug = models.SlugField(
-        max_length=200, unique=True, blank=True, null=True
+
+    slug = models.SlugField(max_length=200, unique=True, blank=True, null=True)
+    category = models.CharField(
+        _("category"),
+        max_length=50,
+        choices=ItemCategory.choices,
+        default=ItemCategory.OTHER,
     )
-    category = models.CharField(_("category"),
-                                max_length=50, choices=ItemCategory.choices, default=ItemCategory.OTHER
-                                )
-    name_zh_hant = models.CharField(_("name_zh_hant"), max_length=150, blank=True, default="")
+    name_zh_hant = models.CharField(
+        _("name_zh_hant"), max_length=150, blank=True, default=""
+    )
     name_en = models.CharField(_("name_en"), max_length=150, blank=True, default="")
     name_jp = models.CharField(_("name_jp"), max_length=150, blank=True, default="")
-    description_zh_hant = models.TextField(_("description_zh_hant"), blank=True, default="")
+    description_zh_hant = models.TextField(
+        _("description_zh_hant"), blank=True, default=""
+    )
     description_en = models.TextField(_("description_en"), blank=True, default="")
     description_jp = models.TextField(_("description_jp"), blank=True, default="")
-    tag = models.CharField(_("tag"), max_length=30, choices=ItemTag.choices, blank=True, default="")
+    tag = models.CharField(
+        _("tag"), max_length=30, choices=ItemTag.choices, blank=True, default=""
+    )
     favorites = models.ManyToManyField(Favorite, verbose_name=_("favorites"))
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
