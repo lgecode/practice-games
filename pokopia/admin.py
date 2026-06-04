@@ -9,6 +9,14 @@ class SpecialtyAdmin(admin.ModelAdmin):
     ordering = ("name_zh_hant",)
 
 
+@admin.register(Habitat)
+class HabitatAdmin(admin.ModelAdmin):
+    list_display = ("number", "name_zh_hant", "is_event")
+    list_display_links = ("number", "name_zh_hant",)
+    list_filter = ("is_event",)
+    ordering = ("is_event", "number")
+
+
 @admin.register(Favorite)
 class FavoriteAdmin(admin.ModelAdmin):
     list_display = ("name_zh_hant",)
@@ -27,8 +35,8 @@ class PokemonAdmin(admin.ModelAdmin):
         "dex_number",
         "name_zh_hant",
         "specialties_display",
-        "is_unique_npc",
         "is_event",
+        "is_unique_npc",
     )
     list_display_links = ("dex_number", "name_zh_hant",)
     list_filter = (
@@ -45,7 +53,7 @@ class PokemonAdmin(admin.ModelAdmin):
         "favorites__name_zh_hant",
     )
     filter_horizontal = ("types", "habitats", "specialties", "favorites")
-    ordering = ("dex_number", "name_zh_hant")
+    ordering = ("is_event", "dex_number", "name_zh_hant")
 
     def get_queryset(self, request):
         queryset = super().get_queryset(request)

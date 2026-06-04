@@ -32,10 +32,10 @@
       ],
       "habitats": [
         [
-          "綠色的草叢"
+          "tall-grass"
         ],
         [
-          "綠色的長椅"
+          "bench-with-greenery"
         ]
       ],
       "specialties": [
@@ -101,10 +101,10 @@
       ],
       "habitats": [
         [
-          "綠色的長椅"
+          "bench-with-greenery"
         ],
         [
-          "整片的花海"
+          "field-of-flowers"
         ]
       ],
       "specialties": [
@@ -170,10 +170,10 @@
       ],
       "habitats": [
         [
-          "庭園露臺"
+          "garden-terrace"
         ],
         [
-          "整片的花海"
+          "field-of-flowers"
         ]
       ],
       "specialties": [
@@ -239,7 +239,7 @@
       ],
       "habitats": [
         [
-          "綠色的草叢"
+          "tall-grass"
         ]
       ],
       "specialties": [
@@ -302,7 +302,7 @@
       ],
       "habitats": [
         [
-          "露營組合"
+          "campsite"
         ]
       ],
       "specialties": [
@@ -368,10 +368,10 @@
       ],
       "habitats": [
         [
-          "樹果露營大餐"
+          "berry-feast-campsite"
         ],
         [
-          "綠色的草叢"
+          "tall-grass"
         ]
       ],
       "specialties": [
@@ -437,10 +437,10 @@
       ],
       "habitats": [
         [
-          "綠色的草叢"
+          "tall-grass"
         ],
         [
-          "溼潤的草叢"
+          "hydrated-tall-grass"
         ]
       ],
       "specialties": [
@@ -503,7 +503,7 @@
       ],
       "habitats": [
         [
-          "溼潤的草叢"
+          "hydrated-tall-grass"
         ]
       ],
       "specialties": [
@@ -566,10 +566,10 @@
       ],
       "habitats": [
         [
-          "在陰涼處漂浮玩水"
+          "floating-in-the-shade"
         ],
         [
-          "溼潤的草叢"
+          "hydrated-tall-grass"
         ]
       ],
       "specialties": [
@@ -638,10 +638,10 @@
       ],
       "habitats": [
         [
-          "美麗的花田"
+          "pretty-flower-bed"
         ],
         [
-          "高崗的草叢"
+          "elevated-tall-grass"
         ]
       ],
       "specialties": [
@@ -710,10 +710,10 @@
       ],
       "habitats": [
         [
-          "高崗的草叢"
+          "elevated-tall-grass"
         ],
         [
-          "美麗的花田"
+          "pretty-flower-bed"
         ]
       ],
       "specialties": [
@@ -782,7 +782,7 @@
       ],
       "habitats": [
         [
-          "嘰嘰咕咕奢華大餐"
+          "luxury-chirp-chirp-meal"
         ]
       ],
       "specialties": [
@@ -851,7 +851,7 @@
       ],
       "habitats": [
         [
-          "綠色的草叢"
+          "tall-grass"
         ]
       ],
       "specialties": [
@@ -917,7 +917,7 @@
       ],
       "habitats": [
         [
-          "南國氛圍"
+          "tropical-vibes"
         ]
       ],
       "specialties": [
@@ -983,7 +983,7 @@
       ],
       "habitats": [
         [
-          "吉利蛋休息處"
+          "chansey-resting-area"
         ]
       ],
       "specialties": [
@@ -1049,7 +1049,7 @@
       ],
       "habitats": [
         [
-          "吉利蛋休息處"
+          "chansey-resting-area"
         ]
       ],
       "specialties": [
@@ -1118,10 +1118,10 @@
       ],
       "habitats": [
         [
-          "高崗的花田"
+          "elevated-flower-bed"
         ],
         [
-          "庭園"
+          "flower-garden"
         ]
       ],
       "specialties": [
@@ -1187,10 +1187,10 @@
       ],
       "habitats": [
         [
-          "庭園"
+          "flower-garden"
         ],
         [
-          "高崗的花田"
+          "elevated-flower-bed"
         ]
       ],
       "specialties": [
@@ -1256,10 +1256,10 @@
       ],
       "habitats": [
         [
-          "光照的草叢"
+          "illuminated-tall-grass"
         ],
         [
-          "光照的長椅"
+          "illuminated-bench"
         ]
       ],
       "specialties": [
@@ -1325,10 +1325,10 @@
       ],
       "habitats": [
         [
-          "光照的長椅"
+          "illuminated-bench"
         ],
         [
-          "光照的草叢"
+          "illuminated-tall-grass"
         ]
       ],
       "specialties": [
@@ -1394,7 +1394,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的草叢"
+          "tree-shaded-tall-grass"
         ]
       ],
       "specialties": [
@@ -1463,10 +1463,10 @@
       ],
       "habitats": [
         [
-          "燈光與香氣的誘惑"
+          "irresistible-scent-and-glow"
         ],
         [
-          "華麗的桌子"
+          "flowery-table"
         ]
       ],
       "specialties": [
@@ -1535,10 +1535,10 @@
       ],
       "habitats": [
         [
-          "燈光與香氣的誘惑"
+          "irresistible-scent-and-glow"
         ],
         [
-          "華麗的桌子"
+          "flowery-table"
         ]
       ],
       "specialties": [
@@ -1607,7 +1607,7 @@
       ],
       "habitats": [
         [
-          "海浪邊的草叢"
+          "seaside-tall-grass"
         ]
       ],
       "specialties": [
@@ -1676,13 +1676,13 @@
       ],
       "habitats": [
         [
-          "垂釣場"
+          "fishing-pond"
         ],
         [
-          "布偶伴好眠"
+          "bed-with-a-plush"
         ],
         [
-          "海浪邊的草叢"
+          "seaside-tall-grass"
         ]
       ],
       "specialties": [
@@ -1751,13 +1751,13 @@
       ],
       "habitats": [
         [
-          "垂釣場"
+          "fishing-pond"
         ],
         [
-          "布偶伴好眠"
+          "bed-with-a-plush"
         ],
         [
-          "海浪邊的草叢"
+          "seaside-tall-grass"
         ]
       ],
       "specialties": [
@@ -1826,7 +1826,7 @@
       ],
       "habitats": [
         [
-          "工廠的儲藏室"
+          "factory-storage"
         ]
       ],
       "specialties": [
@@ -1892,10 +1892,10 @@
       ],
       "habitats": [
         [
-          "迷你遊戲城"
+          "mini-game-corner"
         ],
         [
-          "好多垃圾桶"
+          "trash-can-central"
         ]
       ],
       "specialties": [
@@ -1961,10 +1961,10 @@
       ],
       "habitats": [
         [
-          "迷你遊戲城"
+          "mini-game-corner"
         ],
         [
-          "好多垃圾桶"
+          "trash-can-central"
         ]
       ],
       "specialties": [
@@ -2033,7 +2033,7 @@
       ],
       "habitats": [
         [
-          "乾乾的草叢"
+          "smooth-tall-grass"
         ]
       ],
       "specialties": [
@@ -2102,7 +2102,7 @@
       ],
       "habitats": [
         [
-          "咚隆咣啷鋼架工程"
+          "clink-clang-iron-construction"
         ]
       ],
       "specialties": [
@@ -2168,7 +2168,7 @@
       ],
       "habitats": [
         [
-          "花朵圍繞的墓地"
+          "grave-with-flowers"
         ]
       ],
       "specialties": [
@@ -2231,7 +2231,7 @@
       ],
       "habitats": [
         [
-          "花朵圍繞的墓地"
+          "grave-with-flowers"
         ]
       ],
       "specialties": [
@@ -2294,7 +2294,7 @@
       ],
       "habitats": [
         [
-          "修行瀑布"
+          "training-waterfall"
         ]
       ],
       "specialties": [
@@ -2357,7 +2357,7 @@
       ],
       "habitats": [
         [
-          "緊急救護站"
+          "urgent-care"
         ]
       ],
       "specialties": [
@@ -2420,7 +2420,7 @@
       ],
       "habitats": [
         [
-          "健身區休息處"
+          "exercise-resting-spot"
         ]
       ],
       "specialties": [
@@ -2483,7 +2483,7 @@
       ],
       "habitats": [
         [
-          "健身區救護處"
+          "gym-first-aid"
         ]
       ],
       "specialties": [
@@ -2546,7 +2546,7 @@
       ],
       "habitats": [
         [
-          "垃圾集中站"
+          "trash-collection-site"
         ]
       ],
       "specialties": [
@@ -2609,10 +2609,10 @@
       ],
       "habitats": [
         [
-          "古色古香"
+          "good-old-fashioned-antiques"
         ],
         [
-          "垃圾集中站"
+          "trash-collection-site"
         ]
       ],
       "specialties": [
@@ -2675,7 +2675,7 @@
       ],
       "habitats": [
         [
-          "滿是精靈球"
+          "nothin-but-poke-balls"
         ]
       ],
       "specialties": [
@@ -2741,7 +2741,7 @@
       ],
       "habitats": [
         [
-          "博士的寶物"
+          "professors-treasure-trove"
         ]
       ],
       "specialties": [
@@ -2804,7 +2804,7 @@
       ],
       "habitats": [
         [
-          "綠色的長椅"
+          "bench-with-greenery"
         ]
       ],
       "specialties": [
@@ -2873,7 +2873,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的草叢"
+          "tree-shaded-tall-grass"
         ]
       ],
       "specialties": [
@@ -2939,7 +2939,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的草叢"
+          "tree-shaded-tall-grass"
         ]
       ],
       "specialties": [
@@ -3002,7 +3002,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的草叢"
+          "tree-shaded-tall-grass"
         ]
       ],
       "specialties": [
@@ -3068,7 +3068,7 @@
       ],
       "habitats": [
         [
-          "海釣場"
+          "ocean-fishing-spot"
         ]
       ],
       "specialties": [
@@ -3134,7 +3134,7 @@
       ],
       "habitats": [
         [
-          "光照的瀑布"
+          "illuminated-waterfall"
         ]
       ],
       "specialties": [
@@ -3197,7 +3197,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -3247,13 +3247,13 @@
       ],
       "habitats": [
         [
-          "美麗的花田"
+          "pretty-flower-bed"
         ],
         [
-          "高崗的草叢"
+          "elevated-tall-grass"
         ],
         [
-          "柔光伴好眠"
+          "gently-lit-bed"
         ]
       ],
       "specialties": [
@@ -3322,10 +3322,10 @@
       ],
       "habitats": [
         [
-          "柔光伴好眠"
+          "gently-lit-bed"
         ],
         [
-          "高崗的草叢"
+          "elevated-tall-grass"
         ]
       ],
       "specialties": [
@@ -3394,7 +3394,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的草叢"
+          "tree-shaded-tall-grass"
         ]
       ],
       "specialties": [
@@ -3460,7 +3460,7 @@
       ],
       "habitats": [
         [
-          "溼潤的花田"
+          "hydrated-flower-bed"
         ]
       ],
       "specialties": [
@@ -3523,7 +3523,7 @@
       ],
       "habitats": [
         [
-          "溼潤的花田"
+          "hydrated-flower-bed"
         ]
       ],
       "specialties": [
@@ -3586,7 +3586,7 @@
       ],
       "habitats": [
         [
-          "餓肚肚用餐處"
+          "tantalizing-dining-set"
         ]
       ],
       "specialties": [
@@ -3649,7 +3649,7 @@
       ],
       "habitats": [
         [
-          "充滿期待的餐桌"
+          "dinner-table-surprise"
         ]
       ],
       "specialties": [
@@ -3712,7 +3712,7 @@
       ],
       "habitats": [
         [
-          "大晴天地點"
+          "sunny-day-site"
         ]
       ],
       "specialties": [
@@ -3778,7 +3778,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的花田"
+          "tree-shaded-flower-bed"
         ]
       ],
       "specialties": [
@@ -3847,7 +3847,7 @@
       ],
       "habitats": [
         [
-          "美麗的花田"
+          "pretty-flower-bed"
         ]
       ],
       "specialties": [
@@ -3913,7 +3913,7 @@
       ],
       "habitats": [
         [
-          "整片的花海"
+          "field-of-flowers"
         ]
       ],
       "specialties": [
@@ -3979,7 +3979,7 @@
       ],
       "habitats": [
         [
-          "指路牌"
+          "road-sign"
         ]
       ],
       "specialties": [
@@ -4042,7 +4042,7 @@
       ],
       "habitats": [
         [
-          "指路牌"
+          "road-sign"
         ]
       ],
       "specialties": [
@@ -4108,7 +4108,7 @@
       ],
       "habitats": [
         [
-          "海釣場"
+          "ocean-fishing-spot"
         ]
       ],
       "specialties": [
@@ -4177,7 +4177,7 @@
       ],
       "habitats": [
         [
-          "海釣場"
+          "ocean-fishing-spot"
         ]
       ],
       "specialties": [
@@ -4246,13 +4246,13 @@
       ],
       "habitats": [
         [
-          "乘著暖風"
+          "riding-warm-updrafts"
         ],
         [
-          "布偶堆"
+          "plush-central"
         ],
         [
-          "布偶伴好眠"
+          "bed-with-a-plush"
         ]
       ],
       "specialties": [
@@ -4318,7 +4318,7 @@
       ],
       "habitats": [
         [
-          "布偶堆"
+          "plush-central"
         ]
       ],
       "specialties": [
@@ -4384,7 +4384,7 @@
       ],
       "habitats": [
         [
-          "新鮮蔬菜田"
+          "fresh-veggie-field"
         ]
       ],
       "specialties": [
@@ -4450,7 +4450,7 @@
       ],
       "habitats": [
         [
-          "新鮮蔬菜田"
+          "fresh-veggie-field"
         ]
       ],
       "specialties": [
@@ -4516,7 +4516,7 @@
       ],
       "habitats": [
         [
-          "岩影的草叢"
+          "boulder-shaded-tall-grass"
         ]
       ],
       "specialties": [
@@ -4579,10 +4579,10 @@
       ],
       "habitats": [
         [
-          "裝上大貨物"
+          "large-luggage-carrier"
         ],
         [
-          "岩影的草叢"
+          "boulder-shaded-tall-grass"
         ]
       ],
       "specialties": [
@@ -4645,7 +4645,7 @@
       ],
       "habitats": [
         [
-          "工地的發電廠"
+          "construction-site-generator"
         ]
       ],
       "specialties": [
@@ -4714,10 +4714,10 @@
       ],
       "habitats": [
         [
-          "詭異的墓前的供品"
+          "creepy-grave-offering"
         ],
         [
-          "墓前的供品"
+          "grave-offering"
         ]
       ],
       "specialties": [
@@ -4783,10 +4783,10 @@
       ],
       "habitats": [
         [
-          "詭異的墓前的供品"
+          "creepy-grave-offering"
         ],
         [
-          "墓前的供品"
+          "grave-offering"
         ]
       ],
       "specialties": [
@@ -4852,7 +4852,7 @@
       ],
       "habitats": [
         [
-          "詭異的墓前的供品"
+          "creepy-grave-offering"
         ]
       ],
       "specialties": [
@@ -4915,10 +4915,10 @@
       ],
       "habitats": [
         [
-          "樵夫工作區"
+          "lumberjacks-workplace"
         ],
         [
-          "有溫度感的圓木"
+          "cozy-log-handicrafts"
         ]
       ],
       "specialties": [
@@ -4981,10 +4981,10 @@
       ],
       "habitats": [
         [
-          "樵夫工作區"
+          "lumberjacks-workplace"
         ],
         [
-          "有溫度感的圓木"
+          "cozy-log-handicrafts"
         ]
       ],
       "specialties": [
@@ -5047,10 +5047,10 @@
       ],
       "habitats": [
         [
-          "樵夫工作區"
+          "lumberjacks-workplace"
         ],
         [
-          "有溫度感的圓木"
+          "cozy-log-handicrafts"
         ]
       ],
       "specialties": [
@@ -5116,10 +5116,10 @@
       ],
       "habitats": [
         [
-          "求雨地點"
+          "rain-dance-site"
         ],
         [
-          "樹蔭的花田"
+          "tree-shaded-flower-bed"
         ]
       ],
       "specialties": [
@@ -5182,7 +5182,7 @@
       ],
       "habitats": [
         [
-          "溼潤的草叢"
+          "hydrated-tall-grass"
         ]
       ],
       "specialties": [
@@ -5245,7 +5245,7 @@
       ],
       "habitats": [
         [
-          "樹果大集合"
+          "very-berry-space"
         ]
       ],
       "specialties": [
@@ -5314,7 +5314,7 @@
       ],
       "habitats": [
         [
-          "溼潤的草叢"
+          "hydrated-tall-grass"
         ]
       ],
       "specialties": [
@@ -5380,7 +5380,7 @@
       ],
       "habitats": [
         [
-          "野餐氛圍桌"
+          "picnic-set"
         ]
       ],
       "specialties": [
@@ -5443,7 +5443,7 @@
       ],
       "habitats": [
         [
-          "睡一覺來康復"
+          "full-recovery"
         ]
       ],
       "specialties": [
@@ -5506,7 +5506,7 @@
       ],
       "habitats": [
         [
-          "野餐氛圍桌"
+          "picnic-set"
         ]
       ],
       "specialties": [
@@ -5569,7 +5569,7 @@
       ],
       "habitats": [
         [
-          "大自然中的集市"
+          "natures-market"
         ]
       ],
       "specialties": [
@@ -5638,10 +5638,10 @@
       ],
       "habitats": [
         [
-          "樹蔭的黃色草叢"
+          "tree-shaded-yellow-tall-grass"
         ],
         [
-          "公園的長椅"
+          "park-bench"
         ]
       ],
       "specialties": [
@@ -5707,7 +5707,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的黃色草叢"
+          "tree-shaded-yellow-tall-grass"
         ]
       ],
       "specialties": [
@@ -5773,10 +5773,10 @@
       ],
       "habitats": [
         [
-          "垃圾場"
+          "trash-disposal-site"
         ],
         [
-          "高崗的黃色草叢"
+          "elevated-yellow-tall-grass"
         ]
       ],
       "specialties": [
@@ -5842,10 +5842,10 @@
       ],
       "habitats": [
         [
-          "在櫃檯結賬"
+          "working-the-register"
         ],
         [
-          "休息處"
+          "resting-spot"
         ]
       ],
       "specialties": [
@@ -5908,7 +5908,7 @@
       ],
       "habitats": [
         [
-          "邪惡組織的基地"
+          "evil-organization-hq"
         ]
       ],
       "specialties": [
@@ -5974,7 +5974,7 @@
       ],
       "habitats": [
         [
-          "溫泉沖洗區"
+          "hot-spring-shower"
         ]
       ],
       "specialties": [
@@ -6037,7 +6037,7 @@
       ],
       "habitats": [
         [
-          "溫泉沖洗區"
+          "hot-spring-shower"
         ]
       ],
       "specialties": [
@@ -6100,10 +6100,10 @@
       ],
       "habitats": [
         [
-          "在度假區準備做飯"
+          "resort-meal-prep"
         ],
         [
-          "來收拾吧"
+          "perpetual-mess"
         ]
       ],
       "specialties": [
@@ -6169,10 +6169,10 @@
       ],
       "habitats": [
         [
-          "熔岩釣場"
+          "magma-fishing-spot"
         ],
         [
-          "小小博物館"
+          "mini-museum"
         ]
       ],
       "specialties": [
@@ -6241,7 +6241,7 @@
       ],
       "habitats": [
         [
-          "打包好了"
+          "all-packed-up"
         ]
       ],
       "specialties": [
@@ -6307,7 +6307,7 @@
       ],
       "habitats": [
         [
-          "沼釣場"
+          "marsh-fishing-spot"
         ]
       ],
       "specialties": [
@@ -6370,7 +6370,7 @@
       ],
       "habitats": [
         [
-          "沼釣場"
+          "marsh-fishing-spot"
         ]
       ],
       "specialties": [
@@ -6436,7 +6436,7 @@
       ],
       "habitats": [
         [
-          "詭異的書房"
+          "spooky-study"
         ]
       ],
       "specialties": [
@@ -6505,10 +6505,10 @@
       ],
       "habitats": [
         [
-          "小心機關"
+          "surprise-in-store"
         ],
         [
-          "詭異的書房"
+          "spooky-study"
         ]
       ],
       "specialties": [
@@ -6577,7 +6577,7 @@
       ],
       "habitats": [
         [
-          "小心機關"
+          "surprise-in-store"
         ]
       ],
       "specialties": [
@@ -6643,10 +6643,10 @@
       ],
       "habitats": [
         [
-          "水手過家家"
+          "playing-pirate"
         ],
         [
-          "公園的長椅"
+          "park-bench"
         ]
       ],
       "specialties": [
@@ -6712,10 +6712,10 @@
       ],
       "habitats": [
         [
-          "水手過家家"
+          "playing-pirate"
         ],
         [
-          "公園的長椅"
+          "park-bench"
         ]
       ],
       "specialties": [
@@ -6784,10 +6784,10 @@
       ],
       "habitats": [
         [
-          "沙灘的樹蔭"
+          "shaded-beach"
         ],
         [
-          "南國氛圍"
+          "tropical-vibes"
         ]
       ],
       "specialties": [
@@ -6856,10 +6856,10 @@
       ],
       "habitats": [
         [
-          "沙灘的樹蔭"
+          "shaded-beach"
         ],
         [
-          "南國氛圍"
+          "tropical-vibes"
         ]
       ],
       "specialties": [
@@ -6925,10 +6925,10 @@
       ],
       "habitats": [
         [
-          "在櫃檯結賬"
+          "working-the-register"
         ],
         [
-          "鬧鐘床位"
+          "alarm-clock-sleep-zone"
         ]
       ],
       "specialties": [
@@ -6991,7 +6991,7 @@
       ],
       "habitats": [
         [
-          "睡一覺來康復"
+          "full-recovery"
         ]
       ],
       "specialties": [
@@ -7054,7 +7054,7 @@
       ],
       "habitats": [
         [
-          "超可愛空間"
+          "cuteness-overload"
         ]
       ],
       "specialties": [
@@ -7120,7 +7120,7 @@
       ],
       "habitats": [
         [
-          "自動售貨機套組"
+          "vending-machine-set"
         ]
       ],
       "specialties": [
@@ -7183,10 +7183,10 @@
       ],
       "habitats": [
         [
-          "聚光舞臺"
+          "light-up-stage"
         ],
         [
-          "好多垃圾桶"
+          "trash-can-central"
         ]
       ],
       "specialties": [
@@ -7249,10 +7249,10 @@
       ],
       "habitats": [
         [
-          "聚光舞臺"
+          "light-up-stage"
         ],
         [
-          "自動售貨機套組"
+          "vending-machine-set"
         ]
       ],
       "specialties": [
@@ -7321,7 +7321,7 @@
       ],
       "habitats": [
         [
-          "熱帶海濱"
+          "tropical-seaside"
         ]
       ],
       "specialties": [
@@ -7384,10 +7384,10 @@
       ],
       "habitats": [
         [
-          "樹蔭下熟睡的卡比獸"
+          "tree-shaded-snoozing-snorlax"
         ],
         [
-          "布偶伴好眠"
+          "bed-with-a-plush"
         ]
       ],
       "specialties": [
@@ -7450,7 +7450,7 @@
       ],
       "habitats": [
         [
-          "美味的供品"
+          "gourmets-altar"
         ]
       ],
       "specialties": [
@@ -7513,10 +7513,10 @@
       ],
       "habitats": [
         [
-          "古色古香"
+          "good-old-fashioned-antiques"
         ],
         [
-          "樹蔭下熟睡的卡比獸"
+          "tree-shaded-snoozing-snorlax"
         ]
       ],
       "specialties": [
@@ -7585,7 +7585,7 @@
       ],
       "habitats": [
         [
-          "黃色的草叢"
+          "yellow-tall-grass"
         ]
       ],
       "specialties": [
@@ -7651,7 +7651,7 @@
       ],
       "habitats": [
         [
-          "黃色的草叢"
+          "yellow-tall-grass"
         ]
       ],
       "specialties": [
@@ -7714,10 +7714,10 @@
       ],
       "habitats": [
         [
-          "織毛線"
+          "knitting-station"
         ],
         [
-          "草叢的自動售貨機"
+          "overgrowth-vending-machine"
         ]
       ],
       "specialties": [
@@ -7783,10 +7783,10 @@
       ],
       "habitats": [
         [
-          "夜晚的慶典會場"
+          "night-festival-venue"
         ],
         [
-          "織毛線"
+          "knitting-station"
         ]
       ],
       "specialties": [
@@ -7852,7 +7852,7 @@
       ],
       "habitats": [
         [
-          "自然風生活"
+          "plain-life"
         ]
       ],
       "specialties": [
@@ -7921,10 +7921,10 @@
       ],
       "habitats": [
         [
-          "溼潤的黃色草叢"
+          "hydrated-yellow-tall-grass"
         ],
         [
-          "來收拾吧"
+          "perpetual-mess"
         ]
       ],
       "specialties": [
@@ -7993,10 +7993,10 @@
       ],
       "habitats": [
         [
-          "碼頭"
+          "dock"
         ],
         [
-          "溼潤的黃色草叢"
+          "hydrated-yellow-tall-grass"
         ]
       ],
       "specialties": [
@@ -8065,7 +8065,7 @@
       ],
       "habitats": [
         [
-          "碼頭"
+          "dock"
         ]
       ],
       "specialties": [
@@ -8134,7 +8134,7 @@
       ],
       "habitats": [
         [
-          "沼澤的草叢"
+          "marshy-tall-grass"
         ]
       ],
       "specialties": [
@@ -8200,10 +8200,10 @@
       ],
       "habitats": [
         [
-          "沼釣場"
+          "marsh-fishing-spot"
         ],
         [
-          "沼澤的草叢"
+          "marshy-tall-grass"
         ]
       ],
       "specialties": [
@@ -8269,7 +8269,7 @@
       ],
       "habitats": [
         [
-          "小小畫室"
+          "tiny-atelier"
         ]
       ],
       "specialties": [
@@ -8332,10 +8332,10 @@
       ],
       "habitats": [
         [
-          "嘰嘰咕咕大餐"
+          "chirp-chirp-meal"
         ],
         [
-          "在度假區準備做飯"
+          "resort-meal-prep"
         ]
       ],
       "specialties": [
@@ -8401,10 +8401,10 @@
       ],
       "habitats": [
         [
-          "火力發電廠"
+          "furnace-spot"
         ],
         [
-          "在度假區準備做飯"
+          "resort-meal-prep"
         ]
       ],
       "specialties": [
@@ -8473,10 +8473,10 @@
       ],
       "habitats": [
         [
-          "火力發電廠"
+          "furnace-spot"
         ],
         [
-          "嘰嘰咕咕大餐"
+          "chirp-chirp-meal"
         ]
       ],
       "specialties": [
@@ -8545,10 +8545,10 @@
       ],
       "habitats": [
         [
-          "高崗的黃色草叢"
+          "elevated-yellow-tall-grass"
         ],
         [
-          "風之花田"
+          "windy-flower-bed"
         ]
       ],
       "specialties": [
@@ -8617,10 +8617,10 @@
       ],
       "habitats": [
         [
-          "風之花田"
+          "windy-flower-bed"
         ],
         [
-          "高崗的黃色草叢"
+          "elevated-yellow-tall-grass"
         ]
       ],
       "specialties": [
@@ -8686,10 +8686,10 @@
       ],
       "habitats": [
         [
-          "樹蔭的黃色草叢"
+          "tree-shaded-yellow-tall-grass"
         ],
         [
-          "打包好了"
+          "all-packed-up"
         ]
       ],
       "specialties": [
@@ -8755,10 +8755,10 @@
       ],
       "habitats": [
         [
-          "樹蔭的黃色草叢"
+          "tree-shaded-yellow-tall-grass"
         ],
         [
-          "打包好了"
+          "all-packed-up"
         ]
       ],
       "specialties": [
@@ -8824,7 +8824,7 @@
       ],
       "habitats": [
         [
-          "歡迎來到度假區"
+          "welcoming-resort"
         ]
       ],
       "specialties": [
@@ -8887,7 +8887,7 @@
       ],
       "habitats": [
         [
-          "溼潤的黃色草叢"
+          "hydrated-yellow-tall-grass"
         ]
       ],
       "specialties": [
@@ -8950,10 +8950,10 @@
       ],
       "habitats": [
         [
-          "水力發電廠"
+          "waterwheel-spot"
         ],
         [
-          "溼潤的黃色草叢"
+          "hydrated-yellow-tall-grass"
         ]
       ],
       "specialties": [
@@ -9022,10 +9022,10 @@
       ],
       "habitats": [
         [
-          "料理送來了"
+          "tableside-delivery-cart"
         ],
         [
-          "水力發電廠"
+          "waterwheel-spot"
         ]
       ],
       "specialties": [
@@ -9091,7 +9091,7 @@
       ],
       "habitats": [
         [
-          "在櫃檯結賬"
+          "working-the-register"
         ]
       ],
       "specialties": [
@@ -9154,7 +9154,7 @@
       ],
       "habitats": [
         [
-          "垃圾集中站"
+          "trash-collection-site"
         ]
       ],
       "specialties": [
@@ -9217,7 +9217,7 @@
       ],
       "habitats": [
         [
-          "垃圾集中站"
+          "trash-collection-site"
         ]
       ],
       "specialties": [
@@ -9283,7 +9283,7 @@
       ],
       "habitats": [
         [
-          "涼爽的花田"
+          "breezy-flower-bed"
         ]
       ],
       "specialties": [
@@ -9346,10 +9346,10 @@
       ],
       "habitats": [
         [
-          "小心機關"
+          "surprise-in-store"
         ],
         [
-          "涼爽的花田"
+          "breezy-flower-bed"
         ]
       ],
       "specialties": [
@@ -9415,10 +9415,10 @@
       ],
       "habitats": [
         [
-          "更衣區"
+          "changing-area"
         ],
         [
-          "打扮時不許偷看"
+          "private-makeup-stand"
         ]
       ],
       "specialties": [
@@ -9481,7 +9481,7 @@
       ],
       "habitats": [
         [
-          "打扮時不許偷看"
+          "private-makeup-stand"
         ]
       ],
       "specialties": [
@@ -9547,10 +9547,10 @@
       ],
       "habitats": [
         [
-          "黃色的草叢"
+          "yellow-tall-grass"
         ],
         [
-          "在自動售貨機旁小憩"
+          "vending-machine-break-area"
         ]
       ],
       "specialties": [
@@ -9616,7 +9616,7 @@
       ],
       "habitats": [
         [
-          "在自動售貨機旁小憩"
+          "vending-machine-break-area"
         ]
       ],
       "specialties": [
@@ -9685,7 +9685,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的花田"
+          "tree-shaded-flower-bed"
         ]
       ],
       "specialties": [
@@ -9754,7 +9754,7 @@
       ],
       "habitats": [
         [
-          "皮卡丘空間"
+          "pikachu-space"
         ]
       ],
       "specialties": [
@@ -9817,10 +9817,10 @@
       ],
       "habitats": [
         [
-          "涼爽的花田"
+          "breezy-flower-bed"
         ],
         [
-          "餓肚肚餐廳"
+          "tantalizing-restaurant"
         ]
       ],
       "specialties": [
@@ -9886,10 +9886,10 @@
       ],
       "habitats": [
         [
-          "餓肚肚餐廳"
+          "tantalizing-restaurant"
         ],
         [
-          "茶水休息區"
+          "cafe-space"
         ]
       ],
       "specialties": [
@@ -9958,7 +9958,7 @@
       ],
       "habitats": [
         [
-          "茶水休息區"
+          "cafe-space"
         ]
       ],
       "specialties": [
@@ -10027,7 +10027,7 @@
       ],
       "habitats": [
         [
-          "沙灘套組"
+          "beach-set"
         ]
       ],
       "specialties": [
@@ -10093,7 +10093,7 @@
       ],
       "habitats": [
         [
-          "沙灘套組"
+          "beach-set"
         ]
       ],
       "specialties": [
@@ -10159,7 +10159,7 @@
       ],
       "habitats": [
         [
-          "沙灘套組"
+          "beach-set"
         ]
       ],
       "specialties": [
@@ -10222,7 +10222,7 @@
       ],
       "habitats": [
         [
-          "溼潤的優雅花田"
+          "hydrated-graceful-flower-bed"
         ]
       ],
       "specialties": [
@@ -10285,7 +10285,7 @@
       ],
       "habitats": [
         [
-          "溼潤的優雅花田"
+          "hydrated-graceful-flower-bed"
         ]
       ],
       "specialties": [
@@ -10348,7 +10348,7 @@
       ],
       "habitats": [
         [
-          "優雅的花田"
+          "graceful-flower-bed"
         ]
       ],
       "specialties": [
@@ -10411,10 +10411,10 @@
       ],
       "habitats": [
         [
-          "銅像觀光景點"
+          "bronze-landmark"
         ],
         [
-          "優雅的花田"
+          "graceful-flower-bed"
         ]
       ],
       "specialties": [
@@ -10477,10 +10477,10 @@
       ],
       "habitats": [
         [
-          "銅像觀光景點"
+          "bronze-landmark"
         ],
         [
-          "優雅的花田"
+          "graceful-flower-bed"
         ]
       ],
       "specialties": [
@@ -10549,7 +10549,7 @@
       ],
       "habitats": [
         [
-          "花田裡的樹樁舞臺"
+          "flower-garden-stump-stage"
         ]
       ],
       "specialties": [
@@ -10615,10 +10615,10 @@
       ],
       "habitats": [
         [
-          "獨唱舞臺"
+          "recital-stage"
         ],
         [
-          "花田裡的樹樁舞臺"
+          "flower-garden-stump-stage"
         ]
       ],
       "specialties": [
@@ -10684,7 +10684,7 @@
       ],
       "habitats": [
         [
-          "獨唱舞臺"
+          "recital-stage"
         ]
       ],
       "specialties": [
@@ -10750,10 +10750,10 @@
       ],
       "habitats": [
         [
-          "在貨物擺放處偷吃"
+          "container-snacking"
         ],
         [
-          "樹蔭的紅色草叢"
+          "tree-shaded-red-tall-grass"
         ]
       ],
       "specialties": [
@@ -10816,10 +10816,10 @@
       ],
       "habitats": [
         [
-          "大家一起開派對"
+          "house-party"
         ],
         [
-          "樹蔭的紅色草叢"
+          "tree-shaded-red-tall-grass"
         ]
       ],
       "specialties": [
@@ -10885,7 +10885,7 @@
       ],
       "habitats": [
         [
-          "岩影的草叢"
+          "boulder-shaded-tall-grass"
         ]
       ],
       "specialties": [
@@ -10951,10 +10951,10 @@
       ],
       "habitats": [
         [
-          "草叢訓練場"
+          "grassy-training-field"
         ],
         [
-          "跟著節奏一二三"
+          "box-to-the-rhythm"
         ]
       ],
       "specialties": [
@@ -11020,10 +11020,10 @@
       ],
       "habitats": [
         [
-          "咚隆咣啷鋼架工程"
+          "clink-clang-iron-construction"
         ],
         [
-          "草叢訓練場"
+          "grassy-training-field"
         ]
       ],
       "specialties": [
@@ -11092,7 +11092,7 @@
       ],
       "habitats": [
         [
-          "綠色的草叢"
+          "tall-grass"
         ]
       ],
       "specialties": [
@@ -11158,7 +11158,7 @@
       ],
       "habitats": [
         [
-          "長滿苔蘚的岩石"
+          "mossy-boulder"
         ]
       ],
       "specialties": [
@@ -11224,7 +11224,7 @@
       ],
       "habitats": [
         [
-          "長滿苔蘚的岩石"
+          "mossy-boulder"
         ]
       ],
       "specialties": [
@@ -11290,7 +11290,7 @@
       ],
       "habitats": [
         [
-          "美麗的花田"
+          "pretty-flower-bed"
         ]
       ],
       "specialties": [
@@ -11353,7 +11353,7 @@
       ],
       "habitats": [
         [
-          "挖掘和煅燒"
+          "digging-and-burning"
         ]
       ],
       "specialties": [
@@ -11416,7 +11416,7 @@
       ],
       "habitats": [
         [
-          "迷你廚房"
+          "mini-kitchen"
         ]
       ],
       "specialties": [
@@ -11482,7 +11482,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的紅色草叢"
+          "tree-shaded-red-tall-grass"
         ]
       ],
       "specialties": [
@@ -11545,10 +11545,10 @@
       ],
       "habitats": [
         [
-          "大家一起開派對"
+          "house-party"
         ],
         [
-          "樹蔭的紅色草叢"
+          "tree-shaded-red-tall-grass"
         ]
       ],
       "specialties": [
@@ -11614,10 +11614,10 @@
       ],
       "habitats": [
         [
-          "樹蔭的優雅花田"
+          "tree-shaded-graceful-flower-bed"
         ],
         [
-          "高崗的紅色草叢"
+          "elevated-red-tall-grass"
         ]
       ],
       "specialties": [
@@ -11686,10 +11686,10 @@
       ],
       "habitats": [
         [
-          "高崗的紅色草叢"
+          "elevated-red-tall-grass"
         ],
         [
-          "鳴唱會"
+          "chirping-recital"
         ]
       ],
       "specialties": [
@@ -11758,7 +11758,7 @@
       ],
       "habitats": [
         [
-          "滿是苔蘚"
+          "mossy-rest-spot"
         ]
       ],
       "specialties": [
@@ -11827,7 +11827,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的粉紅色草叢"
+          "tree-shaded-pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -11896,10 +11896,10 @@
       ],
       "habitats": [
         [
-          "種田不容易"
+          "toil-in-the-soil"
         ],
         [
-          "滿是苔蘚"
+          "mossy-rest-spot"
         ]
       ],
       "specialties": [
@@ -11968,13 +11968,13 @@
       ],
       "habitats": [
         [
-          "溫泉釣場"
+          "hot-spring-fishing-spot"
         ],
         [
-          "浮浮水窪"
+          "uplifting-duckweed"
         ],
         [
-          "溼潤的紅色草叢"
+          "hydrated-red-tall-grass"
         ]
       ],
       "specialties": [
@@ -12040,10 +12040,10 @@
       ],
       "habitats": [
         [
-          "溫泉釣場"
+          "hot-spring-fishing-spot"
         ],
         [
-          "溼潤的紅色草叢"
+          "hydrated-red-tall-grass"
         ]
       ],
       "specialties": [
@@ -12109,7 +12109,7 @@
       ],
       "habitats": [
         [
-          "浮浮水窪"
+          "uplifting-duckweed"
         ]
       ],
       "specialties": [
@@ -12178,7 +12178,7 @@
       ],
       "habitats": [
         [
-          "在櫃檯結賬"
+          "working-the-register"
         ]
       ],
       "specialties": [
@@ -12244,7 +12244,7 @@
       ],
       "habitats": [
         [
-          "綠苔溫泉"
+          "mossy-hot-spring"
         ]
       ],
       "specialties": [
@@ -12307,10 +12307,10 @@
       ],
       "habitats": [
         [
-          "音樂與閱讀"
+          "music-and-magazines"
         ],
         [
-          "紅色的草叢"
+          "red-tall-grass"
         ]
       ],
       "specialties": [
@@ -12373,10 +12373,10 @@
       ],
       "habitats": [
         [
-          "音樂與閱讀"
+          "music-and-magazines"
         ],
         [
-          "紅色的草叢"
+          "red-tall-grass"
         ]
       ],
       "specialties": [
@@ -12442,10 +12442,10 @@
       ],
       "habitats": [
         [
-          "高崗的紅色草叢"
+          "elevated-red-tall-grass"
         ],
         [
-          "鳴唱會"
+          "chirping-recital"
         ]
       ],
       "specialties": [
@@ -12511,10 +12511,10 @@
       ],
       "habitats": [
         [
-          "跟著節奏一二三"
+          "box-to-the-rhythm"
         ],
         [
-          "紅色的草叢"
+          "red-tall-grass"
         ]
       ],
       "specialties": [
@@ -12580,7 +12580,7 @@
       ],
       "habitats": [
         [
-          "跟著節奏一二三"
+          "box-to-the-rhythm"
         ]
       ],
       "specialties": [
@@ -12646,7 +12646,7 @@
       ],
       "habitats": [
         [
-          "音樂與閱讀"
+          "music-and-magazines"
         ]
       ],
       "specialties": [
@@ -12712,7 +12712,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的優雅花田"
+          "tree-shaded-graceful-flower-bed"
         ]
       ],
       "specialties": [
@@ -12781,10 +12781,10 @@
       ],
       "habitats": [
         [
-          "熔岩熔岩熱乎乎"
+          "piping-hot-lava"
         ],
         [
-          "樹蔭的優雅花田"
+          "tree-shaded-graceful-flower-bed"
         ]
       ],
       "specialties": [
@@ -12853,7 +12853,7 @@
       ],
       "habitats": [
         [
-          "新鮮蔬菜田"
+          "fresh-veggie-field"
         ]
       ],
       "specialties": [
@@ -12919,7 +12919,7 @@
       ],
       "habitats": [
         [
-          "三角形樹蔭的岩石和草叢"
+          "pointy-tree-shaded-rocky-tall-grass"
         ]
       ],
       "specialties": [
@@ -12988,10 +12988,10 @@
       ],
       "habitats": [
         [
-          "摩登生活"
+          "modern-living"
         ],
         [
-          "三角形樹蔭的岩石和草叢"
+          "pointy-tree-shaded-rocky-tall-grass"
         ]
       ],
       "specialties": [
@@ -13057,7 +13057,7 @@
       ],
       "habitats": [
         [
-          "紅色的草叢"
+          "red-tall-grass"
         ]
       ],
       "specialties": [
@@ -13120,10 +13120,10 @@
       ],
       "habitats": [
         [
-          "清爽的儲物間"
+          "refreshing-locker-room"
         ],
         [
-          "露天溫泉"
+          "open-air-bath"
         ]
       ],
       "specialties": [
@@ -13186,10 +13186,10 @@
       ],
       "habitats": [
         [
-          "清爽的儲物間"
+          "refreshing-locker-room"
         ],
         [
-          "紅色的草叢"
+          "red-tall-grass"
         ]
       ],
       "specialties": [
@@ -13255,7 +13255,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的草叢"
+          "tree-shaded-tall-grass"
         ]
       ],
       "specialties": [
@@ -13321,7 +13321,7 @@
       ],
       "habitats": [
         [
-          "廚師的廚房"
+          "chefs-kitchen"
         ]
       ],
       "specialties": [
@@ -13384,7 +13384,7 @@
       ],
       "habitats": [
         [
-          "平交道"
+          "railroad-crossing"
         ]
       ],
       "specialties": [
@@ -13453,7 +13453,7 @@
       ],
       "habitats": [
         [
-          "平交道"
+          "railroad-crossing"
         ]
       ],
       "specialties": [
@@ -13522,10 +13522,10 @@
       ],
       "habitats": [
         [
-          "沉沉鐵色"
+          "heavy-iron"
         ],
         [
-          "平交道"
+          "railroad-crossing"
         ]
       ],
       "specialties": [
@@ -13594,7 +13594,7 @@
       ],
       "habitats": [
         [
-          "悠閒地重溫照片"
+          "lazy-photo-album-scrolling"
         ]
       ],
       "specialties": [
@@ -13660,7 +13660,7 @@
       ],
       "habitats": [
         [
-          "高調的搖滾舞臺"
+          "amped-rock-stage"
         ]
       ],
       "specialties": [
@@ -13729,7 +13729,7 @@
       ],
       "habitats": [
         [
-          "低調的搖滾舞臺"
+          "low-key-rock-stage"
         ]
       ],
       "specialties": [
@@ -13795,10 +13795,10 @@
       ],
       "habitats": [
         [
-          "大口麵包工坊"
+          "best-bread-bakery"
         ],
         [
-          "優雅的花田"
+          "graceful-flower-bed"
         ]
       ],
       "specialties": [
@@ -13861,10 +13861,10 @@
       ],
       "habitats": [
         [
-          "大口麵包工坊"
+          "best-bread-bakery"
         ],
         [
-          "優雅的花田"
+          "graceful-flower-bed"
         ]
       ],
       "specialties": [
@@ -13930,7 +13930,7 @@
       ],
       "habitats": [
         [
-          "熔岩熔岩熱乎乎"
+          "piping-hot-lava"
         ]
       ],
       "specialties": [
@@ -13996,7 +13996,7 @@
       ],
       "habitats": [
         [
-          "忠誠騎士的祭壇"
+          "auspicious-knights-shrine"
         ]
       ],
       "specialties": [
@@ -14065,7 +14065,7 @@
       ],
       "habitats": [
         [
-          "怨念騎士的祭壇"
+          "malicious-knights-shrine"
         ]
       ],
       "specialties": [
@@ -14134,10 +14134,10 @@
       ],
       "habitats": [
         [
-          "詭異的白色岩石"
+          "creepy-white-rocks"
         ],
         [
-          "在貨物擺放處偷吃"
+          "container-snacking"
         ]
       ],
       "specialties": [
@@ -14203,10 +14203,10 @@
       ],
       "habitats": [
         [
-          "在貨物擺放處偷吃"
+          "container-snacking"
         ],
         [
-          "詭異的白色岩石"
+          "creepy-white-rocks"
         ]
       ],
       "specialties": [
@@ -14269,7 +14269,7 @@
       ],
       "habitats": [
         [
-          "小小博物館"
+          "mini-museum"
         ]
       ],
       "specialties": [
@@ -14335,7 +14335,7 @@
       ],
       "habitats": [
         [
-          "極致豪華"
+          "absolute-luxury"
         ]
       ],
       "specialties": [
@@ -14398,7 +14398,7 @@
       ],
       "habitats": [
         [
-          "茸茸花田"
+          "fluffy-flower-bed"
         ]
       ],
       "specialties": [
@@ -14461,10 +14461,10 @@
       ],
       "habitats": [
         [
-          "九團火焰"
+          "nine-flames"
         ],
         [
-          "茸茸花田"
+          "fluffy-flower-bed"
         ]
       ],
       "specialties": [
@@ -14527,7 +14527,7 @@
       ],
       "habitats": [
         [
-          "擦得鋥亮"
+          "squeaky-clean"
         ]
       ],
       "specialties": [
@@ -14590,7 +14590,7 @@
       ],
       "habitats": [
         [
-          "溼潤的茸茸花田"
+          "hydrated-fluffy-flower-bed"
         ]
       ],
       "specialties": [
@@ -14656,10 +14656,10 @@
       ],
       "habitats": [
         [
-          "在道場訓練"
+          "dojo-training"
         ],
         [
-          "井蓋檢修中"
+          "sewer-hole-inspection"
         ]
       ],
       "specialties": [
@@ -14725,13 +14725,13 @@
       ],
       "habitats": [
         [
-          "養生溫泉"
+          "harmonious-hot-spring"
         ],
         [
-          "花田裡的樹樁舞臺"
+          "flower-garden-stump-stage"
         ],
         [
-          "溼潤的優雅花田"
+          "hydrated-graceful-flower-bed"
         ]
       ],
       "specialties": [
@@ -14797,10 +14797,10 @@
       ],
       "habitats": [
         [
-          "水晶占卜"
+          "fortune-tellers-table"
         ],
         [
-          "精神力量滿溢"
+          "surging-psychic-power"
         ]
       ],
       "specialties": [
@@ -14863,7 +14863,7 @@
       ],
       "habitats": [
         [
-          "水晶占卜"
+          "fortune-tellers-table"
         ]
       ],
       "specialties": [
@@ -14926,10 +14926,10 @@
       ],
       "habitats": [
         [
-          "實驗空間"
+          "experiment-space"
         ],
         [
-          "精神力量滿溢"
+          "surging-psychic-power"
         ]
       ],
       "specialties": [
@@ -14998,10 +14998,10 @@
       ],
       "habitats": [
         [
-          "亮晶晶洗手檯"
+          "spotless-washing-station"
         ],
         [
-          "請自由取閱"
+          "public-reading-material"
         ]
       ],
       "specialties": [
@@ -15067,7 +15067,7 @@
       ],
       "habitats": [
         [
-          "亮晶晶洗手檯"
+          "spotless-washing-station"
         ]
       ],
       "specialties": [
@@ -15133,7 +15133,7 @@
       ],
       "habitats": [
         [
-          "研究員的桌子"
+          "researchers-desk"
         ]
       ],
       "specialties": [
@@ -15196,7 +15196,7 @@
       ],
       "habitats": [
         [
-          "辦公區"
+          "work-desk"
         ]
       ],
       "specialties": [
@@ -15259,7 +15259,7 @@
       ],
       "habitats": [
         [
-          "在遊戲城對戰"
+          "game-corner-battle-zone"
         ]
       ],
       "specialties": [
@@ -15322,10 +15322,10 @@
       ],
       "habitats": [
         [
-          "溼潤的茸茸花田"
+          "hydrated-fluffy-flower-bed"
         ],
         [
-          "簡約浴室"
+          "simple-bathroom"
         ]
       ],
       "specialties": [
@@ -15388,10 +15388,10 @@
       ],
       "habitats": [
         [
-          "簡約浴室"
+          "simple-bathroom"
         ],
         [
-          "溼潤的茸茸花田"
+          "hydrated-fluffy-flower-bed"
         ]
       ],
       "specialties": [
@@ -15457,7 +15457,7 @@
       ],
       "habitats": [
         [
-          "水邊小船"
+          "waterside-dinghy"
         ]
       ],
       "specialties": [
@@ -15523,7 +15523,7 @@
       ],
       "habitats": [
         [
-          "水泥管秘密基地"
+          "concrete-pipe-secret-base"
         ]
       ],
       "specialties": [
@@ -15586,10 +15586,10 @@
       ],
       "habitats": [
         [
-          "在暖爐旁打瞌睡"
+          "fireplace-nap-spot"
         ],
         [
-          "水泥管秘密基地"
+          "concrete-pipe-secret-base"
         ]
       ],
       "specialties": [
@@ -15652,10 +15652,10 @@
       ],
       "habitats": [
         [
-          "極致新潮"
+          "top-pop"
         ],
         [
-          "在暖爐旁打瞌睡"
+          "fireplace-nap-spot"
         ]
       ],
       "specialties": [
@@ -15721,10 +15721,10 @@
       ],
       "habitats": [
         [
-          "茸茸花田"
+          "fluffy-flower-bed"
         ],
         [
-          "辦公室的儲藏室"
+          "office-storeroom"
         ]
       ],
       "specialties": [
@@ -15787,13 +15787,13 @@
       ],
       "habitats": [
         [
-          "家庭影院"
+          "home-theater"
         ],
         [
-          "辦公室的儲藏室"
+          "office-storeroom"
         ],
         [
-          "茸茸花田"
+          "fluffy-flower-bed"
         ]
       ],
       "specialties": [
@@ -15862,7 +15862,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的茸茸花田"
+          "tree-shaded-fluffy-flower-bed"
         ]
       ],
       "specialties": [
@@ -15928,7 +15928,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的茸茸花田"
+          "tree-shaded-fluffy-flower-bed"
         ]
       ],
       "specialties": [
@@ -15997,7 +15997,7 @@
       ],
       "habitats": [
         [
-          "學習區"
+          "study-area"
         ]
       ],
       "specialties": [
@@ -16063,10 +16063,10 @@
       ],
       "habitats": [
         [
-          "保溼化妝臺"
+          "moisturizing-makeup-stand"
         ],
         [
-          "學習區"
+          "study-area"
         ]
       ],
       "specialties": [
@@ -16132,10 +16132,10 @@
       ],
       "habitats": [
         [
-          "小小圖書館"
+          "mini-library"
         ],
         [
-          "保溼化妝臺"
+          "moisturizing-makeup-stand"
         ]
       ],
       "specialties": [
@@ -16204,7 +16204,7 @@
       ],
       "habitats": [
         [
-          "在道場訓練"
+          "dojo-training"
         ]
       ],
       "specialties": [
@@ -16270,7 +16270,7 @@
       ],
       "habitats": [
         [
-          "絕景露臉立牌"
+          "picturesque-photo-cutout-board"
         ]
       ],
       "specialties": [
@@ -16333,7 +16333,7 @@
       ],
       "habitats": [
         [
-          "絕景露臉立牌"
+          "picturesque-photo-cutout-board"
         ]
       ],
       "specialties": [
@@ -16396,7 +16396,7 @@
       ],
       "habitats": [
         [
-          "粉紅色草叢"
+          "pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -16465,7 +16465,7 @@
       ],
       "habitats": [
         [
-          "粉紅色草叢"
+          "pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -16534,7 +16534,7 @@
       ],
       "habitats": [
         [
-          "粉紅色草叢"
+          "pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -16603,7 +16603,7 @@
       ],
       "habitats": [
         [
-          "粉紅色草叢"
+          "pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -16669,7 +16669,7 @@
       ],
       "habitats": [
         [
-          "鳥語花香"
+          "birdsong-garden"
         ]
       ],
       "specialties": [
@@ -16735,7 +16735,7 @@
       ],
       "habitats": [
         [
-          "粉紅色草叢"
+          "pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -16798,7 +16798,7 @@
       ],
       "habitats": [
         [
-          "垃圾場的電視"
+          "trash-site-tv"
         ]
       ],
       "specialties": [
@@ -16861,7 +16861,7 @@
       ],
       "habitats": [
         [
-          "垃圾場的電視"
+          "trash-site-tv"
         ]
       ],
       "specialties": [
@@ -16930,7 +16930,7 @@
       ],
       "habitats": [
         [
-          "騎行小憩"
+          "cycling-rest-stop"
         ]
       ],
       "specialties": [
@@ -16996,7 +16996,7 @@
       ],
       "habitats": [
         [
-          "為成為博士進行研究"
+          "professors-apprentice-program"
         ]
       ],
       "specialties": [
@@ -17062,7 +17062,7 @@
       ],
       "habitats": [
         [
-          "絕佳的遊戲環境"
+          "gamers-paradise"
         ]
       ],
       "specialties": [
@@ -17128,7 +17128,7 @@
       ],
       "habitats": [
         [
-          "遊樂場"
+          "playland"
         ]
       ],
       "specialties": [
@@ -17194,7 +17194,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的茸茸花田"
+          "tree-shaded-fluffy-flower-bed"
         ]
       ],
       "specialties": [
@@ -17260,10 +17260,10 @@
       ],
       "habitats": [
         [
-          "請自由取閱"
+          "public-reading-material"
         ],
         [
-          "樹蔭的茸茸花田"
+          "tree-shaded-fluffy-flower-bed"
         ]
       ],
       "specialties": [
@@ -17329,7 +17329,7 @@
       ],
       "habitats": [
         [
-          "溼潤的粉紅色草叢"
+          "hydrated-pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -17392,10 +17392,10 @@
       ],
       "habitats": [
         [
-          "惡作劇開關"
+          "prank-button"
         ],
         [
-          "溼潤的粉紅色草叢"
+          "hydrated-pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -17461,10 +17461,10 @@
       ],
       "habitats": [
         [
-          "惡作劇開關"
+          "prank-button"
         ],
         [
-          "溼潤的粉紅色草叢"
+          "hydrated-pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -17533,7 +17533,7 @@
       ],
       "habitats": [
         [
-          "輪胎公園"
+          "tire-park"
         ]
       ],
       "specialties": [
@@ -17599,7 +17599,7 @@
       ],
       "habitats": [
         [
-          "節奏感客廳"
+          "rhythmic-living-room"
         ]
       ],
       "specialties": [
@@ -17665,7 +17665,7 @@
       ],
       "habitats": [
         [
-          "節奏感客廳"
+          "rhythmic-living-room"
         ]
       ],
       "specialties": [
@@ -17731,7 +17731,7 @@
       ],
       "habitats": [
         [
-          "茸茸花田"
+          "fluffy-flower-bed"
         ]
       ],
       "specialties": [
@@ -17794,7 +17794,7 @@
       ],
       "habitats": [
         [
-          "高崗的粉紅色草叢"
+          "elevated-pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -17860,10 +17860,10 @@
       ],
       "habitats": [
         [
-          "井蓋檢修中"
+          "sewer-hole-inspection"
         ],
         [
-          "高崗的粉紅色草叢"
+          "elevated-pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -17932,7 +17932,7 @@
       ],
       "habitats": [
         [
-          "樹蔭的粉紅色草叢"
+          "tree-shaded-pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -18001,10 +18001,10 @@
       ],
       "habitats": [
         [
-          "辦公室的儲藏室"
+          "office-storeroom"
         ],
         [
-          "樹蔭的粉紅色草叢"
+          "tree-shaded-pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -18073,7 +18073,7 @@
       ],
       "habitats": [
         [
-          "辦公室的儲藏室"
+          "office-storeroom"
         ]
       ],
       "specialties": [
@@ -18139,10 +18139,10 @@
       ],
       "habitats": [
         [
-          "樹蔭的粉紅色草叢"
+          "tree-shaded-pink-tall-grass"
         ],
         [
-          "和搭檔一起調查"
+          "interrogation-desk"
         ]
       ],
       "specialties": [
@@ -18205,7 +18205,7 @@
       ],
       "habitats": [
         [
-          "和搭檔一起調查"
+          "interrogation-desk"
         ]
       ],
       "specialties": [
@@ -18271,7 +18271,7 @@
       ],
       "habitats": [
         [
-          "咚咚鏘驚嚇箱"
+          "heart-pounding-surprise-box"
         ]
       ],
       "specialties": [
@@ -18340,7 +18340,7 @@
       ],
       "habitats": [
         [
-          "高崗的粉紅色草叢"
+          "elevated-pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -18406,7 +18406,7 @@
       ],
       "habitats": [
         [
-          "高崗的粉紅色草叢"
+          "elevated-pink-tall-grass"
         ]
       ],
       "specialties": [
@@ -18475,10 +18475,10 @@
       ],
       "habitats": [
         [
-          "大型垃圾堆放處"
+          "oversized-dumping-ground"
         ],
         [
-          "裝上大貨物"
+          "large-luggage-carrier"
         ]
       ],
       "specialties": [
@@ -18544,10 +18544,10 @@
       ],
       "habitats": [
         [
-          "井蓋檢修中"
+          "sewer-hole-inspection"
         ],
         [
-          "裝上大貨物"
+          "large-luggage-carrier"
         ]
       ],
       "specialties": [
@@ -18613,7 +18613,7 @@
       ],
       "habitats": [
         [
-          "大型垃圾堆放處"
+          "oversized-dumping-ground"
         ]
       ],
       "specialties": [
@@ -18679,7 +18679,7 @@
       ],
       "habitats": [
         [
-          "飛翼化石展示臺"
+          "wing-fossil-display"
         ]
       ],
       "specialties": [
@@ -18742,7 +18742,7 @@
       ],
       "habitats": [
         [
-          "頭蓋化石展示臺"
+          "skull-fossil-display"
         ]
       ],
       "specialties": [
@@ -18805,7 +18805,7 @@
       ],
       "habitats": [
         [
-          "頭錘化石展示臺"
+          "headbutt-fossil-display"
         ]
       ],
       "specialties": [
@@ -18874,7 +18874,7 @@
       ],
       "habitats": [
         [
-          "盾甲化石展示臺"
+          "armor-fossil-display"
         ]
       ],
       "specialties": [
@@ -18940,7 +18940,7 @@
       ],
       "habitats": [
         [
-          "護盾化石展示臺"
+          "shield-fossil-display"
         ]
       ],
       "specialties": [
@@ -19009,7 +19009,7 @@
       ],
       "habitats": [
         [
-          "顎之化石展示臺"
+          "jaw-fossil-display"
         ]
       ],
       "specialties": [
@@ -19075,7 +19075,7 @@
       ],
       "habitats": [
         [
-          "暴君化石展示臺"
+          "despot-fossil-display"
         ]
       ],
       "specialties": [
@@ -19144,7 +19144,7 @@
       ],
       "habitats": [
         [
-          "鰭之化石展示臺"
+          "sail-fossil-display"
         ]
       ],
       "specialties": [
@@ -19210,7 +19210,7 @@
       ],
       "habitats": [
         [
-          "凍原化石展示臺"
+          "tundra-fossil-display"
         ]
       ],
       "specialties": [
@@ -19276,7 +19276,7 @@
       ],
       "habitats": [
         [
-          "美麗的花田"
+          "pretty-flower-bed"
         ]
       ],
       "specialties": [
@@ -19339,7 +19339,7 @@
       ],
       "habitats": [
         [
-          "勁爽清藍"
+          "boundless-blue-beverage"
         ]
       ],
       "specialties": [
@@ -19402,7 +19402,7 @@
       ],
       "habitats": [
         [
-          "麻麻薯餅"
+          "electrifying-potatoes"
         ]
       ],
       "specialties": [
@@ -19465,7 +19465,7 @@
       ],
       "habitats": [
         [
-          "辣到噴火"
+          "burning-hot-spice"
         ]
       ],
       "specialties": [
@@ -19528,7 +19528,7 @@
       ],
       "habitats": [
         [
-          "優雅的午後"
+          "elegant-daytime-treats"
         ]
       ],
       "specialties": [
@@ -19591,7 +19591,7 @@
       ],
       "habitats": [
         [
-          "黑色滋味"
+          "dark-chocolate-cookies"
         ]
       ],
       "specialties": [
@@ -19654,7 +19654,7 @@
       ],
       "habitats": [
         [
-          "綠色三明治"
+          "leafy-greens-sandwich"
         ]
       ],
       "specialties": [
@@ -19717,7 +19717,7 @@
       ],
       "habitats": [
         [
-          "冰涼刨冰"
+          "chilly-shaved-ice"
         ]
       ],
       "specialties": [
@@ -19780,7 +19780,7 @@
       ],
       "habitats": [
         [
-          "可愛的蛋糕"
+          "lovely-ribbon-cake"
         ]
       ],
       "specialties": [
@@ -19843,7 +19843,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -19906,7 +19906,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -19969,7 +19969,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -20032,7 +20032,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -20098,7 +20098,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -20164,7 +20164,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -20230,7 +20230,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -20296,7 +20296,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -20362,7 +20362,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -20428,7 +20428,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -20491,7 +20491,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -20554,7 +20554,7 @@
       ],
       "habitats": [
         [
-          "不明"
+          "unknown"
         ]
       ],
       "specialties": [
@@ -20620,7 +20620,7 @@
       ],
       "habitats": [
         [
-          "黃色絨毯"
+          "yellow-carpet"
         ]
       ],
       "specialties": [
@@ -20686,10 +20686,10 @@
       ],
       "habitats": [
         [
-          "遠足必備"
+          "field-trip-friends"
         ],
         [
-          "黃色絨毯"
+          "yellow-carpet"
         ]
       ],
       "specialties": [
@@ -20755,10 +20755,10 @@
       ],
       "habitats": [
         [
-          "和蒲公英一起午餐"
+          "dandelion-lunchtime"
         ],
         [
-          "黃色絨毯"
+          "yellow-carpet"
         ]
       ],
       "specialties": [
@@ -20827,7 +20827,7 @@
       ],
       "habitats": [
         [
-          "尋寶套組"
+          "treasure-hunting-set"
         ]
       ],
       "specialties": [

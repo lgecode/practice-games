@@ -168,7 +168,8 @@
       "number": 1,
       "slug": "tall-grass",
       "name_zh_hant": "綠色的草叢",
-      "name_en": "Tall grass"
+      "name_en": "Tall grass",
+      "name_jp": "緑の草むら"
     }
   },
   {
@@ -178,7 +179,8 @@
       "number": 22,
       "slug": "bench-with-greenery",
       "name_zh_hant": "綠色的長椅",
-      "name_en": "Bench with greenery"
+      "name_en": "Bench with greenery",
+      "name_jp": "緑のベンチ"
     }
   },
   {
@@ -188,7 +190,8 @@
       "number": 11,
       "slug": "field-of-flowers",
       "name_zh_hant": "整片的花海",
-      "name_en": "Field of flowers"
+      "name_en": "Field of flowers",
+      "name_jp": "花いっぱいの景色"
     }
   },
   {
@@ -198,7 +201,8 @@
       "number": 46,
       "slug": "garden-terrace",
       "name_zh_hant": "庭園露臺",
-      "name_en": "Garden terrace"
+      "name_en": "Garden terrace",
+      "name_jp": "ガーデンテラス"
     }
   },
   {
@@ -208,7 +212,8 @@
       "number": 17,
       "slug": "campsite",
       "name_zh_hant": "露營組合",
-      "name_en": "Campsite"
+      "name_en": "Campsite",
+      "name_jp": "キャンプセット"
     }
   },
   {
@@ -218,7 +223,8 @@
       "number": 40,
       "slug": "berry-feast-campsite",
       "name_zh_hant": "樹果露營大餐",
-      "name_en": "Berry-feast campsite"
+      "name_en": "Berry-feast campsite",
+      "name_jp": "きのみのごちそうキャンプ"
     }
   },
   {
@@ -228,7 +234,8 @@
       "number": 4,
       "slug": "hydrated-tall-grass",
       "name_zh_hant": "溼潤的草叢",
-      "name_en": "Hydrated tall grass"
+      "name_en": "Hydrated tall grass",
+      "name_jp": "うるおう草むら"
     }
   },
   {
@@ -238,7 +245,8 @@
       "number": 36,
       "slug": "floating-in-the-shade",
       "name_zh_hant": "在陰涼處漂浮玩水",
-      "name_en": "Floating in the shade"
+      "name_en": "Floating in the shade",
+      "name_jp": "日かげでプカプカ水遊び"
     }
   },
   {
@@ -248,7 +256,8 @@
       "number": 8,
       "slug": "pretty-flower-bed",
       "name_zh_hant": "美麗的花田",
-      "name_en": "Pretty flower bed"
+      "name_en": "Pretty flower bed",
+      "name_jp": "きれいな花畑"
     }
   },
   {
@@ -258,7 +267,8 @@
       "number": 6,
       "slug": "elevated-tall-grass",
       "name_zh_hant": "高崗的草叢",
-      "name_en": "Elevated tall grass"
+      "name_en": "Elevated tall grass",
+      "name_jp": "高台の草むら"
     }
   },
   {
@@ -268,7 +278,8 @@
       "number": 39,
       "slug": "luxury-chirp-chirp-meal",
       "name_zh_hant": "嘰嘰咕咕奢華大餐",
-      "name_en": "Luxury chirp-chirp meal"
+      "name_en": "Luxury chirp-chirp meal",
+      "name_jp": "ぜいたくピヨピヨごはん"
     }
   },
   {
@@ -278,7 +289,8 @@
       "number": 57,
       "slug": "tropical-vibes",
       "name_zh_hant": "南國氛圍",
-      "name_en": "Tropical vibes"
+      "name_en": "Tropical vibes",
+      "name_jp": "南国気分"
     }
   },
   {
@@ -288,7 +300,8 @@
       "number": 34,
       "slug": "chansey-resting-area",
       "name_zh_hant": "吉利蛋休息處",
-      "name_en": "Chansey resting area"
+      "name_en": "Chansey resting area",
+      "name_jp": "ラッキー休けい所"
     }
   },
   {
@@ -298,7 +311,8 @@
       "number": 12,
       "slug": "elevated-flower-bed",
       "name_zh_hant": "高崗的花田",
-      "name_en": "Elevated flower bed"
+      "name_en": "Elevated flower bed",
+      "name_jp": "高台の花畑"
     }
   },
   {
@@ -308,7 +322,8 @@
       "number": 14,
       "slug": "flower-garden",
       "name_zh_hant": "庭園",
-      "name_en": "Flower garden"
+      "name_en": "Flower garden",
+      "name_jp": "フラワーガーデン"
     }
   },
   {
@@ -318,7 +333,8 @@
       "number": 7,
       "slug": "illuminated-tall-grass",
       "name_zh_hant": "光照的草叢",
-      "name_en": "Illuminated tall grass"
+      "name_en": "Illuminated tall grass",
+      "name_jp": "照らされた草むら"
     }
   },
   {
@@ -328,7 +344,8 @@
       "number": 23,
       "slug": "illuminated-bench",
       "name_zh_hant": "光照的長椅",
-      "name_en": "Illuminated bench"
+      "name_en": "Illuminated bench",
+      "name_jp": "照らされたベンチ"
     }
   },
   {
@@ -338,7 +355,8 @@
       "number": 2,
       "slug": "tree-shaded-tall-grass",
       "name_zh_hant": "樹蔭的草叢",
-      "name_en": "Tree-shaded tall grass"
+      "name_en": "Tree-shaded tall grass",
+      "name_jp": "木かげの草むら"
     }
   },
   {
@@ -348,7 +366,8 @@
       "number": 35,
       "slug": "irresistible-scent-and-glow",
       "name_zh_hant": "燈光與香氣的誘惑",
-      "name_en": "Irresistible scent and glow"
+      "name_en": "Irresistible scent and glow",
+      "name_jp": "明かりと香りのユウワク"
     }
   },
   {
@@ -358,7 +377,8 @@
       "number": 21,
       "slug": "flowery-table",
       "name_zh_hant": "華麗的桌子",
-      "name_en": "Flowery table"
+      "name_en": "Flowery table",
+      "name_jp": "はなやかな机"
     }
   },
   {
@@ -368,7 +388,8 @@
       "number": 5,
       "slug": "seaside-tall-grass",
       "name_zh_hant": "海浪邊的草叢",
-      "name_en": "Seaside tall grass"
+      "name_en": "Seaside tall grass",
+      "name_jp": "波打ちぎわの草むら"
     }
   },
   {
@@ -378,7 +399,8 @@
       "number": 184,
       "slug": "fishing-pond",
       "name_zh_hant": "垂釣場",
-      "name_en": "Fishing pond"
+      "name_en": "Fishing pond",
+      "name_jp": "釣り堀"
     }
   },
   {
@@ -388,7 +410,8 @@
       "number": 30,
       "slug": "bed-with-a-plush",
       "name_zh_hant": "布偶伴好眠",
-      "name_en": "Bed with a plush"
+      "name_en": "Bed with a plush",
+      "name_jp": "ぬいぐるみとおやすみ"
     }
   },
   {
@@ -398,7 +421,8 @@
       "number": 38,
       "slug": "factory-storage",
       "name_zh_hant": "工廠的儲藏室",
-      "name_en": "Factory storage"
+      "name_en": "Factory storage",
+      "name_jp": "工場の物置き"
     }
   },
   {
@@ -408,7 +432,8 @@
       "number": 85,
       "slug": "mini-game-corner",
       "name_zh_hant": "迷你遊戲城",
-      "name_en": "Mini Game Corner"
+      "name_en": "Mini Game Corner",
+      "name_jp": "ミニゲームコーナー"
     }
   },
   {
@@ -418,7 +443,8 @@
       "number": 64,
       "slug": "trash-can-central",
       "name_zh_hant": "好多垃圾桶",
-      "name_en": "Trash can central"
+      "name_en": "Trash can central",
+      "name_jp": "ゴミ箱がいっぱい"
     }
   },
   {
@@ -428,7 +454,8 @@
       "number": 37,
       "slug": "smooth-tall-grass",
       "name_zh_hant": "乾乾的草叢",
-      "name_en": "Smooth tall grass"
+      "name_en": "Smooth tall grass",
+      "name_jp": "さらさらな草むら"
     }
   },
   {
@@ -438,7 +465,8 @@
       "number": 117,
       "slug": "clink-clang-iron-construction",
       "name_zh_hant": "咚隆咣啷鋼架工程",
-      "name_en": "Clink-clang iron construction"
+      "name_en": "Clink-clang iron construction",
+      "name_jp": "ガタゴト鉄骨工事"
     }
   },
   {
@@ -448,7 +476,8 @@
       "number": 13,
       "slug": "grave-with-flowers",
       "name_zh_hant": "花朵圍繞的墓地",
-      "name_en": "Grave with flowers"
+      "name_en": "Grave with flowers",
+      "name_jp": "花に囲まれたお墓"
     }
   },
   {
@@ -458,7 +487,8 @@
       "number": 18,
       "slug": "training-waterfall",
       "name_zh_hant": "修行瀑布",
-      "name_en": "Training waterfall"
+      "name_en": "Training waterfall",
+      "name_jp": "修行の滝"
     }
   },
   {
@@ -468,7 +498,8 @@
       "number": 25,
       "slug": "urgent-care",
       "name_zh_hant": "緊急救護站",
-      "name_en": "Urgent care"
+      "name_en": "Urgent care",
+      "name_jp": "かけこみ救急所"
     }
   },
   {
@@ -478,7 +509,8 @@
       "number": 24,
       "slug": "exercise-resting-spot",
       "name_zh_hant": "健身區休息處",
-      "name_en": "Exercise resting spot"
+      "name_en": "Exercise resting spot",
+      "name_jp": "ジムの休けい所"
     }
   },
   {
@@ -488,7 +520,8 @@
       "number": 26,
       "slug": "gym-first-aid",
       "name_zh_hant": "健身區救護處",
-      "name_en": "Gym first aid"
+      "name_en": "Gym first aid",
+      "name_jp": "ジムの救急所"
     }
   },
   {
@@ -498,7 +531,8 @@
       "number": 63,
       "slug": "trash-collection-site",
       "name_zh_hant": "垃圾集中站",
-      "name_en": "Trash collection site"
+      "name_en": "Trash collection site",
+      "name_jp": "ゴミ集積所"
     }
   },
   {
@@ -508,7 +542,8 @@
       "number": 48,
       "slug": "good-old-fashioned-antiques",
       "name_zh_hant": "古色古香",
-      "name_en": "Good old-fashioned antiques"
+      "name_en": "Good old-fashioned antiques",
+      "name_jp": "古きよきアンティーク"
     }
   },
   {
@@ -518,7 +553,8 @@
       "number": 49,
       "slug": "nothin-but-poke-balls",
       "name_zh_hant": "滿是精靈球",
-      "name_en": "Nothin' but Poke Balls"
+      "name_en": "Nothin' but Poke Balls",
+      "name_jp": "モンスターボールだらけ"
     }
   },
   {
@@ -528,7 +564,8 @@
       "number": 43,
       "slug": "professors-treasure-trove",
       "name_zh_hant": "博士的寶物",
-      "name_en": "Professor's treasure trove"
+      "name_en": "Professor's treasure trove",
+      "name_jp": "はかせのオタカラ"
     }
   },
   {
@@ -538,7 +575,8 @@
       "number": 185,
       "slug": "ocean-fishing-spot",
       "name_zh_hant": "海釣場",
-      "name_en": "Ocean fishing spot"
+      "name_en": "Ocean fishing spot",
+      "name_jp": "海釣り"
     }
   },
   {
@@ -548,13 +586,18 @@
       "number": 146,
       "slug": "illuminated-waterfall",
       "name_zh_hant": "光照的瀑布",
-      "name_en": "Illuminated waterfall"
+      "name_en": "Illuminated waterfall",
+      "name_jp": "照らされた滝"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "不明"
+      "is_event": false,
+      "slug": "unknown",
+      "name_zh_hant": "不明",
+      "name_en": "Unknown",
+      "name_jp": "不明"
     }
   },
   {
@@ -564,7 +607,8 @@
       "number": 31,
       "slug": "gently-lit-bed",
       "name_zh_hant": "柔光伴好眠",
-      "name_en": "Gently lit bed"
+      "name_en": "Gently lit bed",
+      "name_jp": "やさしい光でおやすみ"
     }
   },
   {
@@ -574,7 +618,8 @@
       "number": 10,
       "slug": "hydrated-flower-bed",
       "name_zh_hant": "溼潤的花田",
-      "name_en": "Hydrated flower bed"
+      "name_en": "Hydrated flower bed",
+      "name_jp": "うるおう花畑"
     }
   },
   {
@@ -584,7 +629,8 @@
       "number": 19,
       "slug": "tantalizing-dining-set",
       "name_zh_hant": "餓肚肚用餐處",
-      "name_en": "Tantalizing dining set"
+      "name_en": "Tantalizing dining set",
+      "name_jp": "腹ペコダイニング"
     }
   },
   {
@@ -594,7 +640,8 @@
       "number": 120,
       "slug": "dinner-table-surprise",
       "name_zh_hant": "充滿期待的餐桌",
-      "name_en": "Dinner table surprise"
+      "name_en": "Dinner table surprise",
+      "name_jp": "ワクワクな食卓"
     }
   },
   {
@@ -604,7 +651,8 @@
       "number": 42,
       "slug": "sunny-day-site",
       "name_zh_hant": "大晴天地點",
-      "name_en": "Sunny Day site"
+      "name_en": "Sunny Day site",
+      "name_jp": "にほんばれスポット"
     }
   },
   {
@@ -614,7 +662,8 @@
       "number": 9,
       "slug": "tree-shaded-flower-bed",
       "name_zh_hant": "樹蔭的花田",
-      "name_en": "Tree-shaded flower bed"
+      "name_en": "Tree-shaded flower bed",
+      "name_jp": "木かげの花畑"
     }
   },
   {
@@ -624,7 +673,8 @@
       "number": 27,
       "slug": "road-sign",
       "name_zh_hant": "指路牌",
-      "name_en": "Road sign"
+      "name_en": "Road sign",
+      "name_jp": "道案内のカンバン"
     }
   },
   {
@@ -634,7 +684,8 @@
       "number": 16,
       "slug": "riding-warm-updrafts",
       "name_zh_hant": "乘著暖風",
-      "name_en": "Riding warm updrafts"
+      "name_en": "Riding warm updrafts",
+      "name_jp": "あたたかな風に乗って"
     }
   },
   {
@@ -644,7 +695,8 @@
       "number": 181,
       "slug": "plush-central",
       "name_zh_hant": "布偶堆",
-      "name_en": "Plush central"
+      "name_en": "Plush central",
+      "name_jp": "ぬいぐるみに囲まれて"
     }
   },
   {
@@ -654,7 +706,8 @@
       "number": 15,
       "slug": "fresh-veggie-field",
       "name_zh_hant": "新鮮蔬菜田",
-      "name_en": "Fresh veggie field"
+      "name_en": "Fresh veggie field",
+      "name_jp": "フレッシュ野菜畑"
     }
   },
   {
@@ -664,7 +717,8 @@
       "number": 3,
       "slug": "boulder-shaded-tall-grass",
       "name_zh_hant": "岩影的草叢",
-      "name_en": "Boulder-shaded tall grass"
+      "name_en": "Boulder-shaded tall grass",
+      "name_jp": "岩かげの草むら"
     }
   },
   {
@@ -674,7 +728,8 @@
       "number": 28,
       "slug": "large-luggage-carrier",
       "name_zh_hant": "裝上大貨物",
-      "name_en": "Large luggage carrier"
+      "name_en": "Large luggage carrier",
+      "name_jp": "大きな荷物をのせて"
     }
   },
   {
@@ -684,7 +739,8 @@
       "number": 177,
       "slug": "construction-site-generator",
       "name_zh_hant": "工地的發電廠",
-      "name_en": "Construction-site generator"
+      "name_en": "Construction-site generator",
+      "name_jp": "工事現場のはつでん所"
     }
   },
   {
@@ -694,7 +750,8 @@
       "number": 33,
       "slug": "creepy-grave-offering",
       "name_zh_hant": "詭異的墓前的供品",
-      "name_en": "Creepy grave offering"
+      "name_en": "Creepy grave offering",
+      "name_jp": "ブキミなお墓にお供えもの"
     }
   },
   {
@@ -704,7 +761,8 @@
       "number": 32,
       "slug": "grave-offering",
       "name_zh_hant": "墓前的供品",
-      "name_en": "Grave offering"
+      "name_en": "Grave offering",
+      "name_jp": "お墓にお供えもの"
     }
   },
   {
@@ -714,7 +772,8 @@
       "number": 29,
       "slug": "lumberjacks-workplace",
       "name_zh_hant": "樵夫工作區",
-      "name_en": "Lumberjack's workplace"
+      "name_en": "Lumberjack's workplace",
+      "name_jp": "木こりの作業場"
     }
   },
   {
@@ -724,7 +783,8 @@
       "number": 44,
       "slug": "cozy-log-handicrafts",
       "name_zh_hant": "有溫度感的圓木",
-      "name_en": "Cozy log handicrafts"
+      "name_en": "Cozy log handicrafts",
+      "name_jp": "丸太の温もり"
     }
   },
   {
@@ -734,7 +794,8 @@
       "number": 41,
       "slug": "rain-dance-site",
       "name_zh_hant": "求雨地點",
-      "name_en": "Rain Dance site"
+      "name_en": "Rain Dance site",
+      "name_jp": "あまごいスポット"
     }
   },
   {
@@ -744,7 +805,8 @@
       "number": 45,
       "slug": "very-berry-space",
       "name_zh_hant": "樹果大集合",
-      "name_en": "Very-berry space"
+      "name_en": "Very-berry space",
+      "name_jp": "きのみ大集合"
     }
   },
   {
@@ -754,7 +816,8 @@
       "number": 20,
       "slug": "picnic-set",
       "name_zh_hant": "野餐氛圍桌",
-      "name_en": "Picnic set"
+      "name_en": "Picnic set",
+      "name_jp": "ピクニックな食卓"
     }
   },
   {
@@ -764,7 +827,8 @@
       "number": 81,
       "slug": "full-recovery",
       "name_zh_hant": "睡一覺來康復",
-      "name_en": "Full recovery"
+      "name_en": "Full recovery",
+      "name_jp": "完治までおやすみ"
     }
   },
   {
@@ -774,7 +838,8 @@
       "number": 176,
       "slug": "natures-market",
       "name_zh_hant": "大自然中的集市",
-      "name_en": "Nature's market"
+      "name_en": "Nature's market",
+      "name_jp": "自然の中のマーケット"
     }
   },
   {
@@ -784,7 +849,8 @@
       "number": 51,
       "slug": "tree-shaded-yellow-tall-grass",
       "name_zh_hant": "樹蔭的黃色草叢",
-      "name_en": "Tree-shaded yellow tall grass"
+      "name_en": "Tree-shaded yellow tall grass",
+      "name_jp": "木かげの黄色の草むら"
     }
   },
   {
@@ -794,7 +860,8 @@
       "number": 66,
       "slug": "park-bench",
       "name_zh_hant": "公園的長椅",
-      "name_en": "Park bench"
+      "name_en": "Park bench",
+      "name_jp": "公園のベンチ"
     }
   },
   {
@@ -804,7 +871,8 @@
       "number": 65,
       "slug": "trash-disposal-site",
       "name_zh_hant": "垃圾場",
-      "name_en": "Trash disposal site"
+      "name_en": "Trash disposal site",
+      "name_jp": "ゴミ捨て場"
     }
   },
   {
@@ -814,7 +882,8 @@
       "number": 52,
       "slug": "elevated-yellow-tall-grass",
       "name_zh_hant": "高崗的黃色草叢",
-      "name_en": "Elevated yellow tall grass"
+      "name_en": "Elevated yellow tall grass",
+      "name_jp": "高台の黄色の草むら"
     }
   },
   {
@@ -824,7 +893,8 @@
       "number": 91,
       "slug": "working-the-register",
       "name_zh_hant": "在櫃檯結賬",
-      "name_en": "Working the register"
+      "name_en": "Working the register",
+      "name_jp": "レジでお会計"
     }
   },
   {
@@ -834,7 +904,8 @@
       "number": 61,
       "slug": "resting-spot",
       "name_zh_hant": "休息處",
-      "name_en": "Resting spot"
+      "name_en": "Resting spot",
+      "name_jp": "お休みどころ"
     }
   },
   {
@@ -844,7 +915,8 @@
       "number": 179,
       "slug": "evil-organization-hq",
       "name_zh_hant": "邪惡組織的基地",
-      "name_en": "Evil organization HQ"
+      "name_en": "Evil organization HQ",
+      "name_jp": "悪の組織のアジト"
     }
   },
   {
@@ -854,7 +926,8 @@
       "number": 78,
       "slug": "hot-spring-shower",
       "name_zh_hant": "溫泉沖洗區",
-      "name_en": "Hot-spring shower"
+      "name_en": "Hot-spring shower",
+      "name_jp": "温泉の洗い場"
     }
   },
   {
@@ -864,7 +937,8 @@
       "number": 79,
       "slug": "resort-meal-prep",
       "name_zh_hant": "在度假區準備做飯",
-      "name_en": "Resort meal prep"
+      "name_en": "Resort meal prep",
+      "name_jp": "リゾートでご飯のしたく"
     }
   },
   {
@@ -874,7 +948,8 @@
       "number": 62,
       "slug": "perpetual-mess",
       "name_zh_hant": "來收拾吧",
-      "name_en": "Perpetual mess"
+      "name_en": "Perpetual mess",
+      "name_jp": "おかたづけをしよう"
     }
   },
   {
@@ -884,7 +959,8 @@
       "number": 188,
       "slug": "magma-fishing-spot",
       "name_zh_hant": "熔岩釣場",
-      "name_en": "Magma fishing spot"
+      "name_en": "Magma fishing spot",
+      "name_jp": "マグマ釣り"
     }
   },
   {
@@ -894,7 +970,8 @@
       "number": 129,
       "slug": "mini-museum",
       "name_zh_hant": "小小博物館",
-      "name_en": "Mini museum"
+      "name_en": "Mini museum",
+      "name_jp": "プチ博物館"
     }
   },
   {
@@ -904,7 +981,8 @@
       "number": 80,
       "slug": "all-packed-up",
       "name_zh_hant": "打包好了",
-      "name_en": "All packed up"
+      "name_en": "All packed up",
+      "name_jp": "荷づくりできたよ"
     }
   },
   {
@@ -914,7 +992,8 @@
       "number": 186,
       "slug": "marsh-fishing-spot",
       "name_zh_hant": "沼釣場",
-      "name_en": "Marsh fishing spot"
+      "name_en": "Marsh fishing spot",
+      "name_jp": "沼釣り"
     }
   },
   {
@@ -924,7 +1003,8 @@
       "number": 89,
       "slug": "spooky-study",
       "name_zh_hant": "詭異的書房",
-      "name_en": "Spooky study"
+      "name_en": "Spooky study",
+      "name_jp": "あやしい書さい"
     }
   },
   {
@@ -934,7 +1014,8 @@
       "number": 73,
       "slug": "surprise-in-store",
       "name_zh_hant": "小心機關",
-      "name_en": "Surprise in store"
+      "name_en": "Surprise in store",
+      "name_jp": "しかけにご注意"
     }
   },
   {
@@ -944,7 +1025,8 @@
       "number": 90,
       "slug": "playing-pirate",
       "name_zh_hant": "水手過家家",
-      "name_en": "Playing pirate"
+      "name_en": "Playing pirate",
+      "name_jp": "ふなのりごっこ"
     }
   },
   {
@@ -954,7 +1036,8 @@
       "number": 59,
       "slug": "shaded-beach",
       "name_zh_hant": "沙灘的樹蔭",
-      "name_en": "Shaded beach"
+      "name_en": "Shaded beach",
+      "name_jp": "ビーチの木かげ"
     }
   },
   {
@@ -964,7 +1047,8 @@
       "number": 82,
       "slug": "alarm-clock-sleep-zone",
       "name_zh_hant": "鬧鐘床位",
-      "name_en": "Alarm clock sleep zone"
+      "name_en": "Alarm clock sleep zone",
+      "name_jp": "目覚ましベッドスペース"
     }
   },
   {
@@ -974,7 +1058,8 @@
       "number": 95,
       "slug": "cuteness-overload",
       "name_zh_hant": "超可愛空間",
-      "name_en": "Cuteness overload"
+      "name_en": "Cuteness overload",
+      "name_jp": "ベリーキュートな空間"
     }
   },
   {
@@ -984,7 +1069,8 @@
       "number": 84,
       "slug": "vending-machine-set",
       "name_zh_hant": "自動售貨機套組",
-      "name_en": "Vending machine set"
+      "name_en": "Vending machine set",
+      "name_jp": "自販機セット"
     }
   },
   {
@@ -994,7 +1080,8 @@
       "number": 72,
       "slug": "light-up-stage",
       "name_zh_hant": "聚光舞臺",
-      "name_en": "Light-up stage"
+      "name_en": "Light-up stage",
+      "name_jp": "ライトアップステージ"
     }
   },
   {
@@ -1004,7 +1091,8 @@
       "number": 60,
       "slug": "tropical-seaside",
       "name_zh_hant": "熱帶海濱",
-      "name_en": "Tropical seaside"
+      "name_en": "Tropical seaside",
+      "name_jp": "トロピカルシーサイド"
     }
   },
   {
@@ -1014,7 +1102,8 @@
       "number": 47,
       "slug": "tree-shaded-snoozing-snorlax",
       "name_zh_hant": "樹蔭下熟睡的卡比獸",
-      "name_en": "Tree-shaded snoozing Snorlax"
+      "name_en": "Tree-shaded snoozing Snorlax",
+      "name_jp": "木かげでぐっすりカビゴン"
     }
   },
   {
@@ -1024,7 +1113,8 @@
       "number": 93,
       "slug": "gourmets-altar",
       "name_zh_hant": "美味的供品",
-      "name_en": "Gourmet's altar"
+      "name_en": "Gourmet's altar",
+      "name_jp": "グルメなお供え物"
     }
   },
   {
@@ -1034,7 +1124,8 @@
       "number": 50,
       "slug": "yellow-tall-grass",
       "name_zh_hant": "黃色的草叢",
-      "name_en": "Yellow tall grass"
+      "name_en": "Yellow tall grass",
+      "name_jp": "黄色の草むら"
     }
   },
   {
@@ -1044,7 +1135,8 @@
       "number": 77,
       "slug": "knitting-station",
       "name_zh_hant": "織毛線",
-      "name_en": "Knitting station"
+      "name_en": "Knitting station",
+      "name_jp": "毛糸で編み物"
     }
   },
   {
@@ -1054,7 +1146,8 @@
       "number": 55,
       "slug": "overgrowth-vending-machine",
       "name_zh_hant": "草叢的自動售貨機",
-      "name_en": "Overgrowth vending machine"
+      "name_en": "Overgrowth vending machine",
+      "name_jp": "草むらの自販機"
     }
   },
   {
@@ -1064,7 +1157,8 @@
       "number": 74,
       "slug": "night-festival-venue",
       "name_zh_hant": "夜晚的慶典會場",
-      "name_en": "Night festival venue"
+      "name_en": "Night festival venue",
+      "name_jp": "夜のお祭り会場"
     }
   },
   {
@@ -1074,7 +1168,8 @@
       "number": 97,
       "slug": "plain-life",
       "name_zh_hant": "自然風生活",
-      "name_en": "Plain life"
+      "name_en": "Plain life",
+      "name_jp": "ナチュラルなくらし"
     }
   },
   {
@@ -1084,7 +1179,8 @@
       "number": 53,
       "slug": "hydrated-yellow-tall-grass",
       "name_zh_hant": "溼潤的黃色草叢",
-      "name_en": "Hydrated yellow tall grass"
+      "name_en": "Hydrated yellow tall grass",
+      "name_jp": "うるおう黄色の草むら"
     }
   },
   {
@@ -1094,7 +1190,8 @@
       "number": 88,
       "slug": "dock",
       "name_zh_hant": "碼頭",
-      "name_en": "Dock"
+      "name_en": "Dock",
+      "name_jp": "船着き場"
     }
   },
   {
@@ -1104,7 +1201,8 @@
       "number": 54,
       "slug": "marshy-tall-grass",
       "name_zh_hant": "沼澤的草叢",
-      "name_en": "Marshy tall grass"
+      "name_en": "Marshy tall grass",
+      "name_jp": "沼地の草むら"
     }
   },
   {
@@ -1114,7 +1212,8 @@
       "number": 92,
       "slug": "tiny-atelier",
       "name_zh_hant": "小小畫室",
-      "name_en": "Tiny atelier"
+      "name_en": "Tiny atelier",
+      "name_jp": "ちいさなアトリエ"
     }
   },
   {
@@ -1124,7 +1223,8 @@
       "number": 69,
       "slug": "chirp-chirp-meal",
       "name_zh_hant": "嘰嘰咕咕大餐",
-      "name_en": "Chirp-chirp meal"
+      "name_en": "Chirp-chirp meal",
+      "name_jp": "ピヨピヨごはん"
     }
   },
   {
@@ -1134,7 +1234,8 @@
       "number": 87,
       "slug": "furnace-spot",
       "name_zh_hant": "火力發電廠",
-      "name_en": "Furnace spot"
+      "name_en": "Furnace spot",
+      "name_jp": "火力はつでん所"
     }
   },
   {
@@ -1144,7 +1245,8 @@
       "number": 58,
       "slug": "windy-flower-bed",
       "name_zh_hant": "風之花田",
-      "name_en": "Windy flower bed"
+      "name_en": "Windy flower bed",
+      "name_jp": "風の花畑"
     }
   },
   {
@@ -1154,7 +1256,8 @@
       "number": 96,
       "slug": "welcoming-resort",
       "name_zh_hant": "歡迎來到度假區",
-      "name_en": "Welcoming resort"
+      "name_en": "Welcoming resort",
+      "name_jp": "リゾートへようこそ"
     }
   },
   {
@@ -1164,7 +1267,8 @@
       "number": 86,
       "slug": "waterwheel-spot",
       "name_zh_hant": "水力發電廠",
-      "name_en": "Waterwheel spot"
+      "name_en": "Waterwheel spot",
+      "name_jp": "水力はつでん所"
     }
   },
   {
@@ -1174,7 +1278,8 @@
       "number": 68,
       "slug": "tableside-delivery-cart",
       "name_zh_hant": "料理送來了",
-      "name_en": "Tableside delivery cart"
+      "name_en": "Tableside delivery cart",
+      "name_jp": "お料理をお届け"
     }
   },
   {
@@ -1184,7 +1289,8 @@
       "number": 56,
       "slug": "breezy-flower-bed",
       "name_zh_hant": "涼爽的花田",
-      "name_en": "Breezy flower bed"
+      "name_en": "Breezy flower bed",
+      "name_jp": "すずしげな花畑"
     }
   },
   {
@@ -1194,7 +1300,8 @@
       "number": 75,
       "slug": "changing-area",
       "name_zh_hant": "更衣區",
-      "name_en": "Changing area"
+      "name_en": "Changing area",
+      "name_jp": "お着がえスペース"
     }
   },
   {
@@ -1204,7 +1311,8 @@
       "number": 76,
       "slug": "private-makeup-stand",
       "name_zh_hant": "打扮時不許偷看",
-      "name_en": "Private makeup stand"
+      "name_en": "Private makeup stand",
+      "name_jp": "おめかし中は見ないで"
     }
   },
   {
@@ -1214,7 +1322,8 @@
       "number": 83,
       "slug": "vending-machine-break-area",
       "name_zh_hant": "在自動售貨機旁小憩",
-      "name_en": "Vending machine break area"
+      "name_en": "Vending machine break area",
+      "name_jp": "自販機ヨコで一息"
     }
   },
   {
@@ -1224,7 +1333,8 @@
       "number": 94,
       "slug": "pikachu-space",
       "name_zh_hant": "皮卡丘空間",
-      "name_en": "Pikachu space"
+      "name_en": "Pikachu space",
+      "name_jp": "ピカチュウスペース"
     }
   },
   {
@@ -1234,7 +1344,8 @@
       "number": 67,
       "slug": "tantalizing-restaurant",
       "name_zh_hant": "餓肚肚餐廳",
-      "name_en": "Tantalizing restaurant"
+      "name_en": "Tantalizing restaurant",
+      "name_jp": "腹ペコレストラン"
     }
   },
   {
@@ -1244,7 +1355,8 @@
       "number": 70,
       "slug": "cafe-space",
       "name_zh_hant": "茶水休息區",
-      "name_en": "Cafe space"
+      "name_en": "Cafe space",
+      "name_jp": "カフェスペース"
     }
   },
   {
@@ -1254,7 +1366,8 @@
       "number": 71,
       "slug": "beach-set",
       "name_zh_hant": "沙灘套組",
-      "name_en": "Beach set"
+      "name_en": "Beach set",
+      "name_jp": "ビーチセット"
     }
   },
   {
@@ -1264,7 +1377,8 @@
       "number": 106,
       "slug": "hydrated-graceful-flower-bed",
       "name_zh_hant": "溼潤的優雅花田",
-      "name_en": "Hydrated graceful flower bed"
+      "name_en": "Hydrated graceful flower bed",
+      "name_jp": "うるおうゆうがな花畑"
     }
   },
   {
@@ -1274,7 +1388,8 @@
       "number": 104,
       "slug": "graceful-flower-bed",
       "name_zh_hant": "優雅的花田",
-      "name_en": "Graceful flower bed"
+      "name_en": "Graceful flower bed",
+      "name_jp": "ゆうがな花畑"
     }
   },
   {
@@ -1284,7 +1399,8 @@
       "number": 131,
       "slug": "bronze-landmark",
       "name_zh_hant": "銅像觀光景點",
-      "name_en": "Bronze landmark"
+      "name_en": "Bronze landmark",
+      "name_jp": "銅像の観光スポット"
     }
   },
   {
@@ -1294,7 +1410,8 @@
       "number": 107,
       "slug": "flower-garden-stump-stage",
       "name_zh_hant": "花田裡的樹樁舞臺",
-      "name_en": "Flower garden stump stage"
+      "name_en": "Flower garden stump stage",
+      "name_jp": "花畑の切り株ステージ"
     }
   },
   {
@@ -1304,7 +1421,8 @@
       "number": 126,
       "slug": "recital-stage",
       "name_zh_hant": "獨唱舞臺",
-      "name_en": "Recital stage"
+      "name_en": "Recital stage",
+      "name_jp": "リサイタルステージ"
     }
   },
   {
@@ -1314,7 +1432,8 @@
       "number": 119,
       "slug": "container-snacking",
       "name_zh_hant": "在貨物擺放處偷吃",
-      "name_en": "Container snacking"
+      "name_en": "Container snacking",
+      "name_jp": "荷物置き場でつまみ食い"
     }
   },
   {
@@ -1324,7 +1443,8 @@
       "number": 99,
       "slug": "tree-shaded-red-tall-grass",
       "name_zh_hant": "樹蔭的紅色草叢",
-      "name_en": "Tree-shaded red tall grass"
+      "name_en": "Tree-shaded red tall grass",
+      "name_jp": "木かげの赤い草むら"
     }
   },
   {
@@ -1334,7 +1454,8 @@
       "number": 123,
       "slug": "house-party",
       "name_zh_hant": "大家一起開派對",
-      "name_en": "House party"
+      "name_en": "House party",
+      "name_jp": "みんなでパーティー"
     }
   },
   {
@@ -1344,7 +1465,8 @@
       "number": 103,
       "slug": "grassy-training-field",
       "name_zh_hant": "草叢訓練場",
-      "name_en": "Grassy training field"
+      "name_en": "Grassy training field",
+      "name_jp": "草むらトレーニング場"
     }
   },
   {
@@ -1354,7 +1476,8 @@
       "number": 127,
       "slug": "box-to-the-rhythm",
       "name_zh_hant": "跟著節奏一二三",
-      "name_en": "Box to the rhythm"
+      "name_en": "Box to the rhythm",
+      "name_jp": "リズムに合わせてワンツー"
     }
   },
   {
@@ -1364,7 +1487,8 @@
       "number": 111,
       "slug": "mossy-boulder",
       "name_zh_hant": "長滿苔蘚的岩石",
-      "name_en": "Mossy boulder"
+      "name_en": "Mossy boulder",
+      "name_jp": "コケまみれの岩"
     }
   },
   {
@@ -1374,7 +1498,8 @@
       "number": 116,
       "slug": "digging-and-burning",
       "name_zh_hant": "挖掘和煅燒",
-      "name_en": "Digging and burning"
+      "name_en": "Digging and burning",
+      "name_jp": "掘って燃やして"
     }
   },
   {
@@ -1384,7 +1509,8 @@
       "number": 122,
       "slug": "mini-kitchen",
       "name_zh_hant": "迷你廚房",
-      "name_en": "Mini kitchen"
+      "name_en": "Mini kitchen",
+      "name_jp": "ミニキッチン"
     }
   },
   {
@@ -1394,7 +1520,8 @@
       "number": 105,
       "slug": "tree-shaded-graceful-flower-bed",
       "name_zh_hant": "樹蔭的優雅花田",
-      "name_en": "Tree-shaded graceful flower bed"
+      "name_en": "Tree-shaded graceful flower bed",
+      "name_jp": "木かげのゆうがな花畑"
     }
   },
   {
@@ -1404,7 +1531,8 @@
       "number": 102,
       "slug": "elevated-red-tall-grass",
       "name_zh_hant": "高崗的紅色草叢",
-      "name_en": "Elevated red tall grass"
+      "name_en": "Elevated red tall grass",
+      "name_jp": "高台の赤い草むら"
     }
   },
   {
@@ -1414,7 +1542,8 @@
       "number": 125,
       "slug": "chirping-recital",
       "name_zh_hant": "鳴唱會",
-      "name_en": "Chirping recital"
+      "name_en": "Chirping recital",
+      "name_jp": "さえずりのリサイタル"
     }
   },
   {
@@ -1424,7 +1553,8 @@
       "number": 110,
       "slug": "mossy-rest-spot",
       "name_zh_hant": "滿是苔蘚",
-      "name_en": "Mossy rest spot"
+      "name_en": "Mossy rest spot",
+      "name_jp": "コケまみれ"
     }
   },
   {
@@ -1434,7 +1564,8 @@
       "number": 138,
       "slug": "tree-shaded-pink-tall-grass",
       "name_zh_hant": "樹蔭的粉紅色草叢",
-      "name_en": "Tree-shaded pink tall grass"
+      "name_en": "Tree-shaded pink tall grass",
+      "name_jp": "木かげのピンクの草むら"
     }
   },
   {
@@ -1444,7 +1575,8 @@
       "number": 108,
       "slug": "toil-in-the-soil",
       "name_zh_hant": "種田不容易",
-      "name_en": "Toil in the soil"
+      "name_en": "Toil in the soil",
+      "name_jp": "畑しごとはたいへん"
     }
   },
   {
@@ -1454,7 +1586,8 @@
       "number": 187,
       "slug": "hot-spring-fishing-spot",
       "name_zh_hant": "溫泉釣場",
-      "name_en": "Hot-spring fishing spot"
+      "name_en": "Hot-spring fishing spot",
+      "name_jp": "温泉釣り"
     }
   },
   {
@@ -1464,7 +1597,8 @@
       "number": 109,
       "slug": "uplifting-duckweed",
       "name_zh_hant": "浮浮水窪",
-      "name_en": "Uplifting duckweed"
+      "name_en": "Uplifting duckweed",
+      "name_jp": "うきうきな水たまり"
     }
   },
   {
@@ -1474,7 +1608,8 @@
       "number": 101,
       "slug": "hydrated-red-tall-grass",
       "name_zh_hant": "溼潤的紅色草叢",
-      "name_en": "Hydrated red tall grass"
+      "name_en": "Hydrated red tall grass",
+      "name_jp": "うるおう赤い草むら"
     }
   },
   {
@@ -1484,7 +1619,8 @@
       "number": 112,
       "slug": "mossy-hot-spring",
       "name_zh_hant": "綠苔溫泉",
-      "name_en": "Mossy hot spring"
+      "name_en": "Mossy hot spring",
+      "name_jp": "コケむす温泉"
     }
   },
   {
@@ -1494,7 +1630,8 @@
       "number": 128,
       "slug": "music-and-magazines",
       "name_zh_hant": "音樂與閱讀",
-      "name_en": "Music and magazines"
+      "name_en": "Music and magazines",
+      "name_jp": "音楽と読書"
     }
   },
   {
@@ -1504,7 +1641,8 @@
       "number": 98,
       "slug": "red-tall-grass",
       "name_zh_hant": "紅色的草叢",
-      "name_en": "Red tall grass"
+      "name_en": "Red tall grass",
+      "name_jp": "赤い草むら"
     }
   },
   {
@@ -1514,7 +1652,8 @@
       "number": 115,
       "slug": "piping-hot-lava",
       "name_zh_hant": "熔岩熔岩熱乎乎",
-      "name_en": "Piping-hot lava"
+      "name_en": "Piping-hot lava",
+      "name_jp": "マグマでアツアツ"
     }
   },
   {
@@ -1524,7 +1663,8 @@
       "number": 100,
       "slug": "pointy-tree-shaded-rocky-tall-grass",
       "name_zh_hant": "三角形樹蔭的岩石和草叢",
-      "name_en": "Pointy tree-shaded rocky tall grass"
+      "name_en": "Pointy tree-shaded rocky tall grass",
+      "name_jp": "三角木かげに岩と草むら"
     }
   },
   {
@@ -1534,7 +1674,8 @@
       "number": 136,
       "slug": "modern-living",
       "name_zh_hant": "摩登生活",
-      "name_en": "Modern living"
+      "name_en": "Modern living",
+      "name_jp": "モダンライフ"
     }
   },
   {
@@ -1544,7 +1685,8 @@
       "number": 130,
       "slug": "refreshing-locker-room",
       "name_zh_hant": "清爽的儲物間",
-      "name_en": "Refreshing locker room"
+      "name_en": "Refreshing locker room",
+      "name_jp": "さわやかロッカールーム"
     }
   },
   {
@@ -1554,7 +1696,8 @@
       "number": 113,
       "slug": "open-air-bath",
       "name_zh_hant": "露天溫泉",
-      "name_en": "Open-air bath"
+      "name_en": "Open-air bath",
+      "name_jp": "露天風呂"
     }
   },
   {
@@ -1564,7 +1707,8 @@
       "number": 133,
       "slug": "chefs-kitchen",
       "name_zh_hant": "廚師的廚房",
-      "name_en": "Chef's kitchen"
+      "name_en": "Chef's kitchen",
+      "name_jp": "シェフの調理場"
     }
   },
   {
@@ -1574,7 +1718,8 @@
       "number": 132,
       "slug": "railroad-crossing",
       "name_zh_hant": "平交道",
-      "name_en": "Railroad crossing"
+      "name_en": "Railroad crossing",
+      "name_jp": "ふみきり"
     }
   },
   {
@@ -1584,7 +1729,8 @@
       "number": 135,
       "slug": "heavy-iron",
       "name_zh_hant": "沉沉鐵色",
-      "name_en": "Heavy iron"
+      "name_en": "Heavy iron",
+      "name_jp": "ずっしりアイアン"
     }
   },
   {
@@ -1594,7 +1740,8 @@
       "number": 124,
       "slug": "lazy-photo-album-scrolling",
       "name_zh_hant": "悠閒地重溫照片",
-      "name_en": "Lazy photo-album scrolling"
+      "name_en": "Lazy photo-album scrolling",
+      "name_jp": "のんびり写真を振り返り"
     }
   },
   {
@@ -1604,7 +1751,8 @@
       "number": 189,
       "slug": "amped-rock-stage",
       "name_zh_hant": "高調的搖滾舞臺",
-      "name_en": "Amped rock stage"
+      "name_en": "Amped rock stage",
+      "name_jp": "ハイなロックステージ"
     }
   },
   {
@@ -1614,7 +1762,8 @@
       "number": 190,
       "slug": "low-key-rock-stage",
       "name_zh_hant": "低調的搖滾舞臺",
-      "name_en": "Low-key rock stage"
+      "name_en": "Low-key rock stage",
+      "name_jp": "ローなロックステージ"
     }
   },
   {
@@ -1624,7 +1773,8 @@
       "number": 121,
       "slug": "best-bread-bakery",
       "name_zh_hant": "大口麵包工坊",
-      "name_en": "Best bread bakery"
+      "name_en": "Best bread bakery",
+      "name_jp": "パクパク パン工房"
     }
   },
   {
@@ -1634,7 +1784,8 @@
       "number": 192,
       "slug": "auspicious-knights-shrine",
       "name_zh_hant": "忠誠騎士的祭壇",
-      "name_en": "Auspicious knight's shrine"
+      "name_en": "Auspicious knight's shrine",
+      "name_jp": "忠誠の騎士の祭壇"
     }
   },
   {
@@ -1644,7 +1795,8 @@
       "number": 191,
       "slug": "malicious-knights-shrine",
       "name_zh_hant": "怨念騎士的祭壇",
-      "name_en": "Malicious knight's shrine"
+      "name_en": "Malicious knight's shrine",
+      "name_jp": "怨念の騎士の祭壇"
     }
   },
   {
@@ -1654,7 +1806,8 @@
       "number": 118,
       "slug": "creepy-white-rocks",
       "name_zh_hant": "詭異的白色岩石",
-      "name_en": "Creepy white rocks"
+      "name_en": "Creepy white rocks",
+      "name_jp": "ブキミな白い岩"
     }
   },
   {
@@ -1664,7 +1817,8 @@
       "number": 134,
       "slug": "absolute-luxury",
       "name_zh_hant": "極致豪華",
-      "name_en": "Absolute luxury"
+      "name_en": "Absolute luxury",
+      "name_jp": "ザ・ゴージャス"
     }
   },
   {
@@ -1674,7 +1828,8 @@
       "number": 142,
       "slug": "fluffy-flower-bed",
       "name_zh_hant": "茸茸花田",
-      "name_en": "Fluffy flower bed"
+      "name_en": "Fluffy flower bed",
+      "name_jp": "フワフワな花畑"
     }
   },
   {
@@ -1684,7 +1839,8 @@
       "number": 180,
       "slug": "nine-flames",
       "name_zh_hant": "九團火焰",
-      "name_en": "Nine flames"
+      "name_en": "Nine flames",
+      "name_jp": "九つのほむら"
     }
   },
   {
@@ -1694,7 +1850,8 @@
       "number": 161,
       "slug": "squeaky-clean",
       "name_zh_hant": "擦得鋥亮",
-      "name_en": "Squeaky clean"
+      "name_en": "Squeaky clean",
+      "name_jp": "キュキュッとお掃除"
     }
   },
   {
@@ -1704,7 +1861,8 @@
       "number": 144,
       "slug": "hydrated-fluffy-flower-bed",
       "name_zh_hant": "溼潤的茸茸花田",
-      "name_en": "Hydrated fluffy flower bed"
+      "name_en": "Hydrated fluffy flower bed",
+      "name_jp": "うるおうフワフワな花畑"
     }
   },
   {
@@ -1714,7 +1872,8 @@
       "number": 178,
       "slug": "dojo-training",
       "name_zh_hant": "在道場訓練",
-      "name_en": "Dojo training"
+      "name_en": "Dojo training",
+      "name_jp": "道場でトレーニング"
     }
   },
   {
@@ -1724,7 +1883,8 @@
       "number": 156,
       "slug": "sewer-hole-inspection",
       "name_zh_hant": "井蓋檢修中",
-      "name_en": "Sewer-hole inspection"
+      "name_en": "Sewer-hole inspection",
+      "name_jp": "マンホール点検中"
     }
   },
   {
@@ -1734,7 +1894,8 @@
       "number": 114,
       "slug": "harmonious-hot-spring",
       "name_zh_hant": "養生溫泉",
-      "name_en": "Harmonious hot spring"
+      "name_en": "Harmonious hot spring",
+      "name_jp": "ととのう温泉"
     }
   },
   {
@@ -1744,7 +1905,8 @@
       "number": 152,
       "slug": "fortune-tellers-table",
       "name_zh_hant": "水晶占卜",
-      "name_en": "Fortune-teller's table"
+      "name_en": "Fortune-teller's table",
+      "name_jp": "水晶占い"
     }
   },
   {
@@ -1754,7 +1916,8 @@
       "number": 151,
       "slug": "surging-psychic-power",
       "name_zh_hant": "精神力量滿溢",
-      "name_en": "Surging psychic power"
+      "name_en": "Surging psychic power",
+      "name_jp": "みなぎるサイコパワー"
     }
   },
   {
@@ -1764,7 +1927,8 @@
       "number": 168,
       "slug": "experiment-space",
       "name_zh_hant": "實驗空間",
-      "name_en": "Experiment space"
+      "name_en": "Experiment space",
+      "name_jp": "実験スペース"
     }
   },
   {
@@ -1774,7 +1938,8 @@
       "number": 157,
       "slug": "spotless-washing-station",
       "name_zh_hant": "亮晶晶洗手檯",
-      "name_en": "Spotless washing station"
+      "name_en": "Spotless washing station",
+      "name_jp": "ピカピカ洗面所"
     }
   },
   {
@@ -1784,7 +1949,8 @@
       "number": 171,
       "slug": "public-reading-material",
       "name_zh_hant": "請自由取閱",
-      "name_en": "Public reading material"
+      "name_en": "Public reading material",
+      "name_jp": "ご自由にお読みください"
     }
   },
   {
@@ -1794,7 +1960,8 @@
       "number": 170,
       "slug": "researchers-desk",
       "name_zh_hant": "研究員的桌子",
-      "name_en": "Researcher's desk"
+      "name_en": "Researcher's desk",
+      "name_jp": "研究者のデスク"
     }
   },
   {
@@ -1804,7 +1971,8 @@
       "number": 166,
       "slug": "work-desk",
       "name_zh_hant": "辦公區",
-      "name_en": "Work desk"
+      "name_en": "Work desk",
+      "name_jp": "おしごとデスク"
     }
   },
   {
@@ -1814,7 +1982,8 @@
       "number": 164,
       "slug": "game-corner-battle-zone",
       "name_zh_hant": "在遊戲城對戰",
-      "name_en": "Game Corner battle zone"
+      "name_en": "Game Corner battle zone",
+      "name_jp": "ゲームコーナーで対戦"
     }
   },
   {
@@ -1824,7 +1993,8 @@
       "number": 148,
       "slug": "simple-bathroom",
       "name_zh_hant": "簡約浴室",
-      "name_en": "Simple bathroom"
+      "name_en": "Simple bathroom",
+      "name_jp": "シンプルバスルーム"
     }
   },
   {
@@ -1834,7 +2004,8 @@
       "number": 145,
       "slug": "waterside-dinghy",
       "name_zh_hant": "水邊小船",
-      "name_en": "Waterside dinghy"
+      "name_en": "Waterside dinghy",
+      "name_jp": "水辺の小舟"
     }
   },
   {
@@ -1844,7 +2015,8 @@
       "number": 141,
       "slug": "concrete-pipe-secret-base",
       "name_zh_hant": "水泥管秘密基地",
-      "name_en": "Concrete pipe secret base"
+      "name_en": "Concrete pipe secret base",
+      "name_jp": "土管の秘密基地"
     }
   },
   {
@@ -1854,7 +2026,8 @@
       "number": 150,
       "slug": "fireplace-nap-spot",
       "name_zh_hant": "在暖爐旁打瞌睡",
-      "name_en": "Fireplace nap spot"
+      "name_en": "Fireplace nap spot",
+      "name_jp": "暖炉でうたた寝"
     }
   },
   {
@@ -1864,7 +2037,8 @@
       "number": 183,
       "slug": "top-pop",
       "name_zh_hant": "極致新潮",
-      "name_en": "Top pop"
+      "name_en": "Top pop",
+      "name_jp": "ポップオブポップ"
     }
   },
   {
@@ -1874,7 +2048,8 @@
       "number": 167,
       "slug": "office-storeroom",
       "name_zh_hant": "辦公室的儲藏室",
-      "name_en": "Office storeroom"
+      "name_en": "Office storeroom",
+      "name_jp": "オフィスのバックヤード"
     }
   },
   {
@@ -1884,7 +2059,8 @@
       "number": 158,
       "slug": "home-theater",
       "name_zh_hant": "家庭影院",
-      "name_en": "Home theater"
+      "name_en": "Home theater",
+      "name_jp": "ホームシアター"
     }
   },
   {
@@ -1894,7 +2070,8 @@
       "number": 143,
       "slug": "tree-shaded-fluffy-flower-bed",
       "name_zh_hant": "樹蔭的茸茸花田",
-      "name_en": "Tree-shaded fluffy flower bed"
+      "name_en": "Tree-shaded fluffy flower bed",
+      "name_jp": "木かげのフワフワな花畑"
     }
   },
   {
@@ -1904,7 +2081,8 @@
       "number": 159,
       "slug": "study-area",
       "name_zh_hant": "學習區",
-      "name_en": "Study area"
+      "name_en": "Study area",
+      "name_jp": "勉強スペース"
     }
   },
   {
@@ -1914,7 +2092,8 @@
       "number": 162,
       "slug": "moisturizing-makeup-stand",
       "name_zh_hant": "保溼化妝臺",
-      "name_en": "Moisturizing makeup stand"
+      "name_en": "Moisturizing makeup stand",
+      "name_jp": "しっとり化粧台"
     }
   },
   {
@@ -1924,7 +2103,8 @@
       "number": 163,
       "slug": "mini-library",
       "name_zh_hant": "小小圖書館",
-      "name_en": "Mini library"
+      "name_en": "Mini library",
+      "name_jp": "プチ図書館"
     }
   },
   {
@@ -1934,7 +2114,8 @@
       "number": 174,
       "slug": "picturesque-photo-cutout-board",
       "name_zh_hant": "絕景露臉立牌",
-      "name_en": "Picturesque photo cutout board"
+      "name_en": "Picturesque photo cutout board",
+      "name_jp": "絶景の顔だしパネル"
     }
   },
   {
@@ -1944,7 +2125,8 @@
       "number": 137,
       "slug": "pink-tall-grass",
       "name_zh_hant": "粉紅色草叢",
-      "name_en": "Pink tall grass"
+      "name_en": "Pink tall grass",
+      "name_jp": "ピンクの草むら"
     }
   },
   {
@@ -1954,7 +2136,8 @@
       "number": 147,
       "slug": "birdsong-garden",
       "name_zh_hant": "鳥語花香",
-      "name_en": "Birdsong garden"
+      "name_en": "Birdsong garden",
+      "name_jp": "さえずりガーデン"
     }
   },
   {
@@ -1964,7 +2147,8 @@
       "number": 153,
       "slug": "trash-site-tv",
       "name_zh_hant": "垃圾場的電視",
-      "name_en": "Trash site TV"
+      "name_en": "Trash site TV",
+      "name_jp": "ゴミ捨て場のテレビ"
     }
   },
   {
@@ -1974,7 +2158,8 @@
       "number": 149,
       "slug": "cycling-rest-stop",
       "name_zh_hant": "騎行小憩",
-      "name_en": "Cycling rest stop"
+      "name_en": "Cycling rest stop",
+      "name_jp": "サイクリング中に休けい"
     }
   },
   {
@@ -1984,7 +2169,8 @@
       "number": 169,
       "slug": "professors-apprentice-program",
       "name_zh_hant": "為成為博士進行研究",
-      "name_en": "Professor's apprentice program"
+      "name_en": "Professor's apprentice program",
+      "name_jp": "はかせを目指して研究中"
     }
   },
   {
@@ -1994,7 +2180,8 @@
       "number": 182,
       "slug": "gamers-paradise",
       "name_zh_hant": "絕佳的遊戲環境",
-      "name_en": "Gamer's paradise"
+      "name_en": "Gamer's paradise",
+      "name_jp": "バツグンのゲーム環境"
     }
   },
   {
@@ -2004,7 +2191,8 @@
       "number": 165,
       "slug": "playland",
       "name_zh_hant": "遊樂場",
-      "name_en": "Playland"
+      "name_en": "Playland",
+      "name_jp": "プレイランド"
     }
   },
   {
@@ -2014,7 +2202,8 @@
       "number": 139,
       "slug": "hydrated-pink-tall-grass",
       "name_zh_hant": "溼潤的粉紅色草叢",
-      "name_en": "Hydrated pink tall grass"
+      "name_en": "Hydrated pink tall grass",
+      "name_jp": "うるおうピンクの草むら"
     }
   },
   {
@@ -2024,7 +2213,8 @@
       "number": 173,
       "slug": "prank-button",
       "name_zh_hant": "惡作劇開關",
-      "name_en": "Prank button"
+      "name_en": "Prank button",
+      "name_jp": "いたずらスイッチ"
     }
   },
   {
@@ -2034,7 +2224,8 @@
       "number": 175,
       "slug": "tire-park",
       "name_zh_hant": "輪胎公園",
-      "name_en": "Tire park"
+      "name_en": "Tire park",
+      "name_jp": "タイヤ公園"
     }
   },
   {
@@ -2044,7 +2235,8 @@
       "number": 160,
       "slug": "rhythmic-living-room",
       "name_zh_hant": "節奏感客廳",
-      "name_en": "Rhythmic living room"
+      "name_en": "Rhythmic living room",
+      "name_jp": "リズミカルなリビング"
     }
   },
   {
@@ -2054,7 +2246,8 @@
       "number": 140,
       "slug": "elevated-pink-tall-grass",
       "name_zh_hant": "高崗的粉紅色草叢",
-      "name_en": "Elevated pink tall grass"
+      "name_en": "Elevated pink tall grass",
+      "name_jp": "高台のピンクの草むら"
     }
   },
   {
@@ -2064,7 +2257,8 @@
       "number": 155,
       "slug": "interrogation-desk",
       "name_zh_hant": "和搭檔一起調查",
-      "name_en": "Interrogation desk"
+      "name_en": "Interrogation desk",
+      "name_jp": "相棒と取り調べ"
     }
   },
   {
@@ -2074,7 +2268,8 @@
       "number": 172,
       "slug": "heart-pounding-surprise-box",
       "name_zh_hant": "咚咚鏘驚嚇箱",
-      "name_en": "Heart-pounding surprise box"
+      "name_en": "Heart-pounding surprise box",
+      "name_jp": "ドコドコびっくり箱"
     }
   },
   {
@@ -2084,7 +2279,8 @@
       "number": 154,
       "slug": "oversized-dumping-ground",
       "name_zh_hant": "大型垃圾堆放處",
-      "name_en": "Oversized dumping ground"
+      "name_en": "Oversized dumping ground",
+      "name_jp": "粗大ゴミ置き場"
     }
   },
   {
@@ -2094,7 +2290,8 @@
       "number": 193,
       "slug": "wing-fossil-display",
       "name_zh_hant": "飛翼化石展示臺",
-      "name_en": "Wing Fossil display"
+      "name_en": "Wing Fossil display",
+      "name_jp": "ツバサのカセキ展示台"
     }
   },
   {
@@ -2104,7 +2301,8 @@
       "number": 194,
       "slug": "skull-fossil-display",
       "name_zh_hant": "頭蓋化石展示臺",
-      "name_en": "Skull Fossil display"
+      "name_en": "Skull Fossil display",
+      "name_jp": "ずがいのカセキ展示台"
     }
   },
   {
@@ -2114,7 +2312,8 @@
       "number": 195,
       "slug": "headbutt-fossil-display",
       "name_zh_hant": "頭錘化石展示臺",
-      "name_en": "Headbutt Fossil display"
+      "name_en": "Headbutt Fossil display",
+      "name_jp": "ずつきのカセキ展示台"
     }
   },
   {
@@ -2124,7 +2323,8 @@
       "number": 196,
       "slug": "armor-fossil-display",
       "name_zh_hant": "盾甲化石展示臺",
-      "name_en": "Armor Fossil display"
+      "name_en": "Armor Fossil display",
+      "name_jp": "たてのカセキ展示台"
     }
   },
   {
@@ -2134,7 +2334,8 @@
       "number": 197,
       "slug": "shield-fossil-display",
       "name_zh_hant": "護盾化石展示臺",
-      "name_en": "Shield Fossil display"
+      "name_en": "Shield Fossil display",
+      "name_jp": "シールドのカセキ展示台"
     }
   },
   {
@@ -2144,7 +2345,8 @@
       "number": 198,
       "slug": "jaw-fossil-display",
       "name_zh_hant": "顎之化石展示臺",
-      "name_en": "Jaw Fossil display"
+      "name_en": "Jaw Fossil display",
+      "name_jp": "アゴのカセキ展示台"
     }
   },
   {
@@ -2154,7 +2356,8 @@
       "number": 199,
       "slug": "despot-fossil-display",
       "name_zh_hant": "暴君化石展示臺",
-      "name_en": "Despot Fossil display"
+      "name_en": "Despot Fossil display",
+      "name_jp": "ぼうくんのカセキ展示台"
     }
   },
   {
@@ -2164,7 +2367,8 @@
       "number": 200,
       "slug": "sail-fossil-display",
       "name_zh_hant": "鰭之化石展示臺",
-      "name_en": "Sail Fossil display"
+      "name_en": "Sail Fossil display",
+      "name_jp": "ヒレのカセキ展示台"
     }
   },
   {
@@ -2174,7 +2378,8 @@
       "number": 201,
       "slug": "tundra-fossil-display",
       "name_zh_hant": "凍原化石展示臺",
-      "name_en": "Tundra Fossil display"
+      "name_en": "Tundra Fossil display",
+      "name_jp": "ツンドラのカセキ展示台"
     }
   },
   {
@@ -2184,7 +2389,8 @@
       "number": 202,
       "slug": "boundless-blue-beverage",
       "name_zh_hant": "勁爽清藍",
-      "name_en": "Boundless blue beverage"
+      "name_en": "Boundless blue beverage",
+      "name_jp": "はじけるブルー"
     }
   },
   {
@@ -2194,7 +2400,8 @@
       "number": 203,
       "slug": "electrifying-potatoes",
       "name_zh_hant": "麻麻薯餅",
-      "name_en": "Electrifying potatoes"
+      "name_en": "Electrifying potatoes",
+      "name_jp": "シビれるポテト"
     }
   },
   {
@@ -2204,7 +2411,8 @@
       "number": 204,
       "slug": "burning-hot-spice",
       "name_zh_hant": "辣到噴火",
-      "name_en": "Burning-hot spice"
+      "name_en": "Burning-hot spice",
+      "name_jp": "もえるほどスパイシー"
     }
   },
   {
@@ -2214,7 +2422,8 @@
       "number": 205,
       "slug": "elegant-daytime-treats",
       "name_zh_hant": "優雅的午後",
-      "name_en": "Elegant daytime treats"
+      "name_en": "Elegant daytime treats",
+      "name_jp": "エレガントな昼下がり"
     }
   },
   {
@@ -2224,7 +2433,8 @@
       "number": 206,
       "slug": "dark-chocolate-cookies",
       "name_zh_hant": "黑色滋味",
-      "name_en": "Dark-chocolate cookies"
+      "name_en": "Dark-chocolate cookies",
+      "name_jp": "ブラックな味わい"
     }
   },
   {
@@ -2234,7 +2444,8 @@
       "number": 207,
       "slug": "leafy-greens-sandwich",
       "name_zh_hant": "綠色三明治",
-      "name_en": "Leafy greens sandwich"
+      "name_en": "Leafy greens sandwich",
+      "name_jp": "緑のサンドイッチ"
     }
   },
   {
@@ -2244,7 +2455,8 @@
       "number": 208,
       "slug": "chilly-shaved-ice",
       "name_zh_hant": "冰涼刨冰",
-      "name_en": "Chilly shaved ice"
+      "name_en": "Chilly shaved ice",
+      "name_jp": "ヒンヤリかき氷"
     }
   },
   {
@@ -2254,31 +2466,52 @@
       "number": 209,
       "slug": "lovely-ribbon-cake",
       "name_zh_hant": "可愛的蛋糕",
-      "name_en": "Lovely ribbon cake"
+      "name_en": "Lovely ribbon cake",
+      "name_jp": "ラブリーなケーキ"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "黃色絨毯"
+      "is_event": true,
+      "number": 1,
+      "slug": "yellow-carpet",
+      "name_zh_hant": "黃色絨毯",
+      "name_en": "Yellow carpet",
+      "name_jp": "黄色のじゅうたん"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "遠足必備"
+      "is_event": true,
+      "number": 2,
+      "slug": "field-trip-friends",
+      "name_zh_hant": "遠足必備",
+      "name_en": "Field-trip friends",
+      "name_jp": "遠足のおとも"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "和蒲公英一起午餐"
+      "is_event": true,
+      "number": 3,
+      "slug": "dandelion-lunchtime",
+      "name_zh_hant": "和蒲公英一起午餐",
+      "name_en": "Dandelion lunchtime",
+      "name_jp": "タンポポとお昼ご飯"
     }
   },
   {
     "model": "pokopia.habitat",
     "fields": {
-      "name": "尋寶套組"
+      "is_event": true,
+      "number": 4,
+      "slug": "treasure-hunting-set",
+      "name_zh_hant": "尋寶套組",
+      "name_en": "Treasure-hunting set",
+      "name_jp": "宝さがしセット"
     }
   },
   {
