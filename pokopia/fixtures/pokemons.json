@@ -39,7 +39,9 @@
         ]
       ],
       "specialties": [
-        "grow"
+        [
+          "grow"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -106,7 +108,9 @@
         ]
       ],
       "specialties": [
-        "grow"
+        [
+          "grow"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -173,8 +177,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "litter"
+        [
+          "grow"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -235,7 +243,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -296,7 +306,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -363,8 +375,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "fly"
+        [
+          "burn"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -428,7 +444,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -489,7 +507,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -553,8 +573,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "trade"
+        [
+          "water"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -621,8 +645,12 @@
         ]
       ],
       "specialties": [
-        "fly",
-        "search"
+        [
+          "fly"
+        ],
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -689,8 +717,12 @@
         ]
       ],
       "specialties": [
-        "fly",
-        "search"
+        [
+          "fly"
+        ],
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -754,8 +786,12 @@
         ]
       ],
       "specialties": [
-        "fly",
-        "chop"
+        [
+          "fly"
+        ],
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -819,7 +855,9 @@
         ]
       ],
       "specialties": [
-        "grow"
+        [
+          "grow"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -883,7 +921,9 @@
         ]
       ],
       "specialties": [
-        "grow"
+        [
+          "grow"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -947,8 +987,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "litter"
+        [
+          "grow"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -1009,8 +1053,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "hype"
+        [
+          "grow"
+        ],
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -1077,7 +1125,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -1144,7 +1194,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -1211,7 +1263,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -1278,7 +1332,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -1342,8 +1398,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "litter"
+        [
+          "grow"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -1410,8 +1470,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "litter"
+        [
+          "grow"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -1478,8 +1542,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "chop"
+        [
+          "grow"
+        ],
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -1543,8 +1611,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "yawn"
+        [
+          "water"
+        ],
+        [
+          "yawn"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -1614,8 +1686,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "trade"
+        [
+          "water"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -1685,8 +1761,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "teleport"
+        [
+          "water"
+        ],
+        [
+          "teleport"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -1750,7 +1830,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -1817,7 +1899,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -1884,8 +1968,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "recycle"
+        [
+          "generate"
+        ],
+        [
+          "recycle"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -1949,8 +2037,12 @@
         ]
       ],
       "specialties": [
-        "crush",
-        "bulldoze"
+        [
+          "crush"
+        ],
+        [
+          "bulldoze"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -2014,8 +2106,12 @@
         ]
       ],
       "specialties": [
-        "crush",
-        "bulldoze"
+        [
+          "crush"
+        ],
+        [
+          "bulldoze"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -2076,7 +2172,9 @@
         ]
       ],
       "specialties": [
-        "build"
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -2137,7 +2235,9 @@
         ]
       ],
       "specialties": [
-        "build"
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -2198,7 +2298,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -2259,7 +2361,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -2320,7 +2424,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -2381,7 +2487,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -2442,7 +2550,9 @@
         ]
       ],
       "specialties": [
-        "recycle"
+        [
+          "recycle"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -2506,7 +2616,9 @@
         ]
       ],
       "specialties": [
-        "recycle"
+        [
+          "recycle"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -2567,8 +2679,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "litter"
+        [
+          "grow"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -2629,7 +2745,9 @@
         ]
       ],
       "specialties": [
-        "appraise"
+        [
+          "appraise"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -2690,8 +2808,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "litter"
+        [
+          "grow"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -2755,7 +2877,9 @@
         ]
       ],
       "specialties": [
-        "chop"
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -2819,7 +2943,9 @@
         ]
       ],
       "specialties": [
-        "chop"
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -2880,8 +3006,12 @@
         ]
       ],
       "specialties": [
-        "chop",
-        "build"
+        [
+          "chop"
+        ],
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -2942,7 +3072,9 @@
         ]
       ],
       "specialties": [
-        "unknown"
+        [
+          "unknown"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -3006,7 +3138,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -3067,7 +3201,9 @@
         ]
       ],
       "specialties": [
-        "transform"
+        [
+          "transform"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [],
@@ -3121,8 +3257,12 @@
         ]
       ],
       "specialties": [
-        "trade",
-        "fly"
+        [
+          "trade"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -3189,8 +3329,12 @@
         ]
       ],
       "specialties": [
-        "trade",
-        "fly"
+        [
+          "trade"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -3254,8 +3398,12 @@
         ]
       ],
       "specialties": [
-        "chop",
-        "build"
+        [
+          "chop"
+        ],
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -3316,7 +3464,9 @@
         ]
       ],
       "specialties": [
-        "hype"
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -3377,7 +3527,9 @@
         ]
       ],
       "specialties": [
-        "hype"
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -3438,7 +3590,9 @@
         ]
       ],
       "specialties": [
-        "storage"
+        [
+          "storage"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -3499,7 +3653,9 @@
         ]
       ],
       "specialties": [
-        "storage"
+        [
+          "storage"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -3560,7 +3716,9 @@
         ]
       ],
       "specialties": [
-        "grow"
+        [
+          "grow"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -3624,8 +3782,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "litter"
+        [
+          "grow"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -3689,7 +3851,9 @@
         ]
       ],
       "specialties": [
-        "litter"
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -3753,8 +3917,12 @@
         ]
       ],
       "specialties": [
-        "gather_honey",
-        "search"
+        [
+          "gather_honey"
+        ],
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -3815,7 +3983,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -3876,7 +4046,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -3940,8 +4112,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "trade"
+        [
+          "water"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -4005,8 +4181,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "trade"
+        [
+          "water"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -4076,7 +4256,9 @@
         ]
       ],
       "specialties": [
-        "dream_island"
+        [
+          "dream_island"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -4140,8 +4322,12 @@
         ]
       ],
       "specialties": [
-        "fly",
-        "gather"
+        [
+          "fly"
+        ],
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -4202,7 +4388,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -4266,8 +4454,12 @@
         ]
       ],
       "specialties": [
-        "search",
-        "chop"
+        [
+          "search"
+        ],
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -4328,7 +4520,9 @@
         ]
       ],
       "specialties": [
-        "build"
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -4392,7 +4586,9 @@
         ]
       ],
       "specialties": [
-        "build"
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -4453,8 +4649,12 @@
         ]
       ],
       "specialties": [
-        "build",
-        "crush"
+        [
+          "build"
+        ],
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -4521,7 +4721,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -4588,7 +4790,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -4652,7 +4856,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -4716,7 +4922,9 @@
         ]
       ],
       "specialties": [
-        "chop"
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -4780,7 +4988,9 @@
         ]
       ],
       "specialties": [
-        "chop"
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -4844,8 +5054,12 @@
         ]
       ],
       "specialties": [
-        "chop",
-        "litter"
+        [
+          "chop"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -4909,7 +5123,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -4970,7 +5186,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -5031,8 +5249,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "trade"
+        [
+          "water"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -5096,8 +5318,12 @@
         ]
       ],
       "specialties": [
-        "fly",
-        "water"
+        [
+          "fly"
+        ],
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -5158,7 +5384,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -5219,7 +5447,9 @@
         ]
       ],
       "specialties": [
-        "illuminate"
+        [
+          "illuminate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -5280,7 +5510,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -5341,8 +5573,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "hype"
+        [
+          "generate"
+        ],
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -5409,7 +5645,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -5473,7 +5711,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -5540,8 +5780,12 @@
         ]
       ],
       "specialties": [
-        "search",
-        "chop"
+        [
+          "search"
+        ],
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -5605,7 +5849,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "cool",
       "favorites": [
@@ -5666,8 +5912,12 @@
         ]
       ],
       "specialties": [
-        "trade",
-        "search"
+        [
+          "trade"
+        ],
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "cool",
       "favorites": [
@@ -5728,7 +5978,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -5789,7 +6041,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -5853,8 +6107,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "search"
+        [
+          "burn"
+        ],
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -5918,8 +6176,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "search"
+        [
+          "burn"
+        ],
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -5983,8 +6245,12 @@
         ]
       ],
       "specialties": [
-        "chop",
-        "build"
+        [
+          "chop"
+        ],
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -6045,7 +6311,9 @@
         ]
       ],
       "specialties": [
-        "litter"
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -6106,7 +6374,9 @@
         ]
       ],
       "specialties": [
-        "litter"
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -6170,8 +6440,12 @@
         ]
       ],
       "specialties": [
-        "gather",
-        "trade"
+        [
+          "gather"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -6238,8 +6512,12 @@
         ]
       ],
       "specialties": [
-        "gather",
-        "trade"
+        [
+          "gather"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -6303,8 +6581,12 @@
         ]
       ],
       "specialties": [
-        "gather",
-        "trade"
+        [
+          "gather"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -6368,8 +6650,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "explode"
+        [
+          "generate"
+        ],
+        [
+          "explode"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -6433,8 +6719,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "explode"
+        [
+          "generate"
+        ],
+        [
+          "explode"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -6501,8 +6791,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "teleport"
+        [
+          "grow"
+        ],
+        [
+          "teleport"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -6569,8 +6863,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "teleport"
+        [
+          "grow"
+        ],
+        [
+          "teleport"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -6634,7 +6932,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -6695,7 +6995,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -6756,8 +7058,12 @@
         ]
       ],
       "specialties": [
-        "trade",
-        "litter"
+        [
+          "trade"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -6818,7 +7124,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -6882,7 +7190,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -6946,8 +7256,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "crush"
+        [
+          "generate"
+        ],
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -7011,7 +7325,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -7075,7 +7391,9 @@
         ]
       ],
       "specialties": [
-        "bulldoze"
+        [
+          "bulldoze"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -7136,7 +7454,9 @@
         ]
       ],
       "specialties": [
-        "eat"
+        [
+          "eat"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -7200,8 +7520,12 @@
         ]
       ],
       "specialties": [
-        "trade",
-        "bulldoze"
+        [
+          "trade"
+        ],
+        [
+          "bulldoze"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -7265,7 +7589,9 @@
         ]
       ],
       "specialties": [
-        "litter"
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -7329,7 +7655,9 @@
         ]
       ],
       "specialties": [
-        "litter"
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -7393,8 +7721,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "litter"
+        [
+          "generate"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -7458,8 +7790,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "litter"
+        [
+          "generate"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -7520,8 +7856,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "trade"
+        [
+          "generate"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -7588,8 +7928,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "hype"
+        [
+          "water"
+        ],
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -7656,8 +8000,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "hype"
+        [
+          "water"
+        ],
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -7721,8 +8069,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "build"
+        [
+          "water"
+        ],
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -7786,7 +8138,9 @@
         ]
       ],
       "specialties": [
-        "litter"
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -7853,8 +8207,12 @@
         ]
       ],
       "specialties": [
-        "litter",
-        "bulldoze"
+        [
+          "litter"
+        ],
+        [
+          "bulldoze"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -7915,7 +8273,9 @@
         ]
       ],
       "specialties": [
-        "paint"
+        [
+          "paint"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -7979,7 +8339,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -8046,8 +8408,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "build"
+        [
+          "burn"
+        ],
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -8114,8 +8480,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "build"
+        [
+          "burn"
+        ],
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -8182,8 +8552,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "fly"
+        [
+          "water"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -8250,8 +8624,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "fly"
+        [
+          "water"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -8315,8 +8693,12 @@
         ]
       ],
       "specialties": [
-        "build",
-        "bulldoze"
+        [
+          "build"
+        ],
+        [
+          "bulldoze"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -8380,8 +8762,12 @@
         ]
       ],
       "specialties": [
-        "build",
-        "bulldoze"
+        [
+          "build"
+        ],
+        [
+          "bulldoze"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -8442,7 +8828,9 @@
         ]
       ],
       "specialties": [
-        "chop"
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -8503,7 +8891,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -8567,8 +8957,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "trade"
+        [
+          "water"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -8635,8 +9029,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "trade"
+        [
+          "water"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -8697,7 +9095,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -8758,7 +9158,9 @@
         ]
       ],
       "specialties": [
-        "recycle"
+        [
+          "recycle"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -8819,8 +9221,12 @@
         ]
       ],
       "specialties": [
-        "recycle",
-        "litter"
+        [
+          "recycle"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -8881,7 +9287,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -8945,8 +9353,12 @@
         ]
       ],
       "specialties": [
-        "trade",
-        "chop"
+        [
+          "trade"
+        ],
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -9010,7 +9422,9 @@
         ]
       ],
       "specialties": [
-        "gather"
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -9071,8 +9485,12 @@
         ]
       ],
       "specialties": [
-        "gather",
-        "recycle"
+        [
+          "gather"
+        ],
+        [
+          "recycle"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -9136,7 +9554,9 @@
         ]
       ],
       "specialties": [
-        "chop"
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -9200,8 +9620,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "chop"
+        [
+          "generate"
+        ],
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -9265,8 +9689,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "chop"
+        [
+          "generate"
+        ],
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -9330,7 +9758,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -9394,7 +9824,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -9461,8 +9893,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "crush"
+        [
+          "generate"
+        ],
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -9526,8 +9962,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "crush"
+        [
+          "generate"
+        ],
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -9591,7 +10031,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -9655,7 +10097,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -9719,7 +10163,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -9780,7 +10226,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -9841,7 +10289,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -9902,7 +10352,9 @@
         ]
       ],
       "specialties": [
-        "hype"
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -9966,7 +10418,9 @@
         ]
       ],
       "specialties": [
-        "hype"
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -10030,8 +10484,12 @@
         ]
       ],
       "specialties": [
-        "hype",
-        "trade"
+        [
+          "hype"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -10095,7 +10553,9 @@
         ]
       ],
       "specialties": [
-        "hype"
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -10162,7 +10622,9 @@
         ]
       ],
       "specialties": [
-        "hype"
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -10226,8 +10688,12 @@
         ]
       ],
       "specialties": [
-        "hype",
-        "trade"
+        [
+          "hype"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -10291,7 +10757,9 @@
         ]
       ],
       "specialties": [
-        "hype"
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -10355,8 +10823,12 @@
         ]
       ],
       "specialties": [
-        "hype",
-        "crush"
+        [
+          "hype"
+        ],
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -10417,8 +10889,12 @@
         ]
       ],
       "specialties": [
-        "build",
-        "gather"
+        [
+          "build"
+        ],
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -10482,8 +10958,12 @@
         ]
       ],
       "specialties": [
-        "build",
-        "gather"
+        [
+          "build"
+        ],
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -10547,8 +11027,12 @@
         ]
       ],
       "specialties": [
-        "build",
-        "gather"
+        [
+          "build"
+        ],
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -10612,7 +11096,9 @@
         ]
       ],
       "specialties": [
-        "crush"
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -10676,7 +11162,9 @@
         ]
       ],
       "specialties": [
-        "crush"
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -10740,8 +11228,12 @@
         ]
       ],
       "specialties": [
-        "crush",
-        "trade"
+        [
+          "crush"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -10802,7 +11294,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -10863,7 +11357,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -10924,8 +11420,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "crush"
+        [
+          "burn"
+        ],
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -10986,7 +11486,9 @@
         ]
       ],
       "specialties": [
-        "bulldoze"
+        [
+          "bulldoze"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -11050,7 +11552,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -11117,8 +11621,12 @@
         ]
       ],
       "specialties": [
-        "trade",
-        "fly"
+        [
+          "trade"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -11185,8 +11693,12 @@
         ]
       ],
       "specialties": [
-        "trade",
-        "fly"
+        [
+          "trade"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -11250,8 +11762,12 @@
         ]
       ],
       "specialties": [
-        "crush",
-        "bulldoze"
+        [
+          "crush"
+        ],
+        [
+          "bulldoze"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -11315,8 +11831,12 @@
         ]
       ],
       "specialties": [
-        "crush",
-        "bulldoze"
+        [
+          "crush"
+        ],
+        [
+          "bulldoze"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -11383,8 +11903,12 @@
         ]
       ],
       "specialties": [
-        "crush",
-        "bulldoze"
+        [
+          "crush"
+        ],
+        [
+          "bulldoze"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -11454,7 +11978,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -11521,7 +12047,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -11585,8 +12113,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "hype"
+        [
+          "water"
+        ],
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -11650,8 +12182,12 @@
         ]
       ],
       "specialties": [
-        "trade",
-        "build"
+        [
+          "trade"
+        ],
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -11712,7 +12248,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -11776,7 +12314,9 @@
         ]
       ],
       "specialties": [
-        "hype"
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -11840,7 +12380,9 @@
         ]
       ],
       "specialties": [
-        "hype"
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -11907,8 +12449,12 @@
         ]
       ],
       "specialties": [
-        "hype",
-        "fly"
+        [
+          "hype"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -11972,7 +12518,9 @@
         ]
       ],
       "specialties": [
-        "build"
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -12036,7 +12584,9 @@
         ]
       ],
       "specialties": [
-        "build"
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -12100,7 +12650,9 @@
         ]
       ],
       "specialties": [
-        "dj"
+        [
+          "dj"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -12164,8 +12716,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "litter"
+        [
+          "burn"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -12232,8 +12788,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "litter"
+        [
+          "burn"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -12297,7 +12857,9 @@
         ]
       ],
       "specialties": [
-        "grow"
+        [
+          "grow"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -12361,8 +12923,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "chop"
+        [
+          "grow"
+        ],
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -12429,8 +12995,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "chop"
+        [
+          "grow"
+        ],
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -12491,7 +13061,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -12555,7 +13127,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -12619,8 +13193,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "hype"
+        [
+          "burn"
+        ],
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -12681,8 +13259,12 @@
         ]
       ],
       "specialties": [
-        "search",
-        "hype"
+        [
+          "search"
+        ],
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -12743,7 +13325,9 @@
         ]
       ],
       "specialties": [
-        "party"
+        [
+          "party"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -12804,8 +13388,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "gather"
+        [
+          "burn"
+        ],
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -12869,8 +13457,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "gather"
+        [
+          "burn"
+        ],
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -12937,8 +13529,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "gather"
+        [
+          "burn"
+        ],
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -13002,7 +13598,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -13066,8 +13664,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "hype"
+        [
+          "generate"
+        ],
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -13131,8 +13733,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "hype"
+        [
+          "generate"
+        ],
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -13196,7 +13802,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -13260,8 +13868,12 @@
         ]
       ],
       "specialties": [
-        "search",
-        "trade"
+        [
+          "search"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -13322,7 +13934,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -13386,8 +14000,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "trade"
+        [
+          "burn"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -13451,8 +14069,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "trade"
+        [
+          "burn"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -13519,7 +14141,9 @@
         ]
       ],
       "specialties": [
-        "litter"
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -13586,7 +14210,9 @@
         ]
       ],
       "specialties": [
-        "litter"
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -13647,7 +14273,9 @@
         ]
       ],
       "specialties": [
-        "collect"
+        [
+          "collect"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -13711,7 +14339,9 @@
         ]
       ],
       "specialties": [
-        "collect"
+        [
+          "collect"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -13772,7 +14402,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -13836,7 +14468,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -13897,7 +14531,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -13958,7 +14594,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -14025,8 +14663,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "build"
+        [
+          "water"
+        ],
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -14093,8 +14735,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "hype"
+        [
+          "water"
+        ],
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -14158,7 +14804,9 @@
         ]
       ],
       "specialties": [
-        "teleport"
+        [
+          "teleport"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -14219,7 +14867,9 @@
         ]
       ],
       "specialties": [
-        "teleport"
+        [
+          "teleport"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -14283,8 +14933,12 @@
         ]
       ],
       "specialties": [
-        "teleport",
-        "trade"
+        [
+          "teleport"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -14351,7 +15005,9 @@
         ]
       ],
       "specialties": [
-        "gather"
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -14415,8 +15071,12 @@
         ]
       ],
       "specialties": [
-        "gather",
-        "build"
+        [
+          "gather"
+        ],
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -14477,7 +15137,9 @@
         ]
       ],
       "specialties": [
-        "recycle"
+        [
+          "recycle"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -14538,7 +15200,9 @@
         ]
       ],
       "specialties": [
-        "recycle"
+        [
+          "recycle"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -14599,7 +15263,9 @@
         ]
       ],
       "specialties": [
-        "rarify"
+        [
+          "rarify"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -14663,7 +15329,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -14727,7 +15395,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -14791,8 +15461,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "fly"
+        [
+          "water"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -14853,7 +15527,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -14917,7 +15593,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -14981,8 +15659,12 @@
         ]
       ],
       "specialties": [
-        "burn",
-        "trade"
+        [
+          "burn"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -15046,7 +15728,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -15113,8 +15797,12 @@
         ]
       ],
       "specialties": [
-        "gather",
-        "trade"
+        [
+          "gather"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -15178,7 +15866,9 @@
         ]
       ],
       "specialties": [
-        "gather"
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -15242,8 +15932,12 @@
         ]
       ],
       "specialties": [
-        "gather",
-        "search"
+        [
+          "gather"
+        ],
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -15307,7 +16001,9 @@
         ]
       ],
       "specialties": [
-        "teleport"
+        [
+          "teleport"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -15374,7 +16070,9 @@
         ]
       ],
       "specialties": [
-        "teleport"
+        [
+          "teleport"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -15441,8 +16139,12 @@
         ]
       ],
       "specialties": [
-        "teleport",
-        "trade"
+        [
+          "teleport"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -15506,8 +16208,12 @@
         ]
       ],
       "specialties": [
-        "teleport",
-        "build"
+        [
+          "teleport"
+        ],
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -15568,7 +16274,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -15629,7 +16337,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -15690,8 +16400,12 @@
         ]
       ],
       "specialties": [
-        "bulldoze",
-        "litter"
+        [
+          "bulldoze"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -15755,8 +16469,12 @@
         ]
       ],
       "specialties": [
-        "bulldoze",
-        "fly"
+        [
+          "bulldoze"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -15820,8 +16538,12 @@
         ]
       ],
       "specialties": [
-        "bulldoze",
-        "fly"
+        [
+          "bulldoze"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -15885,7 +16607,9 @@
         ]
       ],
       "specialties": [
-        "litter"
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -15949,8 +16673,12 @@
         ]
       ],
       "specialties": [
-        "litter",
-        "fly"
+        [
+          "litter"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -16011,7 +16739,9 @@
         ]
       ],
       "specialties": [
-        "gather"
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -16072,7 +16802,9 @@
         ]
       ],
       "specialties": [
-        "gather"
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -16133,8 +16865,12 @@
         ]
       ],
       "specialties": [
-        "gather",
-        "trade"
+        [
+          "gather"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -16198,7 +16934,9 @@
         ]
       ],
       "specialties": [
-        "recycle"
+        [
+          "recycle"
+        ]
       ],
       "preferred_environment": "cool",
       "favorites": [
@@ -16262,7 +17000,9 @@
         ]
       ],
       "specialties": [
-        "recycle"
+        [
+          "recycle"
+        ]
       ],
       "preferred_environment": "cool",
       "favorites": [
@@ -16326,8 +17066,12 @@
         ]
       ],
       "specialties": [
-        "recycle",
-        "crush"
+        [
+          "recycle"
+        ],
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "cool",
       "favorites": [
@@ -16388,8 +17132,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "litter"
+        [
+          "grow"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -16450,8 +17198,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "litter"
+        [
+          "grow"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -16515,8 +17267,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "litter"
+        [
+          "grow"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -16577,7 +17333,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -16641,7 +17399,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -16708,8 +17468,12 @@
         ]
       ],
       "specialties": [
-        "water",
-        "chop"
+        [
+          "water"
+        ],
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -16773,7 +17537,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -16837,7 +17603,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -16901,8 +17669,12 @@
         ]
       ],
       "specialties": [
-        "search",
-        "fly"
+        [
+          "search"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -16963,7 +17735,9 @@
         ]
       ],
       "specialties": [
-        "chop"
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -17024,7 +17798,9 @@
         ]
       ],
       "specialties": [
-        "chop"
+        [
+          "chop"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -17091,8 +17867,12 @@
         ]
       ],
       "specialties": [
-        "chop",
-        "fly"
+        [
+          "chop"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -17156,8 +17936,12 @@
         ]
       ],
       "specialties": [
-        "gather",
-        "search"
+        [
+          "gather"
+        ],
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -17224,8 +18008,12 @@
         ]
       ],
       "specialties": [
-        "gather",
-        "search"
+        [
+          "gather"
+        ],
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -17289,8 +18077,12 @@
         ]
       ],
       "specialties": [
-        "gather",
-        "trade"
+        [
+          "gather"
+        ],
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -17354,7 +18146,9 @@
         ]
       ],
       "specialties": [
-        "grow"
+        [
+          "grow"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -17415,7 +18209,9 @@
         ]
       ],
       "specialties": [
-        "grow"
+        [
+          "grow"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -17479,8 +18275,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "hype"
+        [
+          "grow"
+        ],
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -17544,7 +18344,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -17608,8 +18410,12 @@
         ]
       ],
       "specialties": [
-        "generate",
-        "fly"
+        [
+          "generate"
+        ],
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -17676,7 +18482,9 @@
         ]
       ],
       "specialties": [
-        "build"
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -17743,7 +18551,9 @@
         ]
       ],
       "specialties": [
-        "build"
+        [
+          "build"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -17807,7 +18617,9 @@
         ]
       ],
       "specialties": [
-        "engineer"
+        [
+          "engineer"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -17871,7 +18683,9 @@
         ]
       ],
       "specialties": [
-        "fly"
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -17932,7 +18746,9 @@
         ]
       ],
       "specialties": [
-        "crush"
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -17993,8 +18809,12 @@
         ]
       ],
       "specialties": [
-        "crush",
-        "litter"
+        [
+          "crush"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -18058,7 +18878,9 @@
         ]
       ],
       "specialties": [
-        "crush"
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -18122,8 +18944,12 @@
         ]
       ],
       "specialties": [
-        "crush",
-        "litter"
+        [
+          "crush"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -18187,7 +19013,9 @@
         ]
       ],
       "specialties": [
-        "crush"
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -18251,8 +19079,12 @@
         ]
       ],
       "specialties": [
-        "crush",
-        "litter"
+        [
+          "crush"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "dry",
       "favorites": [
@@ -18316,7 +19148,9 @@
         ]
       ],
       "specialties": [
-        "crush"
+        [
+          "crush"
+        ]
       ],
       "preferred_environment": "cool",
       "favorites": [
@@ -18380,8 +19214,12 @@
         ]
       ],
       "specialties": [
-        "crush",
-        "litter"
+        [
+          "crush"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "cool",
       "favorites": [
@@ -18442,7 +19280,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -18503,7 +19343,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -18564,7 +19406,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -18625,7 +19469,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -18686,7 +19532,9 @@
         ]
       ],
       "specialties": [
-        "gather"
+        [
+          "gather"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -18747,7 +19595,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -18808,7 +19658,9 @@
         ]
       ],
       "specialties": [
-        "grow"
+        [
+          "grow"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -18869,7 +19721,9 @@
         ]
       ],
       "specialties": [
-        "trade"
+        [
+          "trade"
+        ]
       ],
       "preferred_environment": "cool",
       "favorites": [
@@ -18930,7 +19784,9 @@
         ]
       ],
       "specialties": [
-        "hype"
+        [
+          "hype"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -18991,7 +19847,9 @@
         ]
       ],
       "specialties": [
-        "unknown"
+        [
+          "unknown"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -19052,7 +19910,9 @@
         ]
       ],
       "specialties": [
-        "generate"
+        [
+          "generate"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -19113,7 +19973,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -19174,7 +20036,9 @@
         ]
       ],
       "specialties": [
-        "water"
+        [
+          "water"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -19238,7 +20102,9 @@
         ]
       ],
       "specialties": [
-        "burn"
+        [
+          "burn"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -19302,7 +20168,9 @@
         ]
       ],
       "specialties": [
-        "fly"
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "cool",
       "favorites": [
@@ -19366,7 +20234,9 @@
         ]
       ],
       "specialties": [
-        "fly"
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -19430,7 +20300,9 @@
         ]
       ],
       "specialties": [
-        "fly"
+        [
+          "fly"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -19494,7 +20366,9 @@
         ]
       ],
       "specialties": [
-        "unknown"
+        [
+          "unknown"
+        ]
       ],
       "preferred_environment": "humid",
       "favorites": [
@@ -19558,7 +20432,9 @@
         ]
       ],
       "specialties": [
-        "unknown"
+        [
+          "unknown"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -19619,7 +20495,9 @@
         ]
       ],
       "specialties": [
-        "teleport"
+        [
+          "teleport"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [
@@ -19680,7 +20558,9 @@
         ]
       ],
       "specialties": [
-        "teleport"
+        [
+          "teleport"
+        ]
       ],
       "preferred_environment": "warm",
       "favorites": [
@@ -19744,7 +20624,9 @@
         ]
       ],
       "specialties": [
-        "grow"
+        [
+          "grow"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -19811,7 +20693,9 @@
         ]
       ],
       "specialties": [
-        "grow"
+        [
+          "grow"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -19878,8 +20762,12 @@
         ]
       ],
       "specialties": [
-        "grow",
-        "litter"
+        [
+          "grow"
+        ],
+        [
+          "litter"
+        ]
       ],
       "preferred_environment": "bright",
       "favorites": [
@@ -19943,7 +20831,9 @@
         ]
       ],
       "specialties": [
-        "search"
+        [
+          "search"
+        ]
       ],
       "preferred_environment": "dark",
       "favorites": [

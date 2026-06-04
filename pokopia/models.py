@@ -59,6 +59,7 @@ from django.utils.translation import gettext_lazy as _
 
 
 class TimeOfDay(models.TextChoices):
+    """能遇見的時間"""
     DAWN = "dawn", _("dawn")  # 黎明
     DAYTIME = "daytime", _("daytime")  # 白天
     DUSK = "dusk", _("dusk")  # 黃昏
@@ -66,12 +67,14 @@ class TimeOfDay(models.TextChoices):
 
 
 class Weather(models.TextChoices):
+    """能遇見的天氣"""
     SUNNY = "sunny", _("sunny")  # 晴天
     CLOUDY = "cloudy", _("cloudy")  # 陰天
     RAINY = "rainy", _("rainy")  # 雨天
 
 
 class Environment(models.TextChoices):
+    """喜歡的環境"""
     BRIGHT = "bright", _("bright")  # 明亮
     DARK = "dark", _("dark")  # 昏暗
     HUMID = "humid", _("humid")  # 潮濕
@@ -81,6 +84,7 @@ class Environment(models.TextChoices):
 
 
 class Flavor(models.TextChoices):
+    """喜歡的口味"""
     SPICY = "spicy", _("spicy")  # 辣辣的
     DRY = "dry", _("dry")  # 澀澀的
     SWEET = "sweet", _("sweet")  # 甜甜的
@@ -92,18 +96,20 @@ class SlugNaturalKeyManager(models.Manager):
     def get_by_natural_key(self, slug):
         return self.get(slug=slug)
 
-class NameNaturalKeyManager(models.Manager):
-    def get_by_natural_key(self, name):
-        return self.get(name=name)
-
 
 class PokemonType(models.Model):
+    """寶可夢屬性"""
     slug = models.SlugField(max_length=50, unique=True, blank=True, null=True)
     name_zh_hant = models.CharField(max_length=50, unique=True, blank=True, null=True)
     name_en = models.CharField(max_length=50, unique=True, blank=True, null=True)
     name_jp = models.CharField(max_length=50, unique=True, blank=True, null=True)
 
     objects = SlugNaturalKeyManager()
+
+    class Meta:
+        ordering = ["name_zh_hant"]
+        verbose_name = _("pokemon_type")
+        verbose_name_plural = _("pokemon_types")
 
     def natural_key(self):
         return (self.slug,)
@@ -113,12 +119,18 @@ class PokemonType(models.Model):
 
 
 class Specialty(models.Model):
+    """寶可夢專長"""
     slug = models.SlugField(max_length=50, unique=True, blank=True, null=True)
     name_zh_hant = models.CharField(max_length=50, unique=True, blank=True, null=True)
     name_en = models.CharField(max_length=50, unique=True, blank=True, null=True)
     name_jp = models.CharField(max_length=50, unique=True, blank=True, null=True)
 
     objects = SlugNaturalKeyManager()
+
+    class Meta:
+        ordering = ["name_zh_hant"]
+        verbose_name = _("specialty")
+        verbose_name_plural = _("specialties")
 
     def natural_key(self):
         return (self.slug,)
@@ -127,10 +139,22 @@ class Specialty(models.Model):
         return self.name_zh_hant
 
 
+class NameNaturalKeyManager(models.Manager):
+    def get_by_natural_key(self, name):
+        return self.get(name=name)
+
+
 class Habitat(models.Model):
+    """寶可夢棲地"""
     name = models.CharField(max_length=100, unique=True, blank=True, null=True)
-    
+
     objects = NameNaturalKeyManager()
+
+    class Meta:
+        ordering = ["name"]
+        verbose_name = _("habitat")
+        verbose_name_plural = _("habitats")
+
     def natural_key(self):
         return (self.name,)
 
@@ -152,12 +176,18 @@ class Habitat(models.Model):
 
 
 class Favorite(models.Model):
+    """喜歡的東西"""
     slug = models.SlugField(max_length=100, unique=True, blank=True, null=True)
     name_zh_hant = models.CharField(max_length=100, unique=True, blank=True, null=True)
     name_en = models.CharField(max_length=100, unique=True, blank=True, null=True)
     name_jp = models.CharField(max_length=100, unique=True, blank=True, null=True)
 
     objects = SlugNaturalKeyManager()
+
+    class Meta:
+        ordering = ["name_zh_hant"]
+        verbose_name = _("favorite")
+        verbose_name_plural = _("favorites")
 
     def natural_key(self):
         return (self.slug,)
@@ -166,8 +196,8 @@ class Favorite(models.Model):
         return self.name_zh_hant
 
 
-# 寶可夢
 class Pokemon(models.Model):
+    """寶可夢"""
     slug = models.SlugField(
         max_length=200, unique=True, blank=True, null=True
     )
@@ -200,11 +230,17 @@ class Pokemon(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 
+    class Meta:
+        ordering = ["dex_number", "name_zh_hant"]
+        verbose_name = _("pokemon")
+        verbose_name_plural = _("pokemons")
+
     def __str__(self):
         return self.name_zh_hant
 
 
 class ItemCategory(models.TextChoices):
+    """物品分類"""
     FURNITURE = "furniture", _("furniture")  # 家具
     MISC = "misc", _("misc")  # 雜貨
     OUTDOOR = "outdoor", _("outdoor")  # 戶外
@@ -232,12 +268,13 @@ class ItemTag(models.TextChoices):
 
 
 class Item(models.Model):
+    """物品"""
     slug = models.SlugField(
         max_length=200, unique=True, blank=True, null=True
     )
-    category = models.CharField(
-        max_length=50, choices=ItemCategory.choices, default=ItemCategory.OTHER
-    )
+    category = models.CharField(_("category"),
+                                max_length=50, choices=ItemCategory.choices, default=ItemCategory.OTHER
+                                )
     name_zh_hant = models.CharField(_("name_zh_hant"), max_length=150, blank=True, default="")
     name_en = models.CharField(_("name_en"), max_length=150, blank=True, default="")
     name_jp = models.CharField(_("name_jp"), max_length=150, blank=True, default="")
@@ -251,6 +288,8 @@ class Item(models.Model):
 
     class Meta:
         ordering = ["category", "slug"]
+        verbose_name = _("item")
+        verbose_name_plural = _("items")
 
     def __str__(self):
         return self.name_zh_hant
